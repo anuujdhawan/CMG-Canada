@@ -1,0 +1,314 @@
+import { site } from "@/config/site";
+
+/**
+ * Navigation structure — Commonwealth Migration Canada.
+ *
+ * Utility bar: info@commonwealthmigration.ca · Client Login
+ * Main nav:     Home · Immigrate ▾ · Work, Study & Visit ▾ · Sponsor & Status ▾
+ *               · Refusals & Appeals (standalone) · For Employers ▾
+ *               · Tools ▾ · Resources ▾ · About ▾ · Contact ▾
+ *
+ * `header` drives the desktop navbar. Dropdowns follow the CMG "mega-menu"
+ * style (as used on cmg_web): grouped columns with category headers plus a
+ * featured gradient card. Tools+Resources and About+Contact are clubbed on
+ * desktop (per the PDF footer's own condensed Company column) to keep the
+ * bar calm; `main` drives the mobile accordions with the full structure,
+ * `footer` the footer columns.
+ */
+
+const immigrateColumns = [
+  {
+    category: "Skilled & Express Entry",
+    items: [
+      { label: "Express Entry", desc: "FSW, CEC, FST & category draws", href: "/immigration/express-entry" },
+      { label: "Federal Skilled Worker (FSW)", desc: "For skilled workers outside Canada", href: "/immigration/fsw" },
+      { label: "Canadian Experience Class (CEC)", desc: "For workers already in Canada", href: "/immigration/cec" },
+      { label: "Provincial Nominees (PNP)", desc: "Compare all provinces & territories", href: "/immigration/pnp" },
+    ],
+  },
+  {
+    category: "Business & Other Pathways",
+    items: [
+      { label: "Atlantic Immigration Program (AIP)", desc: "Employer-driven pathway to Atlantic Canada", href: "/immigration/pnp" },
+      { label: "TR to PR Pathway", desc: "Temporary resident to permanent resident", href: "/immigration/tr-to-pr" },
+      { label: "Business & Start-up Visa", desc: "For entrepreneurs and business owners", href: "/immigration/startup-visa" },
+    ],
+  },
+];
+
+const workStudyColumns = [
+  {
+    category: "Work in Canada",
+    items: [
+      { label: "Work Permits", desc: "Employer-specific, LMIA & open permits", href: "/immigration/work-permit" },
+      { label: "PGWP", desc: "Post-graduation work permit", href: "/immigration/pgwp" },
+      { label: "Spousal Work Permit", desc: "Open permits for spouses & partners", href: "/immigration/spousal-work-permit" },
+      { label: "IEC (Working Holiday)", desc: "International Experience Canada", href: "/immigration/iec" },
+    ],
+  },
+  {
+    category: "Study & Visit",
+    items: [
+      { label: "Study Permits", desc: "Study at a Canadian DLI", href: "/immigration/study-permit" },
+      { label: "Visitor Visa, eTA & Super Visa", desc: "TRV, eTA & parent Super Visa", href: "/immigration/visitor-visa" },
+    ],
+  },
+];
+
+const sponsorColumns = [
+  {
+    category: "Family Sponsorship",
+    items: [
+      { label: "Spousal / Partner Sponsorship", desc: "Sponsor a spouse or common-law partner", href: "/immigration/spousal-sponsorship" },
+      { label: "Parents & Grandparents (PGP)", desc: "PGP lottery & Super Visa options", href: "/immigration/pgp" },
+      { label: "Family Sponsorship", desc: "Dependent children & other relatives", href: "/immigration/family-sponsorship" },
+    ],
+  },
+  {
+    category: "Status & Admissibility",
+    items: [
+      { label: "PR Card & Citizenship", desc: "Renewals, PRTD & naturalization", href: "/immigration/citizenship" },
+      { label: "Criminal Inadmissibility", desc: "TRP, rehabilitation & appeals", href: "/appeals/criminal-inadmissibility" },
+    ],
+  },
+];
+
+const refusalColumns = [
+  {
+    category: "Time-Critical Help",
+    items: [
+      { label: "Refusals & PFL Response", desc: "Visitor, study, work & sponsorship refusals", href: "/refusals" },
+      { label: "IAD Appeals", desc: "Appeals before the Immigration Appeal Division", href: "/refusals" },
+      { label: "Judicial Review", desc: "Federal Court leave & review", href: "/appeals/judicial-review" },
+    ],
+  },
+];
+
+const employerColumns = [
+  {
+    category: "Hire Global Talent",
+    items: [
+      { label: "LMIA (All Streams)", desc: "High-wage, low-wage & agri-food", href: "/for-employers/lmia" },
+      { label: "Global Talent Stream", desc: "Two-week processing for tech roles", href: "/for-employers/global-talent-stream" },
+      { label: "Employer Compliance", desc: "ESDC audits, inspections & obligations", href: "/for-employers/employer-compliance" },
+      { label: "Recruitment (HGT Division)", desc: "End-to-end global recruitment support", href: "/for-employers" },
+    ],
+  },
+];
+
+const toolsColumns = [
+  {
+    category: "Free Self-Service Tools",
+    items: [
+      { label: "CRS Calculator", desc: "Estimate your Express Entry score", href: "/tools/crs-calculator" },
+      { label: "PNP Eligibility Check", desc: "See which provincial streams fit", href: "/tools/pnp-eligibility" },
+      { label: "NOC / Occupation Finder", desc: "Match your job to a NOC code", href: "/tools/noc-finder" },
+    ],
+  },
+  {
+    category: "Plan & Prepare",
+    items: [
+      { label: "Document Checklist", desc: "Know exactly what to prepare", href: "/tools/document-checklist" },
+      { label: "Free Assessment", desc: "Find your best pathway — free", href: "/tools/free-assessment" },
+    ],
+  },
+];
+
+const resourcesColumns = [
+  {
+    category: "Learn & Prepare",
+    items: [
+      { label: "Blog", desc: "Expert guides by licensed RCICs", href: "/blog" },
+      { label: "FAQs", desc: "Common immigration questions", href: "/faqs" },
+      { label: "Guides", desc: "Document checklists & guides", href: "/resources/document-checklist" },
+      { label: "Immigration Draws", desc: "Live Express Entry & PNP results", href: "/draw-results" },
+    ],
+  },
+];
+
+const aboutColumns = [
+  {
+    category: "Our Firm",
+    items: [
+      { label: "About Us", desc: "Licensed RCICs since day one", href: "/about-us" },
+      { label: "Our Team", desc: "Meet the consultants", href: "/team" },
+      { label: "How It Works", desc: "From assessment to approval", href: "/how-it-works" },
+      { label: "Our Office", desc: "Brampton, Ontario — Canada-wide", href: "/contact-us" },
+    ],
+  },
+];
+
+const contactColumns = [
+  {
+    category: "Get in Touch",
+    items: [
+      { label: "Book Consultation", desc: "Choose a time that suits you", href: "/book" },
+      { label: "Book Urgent Consultation", desc: "Refusal? Don't wait", href: "/book", urgent: true },
+      { label: "Make Payment", desc: "Secure online payment", href: site.ctas.payment.href },
+      { label: "Client Login", desc: "Track your case 24/7", href: site.ctas.login.href, external: true },
+    ],
+  },
+];
+
+/* ── Clubbed desktop groups (keeps every link; fewer, calmer top-level items) ──
+   Mirrors the footer's own condensed columns (Company = About + Contact).
+   The mobile menu below retains the full un-clubbed PDF structure. */
+const toolsResourcesColumns = [toolsColumns[0], resourcesColumns[0]];
+const companyColumns = [aboutColumns[0], contactColumns[0]];
+
+/* Flat link lists (used by the mobile accordions) */
+const immigrateLinks = immigrateColumns.flatMap((c) => c.items);
+const workStudyLinks = workStudyColumns.flatMap((c) => c.items);
+const sponsorLinks = sponsorColumns.flatMap((c) => c.items);
+const refusalLinks = refusalColumns.flatMap((c) => c.items);
+const employerLinks = employerColumns.flatMap((c) => c.items);
+const toolsLinks = toolsColumns.flatMap((c) => c.items);
+const resourcesLinks = resourcesColumns.flatMap((c) => c.items);
+const aboutLinks = aboutColumns.flatMap((c) => c.items);
+const contactLinks = contactColumns.flatMap((c) => c.items);
+
+export const navigation = {
+  // Utility strip above the main nav (per the menu-structure PDF).
+  // Utility bar per the menu-structure PDF: email + Client Login only.
+  utility: {
+    email: site.email,
+    login: { label: "Client Login", href: site.ctas.login.href },
+  },
+
+  // Desktop navbar — dropdowns on every section item, Refusals & Appeals
+  // kept as a standalone (urgent) top-level link.
+  header: [
+    { label: "Home", href: "/" },
+    {
+      label: "Immigrate",
+      href: "/immigration",
+      columns: immigrateColumns,
+      featured: {
+        label: "Most Popular",
+        title: "Express Entry",
+        desc: "The main points-based pathway for skilled workers — FSW, CEC and FST under one system.",
+        href: "/immigration/express-entry",
+      },
+    },
+    {
+      label: "Work, Study & Visit",
+      shortLabel: "Work & Study",
+      href: "/work-study",
+      columns: workStudyColumns,
+      featured: {
+        label: "Career Pathway",
+        title: "Study → Work → PR",
+        desc: "From a study permit to a PGWP and permanent residence — one team, end to end.",
+        href: "/immigration/study-permit",
+      },
+    },
+    {
+      label: "Sponsor & Status",
+      shortLabel: "Sponsorship",
+      href: "/immigration/family-sponsorship",
+      columns: sponsorColumns,
+      featured: {
+        label: "Most Common",
+        title: "Spousal Sponsorship",
+        desc: "Reunite with your spouse or common-law partner — inland or overseas.",
+        href: "/immigration/spousal-sponsorship",
+      },
+    },
+    {
+      label: "Refusals & Appeals",
+      shortLabel: "Refusals",
+      href: "/refusals",
+      standalone: true,
+      columns: refusalColumns,
+      featured: {
+        label: "Time-Critical",
+        title: "Refused? Don't give up.",
+        desc: "We assess merits, respond to PFLs and appeal within statutory windows.",
+        href: "/refusals",
+      },
+    },
+    {
+      label: "For Employers",
+      shortLabel: "Employers",
+      href: "/for-employers",
+      columns: employerColumns,
+      featured: {
+        label: "HGT Division",
+        title: "LMIA Support",
+        desc: "High- & low-wage LMIA, Global Talent Stream and ESDC compliance.",
+        href: "/for-employers/lmia",
+      },
+    },
+    {
+      label: "Tools & Resources",
+      shortLabel: "Tools",
+      href: "/tools",
+      columns: toolsResourcesColumns,
+      featured: {
+        label: "Free Tool",
+        title: "CRS Calculator",
+        desc: "See your Express Entry score in under two minutes.",
+        href: "/tools/crs-calculator",
+      },
+    },
+    {
+      label: "Company",
+      href: "/about-us",
+      columns: companyColumns,
+      featured: {
+        label: "Free First Step",
+        title: "Book a Consultation",
+        desc: "Speak with a licensed consultant about your goal — at no cost.",
+        href: "/book",
+      },
+    },
+  ],
+
+  // Full tree for the mobile accordions.
+  main: [
+    { label: "Immigrate", href: "/immigration", description: "Permanent-residence pathways for skilled workers and entrepreneurs.", children: immigrateLinks },
+    { label: "Work, Study & Visit", href: "/work-study", description: "Temporary status for work, study and visiting Canada.", children: workStudyLinks },
+    { label: "Sponsor & Status", href: "/immigration/family-sponsorship", description: "Family reunification and status maintenance.", children: sponsorLinks },
+    { label: "Refusals & Appeals", href: "/refusals", description: "Time-critical help after a refusal or procedural fairness letter.", urgent: true, children: refusalLinks },
+    { label: "For Employers", href: "/for-employers", description: "Hire and retain global talent compliantly.", children: employerLinks },
+    { label: "Tools", href: "/tools", description: "Free self-service immigration tools.", children: toolsLinks },
+    { label: "Resources", href: "/resources", description: "Guides, blog posts and live immigration updates.", children: resourcesLinks },
+    { label: "About", href: "/about-us", description: "Who we are and how we work.", children: aboutLinks },
+    { label: "Contact", href: "/contact-us", description: "Speak with a consultant or manage your case.", children: contactLinks },
+  ],
+
+  // Footer columns (condensed, mirroring the main nav per the PDF).
+  footer: [
+    { title: "Immigrate", links: [
+      { label: "Express Entry", href: "/immigration/express-entry" },
+      { label: "Provincial Nominees (PNP)", href: "/immigration/pnp" },
+      { label: "Atlantic Immigration Program", href: "/immigration/pnp" },
+      { label: "Business Immigration", href: "/immigration/startup-visa" },
+    ] },
+    { title: "Work & Study", links: [
+      { label: "Work Permits", href: "/immigration/work-permit" },
+      { label: "Study Permits", href: "/immigration/study-permit" },
+      { label: "Visitor Visa & Super Visa", href: "/immigration/visitor-visa" },
+      { label: "PGWP", href: "/immigration/pgwp" },
+    ] },
+    { title: "Employers", links: [
+      { label: "LMIA (All Streams)", href: "/for-employers/lmia" },
+      { label: "Global Talent Stream", href: "/for-employers/global-talent-stream" },
+      { label: "Employer Compliance", href: "/for-employers/employer-compliance" },
+      { label: "Recruitment (HGT)", href: "/for-employers" },
+    ] },
+    { title: "Company", links: [
+      { label: "About Us", href: "/about-us" },
+      { label: "Our Team", href: "/team" },
+      { label: "How It Works", href: "/how-it-works" },
+      { label: "Our Office", href: "/contact-us" },
+    ] },
+    { title: "Contact", links: [
+      { label: "Book Consultation", href: "/book" },
+      { label: "Email Us", href: `mailto:${site.email}` },
+      { label: "Client Login", href: site.ctas.login.href },
+    ] },
+  ],
+};
+
+export default navigation;
