@@ -19,10 +19,10 @@ const RULES = [
     match: /^\/$/,
     images: [
       IMG("toronto-skyline", "Toronto skyline with the CN Tower at sunset", "Canada's largest city — home to our Brampton office and GTA clients"),
-      IMG("canada-flag", "Canadian flag flying against a clear sky", "Welcome to Canada — a country built by newcomers"),
+      IMG("canada-flag", "Canadian flag flying in front of Parliament Hill", "Welcome to Canada — a country built by newcomers"),
       IMG("office-meeting", "Consultants reviewing an immigration file with a client", "Every file is handled end-to-end by a licensed RCIC"),
       IMG("students", "International students walking across a university campus", "From study permits to PGWP to permanent residence"),
-      IMG("family", "A family together in a bright home", "Family reunification is at the heart of Canadian immigration"),
+      IMG("family", "Family spending time together at home", "Family reunification is at the heart of Canadian immigration"),
       IMG("calculator", "Estimating an Express Entry CRS score", "Free tools to see where your profile stands"),
     ],
   },
@@ -48,13 +48,13 @@ const RULES = [
     images: [
       IMG("vancouver-harbour", "Vancouver harbour and skyline", "Each province and territory runs its own PNP"),
       IMG("city-street", "A Canadian city street in summer", "Choose the province that fits your goals"),
-      IMG("mountain-nature", "Canadian Rockies landscape", "From BC to Atlantic Canada — provincial pathways"),
+      IMG("rockies-lake", "Canadian Rockies lake and mountain landscape", "From BC to Atlantic Canada — provincial pathways"),
     ],
   },
   {
     match: /^\/immigration\/(study-permit|student|pgwp)/,
     images: [
-      IMG("university-campus", "Historic university campus building", "Study at a Canadian Designated Learning Institution"),
+      IMG("university-campus", "University of British Columbia campus building", "Study at a Canadian Designated Learning Institution"),
       IMG("students", "Students on campus between classes", "From study permit to PGWP to permanent residence"),
       IMG("graduation", "Graduates celebrating in caps and gowns", "Graduate, work and stay — your Canadian journey"),
     ],
@@ -62,7 +62,7 @@ const RULES = [
   {
     match: /^\/immigration\/(visitor|visa|super)/,
     images: [
-      IMG("travel-passport", "Passport and travel documents on a desk", "Visitor visas, eTAs and Super Visas"),
+      IMG("travel-passport", "Passport and boarding pass ready for travel", "Visitor visas, eTAs and Super Visas"),
       IMG("airport", "Airplane wing above the clouds", "Plan your visit with confidence"),
       IMG("toronto-skyline", "Toronto skyline", "Family visits, business trips and more"),
     ],
@@ -70,15 +70,15 @@ const RULES = [
   {
     match: /^\/immigration\/(spousal|sponsor|family|pgp)/,
     images: [
-      IMG("family", "A family together", "Sponsor your spouse, partner, parents or children"),
+      IMG("family", "Family spending time together", "Sponsor your spouse, partner, parents or children"),
       IMG("couple", "A couple walking together", "Inland or overseas — spousal sponsorship done right"),
-      IMG("canada-flag", "Canadian flag", "Bring the people who matter most to Canada"),
+      IMG("canada-flag", "Canadian flag flying in front of Parliament Hill", "Bring the people who matter most to Canada"),
     ],
   },
   {
     match: /^\/immigration\/(citizenship|pr-card|status|restoration)/,
     images: [
-      IMG("canada-flag", "Canadian flag waving", "From permanent resident to Canadian citizen"),
+      IMG("canada-flag", "Canadian flag flying in front of Parliament Hill", "From permanent resident to Canadian citizen"),
       IMG("documents", "Citizenship and PR card documents", "Renewals, PRTDs and naturalization"),
       IMG("office-desk", "Neat office desk with paperwork", "Status matters — keep it current"),
     ],

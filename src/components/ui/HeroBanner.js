@@ -2,7 +2,7 @@
 
 import { useRef } from "react";
 import Link from "next/link";
-import { ArrowRight, ShieldCheck, Award, Clock } from "lucide-react";
+import { ArrowRight, Award, ChevronRight, Clock, ShieldCheck } from "lucide-react";
 import { motion, useScroll, useTransform, useReducedMotion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { HERO_GRADIENT, HERO_PADDING, HERO_TITLE_CLASS } from "@/lib/hero";
@@ -10,8 +10,8 @@ import MapleLeaves from "@/components/sections/MapleLeaves";
 import BigMapleLeaf from "@/components/sections/BigMapleLeaf";
 
 /**
- * Shared tool / transaction hero. Its shell, typography, actions and trust
- * markers intentionally mirror HeroBand so every route feels like one site.
+ * Shared hero used by content pages, tools, the client portal and the home
+ * route. Keep route-specific parsing outside this component.
  */
 
 const TRUST_BADGE_ICONS = [ShieldCheck, Award, Clock];
@@ -20,7 +20,8 @@ export default function HeroBanner({
   eyebrow,
   headline,
   subheadline,
-  height = "large",
+  leadContent,
+  breadcrumbs = [],
   className,
   ctaButtons = [],
   trustBadges = [],
@@ -38,9 +39,11 @@ export default function HeroBanner({
   return (
     <motion.section
       ref={ref}
-      className={cn("relative overflow-hidden", HERO_PADDING, className)}
+      aria-label="Page introduction"
+      className={cn("relative overflow-hidden text-white", HERO_PADDING, className)}
       style={{ background: HERO_GRADIENT, isolation: "isolate" }}
     >
+      <div aria-hidden className="pointer-events-none absolute inset-0 hero-tex-grid opacity-50" />
       <motion.div className="hero-light-orb hero-light-orb--left" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
       <motion.div className="hero-light-orb hero-light-orb--right" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
       <MapleLeaves />
@@ -54,6 +57,27 @@ export default function HeroBanner({
 
       <div className="hero-inner site-container relative z-10">
         <motion.div className="hero-copy w-full max-w-4xl" style={contentStyle}>
+          {breadcrumbs.length > 0 && (
+            <nav aria-label="Breadcrumb" className="mb-4">
+              <ol className="flex flex-wrap items-center gap-1.5 text-[12px] font-semibold text-white/65">
+                {breadcrumbs.map((crumb, index) => (
+                  <li key={`${crumb.href}-${crumb.label}`} className="flex items-center gap-1.5">
+                    {index > 0 && <ChevronRight aria-hidden className="h-3 w-3 text-white/35" />}
+                    {index === breadcrumbs.length - 1 ? (
+                      <span aria-current="page" className="text-white/90">
+                        {crumb.label}
+                      </span>
+                    ) : (
+                      <Link href={crumb.href} className="transition-colors hover:text-white">
+                        {crumb.label}
+                      </Link>
+                    )}
+                  </li>
+                ))}
+              </ol>
+            </nav>
+          )}
+
           <div className="hero-eyebrow">
             <span aria-hidden className="hero-eyebrow-line" />
             {eyebrow}
@@ -63,9 +87,9 @@ export default function HeroBanner({
             <h1 className={cn(HERO_TITLE_CLASS, "mb-5")}>{headline}</h1>
           </div>
 
-          {subheadline && (
-            <div className="mb-7 max-w-2xl">
-              <p className="text-sm leading-relaxed text-white/85 sm:text-base">{subheadline}</p>
+          {(leadContent || subheadline) && (
+            <div className="hero-lead mb-7 max-w-2xl">
+              {leadContent || <p className="text-sm leading-relaxed text-white/85 sm:text-base">{subheadline}</p>}
             </div>
           )}
 

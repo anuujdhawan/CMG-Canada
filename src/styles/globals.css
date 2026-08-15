@@ -1352,7 +1352,8 @@
 
 @media (min-width: 1024px) {
   .hero-shell {
-    min-height: 38rem;
+    /* One desktop height for home, content, tools and portal heroes. */
+    min-height: 46rem;
   }
 }
 

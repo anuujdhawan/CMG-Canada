@@ -14,7 +14,6 @@ import { HERO_TRUST_BADGES } from "@/lib/hero";
  *   title    — page headline (word-by-word reveal)
  *   lead     — optional subheadline
  *   children — optional extra content below the lead
- *   height   — "full" | "large" | "medium" | "compact" (default "large")
  *   ctas     — optional [{ label, href, variant }] buttons
  *   trustBadges — optional string[] chips
  */
@@ -24,7 +23,6 @@ export default function PageHeader({
   lead,
   children,
   className,
-  height = "large",
   ctas,
   trustBadges,
 }) {
@@ -33,7 +31,6 @@ export default function PageHeader({
       eyebrow={eyebrow || "Regulated Canadian Immigration Consultants"}
       headline={title}
       subheadline={lead || ""}
-      height={height}
       className={className}
       ctaButtons={
         ctas ||

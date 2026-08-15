@@ -49,10 +49,10 @@ const REGULATORY_BODIES = [
 function LinkColumn({ title, links }) {
   return (
     <nav aria-label={title}>
-      <p className="text-[11px] uppercase tracking-[0.2em] text-[#F5F2ED] font-bold mb-5">{title}</p>
+      <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.2em] text-[#F5F2ED]">{title}</p>
       <ul>
         {links.map((link) => (
-          <li key={link.href + link.label} className="mt-3">
+          <li key={link.href + link.label} className="mt-2">
             <Link href={link.href} className="text-sm text-[#F5F2ED]/85 hover:text-white transition-colors duration-180">
               {link.label}
             </Link>
@@ -70,14 +70,14 @@ export default function Footer() {
 
   return (
     <footer
-      className="pt-16 pb-8"
+      className="pt-10 pb-5"
       style={{
         background:
           "linear-gradient(160deg, var(--brand-navy) 0%, var(--brand-primary-dark) 50%, var(--brand-primary) 100%)",
       }}
     >
       <div className="max-w-7xl mx-auto px-5 md:px-8">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-[2fr_1fr_1fr_1fr_1fr] gap-10">
+        <div className="grid grid-cols-1 items-start gap-x-6 gap-y-6 sm:grid-cols-2 md:grid-cols-[minmax(0,2fr)_repeat(5,minmax(0,1fr))]">
           {/* Column 1: Brand */}
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-3">
@@ -86,26 +86,26 @@ export default function Footer() {
                 alt={site.name}
                 width={1912}
                 height={1140}
-                className="h-12 w-auto object-contain"
+                className="h-10 w-auto object-contain"
               />
             </div>
 
-            <p className="mt-4 text-sm font-medium text-[#F5F2ED]">
+            <p className="mt-2 text-sm font-medium text-[#F5F2ED]">
               Canada Immigration <strong className="font-bold">Simplified</strong>
             </p>
 
-            <p className="mt-3 text-[13px] text-[#F5F2ED]/85 leading-relaxed max-w-65">
+            <p className="mt-2 max-w-65 text-[12px] leading-[1.45] text-[#F5F2ED]/85">
               <strong className="font-semibold text-[#F5F2ED]">CICC-regulated licensed RCICs</strong> serving clients across
               Canada — Express Entry, every PNP stream, LMIA (HGT), work & study permits, family sponsorship, and refusals.
             </p>
 
-            <div className="mt-6 inline-flex items-center gap-2 rounded-full bg-white/10 border border-white/20 px-4 py-2">
+            <div className="mt-3 inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-3 py-1.5">
               <GraduationCap className="h-4 w-4 text-[#F5F2ED]" />
               <span className="text-[11px] font-semibold text-[#F5F2ED]">Licensed RCIC {site.rcic.number} · CICC-Regulated</span>
             </div>
 
             {/* Contact */}
-            <div className="mt-5 space-y-2 text-[13px] text-[#F5F2ED]/85">
+            <div className="mt-3 space-y-1.5 text-[12px] leading-[1.45] text-[#F5F2ED]/85">
               <p className="flex items-start gap-2">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-accent-soft" />
                 {site.address.line1}, {site.address.city} {site.address.postal}
@@ -126,7 +126,7 @@ export default function Footer() {
 
             {/* Social row */}
             {socialLinks.length > 0 && (
-              <div className="mt-6 flex gap-3">
+              <div className="mt-4 flex gap-2">
                 {socialLinks.map(({ key, label }) => {
                   const Icon = socialIcons[key];
                   return (
@@ -136,9 +136,9 @@ export default function Footer() {
                       target="_blank"
                       rel="noopener noreferrer"
                       aria-label={label}
-                      className="flex items-center justify-center bg-white/5 rounded-full p-2 text-[#F5F2ED] hover:bg-white/15 transition-colors"
+                      className="flex items-center justify-center rounded-full bg-white/5 p-1.5 text-[#F5F2ED] hover:bg-white/15 transition-colors"
                     >
-                      <Icon className="h-5 w-5" />
+                      <Icon className="h-4 w-4" />
                     </a>
                   );
                 })}
@@ -153,9 +153,9 @@ export default function Footer() {
         </div>
 
         {/* Regulatory trust bar */}
-        <div className="mt-12">
-          <div className="border-t-4 border-gold pt-6">
-            <p className="text-[11px] font-bold tracking-[0.15em] uppercase text-gold text-center mb-4">
+        <div className="mt-8">
+          <div className="border-t-4 border-gold pt-4">
+            <p className="mb-3 text-center text-[11px] font-bold uppercase tracking-[0.15em] text-gold">
               Regulated &amp; Recognised By
             </p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
@@ -178,7 +178,7 @@ export default function Footer() {
         </div>
 
         {/* Legal bottom bar */}
-        <div className="mt-12 pt-6 border-t border-white/10">
+        <div className="mt-8 border-t border-white/10 pt-4">
           <div className="flex flex-col md:flex-row md:flex-wrap md:justify-between gap-4">
             <p className="text-[12px] text-[#F5F2ED]">© {year} {site.name}. All rights reserved.</p>
             <p className="text-[12px] text-[#F5F2ED] italic">

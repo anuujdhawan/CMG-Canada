@@ -6,7 +6,7 @@ import PathwayCard from "@/components/cards/PathwayCard";
 /* ════════════════════════════════════════════════════════════════════
    Shared markdown machinery for scraped-content pages:
    inline renderer, block parser, block renderer, brand rebranding and
-   source-URL localization. Used by ContentPage and HeroBand.
+   source-URL localization. Used by ContentPage and the shared hero.
    ════════════════════════════════════════════════════════════════════ */
 
 const SITE_HOSTS = ["visamastercanada.com", "www.visamastercanada.com", "commonwealthmigration.ca", "www.commonwealthmigration.ca"];

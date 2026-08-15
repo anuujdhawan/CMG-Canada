@@ -2,9 +2,11 @@ import Image from "next/image";
 import { ArrowRight, Calculator, MapPin, Search } from "lucide-react";
 import Link from "next/link";
 import { parseBlocks, Block, rebrand, localizeUrl } from "@/components/templates/MarkdownBlocks";
-import HeroBand from "@/components/sections/HeroBand";
+import HeroBanner from "@/components/ui/HeroBanner";
 import CtaBand from "@/components/sections/CtaBand";
 import { site } from "@/config/site";
+import { breadcrumbsFor } from "@/lib/sitePages";
+import { HERO_TRUST_BADGES } from "@/lib/hero";
 import PageRail from "@/components/sections/PageRail";
 import { cleanRelatedLinks } from "@/components/sections/RelatedLinks";
 import DarkRedPathwaySection from "@/components/sections/DarkRedPathwaySection";
@@ -139,12 +141,36 @@ function interleaveImages(blocks, images) {
   return out.sort((a, b) => a.at - b.at);
 }
 
+function getHeroContent(page) {
+  const heroBlocks = parseBlocks(page.hero);
+  const contentPreviewBlocks = heroBlocks.length > 0 ? heroBlocks : parseBlocks(page.content);
+  const titleIndex = heroBlocks.findIndex((block) => block.type === "heading" && block.level === 1);
+  const titleBlock = titleIndex >= 0 ? heroBlocks[titleIndex] : null;
+  const contentTitle = contentPreviewBlocks.find((block) => block.type === "heading" && block.level >= 2);
+  const heroTitle = rebrand(titleBlock?.text || contentTitle?.text || page.h1);
+  const supportingBlocks = contentPreviewBlocks.slice(titleIndex >= 0 ? titleIndex + 1 : 0);
+  const leadBlock = supportingBlocks.find((block) => block.type === "paragraph");
+  const badgeBlock = supportingBlocks.find((block) => block.type === "list");
+  const badges = badgeBlock?.items
+    ?.map((item) => rebrand(item).replace(/^[·•→\s]+/, "").trim())
+    .filter(Boolean)
+    .slice(0, 3);
+
+  return {
+    title: heroTitle,
+    breadcrumbs: page.path === "/" ? [] : breadcrumbsFor(page.path, heroTitle),
+    leadBlock,
+    badges: badges?.length ? badges : HERO_TRUST_BADGES,
+  };
+}
+
 /* ════════════════════════════════════════════════════════════════════
    ContentPage — composition of reusable building blocks
    ════════════════════════════════════════════════════════════════════ */
 
 export default function ContentPage({ page, children }) {
   const contentBlocks = parseBlocks(page.content);
+  const hero = getHeroContent(page);
   const related = cleanRelatedLinks(page);
   const employer = page.path.startsWith("/for-employers");
   const images = getPageImages(page.path, 4);
@@ -166,7 +192,17 @@ export default function ContentPage({ page, children }) {
   return (
     <>
       {/* Hero */}
-      <HeroBand page={page} />
+      <HeroBanner
+        eyebrow="Licensed Canadian immigration guidance"
+        headline={hero.title}
+        breadcrumbs={hero.breadcrumbs}
+        leadContent={hero.leadBlock ? <Block block={hero.leadBlock} dark /> : null}
+        ctaButtons={[
+          { label: site.ctas.primary.label, href: site.ctas.primary.href, variant: "primary" },
+          { label: "Free Assessment", href: site.ctas.assessment.href, variant: "dark" },
+        ]}
+        trustBadges={hero.badges}
+      />
 
       {/*
        * Reference-inspired decision band: the home route gets the full
