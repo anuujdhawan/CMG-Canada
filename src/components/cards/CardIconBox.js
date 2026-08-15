@@ -6,8 +6,8 @@ export default function CardIconBox({ children, className }) {
     <div
       className={cn(
         "inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-xl",
-        "bg-accent-soft text-primary transition-colors duration-200",
-        "group-hover:bg-primary group-hover:text-white",
+        "bg-gradient-to-br from-primary to-primary-light text-white shadow-sm transition-colors duration-200",
+        "group-hover:from-primary-dark group-hover:to-primary",
         className
       )}
     >

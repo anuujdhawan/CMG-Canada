@@ -17,7 +17,7 @@ export default function BigMapleLeaf() {
     <motion.div
       aria-hidden
       className="pointer-events-none absolute z-[1] hidden sm:block"
-      style={{ top: "12%", right: "5%", opacity: shouldReduce ? 0.55 : undefined }}
+      style={{ bottom: "6%", right: "5%", opacity: shouldReduce ? 0.55 : undefined }}
       animate={
         shouldReduce
           ? {}

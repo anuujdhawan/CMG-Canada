@@ -4,6 +4,10 @@ import { buildMetadata } from "@/lib/seo";
 import PageHeader from "@/components/ui/PageHeader";
 import Disclaimer from "@/components/ui/Disclaimer";
 import LoginForm from "@/components/forms/LoginForm";
+import DarkRedPathwaySection from "@/components/sections/DarkRedPathwaySection";
+import ToolsShowcase from "@/components/sections/ToolsShowcase";
+import PageFaqSection from "@/components/sections/PageFaqSection";
+import { getPageFaqs } from "@/lib/faqs";
 
 export const metadata = buildMetadata({
   title: "Client Login",
@@ -11,6 +15,12 @@ export const metadata = buildMetadata({
     "Client portal login — track your case, upload documents and message your consultant.",
   path: "/login",
 });
+
+const LOGIN_FAQ_PAGE = {
+  path: "/login",
+  h1: "Client Login",
+  seo: { description: "Track your case, upload documents and message your consultant in one secure client portal." },
+};
 
 export default function LoginPage() {
   return (
@@ -21,10 +31,12 @@ export default function LoginPage() {
         lead="Track your case, upload documents and message your consultant — all in one place. This is a demo shell with no real accounts."
       />
 
-      <section className="section-pad">
+      <DarkRedPathwaySection variant="portal" />
+
+      <section className="content-stage section-pad">
         <div className="site-container">
           <div className="mx-auto max-w-md">
-            <div className="rounded-brand-2xl border border-line bg-white p-6 shadow-card sm:p-10">
+            <div className="article-shell rounded-brand-2xl p-6 sm:p-10">
               <div className="flex items-center gap-3">
                 <span className="flex h-11 w-11 items-center justify-center rounded-brand-lg bg-surface-alt text-primary">
                   <KeyRound className="h-5 w-5" aria-hidden />
@@ -50,6 +62,9 @@ export default function LoginPage() {
           </div>
         </div>
       </section>
+
+      <ToolsShowcase />
+      <PageFaqSection page={LOGIN_FAQ_PAGE} items={getPageFaqs(LOGIN_FAQ_PAGE)} />
     </>
   );
 }

@@ -2,12 +2,14 @@
 
 import { useCallback, useRef, useState } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { motion, AnimatePresence, useReducedMotion } from "framer-motion";
 import { Menu, ChevronDown, Mail, ShieldCheck, AlertTriangle, ArrowRight } from "lucide-react";
 import { navigation } from "@/config/navigation";
 import { site } from "@/config/site";
 import { cn, slugify } from "@/lib/utils";
+import { isActiveNavItem } from "@/lib/navActive";
 import { EASE_OUT, DURATION } from "@/lib/motion";
 import { useScrolled } from "@/hooks/useScrolled";
 import MobileMenu from "./MobileMenu";
@@ -168,6 +170,7 @@ function NavLabel({ item }) {
 export default function Header() {
   const [openMenu, setOpenMenu] = useState(null);
   const [mobileOpen, setMobileOpen] = useState(false);
+  const pathname = usePathname();
   const scrolled = useScrolled(20);
   const shouldReduce = useReducedMotion() ?? false;
 
@@ -253,6 +256,7 @@ export default function Header() {
               <nav className="hidden lg:flex items-center gap-0.5" aria-label="Main">
                 {navigation.header.map((item) => {
                   const open = openMenu === item.label;
+                  const active = isActiveNavItem(pathname, item);
                   if (item.columns?.length && !item.standalone) {
                     return (
                       <div
@@ -264,7 +268,7 @@ export default function Header() {
                           ref={(el) => {
                             triggerRefs.current[item.label] = el;
                           }}
-                          className={cn(dropdownBtnClass, open && "text-primary bg-primary/10")}
+                          className={cn(dropdownBtnClass, (open || active) && "text-primary bg-primary/10", active && "nav-tab-active")}
                           aria-haspopup="true"
                           aria-expanded={open}
                           aria-controls={`${slugify(item.label)}-dropdown-panel`}
@@ -286,7 +290,8 @@ export default function Header() {
                       href={item.href}
                       className={cn(
                         navLinkClass,
-                        item.standalone && "inline-flex items-center gap-1.5 text-accent-dark font-bold"
+                        item.standalone && "inline-flex items-center gap-1.5 text-accent-dark font-bold",
+                        item.standalone && active && "nav-tab-active"
                       )}
                     >
                       {item.standalone && (
@@ -325,5 +330,3 @@ export default function Header() {
     </>
   );
 }
-
-

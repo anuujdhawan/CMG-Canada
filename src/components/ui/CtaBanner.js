@@ -59,8 +59,8 @@ export default function CtaBanner({ variant = "standard", title, description }) 
   }));
 
   return (
-    <section aria-label="Call to action — start your Canadian immigration journey" className="bg-white">
-      <div ref={sectionRef} className="relative w-full py-16 overflow-hidden">
+    <section aria-label="Call to action — start your Canadian immigration journey" className="bg-red-soft px-4 py-5 sm:px-6 sm:py-8">
+      <div ref={sectionRef} className="relative mx-auto w-full max-w-6xl overflow-hidden rounded-[1.75rem] border border-line bg-white py-12 shadow-premium sm:py-16">
         {/* Grain overlay */}
         <div
           aria-hidden
@@ -77,8 +77,8 @@ export default function CtaBanner({ variant = "standard", title, description }) 
           transition={shouldReduce ? { duration: 0 } : { duration: 4, repeat: Infinity, ease: "easeInOut" }}
         />
 
-        <div className="relative z-10 w-full px-5 md:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-[1fr_auto_1fr] gap-16 items-center max-w-6xl mx-auto">
+        <div className="relative z-10 w-full px-6 md:px-10">
+          <div className="grid grid-cols-1 items-center gap-12 lg:grid-cols-[1fr_auto_1fr] lg:gap-14">
             {/* LEFT */}
             <motion.div
               className="flex flex-col"
@@ -86,7 +86,7 @@ export default function CtaBanner({ variant = "standard", title, description }) 
               animate={isInView ? { x: 0, opacity: 1 } : {}}
               transition={{ duration: 0.7, ease: EASE }}
             >
-              <h2 className="mt-6 font-bold !text-primary leading-tight" style={{ fontSize: "clamp(2rem, 4vw, 3rem)" }}>
+              <h2 className="mt-6 max-w-xl font-serif font-bold !text-primary leading-tight" style={{ fontSize: "clamp(2rem, 4vw, 3rem)" }}>
                 {headlineWords.map(({ text, italic }, i) => {
                   const isLast = i === headlineWords.length - 1;
                   const baseDelay = 0.28 + i * 0.075 + (isLast ? 0.06 : 0);
@@ -106,7 +106,7 @@ export default function CtaBanner({ variant = "standard", title, description }) 
               </h2>
 
               <motion.p
-                className="mt-4 text-base text-black max-w-md leading-relaxed"
+                className="mt-4 max-w-md text-base leading-relaxed text-muted"
                 initial={shouldReduce ? false : { opacity: 0, y: 12 }}
                 animate={isInView ? { opacity: 1, y: 0 } : {}}
                 transition={{ duration: 0.52, delay: 0.78, ease: EASE }}
@@ -117,13 +117,13 @@ export default function CtaBanner({ variant = "standard", title, description }) 
               <div className="mt-10 flex flex-col sm:flex-row gap-4">
                 <Link
                   href={site.ctas.primary.href}
-                  className="bg-primary text-white font-semibold rounded-full px-8 py-4 inline-flex items-center gap-2 whitespace-nowrap hover:bg-navy transition-colors"
+                  className="inline-flex items-center gap-2 whitespace-nowrap rounded-full bg-primary px-8 py-4 font-semibold text-white shadow-md transition-colors hover:bg-navy"
                 >
                   {site.ctas.primary.label}
                 </Link>
                 <motion.a
                   href={site.phoneHref}
-                  className="text-white rounded-full px-8 py-4 inline-flex items-center gap-2 whitespace-nowrap transition-colors"
+                  className="inline-flex items-center gap-2 whitespace-nowrap rounded-full px-8 py-4 text-white shadow-md transition-colors"
                   style={{ backgroundColor: "var(--brand-primary-dark)" }}
                   aria-label="Call us now"
                   initial={shouldReduce ? false : { opacity: 0, scale: 0.94 }}
@@ -148,7 +148,7 @@ export default function CtaBanner({ variant = "standard", title, description }) 
 
             {/* RIGHT */}
             <motion.div
-              className="flex flex-col gap-6 justify-center"
+              className="flex flex-col justify-center gap-6"
               initial={shouldReduce ? false : { x: 24, opacity: 0 }}
               animate={isInView ? { x: 0, opacity: 1 } : {}}
               transition={{ duration: 0.7, delay: 0.15, ease: EASE }}
@@ -173,7 +173,7 @@ export default function CtaBanner({ variant = "standard", title, description }) 
                   >
                     {i > 0 && <div className="h-px bg-black/20 my-4" />}
                     <p className="text-[15px] font-semibold text-navy">{label}</p>
-                    <p className="text-[13px] text-black mt-0.5">{desc}</p>
+                    <p className="mt-0.5 text-[13px] text-muted">{desc}</p>
                   </motion.div>
                 ))}
               </div>
@@ -201,7 +201,7 @@ export default function CtaBanner({ variant = "standard", title, description }) 
                     </div>
                   ))}
                 </div>
-                <span className="text-[13px] text-black">
+                <span className="text-[13px] text-muted">
                   Join 500+ applicants who chose Canada via {site.name}
                 </span>
               </motion.div>
@@ -212,11 +212,11 @@ export default function CtaBanner({ variant = "standard", title, description }) 
                 animate={isInView ? { opacity: 1, y: 0 } : {}}
                 transition={{ duration: 0.4, delay: 0.75, ease: EASE }}
               >
-                <span className="text-[12px] text-black">Regulated</span>
-                <span className="w-1 h-1 rounded-full bg-black flex-shrink-0" aria-hidden />
-                <span className="text-[12px] text-black">Indemnity Insured</span>
-                <span className="w-1 h-1 rounded-full bg-black flex-shrink-0" aria-hidden />
-                <span className="text-[12px] text-black">500+ Approved</span>
+                <span className="text-[12px] text-muted">Regulated</span>
+                <span className="h-1 w-1 flex-shrink-0 rounded-full bg-primary" aria-hidden />
+                <span className="text-[12px] text-muted">Indemnity Insured</span>
+                <span className="h-1 w-1 flex-shrink-0 rounded-full bg-primary" aria-hidden />
+                <span className="text-[12px] text-muted">500+ Approved</span>
               </motion.div>
             </motion.div>
           </div>

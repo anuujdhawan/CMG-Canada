@@ -6,7 +6,7 @@ import CardArrowLink from "./CardArrowLink";
 export default function ToolCard({ tool }) {
   const Icon = iconMap[tool.icon] || fallbackIcon;
   return (
-    <CardShell href={`/tools/${tool.slug}`} className="group">
+    <CardShell href={`/tools/${tool.slug}`} className="card-red-edge group">
       <CardIconBox>
         <Icon className="h-5 w-5" aria-hidden />
       </CardIconBox>

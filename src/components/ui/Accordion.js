@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils";
  * Accessible single-open accordion.
  * items: [{ question, answer }] — answer may be a string or React node.
  */
-export default function Accordion({ items, className, defaultOpen = 0 }) {
+export default function Accordion({ items, className, defaultOpen = 0, idPrefix = "accordion" }) {
   const [openIndex, setOpenIndex] = useState(defaultOpen);
 
   return (
@@ -22,8 +22,8 @@ export default function Accordion({ items, className, defaultOpen = 0 }) {
                 type="button"
                 className="flex w-full items-center justify-between gap-4 py-4 text-left"
                 aria-expanded={open}
-                aria-controls={`accordion-panel-${i}`}
-                id={`accordion-button-${i}`}
+                aria-controls={`${idPrefix}-panel-${i}`}
+                id={`${idPrefix}-button-${i}`}
                 onClick={() => setOpenIndex(open ? -1 : i)}
               >
                 <span className={cn("text-[15px] font-semibold sm:text-base", open ? "text-accent-dark" : "text-primary")}>
@@ -39,9 +39,9 @@ export default function Accordion({ items, className, defaultOpen = 0 }) {
               </button>
             </h3>
             <div
-              id={`accordion-panel-${i}`}
+              id={`${idPrefix}-panel-${i}`}
               role="region"
-              aria-labelledby={`accordion-button-${i}`}
+              aria-labelledby={`${idPrefix}-button-${i}`}
               className={cn(
                 "grid transition-all duration-200 ease-out",
                 open ? "grid-rows-[1fr] pb-5 opacity-100" : "grid-rows-[0fr] opacity-0"

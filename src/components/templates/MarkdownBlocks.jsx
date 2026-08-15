@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { site } from "@/config/site";
+import PathwayCard from "@/components/cards/PathwayCard";
 
 /* ════════════════════════════════════════════════════════════════════
    Shared markdown machinery for scraped-content pages:
@@ -233,14 +234,29 @@ function headingClass(level, dark = false) {
   const subColor = dark ? "text-white" : "text-navy";
   switch (level) {
     case 2:
-      return `mt-12 mb-4 text-2xl sm:text-[1.65rem] font-bold ${color} border-l-4 ${dark ? "border-white/50" : "border-primary"} pl-4 leading-snug`;
+      return `${dark ? "mt-8 mb-4" : "content-section-heading mt-12 mb-5"} text-2xl sm:text-[1.65rem] font-bold ${dark ? color : ""} leading-snug`;
     case 3:
-      return `mt-9 mb-3 text-xl font-bold ${subColor} leading-snug`;
+      return `content-subheading mt-9 mb-3 text-xl font-bold ${subColor} leading-snug`;
     case 4:
-      return `mt-7 mb-2 text-lg font-bold ${subColor} leading-snug`;
+      return `content-subheading mt-7 mb-2 text-lg font-bold ${subColor} leading-snug`;
     default:
-      return `mt-6 mb-2 text-base font-bold ${subColor} leading-snug`;
+      return `content-subheading mt-6 mb-2 text-base font-bold ${subColor} leading-snug`;
   }
+}
+
+const REFUSAL_CARD_DESTINATIONS = [
+  [/visitor visa|trv/i, "/immigration/visitor-visa"],
+  [/study permit/i, "/immigration/study-permit"],
+  [/work permit/i, "/immigration/work-permit"],
+  [/spousal sponsorship/i, "/immigration/spousal-sponsorship"],
+  [/express entry|\bpr\b/i, "/immigration/express-entry"],
+  [/super visa/i, "/immigration/super-visa"],
+  [/pgwp/i, "/immigration/pgwp"],
+  [/lmia/i, "/immigration/lmia"],
+];
+
+function refusalCardHref(title) {
+  return REFUSAL_CARD_DESTINATIONS.find(([pattern]) => pattern.test(title))?.[1] || null;
 }
 
 function renderTable(rows) {
@@ -248,13 +264,62 @@ function renderTable(rows) {
   const header = hasSeparator ? rows[0] : null;
   const body = hasSeparator ? rows.slice(2) : rows;
   const colCount = Math.max(...rows.map((r) => r.length));
+  const isStackedTabs = !header && colCount === 1 && body.length >= 4;
+
+  if (isStackedTabs) {
+    const hasStackedHeader = /application type/i.test(body[0]?.[0] || "");
+    const label = hasStackedHeader ? body[0]?.[0] : "Refusal type";
+    const descriptionLabel = hasStackedHeader ? body[1]?.[0] : "Common concern";
+    const cardRows = hasStackedHeader ? body.slice(2) : body;
+    const cards = [];
+
+    for (let i = 0; i < cardRows.length; i += 2) {
+      const title = cardRows[i]?.[0];
+      if (!title) continue;
+      cards.push({ title, description: cardRows[i + 1]?.[0] || "", href: refusalCardHref(title) });
+    }
+
+    return (
+      <div className="content-table-cards my-8" role="list" aria-label={`${label} and ${descriptionLabel}`}>
+        <div className="content-table-cards__intro">
+          <div>
+            <p className="eyebrow text-accent-dark">Case patterns at a glance</p>
+            <p className="mt-1 text-[13px] leading-relaxed text-muted">
+              The reason on the letter is only the starting point. The right response connects the concern to stronger evidence.
+            </p>
+          </div>
+          <div className="content-table-cards__labels" aria-hidden>
+            <span>{label}</span>
+            <span>{descriptionLabel}</span>
+          </div>
+        </div>
+
+        <div className="content-table-cards__grid">
+          {cards.map((card, index) => (
+            <PathwayCard
+              key={`${card.title}-${index}`}
+              role="listitem"
+              href={card.href}
+              ariaLabel={card.title}
+              label={renderInline(card.title)}
+              eyebrow={label}
+              description={renderInline(card.description)}
+              index={index}
+              actionLabel={card.href ? "Explore the guide" : null}
+              className="pathway-card--case"
+            />
+          ))}
+        </div>
+      </div>
+    );
+  }
 
   return (
-    <div className="my-6 overflow-x-auto rounded-xl border border-line shadow-sm">
+    <div className="my-7 overflow-x-auto rounded-2xl border border-primary/20 bg-white shadow-[0_10px_28px_rgba(200,16,46,0.1)]">
       <table className="w-full min-w-[480px] border-collapse text-left text-[14.5px]">
         {header && (
           <thead>
-            <tr className="bg-surface">
+            <tr className="bg-gradient-to-r from-primary/15 via-surface to-white">
               {header.map((cell, j) => (
                 <th key={j} className="px-4 py-3 text-[13px] font-bold uppercase tracking-wide text-primary">
                   {renderInline(cell)}
@@ -265,7 +330,13 @@ function renderTable(rows) {
         )}
         <tbody>
           {body.map((row, i) => (
-            <tr key={i} className={cn("border-t border-line", i % 2 === 1 && "bg-surface/50")}>
+            <tr
+              key={i}
+              className={cn(
+                "border-t border-line transition-colors hover:bg-surface/60",
+                i % 2 === 1 && "bg-surface/40"
+              )}
+            >
               {Array.from({ length: colCount }).map((_, j) => (
                 <td key={j} className="px-4 py-3 align-top text-muted">
                   {renderInline(row[j] || "")}
@@ -287,13 +358,13 @@ export function Block({ block, dark = false, lead = false }) {
     case "paragraph":
       if (lead && !dark) {
         return (
-          <p className="mt-6 text-[17px] leading-relaxed text-navy/95">
+              <p className="mt-6 rounded-xl border-l-4 border-primary bg-gradient-to-br from-surface to-white px-5 py-4 text-[17px] leading-relaxed text-navy/95 shadow-[0_6px_18px_rgba(200,16,46,0.08)]">
             {renderInline(block.text)}
           </p>
         );
       }
       return (
-        <p className={dark ? "mt-4 text-[15.5px] leading-relaxed text-white/85" : "mt-4 text-[15.5px] leading-relaxed text-ink/90"}>
+        <p className={dark ? "mt-4 text-[15.5px] leading-relaxed text-white/85" : "mt-4 text-[15.5px] leading-[1.8] text-ink/90"}>
           {renderInline(block.text)}
         </p>
       );
@@ -301,7 +372,7 @@ export function Block({ block, dark = false, lead = false }) {
       const itemColor = dark ? "text-white/85" : "text-ink/90";
       if (block.ordered) {
         return (
-          <ol className={`mt-4 list-decimal space-y-2 pl-6 text-[15px] leading-relaxed ${itemColor} marker:font-bold ${dark ? "marker:text-accent-soft" : "marker:text-primary"}`}>
+          <ol className={`content-list-panel mt-5 list-decimal space-y-2.5 p-5 pl-8 text-[15px] leading-relaxed ${itemColor} marker:font-bold ${dark ? "marker:text-accent-soft" : "marker:text-primary"}`}>
             {block.items.map((item, i) => (
               <li key={i} className="pl-1">
                 {renderInline(item)}
@@ -311,7 +382,7 @@ export function Block({ block, dark = false, lead = false }) {
         );
       }
       return (
-        <ul className={`mt-4 space-y-2.5 text-[15px] leading-relaxed ${itemColor}`}>
+        <ul className={`content-list-panel mt-5 space-y-3 p-5 text-[15px] leading-relaxed ${itemColor}`}>
           {block.items.map((item, i) => (
             <li key={i} className="relative pl-6">
               <span aria-hidden className={`absolute left-0 top-[0.55em] h-1.5 w-1.5 rounded-full ${dark ? "bg-accent-soft" : "bg-accent"}`} />
@@ -328,7 +399,7 @@ export function Block({ block, dark = false, lead = false }) {
           className={
             dark
               ? "my-6 rounded-r-xl border-l-4 border-accent-soft bg-white/10 px-5 py-4 text-[15px] italic leading-relaxed text-white/90"
-              : "my-6 rounded-r-xl border-l-4 border-primary bg-surface px-5 py-4 text-[15px] italic leading-relaxed text-navy"
+              : "my-7 rounded-r-2xl border-l-4 border-primary bg-gradient-to-br from-surface to-white px-5 py-5 text-[15px] italic leading-relaxed text-navy shadow-[0_8px_22px_rgba(200,16,46,0.1)]"
           }
         >
           {renderInline(block.text)}
@@ -343,7 +414,7 @@ export function Block({ block, dark = false, lead = false }) {
         </div>
       );
     case "hr":
-    default:
-      return <hr className={dark ? "my-8 border-white/20" : "my-8 border-line"} />;
+      default:
+      return <hr className={dark ? "my-8 border-white/20" : "premium-divider my-10"} />;
   }
 }

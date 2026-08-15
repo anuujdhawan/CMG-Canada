@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import { Send } from "lucide-react";
 import { Field, TextInput, SelectInput, TextArea, CheckboxField } from "./fields";
 import { FormShell, FieldGrid } from "./FormShell";
@@ -54,9 +55,9 @@ export default function AssessmentForm() {
         <strong className="text-ink">{form.email}</strong> within two business days with your written assessment.
         <p className="mt-6 text-sm text-muted">
           In the meantime, try the{" "}
-          <a href="/tools/crs-calculator" className="font-semibold text-secondary underline underline-offset-2 hover:text-primary">
+          <Link href="/tools/crs-calculator" className="font-semibold text-secondary underline underline-offset-2 hover:text-primary">
             CRS calculator
-          </a>
+          </Link>
           .
         </p>
       </FormSuccessCard>

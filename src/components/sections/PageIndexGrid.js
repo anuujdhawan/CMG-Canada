@@ -42,7 +42,7 @@ export default function PageIndexGrid({ pathname }) {
   const Icon = isTools ? Calculator : isCities ? MapPin : null;
 
   return (
-    <section aria-label="Related pages" className="border-t border-line bg-surface/50">
+    <section aria-label="Related pages" className="band-red-tint border-t border-line">
       <div className="site-container section-pad pt-12 lg:pt-14">
         <div className="flex items-end justify-between gap-4">
           <div>
@@ -61,30 +61,39 @@ export default function PageIndexGrid({ pathname }) {
           </Link>
         </div>
 
-        <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {children.map((page) => (
+        <div className="mt-9 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {children.map((page, index) => (
             <Link
               key={page.path}
               href={page.path}
-              className="group flex flex-col rounded-2xl border border-line bg-white p-6 shadow-card transition-all duration-200 hover:-translate-y-0.5 hover:shadow-card-hover"
+              className="card-red-edge group relative flex flex-col overflow-hidden rounded-2xl border border-line bg-white p-0 shadow-card transition-all duration-300 hover:-translate-y-1 hover:border-primary/40 hover:shadow-card-hover"
             >
-              <div className="flex items-center gap-2">
-                {Icon && <Icon className="h-4 w-4 text-primary" aria-hidden />}
-                {isBlog && (
-                  <span className="inline-flex items-center gap-1 text-[11px] font-bold uppercase tracking-wide text-muted">
-                    <CalendarDays className="h-3.5 w-3.5" />
-                    {formatDate(page.meta.lastModified)}
+              <div className="relative bg-gradient-to-br from-navy-dark via-navy to-primary px-5 py-5 text-white">
+                <div aria-hidden className="absolute -right-8 -top-10 h-28 w-28 rounded-full bg-white/10 blur-2xl" />
+                <div className="relative flex items-center justify-between gap-2">
+                  <span className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/20 bg-white/12 text-white shadow-sm transition-transform group-hover:scale-105">
+                    {Icon ? <Icon className="h-4 w-4" aria-hidden /> : <span className="text-sm font-bold">{String(index + 1).padStart(2, "0")}</span>}
                   </span>
-                )}
+                  {isBlog && (
+                    <span className="inline-flex items-center gap-1 text-[11px] font-bold uppercase tracking-wide text-white/65">
+                      <CalendarDays className="h-3.5 w-3.5" />
+                      {formatDate(page.meta.lastModified)}
+                    </span>
+                  )}
+                </div>
+                <p className="relative mt-5 text-[10px] font-bold uppercase tracking-[0.18em] text-white/55">Explore next</p>
               </div>
-              <h3 className="mt-2.5 text-[15px] font-bold leading-snug text-navy transition-colors group-hover:text-primary">
-                {shortTitle(page.h1)}
-              </h3>
-              <p className="mt-2 line-clamp-3 text-[13px] leading-relaxed text-muted">{rebrand(page.seo.description)}</p>
-              <span className="mt-4 inline-flex items-center gap-1.5 text-[13px] font-bold text-primary">
-                Read guide
-                <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" aria-hidden />
-              </span>
+              <div className="flex flex-1 flex-col p-6 pt-5">
+                <h3 className="text-[15px] font-bold leading-snug text-navy transition-colors group-hover:text-primary">
+                  {shortTitle(page.h1)}
+                </h3>
+                <p className="mt-2 line-clamp-3 text-[13px] leading-relaxed text-muted">{rebrand(page.seo.description)}</p>
+                <span className="mt-5 inline-flex items-center gap-1.5 text-[13px] font-bold text-primary">
+                  Read guide
+                  <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" aria-hidden />
+                </span>
+              </div>
+              <span aria-hidden className="pointer-events-none absolute -bottom-10 -right-8 h-24 w-24 rounded-full bg-surface opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
             </Link>
           ))}
         </div>

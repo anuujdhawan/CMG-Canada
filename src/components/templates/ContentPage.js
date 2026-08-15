@@ -1,16 +1,22 @@
-import Link from "next/link";
 import Image from "next/image";
 import { ArrowRight, Calculator, MapPin, Search } from "lucide-react";
+import Link from "next/link";
 import { parseBlocks, Block, rebrand, localizeUrl } from "@/components/templates/MarkdownBlocks";
 import HeroBand from "@/components/sections/HeroBand";
 import CtaBand from "@/components/sections/CtaBand";
 import { site } from "@/config/site";
+import PageRail from "@/components/sections/PageRail";
+import { cleanRelatedLinks } from "@/components/sections/RelatedLinks";
+import DarkRedPathwaySection from "@/components/sections/DarkRedPathwaySection";
+import ToolsShowcase from "@/components/sections/ToolsShowcase";
+import PageFaqSection from "@/components/sections/PageFaqSection";
 import { getPageImages } from "@/lib/pageImages";
+import { getPageFaqs } from "@/lib/faqs";
 import { cn } from "@/lib/utils";
 
 // Re-exported so existing callers (catch-all route, PageIndexGrid) keep
-// working — the implementation now lives in MarkdownBlocks.
-export { rebrand, localizeUrl };
+// working — the implementation now lives in MarkdownBlocks / RelatedLinks.
+export { rebrand, localizeUrl, cleanRelatedLinks };
 
 /**
  * Scrub scraped structured data: drop source-firm social profiles from
@@ -30,62 +36,10 @@ function cleanJsonLd(obj) {
 }
 
 /* ════════════════════════════════════════════════════════════════════
-   Related links (from the page's own link inventory)
+   Related links, rail and image handling live in their own reusable
+   modules (RelatedLinks.js / PageRail.js / pageImages.js) — this file
+   only composes them.
    ════════════════════════════════════════════════════════════════════ */
-
-function cleanRelatedLinks(page, limit = 14) {
-  const seen = new Set();
-  const out = [];
-  const skipAnchor = /skip to main content|make payment|book book consultation|^home$|read (all|our) reviews|google|pulse|nexus|vault|client login|get your free crs estimate|continue to services|view guide|learn more/i;
-
-  for (const { anchor, url } of page.links || []) {
-    if (!anchor || !url) continue;
-    if (skipAnchor.test(anchor)) continue;
-    if (/^tel:|^mailto:/i.test(url)) continue;
-    if (/g\.page|google|facebook\.com|linkedin\.com|instagram\.com|officio\.ca|vercel\.app|cloudfront/i.test(url)) continue;
-    const local = localizeUrl(url);
-    if (!local.startsWith("/")) continue; // external authorities are already inline
-    if (local === page.path) continue;
-
-    let label = rebrand(anchor).replace(/\s*→+\s*$/g, "").trim();
-    label = label.replace(/\s+/g, " ").trim();
-    // Trim long card-style anchors at the first description divider
-    if (label.length > 50) {
-      const cut = label.match(/^(.+?)\s+(?:For|for|-|·|—)\s+/);
-      if (cut) label = cut[1].trim();
-    }
-    if (label.length > 70) label = `${label.slice(0, 67).trimEnd()}…`;
-
-    const key = local.split("#")[0];
-    if (seen.has(key)) continue;
-    seen.add(key);
-    out.push({ label, href: local });
-    if (out.length >= limit) break;
-  }
-  return out;
-}
-
-function RelatedLinks({ links }) {
-  if (links.length === 0) return null;
-  return (
-    <section aria-label="Related topics" className="mt-14 rounded-2xl border border-line bg-surface/60 p-6 sm:p-8">
-      <h2 className="text-lg font-bold text-navy">Explore related topics</h2>
-      <ul className="mt-4 grid gap-x-6 gap-y-2.5 sm:grid-cols-2">
-        {links.map((link) => (
-          <li key={link.href}>
-            <Link
-              href={link.href}
-              className="group flex items-start gap-2 text-[14px] font-semibold text-primary hover:text-accent-dark transition-colors"
-            >
-              <span aria-hidden className="mt-[0.45em] h-1.5 w-1.5 shrink-0 rounded-full bg-accent transition-transform group-hover:scale-125" />
-              {link.label}
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </section>
-  );
-}
 
 /* ════════════════════════════════════════════════════════════════════
    Premium content images — interleaved with the article flow so pages
@@ -95,12 +49,12 @@ function RelatedLinks({ links }) {
 function ContentImage({ image, index }) {
   return (
     <figure className={cn("my-9", index % 2 === 1 && "sm:pl-4")}>
-      <div className="relative aspect-[16/10] overflow-hidden rounded-2xl border border-line shadow-[0_10px_30px_rgba(110,14,28,0.10)]">
+      <div className="card-red-edge relative aspect-[16/10] overflow-hidden rounded-2xl border border-primary/25 shadow-[0_12px_34px_rgba(200,16,46,0.14)] ring-1 ring-primary/10">
         <Image
           src={image.src}
           alt={image.alt}
           fill
-          sizes="(max-width: 768px) 100vw, 768px"
+          sizes="(max-width: 768px) 100vw, 720px"
           className="object-cover transition-transform duration-500 hover:scale-[1.03]"
         />
       </div>
@@ -130,7 +84,7 @@ const TOOL_QUICK_LINKS = [
 
 function ToolsStrip() {
   return (
-    <section aria-label="Free eligibility tools" className="mt-12 overflow-hidden rounded-2xl border border-line bg-white shadow-card">
+    <section aria-label="Free eligibility tools" className="card-red-edge mt-12 overflow-hidden rounded-2xl border border-primary/25 bg-gradient-to-br from-surface to-white shadow-[0_12px_30px_rgba(200,16,46,0.12)]">
       <div className="flex flex-col gap-5 p-6 sm:p-7 lg:flex-row lg:items-center lg:justify-between">
         <div className="max-w-md">
           <p className="eyebrow text-accent-dark">Free self-service tools</p>
@@ -195,6 +149,8 @@ export default function ContentPage({ page, children }) {
   const employer = page.path.startsWith("/for-employers");
   const images = getPageImages(page.path, 4);
   const imageSlots = interleaveImages(contentBlocks, images);
+  const hasHomeMidBand = page.path === "/";
+  const faqItems = getPageFaqs(page);
 
   const renderBlocks = [];
   let slotIdx = 0;
@@ -212,28 +168,60 @@ export default function ContentPage({ page, children }) {
       {/* Hero */}
       <HeroBand page={page} />
 
+      {/*
+       * Reference-inspired decision band: the home route gets the full
+       * pathway grid, while every internal content route gets a tighter set
+       * of next-step cards before the long-form reading surface.
+       */}
+      <DarkRedPathwaySection variant={page.path === "/" ? "home" : "page"} />
+
       {/* Optional interactive slot (tools etc.) */}
       {children && (
-        <div className="site-container pt-12">
-          <div className="mx-auto max-w-3xl">{children}</div>
+        <div className="content-stage pt-10 sm:pt-14">
+          <div className="site-container">
+            <div className="article-shell mx-auto max-w-6xl p-5 sm:p-8 lg:p-10">
+              <div className="mx-auto max-w-4xl">{children}</div>
+            </div>
+          </div>
         </div>
       )}
 
-      {/* Body */}
-      <div className="site-container section-pad">
-        <div className="mx-auto max-w-3xl">
-          <div>{renderBlocks}</div>
+      {/* Body — wide two-column article with sticky right rail */}
+      <div className="content-stage section-pad">
+        <div className="site-container">
+          <div className="article-shell mx-auto max-w-7xl p-5 sm:p-8 lg:p-10 xl:p-12">
+            <div className="relative z-10 lg:grid lg:grid-cols-[minmax(0,1.45fr)_minmax(285px,0.55fr)] lg:gap-10 xl:gap-12">
+              {/* Main column */}
+              <div className="min-w-0 [&_strong]:font-semibold [&_strong]:text-primary">
+                <div>{renderBlocks}</div>
 
-          {/* Tools strip on pathway pages */}
-          {TOOLS_STRIP_PATHS.test(page.path) && <ToolsStrip />}
+                {/* Tools strip on pathway pages */}
+                {TOOLS_STRIP_PATHS.test(page.path) && <ToolsStrip />}
+              </div>
 
-          {/* Related links */}
-          <RelatedLinks links={related} />
+              {/* Right rail — fills desktop whitespace, stacks on mobile */}
+              <aside aria-label="Related tools and topics" className="mt-12 lg:mt-0">
+                <PageRail related={related} />
+              </aside>
+            </div>
 
-          {/* CTA band */}
-          <CtaBand employer={employer} />
+            {hasHomeMidBand && (
+              <div className="relative z-10 mt-12 overflow-hidden rounded-brand-2xl">
+                <DarkRedPathwaySection variant="homeMid" />
+              </div>
+            )}
+
+            <ToolsShowcase className="relative z-10 mt-12" />
+
+            {/* Full-width CTA band below the grid */}
+            <div className="relative z-10 mt-12">
+              <CtaBand employer={employer} />
+            </div>
+          </div>
         </div>
       </div>
+
+      <PageFaqSection page={page} items={faqItems} />
 
       {/* Structured data */}
       {page.jsonLd.map((obj, i) => (

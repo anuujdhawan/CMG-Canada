@@ -1,6 +1,7 @@
 import { site } from "@/config/site";
 import { cn } from "@/lib/utils";
 import HeroBanner from "./HeroBanner";
+import { HERO_TRUST_BADGES } from "@/lib/hero";
 
 /**
  * Inner-page hero in the homepage starfield style (source-compatible).
@@ -41,7 +42,7 @@ export default function PageHeader({
           { label: "Free Assessment", href: "/tools/free-assessment", variant: "dark" },
         ]
       }
-      trustBadges={trustBadges}
+      trustBadges={trustBadges || HERO_TRUST_BADGES}
     >
       {children}
     </HeroBanner>

@@ -5,11 +5,18 @@
  */
 
 export const HERO_GRADIENT =
-  "linear-gradient(135deg, var(--brand-navy) 0%, var(--brand-navy-dark) 45%, var(--brand-primary-dark) 100%)";
+  "linear-gradient(118deg, var(--brand-navy-dark) 0%, var(--brand-navy) 42%, var(--brand-primary-dark) 72%, var(--brand-primary) 100%)";
 
-/** Generous vertical space — clears the fixed utility bar + floating pill. */
-export const HERO_PADDING = "pt-40 pb-16 sm:pt-44 sm:pb-20 lg:pt-52 lg:pb-24";
+/** Shared hero shell — the CSS contract keeps every route the same height. */
+export const HERO_PADDING = "hero-shell";
 
-/** Consistent, slightly smaller display title for every page hero. */
+/** Consistent display title for every page hero. */
 export const HERO_TITLE_CLASS =
-  "font-serif text-2xl font-bold leading-tight text-white sm:text-3xl lg:text-4xl";
+  "hero-title font-serif font-bold leading-[1.08] text-white";
+
+/** Small trust markers shown consistently across content and tool heroes. */
+export const HERO_TRUST_BADGES = [
+  "CICC-regulated",
+  "Canada-wide support",
+  "No-obligation first step",
+];

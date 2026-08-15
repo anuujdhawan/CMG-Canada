@@ -8,6 +8,7 @@ import { ChevronDown, Mail, X } from "lucide-react";
 import { navigation } from "@/config/navigation";
 import { site } from "@/config/site";
 import { cn, slugify } from "@/lib/utils";
+import { isActiveNavItem } from "@/lib/navActive";
 import { motion, AnimatePresence, useReducedMotion } from "framer-motion";
 import { EASE_OUT } from "@/lib/motion";
 
@@ -119,7 +120,7 @@ export default function MobileMenu({ onClose }) {
           {navigation.main.map((item) => {
             const hasChildren = item.children?.length > 0;
             const isOpen = expanded === item.label;
-            const active = isActive(pathname, item);
+            const active = isActiveNavItem(pathname, item);
             if (!hasChildren) {
               return (
                 <Link
@@ -212,10 +213,4 @@ export default function MobileMenu({ onClose }) {
     </div>
   );
 }
-
-function isActive(pathname, item) {
-  if (item.href === "/") return pathname === "/";
-  return pathname.startsWith(item.href.split("?")[0]);
-}
-
 

@@ -136,7 +136,7 @@ export default function CrsCalculator() {
       {/* Header */}
       <div className="flex items-center justify-between gap-4">
         <div className="flex items-center gap-3">
-          <span className="flex h-11 w-11 items-center justify-center rounded-brand-lg bg-surface-alt text-primary">
+          <span className="flex h-11 w-11 items-center justify-center rounded-brand-lg bg-gradient-to-br from-primary to-primary-light text-white shadow-sm">
             <Calculator className="h-5 w-5" aria-hidden />
           </span>
           <div>
@@ -211,7 +211,7 @@ export default function CrsCalculator() {
 
         {/* Spouse + extras */}
         <div className="space-y-4">
-          <label className="flex cursor-pointer items-center justify-between rounded-brand-md border border-line bg-surface px-4 py-3">
+          <label className="flex cursor-pointer items-center justify-between rounded-brand-md border border-primary/15 bg-gradient-to-r from-surface to-white px-4 py-3 transition-colors hover:border-primary/30">
             <span className="text-sm font-semibold text-primary">Applying with a spouse / partner</span>
             <input type="checkbox" checked={form.hasSpouse} onChange={setBool("hasSpouse")} className="h-4 w-4 accent-[var(--brand-accent)]" />
           </label>
@@ -273,7 +273,7 @@ export default function CrsCalculator() {
             </select>
           </Field>
 
-          <label className="flex cursor-pointer items-center justify-between rounded-brand-md border border-line bg-surface px-4 py-3">
+          <label className="flex cursor-pointer items-center justify-between rounded-brand-md border border-primary/15 bg-gradient-to-r from-surface to-white px-4 py-3 transition-colors hover:border-primary/30">
             <span className="text-sm font-semibold text-primary">Sibling living in Canada</span>
             <input type="checkbox" checked={form.sibling} onChange={setBool("sibling")} className="h-4 w-4 accent-[var(--brand-accent)]" />
           </label>
