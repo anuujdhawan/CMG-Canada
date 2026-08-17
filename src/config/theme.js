@@ -14,26 +14,26 @@
 const env = (key, fallback = "") => process.env[key] || fallback;
 
 const colors = {
-  primary: env("NEXT_PUBLIC_THEME_PRIMARY", "#C8102E"), // Canada red — primary actions
-  primaryDark: env("NEXT_PUBLIC_THEME_PRIMARY_DARK", "#A31227"), // deeper red for hover/depth
-  primaryLight: env("NEXT_PUBLIC_THEME_PRIMARY_LIGHT", "#E51F3F"), // bright red for hovers
-  secondary: env("NEXT_PUBLIC_THEME_SECONDARY", "#E51F3F"), // bright red accents
-  accent: env("NEXT_PUBLIC_THEME_ACCENT", "#C8102E"), // maple-leaf red
-  accentDark: env("NEXT_PUBLIC_THEME_ACCENT_DARK", "#A31227"), // darker red for hover
-  accentSoft: env("NEXT_PUBLIC_THEME_ACCENT_SOFT", "#FDF0F1"), // pale red tint (badges, chips)
-  navy: env("NEXT_PUBLIC_THEME_NAVY", "#6E0E1C"), // deep maroon — dark bands & footer
-  navyDark: env("NEXT_PUBLIC_THEME_NAVY_DARK", "#4A0810"), // darkest maroon
-  surface: env("NEXT_PUBLIC_THEME_SURFACE", "#FDF0F1"), // soft tinted surface
-  surfaceAlt: env("NEXT_PUBLIC_THEME_SURFACE_ALT", "#F9E3E5"), // deeper surface
-  text: env("NEXT_PUBLIC_THEME_TEXT", "#21181B"), // ink text
-  muted: env("NEXT_PUBLIC_THEME_MUTED", "#6B5560"), // secondary text
-  border: env("NEXT_PUBLIC_THEME_BORDER", "#F0D3D6"), // hairline borders
-  gold: env("NEXT_PUBLIC_THEME_GOLD", "#C89B2A"), // regulatory accent
-  // Hero gradient stops (top → middle → bottom)
-  heroStart: env("NEXT_PUBLIC_THEME_HERO_START", "#E05A64"),
-  heroMid: env("NEXT_PUBLIC_THEME_HERO_MID", "#C8102E"),
-  heroEnd: env("NEXT_PUBLIC_THEME_HERO_END", "#A31227"),
-  // Hero spacing — top clears the floating navbar; bottom is content padding
+  primary: env("NEXT_PUBLIC_THEME_PRIMARY", "#E1251B"),
+  primaryDark: env("NEXT_PUBLIC_THEME_PRIMARY_DARK", "#B71C1C"),
+  primaryLight: env("NEXT_PUBLIC_THEME_PRIMARY_LIGHT", "#F06A60"),
+  secondary: env("NEXT_PUBLIC_THEME_SECONDARY", "#D94437"),
+  accent: env("NEXT_PUBLIC_THEME_ACCENT", "#E1251B"),
+  accentDark: env("NEXT_PUBLIC_THEME_ACCENT_DARK", "#B71C1C"),
+  accentSoft: env("NEXT_PUBLIC_THEME_ACCENT_SOFT", "#FDE9E6"),
+  navy: env("NEXT_PUBLIC_THEME_NAVY", "#9E2A24"),
+  navyDark: env("NEXT_PUBLIC_THEME_NAVY_DARK", "#7A1C18"),
+  surface: env("NEXT_PUBLIC_THEME_SURFACE", "#FFF9F8"),
+  surfaceAlt: env("NEXT_PUBLIC_THEME_SURFACE_ALT", "#FCE7E4"),
+  text: env("NEXT_PUBLIC_THEME_TEXT", "#4A1915"),
+  muted: env("NEXT_PUBLIC_THEME_MUTED", "#9A5B54"),
+  border: env("NEXT_PUBLIC_THEME_BORDER", "#F2C8C2"),
+  gold: env("NEXT_PUBLIC_THEME_GOLD", "#C74B3F"),
+  // Hero colour stops retained for compatibility with existing integrations.
+  heroStart: env("NEXT_PUBLIC_THEME_HERO_START", "#F17970"),
+  heroMid: env("NEXT_PUBLIC_THEME_HERO_MID", "#E1251B"),
+  heroEnd: env("NEXT_PUBLIC_THEME_HERO_END", "#C12820"),
+  // Keep spacing configurable from .env; the compact CSS contract applies the visual reduction.
   heroPadTop: env("NEXT_PUBLIC_THEME_HERO_PAD_TOP", "7rem"),
   heroPadBottom: env("NEXT_PUBLIC_THEME_HERO_PAD_BOTTOM", "2.5rem"),
 };
@@ -72,13 +72,12 @@ export const theme = {
     "2xl": "1.25rem",
     full: "9999px",
   },
-  // Shadow tints are intentionally neutral-ish red; adjust in globals.css
-  // if a client wants shadow colors to track the new brand color exactly.
+  // Shadows stay very soft so the red palette does not glow around every card.
   shadows: {
-    card: "0 1px 3px rgba(200, 16, 46, 0.05), 0 4px 14px rgba(200, 16, 46, 0.07)",
-    cardHover: "0 4px 14px rgba(200, 16, 46, 0.10), 0 12px 28px rgba(200, 16, 46, 0.10)",
-    dropdown: "0 12px 40px rgba(110, 14, 28, 0.18), 0 4px 12px rgba(110, 14, 28, 0.10)",
-    banner: "0 8px 24px rgba(200, 16, 46, 0.28), 0 2px 8px rgba(200, 16, 46, 0.20)",
+    card: "0 1px 3px rgba(74, 25, 21, 0.03), 0 8px 24px rgba(74, 25, 21, 0.05)",
+    cardHover: "0 6px 18px rgba(74, 25, 21, 0.06), 0 16px 34px rgba(74, 25, 21, 0.06)",
+    dropdown: "0 16px 42px rgba(74, 25, 21, 0.1), 0 4px 12px rgba(74, 25, 21, 0.04)",
+    banner: "0 8px 24px rgba(74, 25, 21, 0.08), 0 2px 8px rgba(74, 25, 21, 0.04)",
   },
   typography: {
     fontSans: "var(--font-jakarta), 'Plus Jakarta Sans', system-ui, sans-serif",

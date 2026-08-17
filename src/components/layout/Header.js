@@ -47,12 +47,12 @@ function DropdownPanel({ children, className, id }) {
       transition={{ duration: 0.18, ease: EASE_OUT }}
       className={cn(
         "absolute top-full left-1/2 -translate-x-1/2 mt-1 bg-white rounded-2xl p-5",
-        "border border-line shadow-[0_20px_60px_rgba(110,14,28,0.14),0_4px_16px_rgba(110,14,28,0.08)]",
+        "border border-line shadow-[0_20px_60px_rgba(13,35,87,0.12),0_4px_16px_rgba(13,35,87,0.05)]",
         "max-h-[calc(100vh-120px)] overflow-y-auto",
         className
       )}
     >
-      <div className="absolute top-0 left-6 right-6 h-0.5 bg-gradient-to-r from-primary via-primary to-accent-dark rounded-full" />
+      <div className="absolute top-0 left-6 right-6 h-0.5 bg-primary rounded-full" />
       {children}
     </motion.div>
   );
@@ -97,7 +97,7 @@ function MegaDropdown({ item, open, onClose }) {
             })}
 
             {featured && (
-              <div className="flex flex-col bg-gradient-to-br from-navy to-primary rounded-xl p-6">
+              <div className="flex flex-col bg-navy rounded-xl p-6">
                 <p className="text-[11px] font-bold uppercase tracking-widest text-white/60 mb-2">{featured.label}</p>
                 <p className="font-bold text-white text-lg mb-2 leading-snug">{featured.title}</p>
                 <p className="text-sm text-white/70 leading-relaxed mb-4 flex-1">{featured.desc}</p>
@@ -241,8 +241,8 @@ export default function Header() {
             className={cn(
               "relative mx-auto max-w-[1400px] bg-white/95 backdrop-blur-md rounded-2xl border border-line/80 px-4 transition-shadow duration-300",
               scrolled
-                ? "shadow-[0_8px_32px_rgba(110,14,28,0.16),0_2px_8px_rgba(110,14,28,0.10)]"
-                : "shadow-[0_4px_24px_rgba(110,14,28,0.10),0_1px_4px_rgba(110,14,28,0.06)]"
+                ? "shadow-[0_8px_32px_rgba(13,35,87,0.12),0_2px_8px_rgba(13,35,87,0.06)]"
+                : "shadow-[0_4px_24px_rgba(13,35,87,0.08),0_1px_4px_rgba(13,35,87,0.04)]"
             )}
           >
             <motion.div

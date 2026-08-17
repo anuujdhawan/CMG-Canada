@@ -51,7 +51,7 @@ function cleanJsonLd(obj) {
 function ContentImage({ image, index }) {
   return (
     <figure className={cn("my-9", index % 2 === 1 && "sm:pl-4")}>
-      <div className="card-red-edge relative aspect-[16/10] overflow-hidden rounded-2xl border border-primary/25 shadow-[0_12px_34px_rgba(200,16,46,0.14)] ring-1 ring-primary/10">
+      <div className="card-red-edge relative aspect-[16/10] overflow-hidden rounded-2xl border border-line shadow-card ring-1 ring-line/60">
         <Image
           src={image.src}
           alt={image.alt}
@@ -86,7 +86,7 @@ const TOOL_QUICK_LINKS = [
 
 function ToolsStrip() {
   return (
-    <section aria-label="Free eligibility tools" className="card-red-edge mt-12 overflow-hidden rounded-2xl border border-primary/25 bg-gradient-to-br from-surface to-white shadow-[0_12px_30px_rgba(200,16,46,0.12)]">
+    <section aria-label="Free eligibility tools" className="card-red-edge mt-12 overflow-hidden rounded-2xl border border-line bg-white shadow-card">
       <div className="flex flex-col gap-5 p-6 sm:p-7 lg:flex-row lg:items-center lg:justify-between">
         <div className="max-w-md">
           <p className="eyebrow text-accent-dark">Free self-service tools</p>
@@ -102,7 +102,7 @@ function ToolsStrip() {
               <Link
                 key={tool.href}
                 href={tool.href}
-                className="group inline-flex items-center gap-1.5 rounded-full border border-line bg-surface/60 px-4 py-2.5 text-[13px] font-bold text-primary transition-all duration-150 hover:border-primary hover:bg-primary hover:text-white"
+                className="group inline-flex items-center gap-1.5 rounded-full border border-line bg-white px-4 py-2.5 text-[13px] font-bold text-primary transition-all duration-150 hover:border-primary hover:bg-primary hover:text-white"
               >
                 <Icon className="h-3.5 w-3.5" aria-hidden />
                 {tool.label}

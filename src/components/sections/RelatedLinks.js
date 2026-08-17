@@ -45,8 +45,8 @@ export default function RelatedLinks({ links, compact = false }) {
 
   if (compact) {
     return (
-      <div className="card-red-edge overflow-hidden rounded-2xl border border-primary/20 bg-white shadow-[0_8px_22px_rgba(200,16,46,0.1)]">
-        <div className="relative border-b border-primary/10 bg-gradient-to-r from-primary/15 via-surface to-white px-5 py-4">
+      <div className="card-red-edge overflow-hidden rounded-2xl border border-line bg-white shadow-card">
+        <div className="relative border-b border-line bg-surface px-5 py-4">
           <p className="eyebrow text-accent-dark">Keep exploring</p>
           <h2 className="mt-1 text-[15px] font-bold text-navy">Related topics</h2>
         </div>
@@ -70,10 +70,10 @@ export default function RelatedLinks({ links, compact = false }) {
   return (
     <section
       aria-label="Related topics"
-      className="card-red-edge mt-14 overflow-hidden rounded-2xl border border-primary/25 bg-gradient-to-br from-surface to-white p-6 shadow-[0_12px_30px_rgba(200,16,46,0.12)] sm:p-8"
+      className="card-red-edge mt-14 overflow-hidden rounded-2xl border border-line bg-white p-6 shadow-card sm:p-8"
     >
       <div className="flex items-center gap-3">
-        <span aria-hidden className="h-8 w-1 rounded-full bg-gradient-to-b from-primary-light to-gold" />
+        <span aria-hidden className="h-8 w-1 rounded-full bg-primary" />
         <div>
           <p className="eyebrow text-accent-dark">Keep exploring</p>
           <h2 className="mt-1 text-lg font-bold text-navy">Explore related topics</h2>

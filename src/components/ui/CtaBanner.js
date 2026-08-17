@@ -19,9 +19,9 @@ const STATS = [
 ];
 
 const AVATARS = [
-  { initials: "AS", gradient: "linear-gradient(135deg, var(--brand-primary-light) 0%, var(--brand-primary) 100%)" },
-  { initials: "MK", gradient: "linear-gradient(135deg, var(--brand-primary-dark) 0%, var(--brand-navy) 100%)" },
-  { initials: "SN", gradient: "linear-gradient(135deg, var(--brand-hero-start) 0%, var(--brand-primary-light) 100%)" },
+  { initials: "AS", gradient: "var(--brand-primary)" },
+  { initials: "MK", gradient: "var(--brand-primary-dark)" },
+  { initials: "SN", gradient: "var(--brand-primary-light)" },
 ];
 
 function LiveDot({ shouldReduce }) {
@@ -68,13 +68,13 @@ export default function CtaBanner({ variant = "standard", title, description }) 
           style={{ backgroundImage: `url("${GRAIN_SVG}")`, backgroundRepeat: "repeat", opacity: 0.05 }}
         />
 
-        {/* Red radial spotlight — breathing */}
+        {/* Quiet neutral surface keeps the CTA secondary to the content. */}
         <motion.div
           aria-hidden
           className="pointer-events-none absolute inset-0"
-          style={{ background: "radial-gradient(ellipse 60% 40% at 50% 0%, rgba(200,16,46,0.07) 0%, transparent 70%)" }}
-          animate={shouldReduce ? { opacity: 0.07 } : { opacity: [0.05, 0.1, 0.05] }}
-          transition={shouldReduce ? { duration: 0 } : { duration: 4, repeat: Infinity, ease: "easeInOut" }}
+          style={{ background: "rgba(0, 48, 135, 0.02)" }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0 }}
         />
 
         <div className="relative z-10 w-full px-6 md:px-10">

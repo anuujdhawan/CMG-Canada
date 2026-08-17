@@ -43,17 +43,11 @@ export default function HeroBanner({
       className={cn("relative overflow-hidden text-white", HERO_PADDING, className)}
       style={{ background: HERO_GRADIENT, isolation: "isolate" }}
     >
-      <div aria-hidden className="pointer-events-none absolute inset-0 hero-tex-grid opacity-50" />
+      <div aria-hidden className="pointer-events-none absolute inset-0 hero-tex-grid opacity-[0.08]" />
       <motion.div className="hero-light-orb hero-light-orb--left" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
       <motion.div className="hero-light-orb hero-light-orb--right" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
       <MapleLeaves />
       <BigMapleLeaf />
-
-      <div
-        className="pointer-events-none absolute inset-0"
-        style={{ background: "radial-gradient(ellipse 120% 100% at 50% 50%, transparent 58%, rgba(74,8,16,0.34) 100%)" }}
-        aria-hidden
-      />
 
       <div className="hero-inner site-container relative z-10">
         <motion.div className="hero-copy w-full max-w-4xl" style={contentStyle}>
@@ -84,11 +78,11 @@ export default function HeroBanner({
           </div>
 
           <div>
-            <h1 className={cn(HERO_TITLE_CLASS, "mb-5")}>{headline}</h1>
+            <h1 className={cn(HERO_TITLE_CLASS, "mb-4")}>{headline}</h1>
           </div>
 
           {(leadContent || subheadline) && (
-            <div className="hero-lead mb-7 max-w-2xl">
+            <div className="hero-lead mb-5 max-w-xl">
               {leadContent || <p className="text-sm leading-relaxed text-white/85 sm:text-base">{subheadline}</p>}
             </div>
           )}
@@ -111,7 +105,7 @@ export default function HeroBanner({
           )}
 
           {trustBadges.length > 0 && (
-            <div className="mt-7">
+            <div className="mt-5">
               <div className="flex flex-wrap gap-2">
                 {trustBadges.map((label, index) => {
                   const Icon = TRUST_BADGE_ICONS[index % TRUST_BADGE_ICONS.length];

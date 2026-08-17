@@ -18,8 +18,8 @@ const RAIL_TOOLS = [
 export default function PageRail({ related = [], showTools = true }) {
   return (
     <div className="space-y-6 lg:sticky lg:top-28">
-      {/* Book consultation — red gradient card */}
-      <div className="card-red-edge relative overflow-hidden rounded-2xl bg-gradient-to-br from-navy-dark via-navy to-primary p-6 text-white shadow-premium">
+      {/* Book consultation — quiet navy anchor card */}
+      <div className="card-red-edge relative overflow-hidden rounded-2xl bg-navy p-6 text-white shadow-premium">
         <div aria-hidden className="pointer-events-none absolute -right-10 -top-12 h-36 w-36 rounded-full bg-white/10 blur-2xl" />
         <div aria-hidden className="pointer-events-none absolute inset-0 hero-tex-diagonal opacity-25" />
         <div className="relative">
@@ -42,8 +42,8 @@ export default function PageRail({ related = [], showTools = true }) {
 
       {/* Quick tools */}
       {showTools && (
-        <div className="card-red-edge overflow-hidden rounded-2xl border border-primary/20 bg-white shadow-[0_8px_22px_rgba(200,16,46,0.1)]">
-          <div className="relative border-b border-primary/10 bg-gradient-to-r from-primary/15 via-surface to-white px-5 py-4">
+        <div className="card-red-edge overflow-hidden rounded-2xl border border-line bg-white shadow-card">
+          <div className="relative border-b border-line bg-surface px-5 py-4">
             <p className="eyebrow text-accent-dark">Free tools</p>
             <h2 className="mt-1 text-[15px] font-bold text-navy">Check eligibility now</h2>
           </div>

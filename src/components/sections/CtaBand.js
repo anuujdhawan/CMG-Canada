@@ -13,7 +13,7 @@ export default function CtaBand({ employer = false }) {
     : { label: "Book a Free Consultation", href: "/book" };
 
   return (
-    <section className="relative isolate mt-16 overflow-hidden rounded-[1.5rem] bg-gradient-to-br from-navy-dark via-navy to-primary p-7 text-white shadow-premium sm:p-9">
+    <section className="relative isolate mt-16 overflow-hidden rounded-[1.5rem] bg-navy p-7 text-white shadow-premium sm:p-9">
       <div aria-hidden className="pointer-events-none absolute -right-16 -top-20 h-56 w-56 rounded-full bg-white/10 blur-3xl" />
       <div aria-hidden className="pointer-events-none absolute inset-0 hero-tex-diagonal opacity-30" />
       <div className="flex flex-col items-start justify-between gap-6 sm:flex-row sm:items-center">

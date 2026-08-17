@@ -24,7 +24,7 @@ export default function InteractiveToolsGrid() {
               className="card-red-edge group relative flex flex-col rounded-2xl border border-line bg-white p-5 shadow-card transition-all duration-300 hover:-translate-y-1 hover:border-primary/40 hover:shadow-card-hover"
             >
               <div className="flex items-center justify-between gap-3">
-                <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-primary-light text-white shadow-sm transition-transform group-hover:scale-105">
+                <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary text-white shadow-sm transition-transform group-hover:scale-105">
                   <Icon className="h-5 w-5" aria-hidden />
                 </span>
                 <span className="rounded-md bg-surface px-2 py-0.5 text-[11px] font-bold tracking-[0.16em] text-primary">0{index + 1}</span>

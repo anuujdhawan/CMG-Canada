@@ -10,7 +10,7 @@ import { site } from "@/config/site";
 export default function StickyMobileCTA() {
   return (
     <div className="fixed bottom-0 inset-x-0 z-[64] lg:hidden">
-      <div className="flex items-stretch gap-px bg-white/90 backdrop-blur-md border-t border-line shadow-[0_-4px_20px_rgba(110,14,28,0.08)]">
+      <div className="flex items-stretch gap-px bg-white/90 backdrop-blur-md border-t border-line shadow-[0_-4px_20px_rgba(13,35,87,0.08)]">
         <a
           href={`mailto:${site.email}`}
           className="flex flex-1 items-center justify-center gap-2 py-3.5 text-sm font-bold text-primary"

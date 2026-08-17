@@ -14,8 +14,8 @@ export default function CrsCalculatorPage() {
   if (!crsPage) return null;
   return (
     <ContentPage page={crsPage}>
-      <section aria-label="CRS calculator" className="card-red-edge overflow-hidden rounded-2xl border border-line bg-gradient-to-br from-surface/80 to-white shadow-card">
-        <div className="relative border-b border-line bg-gradient-to-r from-primary/10 via-surface to-white px-6 py-5 sm:px-8">
+      <section aria-label="CRS calculator" className="card-red-edge overflow-hidden rounded-2xl border border-line bg-white shadow-card">
+        <div className="relative border-b border-line bg-surface px-6 py-5 sm:px-8">
           <div className="flex flex-wrap items-center justify-between gap-3">
             <div>
               <h2 className="text-lg font-bold text-navy">Estimate your CRS score</h2>

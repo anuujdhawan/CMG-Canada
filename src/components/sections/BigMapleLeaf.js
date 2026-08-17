@@ -17,12 +17,12 @@ export default function BigMapleLeaf() {
     <motion.div
       aria-hidden
       className="pointer-events-none absolute z-[1] hidden sm:block"
-      style={{ bottom: "6%", right: "5%", opacity: shouldReduce ? 0.55 : undefined }}
+      style={{ bottom: "6%", right: "5%", opacity: shouldReduce ? 0.24 : undefined }}
       animate={
         shouldReduce
           ? {}
           : {
-              opacity: [0.6, 0.95, 0.6],
+              opacity: [0.16, 0.28, 0.16],
               rotate: [-5, 5, -5],
               scale: [0.97, 1.04, 0.97],
               y: [0, -12, 0],
@@ -39,7 +39,7 @@ export default function BigMapleLeaf() {
       <div
         className="absolute inset-0 rounded-full"
         style={{
-          background: "radial-gradient(circle, rgba(255,255,255,0.28) 0%, rgba(255,255,255,0) 68%)",
+          background: "radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 68%)",
           transform: "scale(1.35)",
         }}
       />
@@ -47,7 +47,7 @@ export default function BigMapleLeaf() {
         width="100%"
         height="auto"
         viewBox={CANADA_LEAF_VIEWBOX}
-        className="relative w-44 lg:w-64 xl:w-72 drop-shadow-[0_10px_30px_rgba(0,0,0,0.35)]"
+        className="relative w-36 lg:w-52 xl:w-60 drop-shadow-[0_8px_24px_rgba(0,0,0,0.18)]"
       >
         <defs>
           <linearGradient id="bigleaf-fill" x1="0" y1="0" x2="0" y2="1">

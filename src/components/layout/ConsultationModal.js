@@ -87,12 +87,12 @@ export default function ConsultationModal() {
       }}
     >
       <section
-        className="relative flex max-h-[calc(100vh-1.5rem)] w-full max-w-3xl flex-col overflow-hidden rounded-3xl border border-white/70 bg-surface shadow-[0_28px_90px_rgba(74,8,16,0.35)] sm:max-h-[calc(100vh-3rem)]"
+        className="relative flex max-h-[calc(100vh-1.5rem)] w-full max-w-3xl flex-col overflow-hidden rounded-3xl border border-white/70 bg-surface shadow-[0_28px_90px_rgba(13,35,87,0.2)] sm:max-h-[calc(100vh-3rem)]"
         role="dialog"
         aria-modal="true"
         aria-labelledby="consultation-modal-title"
       >
-        <div className="flex shrink-0 items-center justify-between gap-4 border-b border-white/15 bg-gradient-to-br from-navy via-primary to-primary-dark px-5 py-4 text-white backdrop-blur sm:px-7">
+        <div className="flex shrink-0 items-center justify-between gap-4 border-b border-white/15 bg-navy px-5 py-4 text-white backdrop-blur sm:px-7">
           <div className="flex min-w-0 items-center gap-3">
             <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/20 bg-white/15 text-white shadow-sm">
               <CalendarCheck className="h-5 w-5" aria-hidden="true" />

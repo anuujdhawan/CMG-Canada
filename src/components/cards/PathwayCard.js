@@ -34,8 +34,8 @@ export default function PathwayCard({
           </span>
           <span className="pathway-card__number">{String(index + 1).padStart(2, "0")}</span>
         </div>
-        <p className="relative z-10 mt-6 text-[10px] font-bold uppercase tracking-[0.18em] text-white/55">{eyebrow}</p>
-        <h3 className="relative z-10 mt-2 text-[17px] font-bold leading-snug text-white">{label}</h3>
+        <p className="relative z-10 mt-5 text-[10px] font-bold uppercase tracking-[0.18em] text-accent-dark">{eyebrow}</p>
+        <h3 className="relative z-10 mt-2 text-[17px] font-bold leading-snug text-navy">{label}</h3>
       </div>
       <div className="pathway-card__body">
         <p className="text-[13px] leading-relaxed text-muted">{description}</p>

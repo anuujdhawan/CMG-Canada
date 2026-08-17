@@ -315,11 +315,11 @@ function renderTable(rows) {
   }
 
   return (
-    <div className="my-7 overflow-x-auto rounded-2xl border border-primary/20 bg-white shadow-[0_10px_28px_rgba(200,16,46,0.1)]">
+    <div className="my-7 overflow-x-auto rounded-2xl border border-line bg-white shadow-card">
       <table className="w-full min-w-[480px] border-collapse text-left text-[14.5px]">
         {header && (
           <thead>
-            <tr className="bg-gradient-to-r from-primary/15 via-surface to-white">
+            <tr className="bg-surface">
               {header.map((cell, j) => (
                 <th key={j} className="px-4 py-3 text-[13px] font-bold uppercase tracking-wide text-primary">
                   {renderInline(cell)}
@@ -358,7 +358,7 @@ export function Block({ block, dark = false, lead = false }) {
     case "paragraph":
       if (lead && !dark) {
         return (
-              <p className="mt-6 rounded-xl border-l-4 border-primary bg-gradient-to-br from-surface to-white px-5 py-4 text-[17px] leading-relaxed text-navy/95 shadow-[0_6px_18px_rgba(200,16,46,0.08)]">
+              <p className="mt-6 rounded-xl border-l-4 border-primary bg-surface px-5 py-4 text-[17px] leading-relaxed text-navy/95 shadow-card">
             {renderInline(block.text)}
           </p>
         );
@@ -399,7 +399,7 @@ export function Block({ block, dark = false, lead = false }) {
           className={
             dark
               ? "my-6 rounded-r-xl border-l-4 border-accent-soft bg-white/10 px-5 py-4 text-[15px] italic leading-relaxed text-white/90"
-              : "my-7 rounded-r-2xl border-l-4 border-primary bg-gradient-to-br from-surface to-white px-5 py-5 text-[15px] italic leading-relaxed text-navy shadow-[0_8px_22px_rgba(200,16,46,0.1)]"
+              : "my-7 rounded-r-2xl border-l-4 border-primary bg-surface px-5 py-5 text-[15px] italic leading-relaxed text-navy shadow-card"
           }
         >
           {renderInline(block.text)}

@@ -4,8 +4,7 @@
  * band looks and feels identical site-wide.
  */
 
-export const HERO_GRADIENT =
-  "linear-gradient(118deg, var(--brand-navy-dark) 0%, var(--brand-navy) 42%, var(--brand-primary-dark) 72%, var(--brand-primary) 100%)";
+export const HERO_GRADIENT = "var(--brand-navy)";
 
 /** Shared hero shell — the CSS contract keeps every route the same height. */
 export const HERO_PADDING = "hero-shell";

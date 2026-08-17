@@ -68,7 +68,7 @@ export default function PageIndexGrid({ pathname }) {
               href={page.path}
               className="card-red-edge group relative flex flex-col overflow-hidden rounded-2xl border border-line bg-white p-0 shadow-card transition-all duration-300 hover:-translate-y-1 hover:border-primary/40 hover:shadow-card-hover"
             >
-              <div className="relative bg-gradient-to-br from-navy-dark via-navy to-primary px-5 py-5 text-white">
+              <div className="relative bg-navy px-5 py-5 text-white">
                 <div aria-hidden className="absolute -right-8 -top-10 h-28 w-28 rounded-full bg-white/10 blur-2xl" />
                 <div className="relative flex items-center justify-between gap-2">
                   <span className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/20 bg-white/12 text-white shadow-sm transition-transform group-hover:scale-105">

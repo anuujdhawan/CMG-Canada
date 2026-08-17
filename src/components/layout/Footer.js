@@ -72,8 +72,7 @@ export default function Footer() {
     <footer
       className="pt-10 pb-5"
       style={{
-        background:
-          "linear-gradient(160deg, var(--brand-navy) 0%, var(--brand-primary-dark) 50%, var(--brand-primary) 100%)",
+        background: "var(--brand-navy-dark)",
       }}
     >
       <div className="max-w-7xl mx-auto px-5 md:px-8">

@@ -56,7 +56,7 @@ export default function FloatingCTA() {
         onClick={() => setOpen((v) => !v)}
         aria-label={open ? "Close quick actions" : "Open quick actions"}
         aria-expanded={open}
-        className="flex h-14 w-14 items-center justify-center rounded-full bg-primary text-white shadow-[0_8px_24px_rgba(200,16,46,0.4)] hover:bg-navy transition-colors"
+        className="flex h-14 w-14 items-center justify-center rounded-full bg-primary text-white shadow-[0_8px_24px_rgba(13,35,87,0.18)] hover:bg-navy transition-colors"
         whileHover={shouldReduce ? {} : { scale: 1.06 }}
         whileTap={shouldReduce ? {} : { scale: 0.95 }}
       >
