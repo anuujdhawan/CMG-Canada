@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Send } from "lucide-react";
+import { CalendarCheck, Send } from "lucide-react";
 import { Field, TextInput, SelectInput, TextArea, CheckboxField } from "./fields";
 import { FormShell, FieldGrid } from "./FormShell";
 import FormSuccessCard from "./FormSuccessCard";
@@ -35,6 +35,7 @@ export default function ConsultationForm({ variant = "standard" }) {
     if (!form.fullName.trim()) e.fullName = "Please enter your full name.";
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email.trim())) e.email = "Please enter a valid email address.";
     if (!form.country.trim()) e.country = "Please enter your country of residence.";
+    if (!urgent && !form.interest) e.interest = "Please tell us what you need help with.";
     if (!form.mode) e.mode = "Please choose a consultation mode.";
     if (!form.preferredDate) e.preferredDate = "Please pick a preferred date.";
     if (urgent && !form.deadline) e.deadline = "Please tell us your deadline — it matters for urgent cases.";
@@ -52,7 +53,7 @@ export default function ConsultationForm({ variant = "standard" }) {
 
   if (status === "success") {
     return (
-      <FormSuccessCard title="Consultation requested" tone={urgent ? "urgent" : "success"}>
+      <FormSuccessCard title="Consultation requested" tone={urgent ? "urgent" : "success"} className="consultation-form-success">
         {urgent
           ? `Your urgent request is in. Our team will contact ${form.email} within one business day to confirm your consultation.`
           : `Thanks, ${form.fullName.split(" ")[0] || "there"}. We'll confirm your consultation at ${form.email} within one business day.`}
@@ -61,8 +62,28 @@ export default function ConsultationForm({ variant = "standard" }) {
   }
 
   return (
-    <FormShell>
-      <FieldGrid>
+    <FormShell as="form" onSubmit={onSubmit} noValidate className="consultation-form-shell">
+      <div className="consultation-form-intro">
+        <span className="consultation-form-intro-mark" aria-hidden="true">
+          <CalendarCheck className="h-6 w-6" />
+        </span>
+        <div>
+          <p className="consultation-form-kicker">Personalised guidance</p>
+          <h3 className="consultation-form-title">
+            {urgent ? "Tell us what needs attention." : "Tell us what you need help with."}
+          </h3>
+          <p className="consultation-form-description">
+            Share a few details and our regulated team will follow up with the right next step.
+          </p>
+        </div>
+      </div>
+
+      <div className="consultation-form-section-label">
+        <span>01</span>
+        Your details
+      </div>
+
+      <FieldGrid className="consultation-form-fields">
         <Field label="Full name" htmlFor="consult-name" required error={errors.fullName}>
           <TextInput id="consult-name" autoComplete="name" value={form.fullName} onChange={set("fullName")} error={errors.fullName} />
         </Field>
@@ -115,7 +136,7 @@ export default function ConsultationForm({ variant = "standard" }) {
             <TextArea id="consult-message" rows={4} value={form.message} onChange={set("message")} error={errors.message} />
           </Field>
         </div>
-        <div className="sm:col-span-2">
+        <div className="consultation-form-consent sm:col-span-2">
           <CheckboxField
             htmlFor="consult-consent"
             checked={form.consent}
@@ -128,12 +149,20 @@ export default function ConsultationForm({ variant = "standard" }) {
 
       <FormErrorBanner message={serverError} />
 
-      <FormSubmitButton loading={status === "loading"} variant={urgent ? "accent" : "primary"} icon={Send}>
-        {urgent ? "Request urgent consultation" : "Request consultation"}
-      </FormSubmitButton>
-      <p className="mt-4 text-xs leading-relaxed text-muted">
-        Demo booking flow — no payment is taken here. A consultant confirms availability before anything is booked.
-      </p>
+      <div className="consultation-form-submit-row">
+        <div>
+          <p className="consultation-form-submit-title">Ready when you are</p>
+          <p className="consultation-form-submit-note">No payment is taken. We confirm availability before anything is booked.</p>
+        </div>
+        <FormSubmitButton
+          loading={status === "loading"}
+          variant={urgent ? "accent" : "primary"}
+          icon={Send}
+          className="consultation-form-submit"
+        >
+          {urgent ? "Request urgent consultation" : "Request consultation"}
+        </FormSubmitButton>
+      </div>
     </FormShell>
   );
 }

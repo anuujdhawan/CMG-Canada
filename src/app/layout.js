@@ -1,4 +1,5 @@
 import { Libre_Baskerville, Plus_Jakarta_Sans } from "next/font/google";
+import "react-chatbot-kit/build/main.css";
 import "@/styles/globals.css";
 import { site } from "@/config/site";
 import { theme, themeCssVars } from "@/config/theme";
@@ -6,8 +7,10 @@ import { buildMetadata } from "@/lib/seo";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import ScrollProgressBar from "@/components/layout/ScrollProgressBar";
-import FloatingCTA from "@/components/layout/FloatingCTA";
 import StickyMobileCTA from "@/components/layout/StickyMobileCTA";
+import ConsultationModal from "@/components/layout/ConsultationModal";
+import GuidedChatbot from "@/components/chatbot/GuidedChatbot";
+import WhatsAppBubble from "@/components/layout/WhatsAppBubble";
 
 const jakarta = Plus_Jakarta_Sans({
   subsets: ["latin"],
@@ -100,8 +103,10 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
-        <FloatingCTA />
         <StickyMobileCTA />
+        <ConsultationModal />
+        <WhatsAppBubble />
+        <GuidedChatbot />
       </body>
     </html>
   );
