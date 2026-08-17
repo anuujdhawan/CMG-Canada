@@ -2007,10 +2007,10 @@
   justify-content: center;
   width: 3.75rem;
   height: 3.75rem;
-  border: 1px solid rgba(255, 255, 255, 0.55);
+  border: 0;
   border-radius: 9999px;
-  color: #ffffff;
-  box-shadow: 0 16px 40px rgba(74, 8, 16, 0.28), 0 2px 8px rgba(200, 16, 46, 0.24);
+  background: transparent;
+  box-shadow: 0 16px 40px rgba(74, 8, 16, 0.24), 0 2px 8px rgba(200, 16, 46, 0.18);
   transition: transform 180ms ease, box-shadow 180ms ease;
 }
 
@@ -2020,18 +2020,15 @@
 }
 
 .cmg-whatsapp-bubble-icon {
-  position: relative;
   display: inline-flex;
+  width: 100%;
+  height: 100%;
 }
 
-.cmg-whatsapp-bubble-phone {
-  position: absolute;
-  right: 0.1rem;
-  bottom: 0.1rem;
-  border-radius: 999px;
-  background: currentColor;
-  color: var(--brand-primary);
-  padding: 0.12rem;
+.cmg-whatsapp-bubble-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
 @media (max-width: 640px) {
