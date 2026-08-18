@@ -15,8 +15,8 @@ function localPath(value) {
 }
 
 /**
- * Opens the existing consultation lead form in place for every local booking
- * CTA, so visitors do not lose their place by navigating to /book.
+ * Opens the existing consultation lead form in place for every configured
+ * local consultation CTA, so visitors do not lose their place while booking.
  */
 export default function ConsultationModal() {
   const [open, setOpen] = useState(false);
@@ -24,7 +24,6 @@ export default function ConsultationModal() {
 
   useEffect(() => {
     const bookingPaths = new Set([
-      "/book",
       localPath(site.ctas.primary.href),
       localPath(site.ctas.urgent.href),
     ].filter(Boolean));
@@ -87,7 +86,7 @@ export default function ConsultationModal() {
       }}
     >
       <section
-        className="relative flex max-h-[calc(100vh-1.5rem)] w-full max-w-3xl flex-col overflow-hidden rounded-3xl border border-white/70 bg-surface shadow-[0_28px_90px_rgba(13,35,87,0.2)] sm:max-h-[calc(100vh-3rem)]"
+        className="relative flex max-h-[calc(100vh-1.5rem)] w-full max-w-3xl flex-col overflow-hidden rounded-3xl border border-white/70 bg-surface shadow-[0_28px_90px_color-mix(in_srgb,var(--brand-navy)_20%,transparent)] sm:max-h-[calc(100vh-3rem)]"
         role="dialog"
         aria-modal="true"
         aria-labelledby="consultation-modal-title"

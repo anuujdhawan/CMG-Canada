@@ -21,7 +21,7 @@ function BrandLogo({ scrolled }) {
       <motion.div
         animate={{ scale: scrolled ? 0.9 : 1 }}
         transition={{ duration: DURATION.hover, ease: EASE_OUT }}
-        className="flex items-center"
+        className="header-logo-shell flex items-center"
       >
         <Image
           src={site.logos.large}
@@ -47,7 +47,7 @@ function DropdownPanel({ children, className, id }) {
       transition={{ duration: 0.18, ease: EASE_OUT }}
       className={cn(
         "absolute top-full left-1/2 -translate-x-1/2 mt-1 bg-white rounded-2xl p-5",
-        "border border-line shadow-[0_20px_60px_rgba(13,35,87,0.12),0_4px_16px_rgba(13,35,87,0.05)]",
+        "border border-line shadow-[0_20px_60px_color-mix(in_srgb,var(--brand-navy)_12%,transparent),0_4px_16px_color-mix(in_srgb,var(--brand-navy)_5%,transparent)]",
         "max-h-[calc(100vh-120px)] overflow-y-auto",
         className
       )}
@@ -239,10 +239,10 @@ export default function Header() {
         <div className="px-3 pt-3 sm:px-4">
           <div
             className={cn(
-              "relative mx-auto max-w-[1400px] bg-white/95 backdrop-blur-md rounded-2xl border border-line/80 px-4 transition-shadow duration-300",
+              "site-header__nav-shell relative mx-auto max-w-[1400px] bg-white/95 backdrop-blur-md rounded-2xl border border-line/80 px-4 transition-shadow duration-300",
               scrolled
-                ? "shadow-[0_8px_32px_rgba(13,35,87,0.12),0_2px_8px_rgba(13,35,87,0.06)]"
-                : "shadow-[0_4px_24px_rgba(13,35,87,0.08),0_1px_4px_rgba(13,35,87,0.04)]"
+                ? "shadow-[0_8px_32px_color-mix(in_srgb,var(--brand-navy)_12%,transparent),0_2px_8px_color-mix(in_srgb,var(--brand-navy)_6%,transparent)]"
+                : "shadow-[0_4px_24px_color-mix(in_srgb,var(--brand-navy)_8%,transparent),0_1px_4px_color-mix(in_srgb,var(--brand-navy)_4%,transparent)]"
             )}
           >
             <motion.div
@@ -253,7 +253,7 @@ export default function Header() {
               <BrandLogo scrolled={scrolled} />
 
               {/* Desktop Nav */}
-              <nav className="hidden lg:flex items-center gap-0.5" aria-label="Main">
+              <nav className="site-header__desktop-nav hidden lg:flex items-center gap-0.5" aria-label="Main">
                 {navigation.header.map((item) => {
                   const open = openMenu === item.label;
                   const active = isActiveNavItem(pathname, item);
@@ -268,7 +268,7 @@ export default function Header() {
                           ref={(el) => {
                             triggerRefs.current[item.label] = el;
                           }}
-                          className={cn(dropdownBtnClass, (open || active) && "text-primary bg-primary/10", active && "nav-tab-active")}
+                          className={cn(dropdownBtnClass, (open || active) && "text-primary bg-primary/10", active && "nav-tab-active-light")}
                           aria-haspopup="true"
                           aria-expanded={open}
                           aria-controls={`${slugify(item.label)}-dropdown-panel`}
@@ -291,7 +291,7 @@ export default function Header() {
                       className={cn(
                         navLinkClass,
                         item.standalone && "inline-flex items-center gap-1.5 text-accent-dark font-bold",
-                        item.standalone && active && "nav-tab-active"
+                        item.standalone && active && "nav-tab-active-light"
                       )}
                     >
                       {item.standalone && (
@@ -307,7 +307,7 @@ export default function Header() {
               <div className="hidden lg:flex items-center">
                 <Link
                   href={site.ctas.primary.href}
-                  className="rounded-md bg-primary text-white font-bold px-4 py-2.5 text-[13px] hover:bg-navy transition-colors shadow-md whitespace-nowrap"
+                  className="site-header__cta rounded-md bg-primary text-white font-bold px-4 py-2.5 text-[13px] hover:bg-navy transition-colors shadow-md whitespace-nowrap"
                 >
                   {site.ctas.primary.label}
                 </Link>
@@ -316,7 +316,7 @@ export default function Header() {
               {/* Mobile hamburger */}
               <button
                 onClick={() => setMobileOpen(true)}
-                className="lg:hidden p-2.5 rounded-md text-primary hover:bg-primary/10 transition-colors"
+                className="site-header__menu-button lg:hidden p-2.5 rounded-md text-primary hover:bg-primary/10 transition-colors"
                 aria-label="Open menu"
               >
                 <Menu className="h-6 w-6" />

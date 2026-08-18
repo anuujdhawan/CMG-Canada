@@ -5,7 +5,7 @@ import Link from "next/link";
 import { ArrowRight, Award, ChevronRight, Clock, ShieldCheck } from "lucide-react";
 import { motion, useScroll, useTransform, useReducedMotion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { HERO_GRADIENT, HERO_PADDING, HERO_TITLE_CLASS } from "@/lib/hero";
+import { HERO_PADDING, HERO_TITLE_CLASS } from "@/lib/hero";
 import MapleLeaves from "@/components/sections/MapleLeaves";
 import BigMapleLeaf from "@/components/sections/BigMapleLeaf";
 
@@ -26,6 +26,7 @@ export default function HeroBanner({
   ctaButtons = [],
   trustBadges = [],
   children,
+  variant = "default",
 }) {
   const ref = useRef(null);
   const { scrollYProgress } = useScroll({ target: ref, offset: ["start start", "end start"] });
@@ -35,13 +36,14 @@ export default function HeroBanner({
   const contentY = useTransform(scrollYProgress, [0, 1], [0, -90]);
   const contentOpacity = useTransform(scrollYProgress, [0, 0.7], [1, 0]);
   const contentStyle = shouldReduce ? undefined : { y: contentY, opacity: contentOpacity, willChange: "transform" };
+  const isHomepage = variant === "home";
 
   return (
     <motion.section
       ref={ref}
       aria-label="Page introduction"
-      className={cn("relative overflow-hidden text-white", HERO_PADDING, className)}
-      style={{ background: HERO_GRADIENT, isolation: "isolate" }}
+      className={cn("relative overflow-hidden text-white", HERO_PADDING, isHomepage ? "homepage-hero" : "site-page-hero", className)}
+      style={{ isolation: "isolate" }}
     >
       <div aria-hidden className="pointer-events-none absolute inset-0 hero-tex-grid opacity-[0.08]" />
       <motion.div className="hero-light-orb hero-light-orb--left" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
@@ -87,13 +89,13 @@ export default function HeroBanner({
             </div>
           )}
 
-          {children}
+          {!isHomepage && children}
 
           {ctaButtons.length > 0 && (
             <div>
               <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap">
                 {ctaButtons.map((cta) => (
-                  <div key={cta.href} className="w-full sm:w-auto">
+                  <div key={`${cta.href}-${cta.label}`} className="w-full sm:w-auto">
                     <Link href={cta.href} className={cn("hero-button", cta.variant === "dark" ? "hero-button--dark" : "hero-button--light")}>
                       {cta.label}
                       <ArrowRight className="h-4 w-4" />
@@ -122,6 +124,7 @@ export default function HeroBanner({
             </div>
           )}
         </motion.div>
+        {isHomepage && <div className="homepage-hero__aside-slot">{children}</div>}
       </div>
       <div aria-hidden className="hero-bottom-rule absolute inset-x-0 bottom-0 h-1" />
     </motion.section>

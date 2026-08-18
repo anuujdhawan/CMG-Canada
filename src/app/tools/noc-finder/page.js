@@ -1,11 +1,14 @@
 import { buildMetadata } from "@/lib/seo";
+import { getPage } from "@/lib/sitePages";
+import { rebrand } from "@/components/templates/ContentPage";
 import ToolShell from "@/components/templates/ToolShell";
 import NocFinder from "@/components/tools/NocFinder";
 
+const page = getPage("/tools/noc-finder");
+
 export const metadata = buildMetadata({
-  title: "NOC / Occupation Finder",
-  description:
-    "Search a demo subset of NOC 2021 occupations by keyword or code and filter by TEER category.",
+  title: rebrand(page?.seo.title || page?.h1 || "NOC / Occupation Finder"),
+  description: rebrand(page?.seo.description || "Search a demo subset of NOC 2021 occupations by keyword or code and filter by TEER category."),
   path: "/tools/noc-finder",
 });
 

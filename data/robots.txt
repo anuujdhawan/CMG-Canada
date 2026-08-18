@@ -1,0 +1,36 @@
+# https://commonwealthmigration.ca/robots.txt
+
+User-agent: *
+Allow: /
+
+# Keep internal/utility routes out of the index
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /*?*utm_
+Disallow: /*?*fbclid
+
+# Explicitly welcome AI/answer-engine crawlers (AEO) — all major ones
+# allowed to crawl the same public content as Googlebot.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://commonwealthmigration.ca/sitemap.xml

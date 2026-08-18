@@ -17,7 +17,7 @@ export default function ScrollProgressBar() {
   return (
     <motion.div
       aria-hidden
-      style={{ scaleX: progress, boxShadow: "0 0 8px rgba(0,48,135,0.22)" }}
+      style={{ scaleX: progress, boxShadow: "0 0 8px color-mix(in srgb, var(--brand-primary) 22%, transparent)" }}
       className="fixed top-0 inset-x-0 h-[3px] origin-left z-[60] bg-primary"
     />
   );

@@ -2,7 +2,7 @@ import { getAllPages } from "@/lib/sitePages";
 import { site } from "@/config/site";
 
 /**
- * Sitemap — one URL for every page built from the scraped content, using each
+ * Sitemap — one URL for every page built from the approved Markdown content, using each
  * page's own sitemap priority and last-modified date from the content files.
  * Emits nothing unless the site URL is configured.
  */

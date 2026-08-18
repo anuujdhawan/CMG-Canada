@@ -3,17 +3,9 @@ import { site } from "@/config/site";
 /**
  * Navigation structure — Commonwealth Migration Canada.
  *
- * Utility bar: info@commonwealthmigration.ca · Client Login
- * Main nav:     Home · Immigrate ▾ · Work, Study & Visit ▾ · Sponsor & Status ▾
- *               · Refusals & Appeals (standalone) · For Employers ▾
- *               · Tools ▾ · Resources ▾ · About ▾ · Contact ▾
- *
- * `header` drives the desktop navbar. Dropdowns follow the CMG "mega-menu"
- * style (as used on cmg_web): grouped columns with category headers plus a
- * featured gradient card. Tools+Resources and About+Contact are clubbed on
- * desktop (per the PDF footer's own condensed Company column) to keep the
- * bar calm; `main` drives the mobile accordions with the full structure,
- * `footer` the footer columns.
+ * The older, full content inventory is intentionally restored here: the
+ * dropdowns expose the routes represented by the scraped-data pages, while
+ * the shared red-only visual treatment remains controlled by the theme.
  */
 
 const immigrateColumns = [
@@ -150,33 +142,25 @@ const contactColumns = [
   },
 ];
 
-/* ── Clubbed desktop groups (keeps every link; fewer, calmer top-level items) ──
-   Mirrors the footer's own condensed columns (Company = About + Contact).
-   The mobile menu below retains the full un-clubbed PDF structure. */
 const toolsResourcesColumns = [toolsColumns[0], resourcesColumns[0]];
 const companyColumns = [aboutColumns[0], contactColumns[0]];
 
-/* Flat link lists (used by the mobile accordions) */
-const immigrateLinks = immigrateColumns.flatMap((c) => c.items);
-const workStudyLinks = workStudyColumns.flatMap((c) => c.items);
-const sponsorLinks = sponsorColumns.flatMap((c) => c.items);
-const refusalLinks = refusalColumns.flatMap((c) => c.items);
-const employerLinks = employerColumns.flatMap((c) => c.items);
-const toolsLinks = toolsColumns.flatMap((c) => c.items);
-const resourcesLinks = resourcesColumns.flatMap((c) => c.items);
-const aboutLinks = aboutColumns.flatMap((c) => c.items);
-const contactLinks = contactColumns.flatMap((c) => c.items);
+const immigrateLinks = immigrateColumns.flatMap((column) => column.items);
+const workStudyLinks = workStudyColumns.flatMap((column) => column.items);
+const sponsorLinks = sponsorColumns.flatMap((column) => column.items);
+const refusalLinks = refusalColumns.flatMap((column) => column.items);
+const employerLinks = employerColumns.flatMap((column) => column.items);
+const toolsLinks = toolsColumns.flatMap((column) => column.items);
+const resourcesLinks = resourcesColumns.flatMap((column) => column.items);
+const aboutLinks = aboutColumns.flatMap((column) => column.items);
+const contactLinks = contactColumns.flatMap((column) => column.items);
 
 export const navigation = {
-  // Utility strip above the main nav (per the menu-structure PDF).
-  // Utility bar per the menu-structure PDF: email + Client Login only.
   utility: {
     email: site.email,
     login: { label: "Client Login", href: site.ctas.login.href },
   },
 
-  // Desktop navbar — dropdowns on every section item, Refusals & Appeals
-  // kept as a standalone (urgent) top-level link.
   header: [
     { label: "Home", href: "/" },
     {
@@ -264,7 +248,6 @@ export const navigation = {
     },
   ],
 
-  // Full tree for the mobile accordions.
   main: [
     { label: "Immigrate", href: "/immigration", description: "Permanent-residence pathways for skilled workers and entrepreneurs.", children: immigrateLinks },
     { label: "Work, Study & Visit", href: "/work-study", description: "Temporary status for work, study and visiting Canada.", children: workStudyLinks },
@@ -277,7 +260,6 @@ export const navigation = {
     { label: "Contact", href: "/contact-us", description: "Speak with a consultant or manage your case.", children: contactLinks },
   ],
 
-  // Footer columns (condensed, mirroring the main nav per the PDF).
   footer: [
     { title: "Immigrate", links: [
       { label: "Express Entry", href: "/immigration/express-entry" },

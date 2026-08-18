@@ -6,8 +6,8 @@
  *   `immigration__pnp__ontario.md`  →  `/immigration/pnp/ontario`
  *   `index.md`                      →  `/`
  *
- * This single module powers the catch-all route, the sitemap, and the
- * internal-linking index grids.
+ * This single module powers the catch-all route, sitemap and internal-linking
+ * index grids.
  */
 
 import fs from "fs";
@@ -24,10 +24,7 @@ export function isPageFile(file) {
 }
 
 export function listPageFiles() {
-  return fs
-    .readdirSync(DATA_DIR)
-    .filter(isPageFile)
-    .sort();
+  return fs.readdirSync(DATA_DIR).filter(isPageFile).sort();
 }
 
 /** `immigration__pnp__ontario.md` → `/immigration/pnp/ontario` */

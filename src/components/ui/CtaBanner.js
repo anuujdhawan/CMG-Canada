@@ -72,7 +72,7 @@ export default function CtaBanner({ variant = "standard", title, description }) 
         <motion.div
           aria-hidden
           className="pointer-events-none absolute inset-0"
-          style={{ background: "rgba(0, 48, 135, 0.02)" }}
+          style={{ background: "color-mix(in srgb, var(--brand-primary) 2%, transparent)" }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0 }}
         />

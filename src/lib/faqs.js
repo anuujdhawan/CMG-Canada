@@ -1,5 +1,3 @@
-const EXCLUDED_PATHS = new Set(["/privacy", "/terms", "/disclaimer", "/pay"]);
-
 const SPECIFIC_FAQS = {
   "/login": [
     {
@@ -116,6 +114,8 @@ function fallbackFaqItems(page) {
   });
   return items;
 }
+
+const EXCLUDED_PATHS = new Set(["/privacy", "/terms", "/disclaimer", "/pay"]);
 
 /** Return page-specific FAQ content sourced from the scraped page data. */
 export function getPageFaqs(page, limit = 8) {

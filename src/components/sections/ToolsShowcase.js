@@ -10,11 +10,11 @@ export default function ToolsShowcase({ className }) {
     <section aria-labelledby="tools-showcase-title" className={cn("tools-showcase", className)}>
       <div className="tools-showcase__head">
         <div>
-          <p className="eyebrow text-accent-soft">Free tools, all in one place</p>
-          <h2 id="tools-showcase-title" className="mt-2 font-serif text-2xl font-bold text-white sm:text-3xl">
+          <p className="eyebrow text-primary">Free tools, all in one place</p>
+          <h2 id="tools-showcase-title" className="mt-2 font-serif text-2xl font-bold text-navy-dark sm:text-3xl">
             Make your next decision with better numbers
           </h2>
-          <p className="mt-2 max-w-2xl text-[13.5px] leading-relaxed text-white/72">
+          <p className="mt-2 max-w-2xl text-[13.5px] leading-relaxed text-muted">
             Start with a quick estimate, then bring the result into a more focused immigration strategy.
           </p>
         </div>

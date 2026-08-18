@@ -4,25 +4,26 @@ import { motion, useReducedMotion } from "framer-motion";
 import { CANADA_LEAF_PATH, CANADA_LEAF_VIEWBOX } from "@/lib/canadaLeaf";
 
 /**
- * BigMapleLeaf — the hero's centerpiece animation.
+ * BigMapleLeaf — a reusable Canadian maple-leaf animation for hero/footer
+ * compositions.
  *
  * A large stylized maple leaf in the EXACT shape of the Canadian flag leaf,
  * gently breathing, swaying and floating over the hero. Decorative
  * (aria-hidden) and respects prefers-reduced-motion by rendering static.
  */
-export default function BigMapleLeaf() {
+export default function BigMapleLeaf({ className = "" }) {
   const shouldReduce = useReducedMotion() ?? false;
 
   return (
     <motion.div
       aria-hidden
-      className="pointer-events-none absolute z-[1] hidden sm:block"
-      style={{ bottom: "6%", right: "5%", opacity: shouldReduce ? 0.24 : undefined }}
+      className={`homepage-big-maple-leaf ${className}`.trim() + " pointer-events-none absolute z-[1] hidden sm:block"}
+      style={{ bottom: "6%", right: "5%", opacity: shouldReduce ? 0.36 : undefined }}
       animate={
         shouldReduce
           ? {}
           : {
-              opacity: [0.16, 0.28, 0.16],
+              opacity: [0.3, 0.42, 0.3],
               rotate: [-5, 5, -5],
               scale: [0.97, 1.04, 0.97],
               y: [0, -12, 0],
@@ -39,7 +40,7 @@ export default function BigMapleLeaf() {
       <div
         className="absolute inset-0 rounded-full"
         style={{
-          background: "radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 68%)",
+            background: "radial-gradient(circle, color-mix(in srgb, var(--brand-primary) 6%, transparent) 0%, transparent 68%)",
           transform: "scale(1.35)",
         }}
       />
@@ -51,8 +52,8 @@ export default function BigMapleLeaf() {
       >
         <defs>
           <linearGradient id="bigleaf-fill" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stopColor="#ffffff" stopOpacity="0.96" />
-            <stop offset="100%" stopColor="#F3D7DB" stopOpacity="0.9" />
+            <stop offset="0%" stopColor="var(--brand-primary-dark)" stopOpacity="0.42" />
+            <stop offset="100%" stopColor="var(--brand-primary)" stopOpacity="0.94" />
           </linearGradient>
         </defs>
         <path d={CANADA_LEAF_PATH} fill="url(#bigleaf-fill)" />

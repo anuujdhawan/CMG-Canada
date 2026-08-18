@@ -100,13 +100,6 @@ export default function MobileMenu({ onClose }) {
           >
             Home
           </Link>
-          <Link
-            href={site.ctas.payment.href}
-            onClick={onClose}
-            className="flex items-center px-4 py-3.5 rounded-xl text-ink font-semibold hover:bg-accent-soft hover:text-primary transition-all text-sm"
-          >
-            {site.ctas.payment.label}
-          </Link>
           <a
             href={navigation.utility.login.href}
             target="_blank"
@@ -213,4 +206,3 @@ export default function MobileMenu({ onClose }) {
     </div>
   );
 }
-

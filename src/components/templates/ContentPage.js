@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { ArrowRight, Calculator, MapPin, Search } from "lucide-react";
+import { ArrowRight, Calculator, Clock, MapPin, Search, ShieldCheck } from "lucide-react";
 import Link from "next/link";
 import { parseBlocks, Block, rebrand, localizeUrl } from "@/components/templates/MarkdownBlocks";
 import HeroBanner from "@/components/ui/HeroBanner";
@@ -21,7 +21,7 @@ import { cn } from "@/lib/utils";
 export { rebrand, localizeUrl, cleanRelatedLinks };
 
 /**
- * Scrub scraped structured data: drop source-firm social profiles from
+ * Scrub imported structured data: drop source-firm social profiles from
  * `sameAs` and substitute the configured Commonwealth social URLs, so JSON-LD
  * never points at the source firm's profiles.
  */
@@ -164,6 +164,42 @@ function getHeroContent(page) {
   };
 }
 
+function HomeHeroAside() {
+  return (
+    <div className="homepage-hero__aside">
+      <div aria-hidden className="homepage-hero__aside-orb" />
+      <div className="relative z-10">
+        <div className="flex flex-wrap items-center gap-2">
+          <span className="homepage-hero__aside-badge">
+            <ShieldCheck className="h-3.5 w-3.5" aria-hidden />
+            CICC-regulated
+          </span>
+          <span className="homepage-hero__aside-location">
+            <MapPin className="h-3.5 w-3.5" aria-hidden />
+            Canada-wide
+          </span>
+        </div>
+        <p className="mt-8 max-w-[18rem] font-serif text-[1.65rem] font-bold leading-tight text-navy-dark sm:text-[1.9rem]">
+          A calmer start to a complicated journey.
+        </p>
+        <p className="mt-3 max-w-[23rem] text-sm leading-relaxed text-muted">
+          Begin with a clear route, practical guidance and a licensed team who can stay with your file from first question to final decision.
+        </p>
+        <div className="homepage-hero__aside-stats mt-8">
+          <div>
+            <strong>15+</strong>
+            <span>years of team experience</span>
+          </div>
+          <div>
+            <Clock className="h-5 w-5 text-primary" aria-hidden />
+            <span>Clear next steps, not guesswork</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 /* ════════════════════════════════════════════════════════════════════
    ContentPage — composition of reusable building blocks
    ════════════════════════════════════════════════════════════════════ */
@@ -177,6 +213,7 @@ export default function ContentPage({ page, children }) {
   const imageSlots = interleaveImages(contentBlocks, images);
   const hasHomeMidBand = page.path === "/";
   const faqItems = getPageFaqs(page);
+  const pathwayVariant = page.path === "/" ? "home" : page.path.startsWith("/tools") ? "tools" : "page";
 
   const renderBlocks = [];
   let slotIdx = 0;
@@ -197,19 +234,22 @@ export default function ContentPage({ page, children }) {
         headline={hero.title}
         breadcrumbs={hero.breadcrumbs}
         leadContent={hero.leadBlock ? <Block block={hero.leadBlock} dark /> : null}
+        variant={page.path === "/" ? "home" : "default"}
         ctaButtons={[
           { label: site.ctas.primary.label, href: site.ctas.primary.href, variant: "primary" },
           { label: "Free Assessment", href: site.ctas.assessment.href, variant: "dark" },
         ]}
         trustBadges={hero.badges}
-      />
+      >
+        {page.path === "/" && <HomeHeroAside />}
+      </HeroBanner>
 
       {/*
        * Reference-inspired decision band: the home route gets the full
        * pathway grid, while every internal content route gets a tighter set
        * of next-step cards before the long-form reading surface.
        */}
-      <DarkRedPathwaySection variant={page.path === "/" ? "home" : "page"} />
+      <DarkRedPathwaySection variant={pathwayVariant} className="homepage-pathways" />
 
       {/* Optional interactive slot (tools etc.) */}
       {children && (
@@ -236,7 +276,7 @@ export default function ContentPage({ page, children }) {
               </div>
 
               {/* Right rail — fills desktop whitespace, stacks on mobile */}
-              <aside aria-label="Related tools and topics" className="mt-12 lg:mt-0">
+              <aside aria-label="Related tools and topics" className="page-rail-sidebar mt-12 lg:mt-0 lg:self-start">
                 <PageRail related={related} />
               </aside>
             </div>
@@ -251,7 +291,7 @@ export default function ContentPage({ page, children }) {
 
             {/* Full-width CTA band below the grid */}
             <div className="relative z-10 mt-12">
-              <CtaBand employer={employer} />
+              <CtaBand employer={employer} cta={page.cta} />
             </div>
           </div>
         </div>

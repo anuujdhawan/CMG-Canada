@@ -21,9 +21,8 @@ export default function ToolShell({ eyebrow, title, lead, currentSlug, children 
     <>
       <PageHeader eyebrow={eyebrow} title={title} lead={lead} />
 
-      <DarkRedPathwaySection variant="tools" />
+      <DarkRedPathwaySection variant="tools" className="homepage-pathways" />
 
-      {/* Tool stage — premium red-edged article card */}
       <Section className="content-stage" containerClassName="mx-auto max-w-6xl">
         <div className="article-shell p-5 sm:p-8 lg:p-10">
           <div className="relative z-10 mx-auto max-w-4xl">{children}</div>

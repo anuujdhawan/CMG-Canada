@@ -5,7 +5,7 @@ import CrsCalculator from "@/components/tools/CrsCalculator";
 const crsPage = getPage("/tools/crs-calculator");
 
 export const metadata = {
-  title: { absolute: rebrand(crsPage?.seo.title || "Free CRS Score Calculator 2026 | Express Entry") },
+  title: { absolute: rebrand(crsPage?.seo.title || crsPage?.h1 || "Free CRS Score Calculator 2026 | Express Entry") },
   description: rebrand(crsPage?.seo.description || "Free Express Entry CRS calculator. Estimate your Comprehensive Ranking System score."),
   alternates: { canonical: "/tools/crs-calculator" },
 };

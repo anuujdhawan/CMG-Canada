@@ -70,7 +70,7 @@ export default function MapleLeaves() {
                   : { animationDuration: `${leaf.spin}s`, animationDelay: `${-leaf.delay}s` }
               }
             >
-              <path d={CANADA_LEAF_PATH} fill="white" />
+              <path d={CANADA_LEAF_PATH} fill="var(--brand-primary)" />
             </svg>
           </div>
         </div>

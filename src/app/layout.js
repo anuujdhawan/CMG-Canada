@@ -84,7 +84,7 @@ const websiteJsonLd = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" style={themeCssVars} className={`${jakarta.variable} ${baskerville.variable} h-full antialiased`}>
+    <html lang="en" data-scroll-behavior="smooth" style={themeCssVars} className={`${jakarta.variable} ${baskerville.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col">
         <script
           type="application/ld+json"
@@ -99,7 +99,7 @@ export default function RootLayout({ children }) {
         </a>
         <ScrollProgressBar />
         <Header />
-        <main id="main-content" className="flex-1 pb-12 lg:pb-0">
+        <main id="main-content" className="site-theme flex-1 pb-12 lg:pb-0">
           {children}
         </main>
         <Footer />

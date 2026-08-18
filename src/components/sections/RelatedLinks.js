@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react";
 import { rebrand, localizeUrl } from "@/components/templates/MarkdownBlocks";
 import { cn } from "@/lib/utils";
 
-/** Drop navigation/social/boilerplate anchors from the scraped link inventory. */
+/** Drop navigation/social/boilerplate anchors from the page link inventory. */
 const SKIP_ANCHOR =
   /skip to main content|make payment|book book consultation|^home$|read (all|our) reviews|google|pulse|nexus|vault|client login|get your free crs estimate|continue to services|view guide|learn more/i;
 

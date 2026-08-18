@@ -70,7 +70,7 @@ const PAGE_PATHWAYS = [
     label: "Compare programs",
     eyebrow: "Choose the route",
     description: "Move from a broad goal to the program and province that best fit your situation.",
-    href: "/immigration",
+    href: "/immigration/pnp",
     icon: Search,
   },
   {
@@ -84,7 +84,7 @@ const PAGE_PATHWAYS = [
     label: "Talk to a licensed RCIC",
     eyebrow: "Make it personal",
     description: "Get a grounded strategy before forms, deadlines and filing fees start to multiply.",
-    href: "/book",
+    href: "/tools/free-assessment",
     icon: MessageCircle,
   },
 ];
@@ -156,7 +156,7 @@ const HOME_MID_PATHWAYS = [
     label: "Build the response",
     eyebrow: "Make it persuasive",
     description: "Organise documents, explanations and supporting facts around the decision-maker's concerns.",
-    href: "/book",
+    href: "/tools/free-assessment",
     icon: FileCheck,
   },
   {

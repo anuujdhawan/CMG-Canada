@@ -306,8 +306,8 @@ const config = {
     botAvatar: BotAvatar,
   },
   customStyles: {
-    botMessageBox: { backgroundColor: "#fdf0f1" },
-    chatButton: { backgroundColor: "#c8102e" },
+    botMessageBox: { backgroundColor: "var(--brand-accent-soft)" },
+    chatButton: { backgroundColor: "var(--brand-primary)" },
   },
   widgets: [
     { widgetName: "choiceWidget", widgetFunc: ChoiceWidget, props: {}, mapStateToProps: [] },

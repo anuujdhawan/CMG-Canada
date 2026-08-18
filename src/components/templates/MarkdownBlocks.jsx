@@ -4,7 +4,7 @@ import { site } from "@/config/site";
 import PathwayCard from "@/components/cards/PathwayCard";
 
 /* ════════════════════════════════════════════════════════════════════
-   Shared markdown machinery for scraped-content pages:
+   Shared markdown machinery for approved Markdown content pages:
    inline renderer, block parser, block renderer, brand rebranding and
    source-URL localization. Used by ContentPage and the shared hero.
    ════════════════════════════════════════════════════════════════════ */
@@ -12,7 +12,7 @@ import PathwayCard from "@/components/cards/PathwayCard";
 const SITE_HOSTS = ["visamastercanada.com", "www.visamastercanada.com", "commonwealthmigration.ca", "www.commonwealthmigration.ca"];
 
 /**
- * Brand substitution — the scraped source content is written for the source
+ * Brand substitution — the supplied source content may reference the source
  * firm (VMC); this maps every brand reference to the Commonwealth Migration
  * trading name while keeping the unique, keyword-optimized copy intact.
  */

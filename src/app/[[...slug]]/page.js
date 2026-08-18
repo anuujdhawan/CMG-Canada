@@ -6,7 +6,7 @@ import PageIndexGrid from "@/components/sections/PageIndexGrid";
 
 export const dynamicParams = false;
 
-/** Prerender every scraped page (including the home route). */
+/** Prerender every approved Markdown page (including the home route). */
 export function generateStaticParams() {
   return getAllPages().map((page) => ({
     slug: page.path === "/" ? [] : page.path.slice(1).split("/"),

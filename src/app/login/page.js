@@ -31,7 +31,7 @@ export default function LoginPage() {
         lead="Track your case, upload documents and message your consultant — all in one place. This is a demo shell with no real accounts."
       />
 
-      <DarkRedPathwaySection variant="portal" />
+      <DarkRedPathwaySection variant="portal" className="homepage-pathways" />
 
       <section className="content-stage section-pad">
         <div className="site-container">
