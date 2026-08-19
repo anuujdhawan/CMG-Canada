@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { tools } from "@/data/tools";
 import iconMap, { fallbackIcon } from "@/lib/icons";
+import { currentPagePath } from "@/config/pageRoutes";
 
 /** The five interactive tools (real client-side calculators). */
 export default function InteractiveToolsGrid() {
@@ -20,7 +21,7 @@ export default function InteractiveToolsGrid() {
             return (
             <Link
               key={tool.slug}
-              href={`/tools/${tool.slug}`}
+              href={currentPagePath(`/tools/${tool.slug}`)}
               className="card-red-edge group relative flex flex-col rounded-2xl border border-line bg-white p-5 shadow-card transition-all duration-300 hover:-translate-y-1 hover:border-primary/40 hover:shadow-card-hover"
             >
               <div className="flex items-center justify-between gap-3">

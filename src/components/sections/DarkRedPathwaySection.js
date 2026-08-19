@@ -11,6 +11,7 @@ import {
   ShieldCheck,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { currentPagePath } from "@/config/pageRoutes";
 import PathwayCard from "@/components/cards/PathwayCard";
 
 const HOME_PATHWAYS = [
@@ -246,7 +247,7 @@ export default function DarkRedPathwaySection({ variant = "page", className }) {
             return (
               <PathwayCard
                 key={card.href + card.label}
-                href={card.href}
+                href={currentPagePath(card.href)}
                 label={card.label}
                 eyebrow={card.eyebrow}
                 description={card.description}

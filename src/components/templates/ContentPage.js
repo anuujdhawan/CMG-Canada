@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { ArrowRight, Calculator, Clock, MapPin, Search, ShieldCheck } from "lucide-react";
+import { ArrowRight, Calculator, MapPin, Search } from "lucide-react";
 import Link from "next/link";
 import { parseBlocks, Block, rebrand, localizeUrl } from "@/components/templates/MarkdownBlocks";
 import HeroBanner from "@/components/ui/HeroBanner";
@@ -15,6 +15,8 @@ import PageFaqSection from "@/components/sections/PageFaqSection";
 import { getPageImages } from "@/lib/pageImages";
 import { getPageFaqs } from "@/lib/faqs";
 import { cn } from "@/lib/utils";
+import PageHeroAside from "@/components/sections/PageHeroAside";
+import { currentPagePath } from "@/config/pageRoutes";
 
 // Re-exported so existing callers (catch-all route, PageIndexGrid) keep
 // working — the implementation now lives in MarkdownBlocks / RelatedLinks.
@@ -101,7 +103,7 @@ function ToolsStrip() {
             return (
               <Link
                 key={tool.href}
-                href={tool.href}
+                href={currentPagePath(tool.href)}
                 className="group inline-flex items-center gap-1.5 rounded-full border border-line bg-white px-4 py-2.5 text-[13px] font-bold text-primary transition-all duration-150 hover:border-primary hover:bg-primary hover:text-white"
               >
                 <Icon className="h-3.5 w-3.5" aria-hidden />
@@ -111,7 +113,7 @@ function ToolsStrip() {
             );
           })}
           <Link
-            href="/tools"
+            href={currentPagePath("/tools")}
             className="inline-flex items-center gap-1.5 rounded-full bg-navy px-4 py-2.5 text-[13px] font-bold text-white transition-colors hover:bg-primary"
           >
             All tools
@@ -164,42 +166,6 @@ function getHeroContent(page) {
   };
 }
 
-function HomeHeroAside() {
-  return (
-    <div className="homepage-hero__aside">
-      <div aria-hidden className="homepage-hero__aside-orb" />
-      <div className="relative z-10">
-        <div className="flex flex-wrap items-center gap-2">
-          <span className="homepage-hero__aside-badge">
-            <ShieldCheck className="h-3.5 w-3.5" aria-hidden />
-            CICC-regulated
-          </span>
-          <span className="homepage-hero__aside-location">
-            <MapPin className="h-3.5 w-3.5" aria-hidden />
-            Canada-wide
-          </span>
-        </div>
-        <p className="mt-8 max-w-[18rem] font-serif text-[1.65rem] font-bold leading-tight text-navy-dark sm:text-[1.9rem]">
-          A calmer start to a complicated journey.
-        </p>
-        <p className="mt-3 max-w-[23rem] text-sm leading-relaxed text-muted">
-          Begin with a clear route, practical guidance and a licensed team who can stay with your file from first question to final decision.
-        </p>
-        <div className="homepage-hero__aside-stats mt-8">
-          <div>
-            <strong>15+</strong>
-            <span>years of team experience</span>
-          </div>
-          <div>
-            <Clock className="h-5 w-5 text-primary" aria-hidden />
-            <span>Clear next steps, not guesswork</span>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-}
-
 /* ════════════════════════════════════════════════════════════════════
    ContentPage — composition of reusable building blocks
    ════════════════════════════════════════════════════════════════════ */
@@ -208,7 +174,7 @@ export default function ContentPage({ page, children }) {
   const contentBlocks = parseBlocks(page.content);
   const hero = getHeroContent(page);
   const related = cleanRelatedLinks(page);
-  const employer = page.path.startsWith("/for-employers");
+  const employer = page.path.startsWith("/employers");
   const images = getPageImages(page.path, 4);
   const imageSlots = interleaveImages(contentBlocks, images);
   const hasHomeMidBand = page.path === "/";
@@ -241,7 +207,7 @@ export default function ContentPage({ page, children }) {
         ]}
         trustBadges={hero.badges}
       >
-        {page.path === "/" && <HomeHeroAside />}
+        <PageHeroAside page={page} title={hero.title} />
       </HeroBanner>
 
       {/*

@@ -4,12 +4,13 @@ import { rebrand } from "@/components/templates/ContentPage";
 import ToolShell from "@/components/templates/ToolShell";
 import AssessmentForm from "@/components/forms/AssessmentForm";
 
-const page = getPage("/tools/free-assessment");
+const pagePath = "/assessment/free-canada-immigration-assessment";
+const page = getPage(pagePath);
 
 export const metadata = buildMetadata({
   title: rebrand(page?.seo.title || page?.h1 || "Free Assessment"),
   description: rebrand(page?.seo.description || "Submit your profile for a free written eligibility review by our consultants — no obligation."),
-  path: "/tools/free-assessment",
+  path: pagePath,
 });
 
 export default function FreeAssessmentPage() {
@@ -18,7 +19,7 @@ export default function FreeAssessmentPage() {
       eyebrow="Free tool"
       title="Free Assessment"
       lead="Tell us about your profile and goals. A consultant reviews your situation and replies within two business days with a written, honest assessment — free and without obligation."
-      currentSlug="free-assessment"
+      pagePath={pagePath}
     >
       <AssessmentForm />
     </ToolShell>

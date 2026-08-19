@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { site } from "@/config/site";
+import { pathForLegacyPath } from "@/lib/sitePages";
 import PathwayCard from "@/components/cards/PathwayCard";
 
 /* ════════════════════════════════════════════════════════════════════
@@ -39,13 +40,14 @@ export function rebrand(text) {
 /** Convert a source-site URL to a local relative URL when possible. */
 export function localizeUrl(url) {
   try {
-    const u = new URL(url, site.url || "https://visamastercanada.com");
+    const u = new URL(url, site.url || "https://commonwealthmigration.ca");
     if (SITE_HOSTS.includes(u.hostname)) {
-      return `${u.pathname}${u.search}${u.hash}`;
+      return `${pathForLegacyPath(u.pathname)}${u.search}${u.hash}`;
     }
   } catch {
     /* keep as-is */
   }
+  if (typeof url === "string" && url.startsWith("/")) return pathForLegacyPath(url);
   return url;
 }
 
@@ -256,7 +258,8 @@ const REFUSAL_CARD_DESTINATIONS = [
 ];
 
 function refusalCardHref(title) {
-  return REFUSAL_CARD_DESTINATIONS.find(([pattern]) => pattern.test(title))?.[1] || null;
+  const destination = REFUSAL_CARD_DESTINATIONS.find(([pattern]) => pattern.test(title))?.[1] || null;
+  return destination ? pathForLegacyPath(destination) : null;
 }
 
 function renderTable(rows) {

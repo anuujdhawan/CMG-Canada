@@ -4,6 +4,7 @@ import { useState } from "react";
 import { ArrowRight, CheckCircle2, MapPin, RefreshCw } from "lucide-react";
 import Button from "@/components/ui/Button";
 import { site } from "@/config/site";
+import { currentPagePath } from "@/config/pageRoutes";
 
 /**
  * PNP eligibility check — DEMO questionnaire.
@@ -219,7 +220,7 @@ function Result({ answers, onRestart }) {
           Provinces have specific streams, occupations and intake rounds. A free assessment gets you a written shortlist of the streams that actually fit.
         </p>
         <div className="mt-5 flex flex-col gap-3 sm:flex-row">
-          <Button href="/tools/free-assessment" variant="light">Free assessment</Button>
+          <Button href={currentPagePath("/tools/free-assessment")} variant="light">Free assessment</Button>
           <Button href={site.ctas.primary.href} variant="lightOutline">{site.ctas.primary.label}</Button>
         </div>
       </div>

@@ -36,6 +36,10 @@ export default function PageIndexGrid({ pathname }) {
     .sort((a, b) => Number(b.meta.priority) - Number(a.meta.priority) || a.path.localeCompare(b.path));
 
   if (children.length < 3) return null;
+  // The rewritten URL system intentionally uses keyword-led routes, so the
+  // homepage is no longer a shallow parent for the entire inventory. Keep the
+  // homepage index useful without rendering all 137 pages as one giant grid.
+  const visibleChildren = base === "" ? children.slice(0, 12) : children;
 
   const isCities = base === "/immigration-consultant";
   const isTools = base === "/tools";
@@ -62,7 +66,7 @@ export default function PageIndexGrid({ pathname }) {
         </div>
 
         <div className="mt-9 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {children.map((page, index) => {
+          {visibleChildren.map((page, index) => {
             const published = formatDate(page.meta.lastModified);
             const eyebrow = base === "/blog"
               ? published || "Latest guide"

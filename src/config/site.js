@@ -127,12 +127,12 @@ export const site = {
 
   // ---- CTA strategy (centralized labels/links) ------------------------
   ctas: {
-    primary: { label: "Book a Consultation", href: env("NEXT_PUBLIC_CTA_BOOK", "/tools/free-assessment") },
-    urgent: { label: "Book Urgent Consultation", href: env("NEXT_PUBLIC_CTA_URGENT", "/tools/free-assessment") },
-    assessment: { label: "Free Assessment", href: env("NEXT_PUBLIC_CTA_ASSESSMENT", "/tools/free-assessment") },
+    primary: { label: "Book a Consultation", href: env("NEXT_PUBLIC_CTA_BOOK", "/contact/book-immigration-consultation-canada") },
+    urgent: { label: "Book Urgent Consultation", href: env("NEXT_PUBLIC_CTA_URGENT", "/assessment/free-canada-immigration-assessment") },
+    assessment: { label: "Free Assessment", href: env("NEXT_PUBLIC_CTA_ASSESSMENT", "/assessment/free-canada-immigration-assessment") },
     payment: { label: "Make Payment", href: env("NEXT_PUBLIC_CTA_PAYMENT", "/pay") },
     login: { label: "Client Login", href: env("NEXT_PUBLIC_CLIENT_LOGIN_URL", "https://secure.officio.ca/login") },
-    tools: { label: "Free Tools", href: env("NEXT_PUBLIC_CTA_TOOLS", "/tools") },
+    tools: { label: "Free Tools", href: env("NEXT_PUBLIC_CTA_TOOLS", "/tools/canada-immigration-calculators") },
   },
 
   // ---- Legal / compliance links ---------------------------------------

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { rebrand, localizeUrl } from "@/components/templates/MarkdownBlocks";
 import { cn } from "@/lib/utils";
+import { currentPagePath } from "@/config/pageRoutes";
 
 /** Drop navigation/social/boilerplate anchors from the page link inventory. */
 const SKIP_ANCHOR =
@@ -93,7 +94,7 @@ export default function RelatedLinks({ links, compact = false }) {
         ))}
       </ul>
       <div className="mt-5 border-t border-line pt-4">
-        <Link href="/blog" className="inline-flex items-center gap-1.5 text-[13px] font-bold text-accent-dark hover:text-primary transition-colors">
+        <Link href={currentPagePath("/blog")} className="inline-flex items-center gap-1.5 text-[13px] font-bold text-accent-dark hover:text-primary transition-colors">
           Browse all guides
           <ArrowRight className="h-3.5 w-3.5" aria-hidden />
         </Link>

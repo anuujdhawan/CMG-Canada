@@ -5,11 +5,12 @@ import Section from "@/components/ui/Section";
 import DarkRedPathwaySection from "@/components/sections/DarkRedPathwaySection";
 import ToolsShowcase from "@/components/sections/ToolsShowcase";
 import PageFaqSection from "@/components/sections/PageFaqSection";
+import PageHeroAside from "@/components/sections/PageHeroAside";
 import { getPage } from "@/lib/sitePages";
 import { getPageFaqs } from "@/lib/faqs";
 
-export default function ToolShell({ eyebrow, title, lead, currentSlug, children }) {
-  const pagePath = `/tools/${currentSlug}`;
+export default function ToolShell({ eyebrow, title, lead, currentSlug, pagePath: explicitPagePath, children }) {
+  const pagePath = explicitPagePath || `/tools/${currentSlug}`;
   const page = getPage(pagePath) || {
     path: pagePath,
     h1: title,
@@ -19,7 +20,9 @@ export default function ToolShell({ eyebrow, title, lead, currentSlug, children 
   };
   return (
     <>
-      <PageHeader eyebrow={eyebrow} title={title} lead={lead} />
+      <PageHeader eyebrow={eyebrow} title={title} lead={lead}>
+        <PageHeroAside page={page} title={title} />
+      </PageHeader>
 
       <DarkRedPathwaySection variant="tools" className="homepage-pathways" />
 

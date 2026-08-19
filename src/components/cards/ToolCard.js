@@ -2,11 +2,12 @@ import iconMap, { fallbackIcon } from "@/lib/icons";
 import CardShell from "./CardShell";
 import CardIconBox from "./CardIconBox";
 import CardArrowLink from "./CardArrowLink";
+import { currentPagePath } from "@/config/pageRoutes";
 
 export default function ToolCard({ tool }) {
   const Icon = iconMap[tool.icon] || fallbackIcon;
   return (
-    <CardShell href={`/tools/${tool.slug}`} className="card-red-edge group">
+    <CardShell href={currentPagePath(`/tools/${tool.slug}`)} className="card-red-edge group">
       <CardIconBox>
         <Icon className="h-5 w-5" aria-hidden />
       </CardIconBox>

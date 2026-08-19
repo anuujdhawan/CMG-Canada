@@ -1,4 +1,4 @@
-# Common Immigration — Reusable Website Prototype
+# Commonwealth Migration Canada — Immigration Website
 
 A polished, production-quality **immigration consultancy website prototype** built
 as a reusable template. After a client approves it, the project can be duplicated
@@ -8,7 +8,7 @@ and rebranded for that client with minimal code changes.
 - **Rendering:** Server Components by default; React Compiler enabled
 - **Styling:** Tailwind CSS v4 with centralized design tokens
 - **Motion:** Framer Motion (scroll reveals, parallax hero, animated process tracker, scroll progress bar)
-- **Brand:** Common Immigration (demo trading brand — no legal entity, no production domain)
+- **Brand:** Commonwealth Migration Canada
 - **Theme:** Canada red (#C8102E) — the chrome (floating pill navbar, gradient footer,
   starfield hero) follows the source template's visual system, recolored blue→red
 
@@ -35,6 +35,7 @@ npm run lint       # eslint
 | Consultancy services | `src/data/services.js` |
 | FAQs, team, blog, guides, tools, NOC demo data | `src/data/*.js` |
 | Metadata builder (domain-agnostic SEO) | `src/lib/seo.js` |
+| Rewritten SEO page content and route map | `pageData/` and `scripts/generate-page-data.mjs` |
 | Single environment file | `.env` |
 | Logos / icons / OG image | `public/images/` |
 
@@ -52,9 +53,10 @@ npm run lint       # eslint
 6. **`src/config/content.js`** — hero copy, values, process steps, testimonials.
 7. Verify: `npm run lint`, `npm run build`, and check every route returns 200.
 
-When `NEXT_PUBLIC_SITE_URL` is empty (the default), the sitemap is empty and no
-canonical/OG URLs are emitted — nothing leaks a fake domain. Once a client domain
-is configured in `.env`, `sitemap.xml`, `robots.txt` and canonical tags activate.
+The current production domain is configured in `.env` as
+`https://commonwealthmigration.ca`. The rewritten Markdown pages use keyword-led
+routes from `pageData/`; the former scraped paths redirect permanently to those
+new routes.
 
 ## Demo / placeholder functionality
 

@@ -11,7 +11,8 @@ import BigMapleLeaf from "@/components/sections/BigMapleLeaf";
 
 /**
  * Shared hero used by content pages, tools, the client portal and the home
- * route. Keep route-specific parsing outside this component.
+ * route. Keep route-specific parsing outside this component; children render
+ * in the reusable summary-card slot beside the hero copy.
  */
 
 const TRUST_BADGE_ICONS = [ShieldCheck, Award, Clock];
@@ -89,8 +90,6 @@ export default function HeroBanner({
             </div>
           )}
 
-          {!isHomepage && children}
-
           {ctaButtons.length > 0 && (
             <div>
               <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap">
@@ -124,7 +123,7 @@ export default function HeroBanner({
             </div>
           )}
         </motion.div>
-        {isHomepage && <div className="homepage-hero__aside-slot">{children}</div>}
+        <div className={isHomepage ? "homepage-hero__aside-slot" : "site-page-hero__aside-slot"}>{children}</div>
       </div>
       <div aria-hidden className="hero-bottom-rule absolute inset-x-0 bottom-0 h-1" />
     </motion.section>

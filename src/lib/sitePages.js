@@ -1,10 +1,10 @@
 /**
- * Page registry — maps every scraped `.md` file in `scraped-data/data/` to a
- * route on this site.
+ * Page registry — maps every rewritten `.md` file in `pageData/` to a
+ * keyword-focused route on this site.
  *
- * Filenames mirror the source URL structure with `__` as the path separator:
- *   `immigration__pnp__ontario.md`  →  `/immigration/pnp/ontario`
- *   `index.md`                      →  `/`
+ * The generator writes one SEO-friendly route slug per page. `route-map.json`
+ * keeps the old scraped paths available for permanent redirects and legacy
+ * metadata lookups without using them as canonical URLs.
  *
  * This single module powers the catch-all route, sitemap and internal-linking
  * index grids.
@@ -14,7 +14,18 @@ import fs from "fs";
 import path from "path";
 import { parseScrapedFile } from "./scraped";
 
-const DATA_DIR = path.join(process.cwd(), "scraped-data", "data");
+const DATA_DIR = path.join(process.cwd(), "pageData");
+const ROUTE_MAP_FILE = path.join(DATA_DIR, "route-map.json");
+const ROUTE_MAP = fs.existsSync(ROUTE_MAP_FILE)
+  ? JSON.parse(fs.readFileSync(ROUTE_MAP_FILE, "utf8"))
+  : [];
+const ROUTE_BY_FILE = new Map(ROUTE_MAP.map((route) => [route.outputFile, route]));
+const LEGACY_PATH_TO_FILE = new Map(
+  ROUTE_MAP.flatMap((route) => [
+    [route.legacyPath, route.outputFile],
+    [route.previousPath, route.outputFile],
+  ]).filter(([source]) => source)
+);
 
 /** Files that are documentation, not pages. */
 const SKIP_FILES = new Set(["README.md", "AUTHORITY_LINKS.md"]);
@@ -27,14 +38,15 @@ export function listPageFiles() {
   return fs.readdirSync(DATA_DIR).filter(isPageFile).sort();
 }
 
-/** `immigration__pnp__ontario.md` → `/immigration/pnp/ontario` */
+/** `express-entry-immigration-canada.md` → `/express-entry-immigration-canada` */
 export function filenameToPath(file) {
+  if (ROUTE_BY_FILE.has(file)) return ROUTE_BY_FILE.get(file).path;
   const base = file.replace(/\.md$/, "");
   if (base === "index") return "/";
   return `/${base.split("__").join("/")}`;
 }
 
-/** `/immigration/pnp/ontario` → `immigration__pnp__ontario.md` */
+/** `/express-entry-immigration-canada` → `express-entry-immigration-canada.md` */
 export function pathToFilename(pathname) {
   const clean = String(pathname || "/")
     .split("#")[0]
@@ -44,13 +56,30 @@ export function pathToFilename(pathname) {
   return `${clean.split("/").join("__")}.md`;
 }
 
+/** Convert a legacy page path to its current keyword-focused path. */
+export function pathForLegacyPath(pathname) {
+  const clean = String(pathname || "/")
+    .split("#")[0]
+    .split("?")[0]
+    .replace(/^\/+|\/+$/g, "");
+  const normalized = clean ? `/${clean}` : "/";
+  const file = LEGACY_PATH_TO_FILE.get(normalized);
+  return file && ROUTE_BY_FILE.has(file) ? ROUTE_BY_FILE.get(file).path : normalized;
+}
+
 /** Load + parse a single page by its URL path. Returns null if unknown. */
 export function getPage(pathname) {
-  const file = pathToFilename(pathname);
+  const requestedPath = String(pathname || "/").replace(/\/$/, "") || "/";
+  const directFile = pathToFilename(requestedPath);
+  const file = fs.existsSync(path.join(DATA_DIR, directFile))
+    ? directFile
+    : LEGACY_PATH_TO_FILE.get(requestedPath);
+  if (!file) return null;
   const full = path.join(DATA_DIR, file);
   if (!fs.existsSync(full)) return null;
+  const route = ROUTE_BY_FILE.get(file);
   return {
-    path: pathname.startsWith("/") ? pathname : `/${pathname}`,
+    path: route?.path || (requestedPath.startsWith("/") ? requestedPath : `/${requestedPath}`),
     ...parseScrapedFile(fs.readFileSync(full, "utf8"), file),
   };
 }

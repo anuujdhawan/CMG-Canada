@@ -2,6 +2,7 @@ import { site } from "@/config/site";
 import { cn } from "@/lib/utils";
 import HeroBanner from "./HeroBanner";
 import { HERO_TRUST_BADGES } from "@/lib/hero";
+import { currentPagePath } from "@/config/pageRoutes";
 
 /**
  * Inner-page hero in the homepage starfield style (source-compatible).
@@ -13,7 +14,7 @@ import { HERO_TRUST_BADGES } from "@/lib/hero";
  *   eyebrow  — small uppercase label above the title
  *   title    — page headline (word-by-word reveal)
  *   lead     — optional subheadline
- *   children — optional extra content below the lead
+ *   children — optional page-specific summary card rendered beside the copy
  *   ctas     — optional [{ label, href, variant }] buttons
  *   trustBadges — optional string[] chips
  */
@@ -36,7 +37,7 @@ export default function PageHeader({
         ctas ||
         [
           { label: site.ctas.primary.label, href: site.ctas.primary.href, variant: "primary" },
-          { label: "Free Assessment", href: "/tools/free-assessment", variant: "dark" },
+          { label: "Free Assessment", href: currentPagePath("/tools/free-assessment"), variant: "dark" },
         ]
       }
       trustBadges={trustBadges || HERO_TRUST_BADGES}

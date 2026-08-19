@@ -7,6 +7,7 @@ import LoginForm from "@/components/forms/LoginForm";
 import DarkRedPathwaySection from "@/components/sections/DarkRedPathwaySection";
 import ToolsShowcase from "@/components/sections/ToolsShowcase";
 import PageFaqSection from "@/components/sections/PageFaqSection";
+import PageHeroAside from "@/components/sections/PageHeroAside";
 import { getPageFaqs } from "@/lib/faqs";
 
 export const metadata = buildMetadata({
@@ -29,7 +30,9 @@ export default function LoginPage() {
         eyebrow="Client portal"
         title="Client Login"
         lead="Track your case, upload documents and message your consultant — all in one place. This is a demo shell with no real accounts."
-      />
+      >
+        <PageHeroAside page={LOGIN_FAQ_PAGE} title="Client Login" />
+      </PageHeader>
 
       <DarkRedPathwaySection variant="portal" className="homepage-pathways" />
 

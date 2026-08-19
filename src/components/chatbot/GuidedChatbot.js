@@ -4,6 +4,7 @@ import { useState } from "react";
 import { Chatbot, createChatBotMessage, createClientMessage } from "react-chatbot-kit";
 import { ArrowRight, CalendarCheck, Check, ExternalLink, MessageCircle, RotateCcw, Search, X } from "lucide-react";
 import { site } from "@/config/site";
+import { currentPagePath } from "@/config/pageRoutes";
 
 const phoneDigits = site.phone.replace(/[^0-9]/g, "");
 const whatsappHref = `https://wa.me/${phoneDigits}?text=${encodeURIComponent(
@@ -455,7 +456,7 @@ class ActionProvider {
           : answer.crs === "500-plus"
             ? "A strong Express Entry profile may be worth checking against recent draws, category-based options, and provincial nominations. The guide below is the best place to start."
             : "Express Entry may still be one option, but PNPs and other pathways could be important depending on your occupation, language results, education, and work history.",
-        href: "/immigration/express-entry",
+        href: currentPagePath("/immigration/express-entry"),
         guide: "Open Express Entry guide",
       },
       work: {
@@ -463,7 +464,7 @@ class ActionProvider {
         text: answer.goal === "pgwp"
           ? "Use the work-permit guide to confirm PGWP planning, timing, and the transition from study to work. Keep your status dates visible when you request a review."
           : "The work-permit guide explains employer-specific, open, restoration, extension, and post-graduation routes. A profile review can identify which evidence matters most.",
-        href: "/immigration/work-permit",
+        href: currentPagePath("/immigration/work-permit"),
         guide: "Open work-permit guide",
       },
       study: {
@@ -471,7 +472,7 @@ class ActionProvider {
         text: answer.stage === "accepted"
           ? "With an acceptance letter, the next review usually focuses on the study plan, funds, PAL requirements where applicable, and how the program fits your longer-term plan."
           : "Start with the study-permit guide, then use a free assessment to connect program choice, documentation, finances, and post-graduation planning.",
-        href: "/immigration/study-permit",
+        href: currentPagePath("/immigration/study-permit"),
         guide: "Open study-permit guide",
       },
       visit: {
@@ -479,7 +480,7 @@ class ActionProvider {
         text: answer.purpose === "super-visa"
           ? "Super Visa files have their own medical insurance, income, invitation, and family-relationship evidence. Review the guide before collecting documents."
           : "The visitor-visa guide covers purpose of travel, ties, funds, travel history, and the difference between visitor, eTA, business-visitor, and Super Visa routes.",
-        href: "/immigration/visitor-visa",
+        href: currentPagePath("/immigration/visitor-visa"),
         guide: "Open visitor guide",
       },
       family: {
@@ -487,7 +488,7 @@ class ActionProvider {
         text: answer.relationship === "spouse-partner"
           ? "Spousal and common-law sponsorship is evidence-led. The relationship history, shared life, admissibility, and complete document trail all matter."
           : "The family-sponsorship guide will help you compare the relationship category, eligibility requirements, and evidence before you prepare a package.",
-        href: "/immigration/family-sponsorship",
+        href: currentPagePath("/immigration/family-sponsorship"),
         guide: "Open family-sponsorship guide",
       },
       employer: {
@@ -495,7 +496,7 @@ class ActionProvider {
         text: answer.need === "global-talent"
           ? "Global Talent Stream cases are time-sensitive and evidence-heavy. Review the employer hub and gather the role, wage, recruitment, and business-growth details."
           : "The employer hub is the right starting point for LMIA, recruitment, provincial employer, and compliance work. A consultation can turn the business need into a stream-by-stream plan.",
-        href: "/for-employers",
+        href: currentPagePath("/for-employers"),
         guide: "Open employer services",
       },
       refusal: {
@@ -503,7 +504,7 @@ class ActionProvider {
         text: answer.deadline === "urgent"
           ? "Keep the letter, deadline, and full application record together and request an urgent review. The response strategy depends on the exact concerns and the time available."
           : "A refusal is not fixed by repeating the same application. Start with the refusal guide to identify the concerns, then request a focused review of the evidence and next route.",
-        href: "/refusals",
+        href: currentPagePath("/refusals"),
         guide: "Open refusals guide",
         urgent: answer.deadline === "urgent",
       },
@@ -512,7 +513,7 @@ class ActionProvider {
         text: answer.need === "residency"
           ? "Residency-obligation questions depend on travel history, days in Canada, and the document or status you are trying to secure. A case-specific review is worthwhile before travel."
           : "The citizenship and PR-card guide is the best starting point for the eligibility, residency, and document checklist that matches your situation.",
-        href: "/immigration/citizenship",
+        href: currentPagePath("/immigration/citizenship"),
         guide: "Open citizenship guide",
       },
     }[service];
@@ -520,7 +521,7 @@ class ActionProvider {
     const actions = [
       { label: results.guide, href: results.href, icon: "guide" },
       { label: "Send my details", action: "lead", primary: true },
-      { label: "Start free assessment", href: "/tools/free-assessment", primary: true, icon: "calendar" },
+      { label: "Start free assessment", href: currentPagePath("/tools/free-assessment"), primary: true, icon: "calendar" },
       { label: site.ctas.primary.label, href: site.ctas.primary.href, primary: true, icon: "calendar" },
       { label: "WhatsApp the team", href: whatsappHref, external: true, icon: "whatsapp" },
       { label: "Start over", action: "restart" },

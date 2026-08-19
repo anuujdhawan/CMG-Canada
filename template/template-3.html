@@ -1,0 +1,688 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Toronto Gateway | Canadian Immigration Command Centre</title>
+    <meta name="description" content="Commonwealth Migration Canada helps you navigate Express Entry, PNP, work and study permits, family sponsorship, refusals and employer immigration with licensed RCIC guidance." />
+    <meta name="keywords" content="Canadian immigration, Toronto immigration consultant, Express Entry, PNP, work permit, study permit, LMIA, licensed RCIC" />
+    <meta name="theme-color" content="#082d5e" />
+    <meta property="og:title" content="Toronto Gateway — Your Immigration Command Centre" />
+    <meta property="og:description" content="Clear Canadian immigration guidance for the route you are planning." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="../public/images/pages/toronto-night.webp" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="../public/images/icon.png" />
+    <style>
+      :root {
+        --blue: #082d5e;
+        --blue-deep: #051a38;
+        --blue-soft: #15548d;
+        --sky: #a9d9f2;
+        --steel: #dfe7ec;
+        --mist: #f2f6f8;
+        --paper: #fbfcfd;
+        --charcoal: #192633;
+        --ink: #163044;
+        --muted: #6c7d89;
+        --red: #d92920;
+        --line: rgba(22,48,68,.15);
+        --white: #fff;
+        --max: 1320px;
+        --display: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        --body: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+        --shadow: 0 24px 70px rgba(5,26,56,.14);
+      }
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
+      body { margin: 0; overflow-x: hidden; color: var(--ink); background: var(--paper); font-family: var(--body); line-height: 1.55; -webkit-font-smoothing: antialiased; }
+      body.menu-open { overflow: hidden; }
+      a { color: inherit; text-decoration: none; }
+      button, input { font: inherit; }
+      button { cursor: pointer; }
+      img { display: block; max-width: 100%; }
+      svg { display: block; }
+      :focus-visible { outline: 3px solid var(--sky); outline-offset: 4px; }
+      ::selection { color: var(--white); background: var(--red); }
+
+      .skip-link { position: fixed; z-index: 1000; top: 10px; left: 10px; padding: 10px 14px; color: var(--white); background: var(--red); transform: translateY(-150%); transition: transform .2s ease; }
+      .skip-link:focus { transform: translateY(0); }
+      .topline { position: absolute; z-index: 20; top: 0; right: 0; left: 0; min-height: 34px; color: rgba(255,255,255,.75); background: rgba(5,26,56,.87); font-family: var(--mono); font-size: 10px; letter-spacing: .05em; }
+      .topline-inner { display: flex; align-items: center; justify-content: space-between; gap: 18px; width: min(calc(100% - 48px), var(--max)); min-height: 34px; margin: 0 auto; }
+      .topline a:hover { color: var(--sky); }
+      .topline-right { display: flex; align-items: center; gap: 18px; }
+      .top-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--red); }
+
+      .site-header { position: absolute; z-index: 19; top: 34px; right: 0; left: 0; padding: 15px 24px; transition: position .25s ease, background .25s ease, box-shadow .25s ease; }
+      .site-header.is-sticky { position: fixed; top: 0; background: rgba(251,252,253,.95); box-shadow: 0 12px 36px rgba(5,26,56,.12); backdrop-filter: blur(15px); }
+      .nav-shell { display: flex; align-items: center; justify-content: space-between; gap: 22px; width: min(100%, var(--max)); min-height: 66px; margin: 0 auto; padding: 8px 13px 8px 18px; border: 1px solid rgba(255,255,255,.18); background: rgba(5,26,56,.72); box-shadow: 0 14px 36px rgba(5,26,56,.15); backdrop-filter: blur(14px); }
+      .is-sticky .nav-shell { border-color: rgba(22,48,68,.13); background: var(--white); box-shadow: none; }
+      .brand { flex: 0 0 auto; width: 115px; }
+      .brand img { width: 100%; height: auto; }
+      .brand-dark { display: none; }
+      .is-sticky .brand-light { display: none; }
+      .is-sticky .brand-dark { display: block; }
+      .desktop-nav { display: flex; align-items: center; gap: 2px; margin-left: auto; }
+      .nav-link, .nav-trigger { display: inline-flex; align-items: center; gap: 5px; padding: 10px 7px; color: rgba(255,255,255,.9); border: 0; background: transparent; font-size: 11px; font-weight: 800; white-space: nowrap; }
+      .is-sticky .nav-link, .is-sticky .nav-trigger { color: var(--ink); }
+      .nav-link:hover, .nav-trigger:hover, .nav-trigger[aria-expanded="true"] { color: var(--sky); }
+      .is-sticky .nav-link:hover, .is-sticky .nav-trigger:hover, .is-sticky .nav-trigger[aria-expanded="true"] { color: var(--red); }
+      .nav-trigger svg { width: 11px; transition: transform .2s ease; }
+      .nav-trigger[aria-expanded="true"] svg { transform: rotate(180deg); }
+      .nav-cta { display: inline-flex; align-items: center; gap: 8px; margin-left: 7px; padding: 12px 15px; color: var(--white); background: var(--red); font-size: 11px; font-weight: 850; transition: transform .2s ease, background .2s ease; }
+      .nav-cta:hover { background: #aa201b; transform: translateY(-2px); }
+      .nav-cta svg { width: 14px; }
+      .menu-toggle { display: none; padding: 9px; color: var(--white); border: 1px solid rgba(255,255,255,.22); background: transparent; }
+      .is-sticky .menu-toggle { color: var(--blue); border-color: var(--line); }
+      .menu-toggle svg { width: 24px; height: 24px; }
+
+      .menu-popover { position: absolute; top: calc(100% - 1px); left: 50%; z-index: 10; width: min(900px, calc(100vw - 48px)); padding: 22px; color: var(--ink); border: 1px solid var(--line); background: var(--paper); box-shadow: var(--shadow); opacity: 0; visibility: hidden; transform: translate(-50%, -8px); transition: opacity .2s ease, visibility .2s ease, transform .2s ease; }
+      .menu-popover.is-open { opacity: 1; visibility: visible; transform: translate(-50%, 0); }
+      .menu-grid { display: grid; grid-template-columns: 1fr 1fr 250px; gap: 24px; }
+      .menu-heading { margin: 0 0 9px; color: var(--blue-soft); font-family: var(--mono); font-size: 10px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
+      .menu-link { display: block; padding: 10px 0; border-top: 1px solid var(--line); }
+      .menu-link:hover .menu-title { color: var(--red); }
+      .menu-title { display: block; font-size: 13px; font-weight: 800; transition: color .2s ease; }
+      .menu-desc { display: block; margin-top: 2px; color: var(--muted); font-size: 11px; line-height: 1.35; }
+      .menu-feature { display: flex; flex-direction: column; justify-content: space-between; min-height: 205px; padding: 20px; color: var(--white); background: var(--blue); }
+      .menu-feature .menu-heading { color: var(--sky); }
+      .menu-feature h3 { margin: 0 0 8px; font-family: var(--display); font-size: 27px; letter-spacing: -.07em; line-height: .96; }
+      .menu-feature p { margin: 0; color: rgba(255,255,255,.62); font-size: 11px; }
+      .menu-feature a { margin-top: 18px; color: var(--sky); font-family: var(--mono); font-size: 10px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; }
+
+      .hero { position: relative; min-height: 100svh; padding: 182px 24px 78px; overflow: hidden; color: var(--white); background: var(--blue-deep); isolation: isolate; }
+      .hero-bg { position: absolute; z-index: -5; inset: 0; background-image: linear-gradient(90deg, rgba(5,26,56,.97) 0%, rgba(5,26,56,.83) 41%, rgba(5,26,56,.34) 76%, rgba(5,26,56,.7) 100%), linear-gradient(0deg, rgba(5,26,56,.82), transparent 55%), url("../public/images/pages/toronto-night.webp"); background-position: center; background-size: cover; transform: scale(1.04); }
+      .hero::before { position: absolute; z-index: -3; inset: 0; opacity: .22; background-image: linear-gradient(rgba(169,217,242,.19) 1px, transparent 1px), linear-gradient(90deg, rgba(169,217,242,.19) 1px, transparent 1px); background-size: 78px 78px; mask-image: linear-gradient(90deg, black 0, transparent 72%); content: ""; }
+      .hero::after { position: absolute; z-index: -2; right: -17%; bottom: -44%; width: 75%; height: 90%; border: 1px solid rgba(169,217,242,.18); border-radius: 50%; content: ""; transform: rotate(-9deg); }
+      .hero-inner { position: relative; z-index: 2; display: grid; grid-template-columns: minmax(0, .87fr) minmax(480px, 1.13fr); align-items: center; gap: 42px; width: min(100%, var(--max)); min-height: calc(100svh - 260px); margin: 0 auto; }
+      .hero-copy { max-width: 590px; }
+      .eyebrow { display: flex; align-items: center; gap: 10px; margin: 0 0 17px; color: var(--sky); font-family: var(--mono); font-size: 10px; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; }
+      .eyebrow::before { display: inline-block; width: 28px; height: 1px; background: currentColor; content: ""; }
+      .hero h1 { max-width: 620px; margin: 0; font-family: var(--display); font-size: clamp(52px, 6.5vw, 93px); font-weight: 800; letter-spacing: -.1em; line-height: .9; }
+      .hero h1 em { color: var(--sky); font-style: normal; }
+      .hero-copy-text { max-width: 550px; margin: 24px 0 0; color: rgba(255,255,255,.73); font-size: 16px; line-height: 1.62; }
+      .hero-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 29px; }
+      .button { display: inline-flex; align-items: center; justify-content: center; gap: 9px; min-height: 49px; padding: 0 17px; border: 1px solid transparent; font-size: 11px; font-weight: 850; transition: transform .2s ease, background .2s ease, color .2s ease, border-color .2s ease; }
+      .button:hover { transform: translateY(-3px); }
+      .button-red { color: var(--white); background: var(--red); }
+      .button-red:hover { background: #aa201b; }
+      .button-sky { color: var(--blue-deep); background: var(--sky); }
+      .button-sky:hover { background: var(--white); }
+      .button-line { color: var(--white); border-color: rgba(255,255,255,.36); background: transparent; }
+      .button-line:hover { color: var(--blue-deep); border-color: var(--white); background: var(--white); }
+      .button svg { width: 15px; }
+      .hero-trust { display: flex; flex-wrap: wrap; gap: 8px 17px; margin-top: 21px; padding-top: 17px; border-top: 1px solid rgba(255,255,255,.17); color: rgba(255,255,255,.59); font-family: var(--mono); font-size: 9px; letter-spacing: .04em; text-transform: uppercase; }
+      .hero-trust span { display: inline-flex; align-items: center; gap: 7px; }
+      .hero-trust span::before { width: 5px; height: 5px; border-radius: 50%; background: var(--sky); content: ""; }
+
+      .command-centre { position: relative; min-height: 520px; transform: translate3d(var(--parallax-x,0), var(--parallax-y,0), 0); transition: transform .22s ease-out; }
+      .command-centre::before { position: absolute; right: 0; bottom: -13%; left: -5%; height: 47%; opacity: .34; background: repeating-linear-gradient(90deg, transparent 0 71px, rgba(169,217,242,.18) 72px, transparent 73px), linear-gradient(178deg, transparent 49%, rgba(169,217,242,.32) 50%, transparent 50.5%); transform: perspective(220px) rotateX(58deg); content: ""; }
+      .skyline-svg { position: absolute; right: -3%; bottom: 13%; width: 93%; height: auto; overflow: visible; }
+      .skyline-svg .buildings { fill: rgba(5,26,56,.45); stroke: rgba(169,217,242,.72); stroke-width: 1.1; stroke-dasharray: 1100; stroke-dashoffset: 1100; animation: draw-city 3s .3s cubic-bezier(.65,0,.35,1) forwards; }
+      .skyline-svg .tower { fill: none; stroke: var(--sky); stroke-width: 2; stroke-linecap: round; stroke-dasharray: 420; stroke-dashoffset: 420; animation: draw-tower 2.4s .55s ease forwards; }
+      .skyline-svg .bridge { fill: none; stroke: rgba(169,217,242,.54); stroke-width: 1; stroke-dasharray: 5 7; }
+      .window { fill: var(--sky); opacity: 0; animation: window-on .8s var(--d) ease forwards; }
+      .hero-route { fill: none; stroke: var(--red); stroke-width: 1.7; stroke-dasharray: 6 9; stroke-dashoffset: 800; filter: drop-shadow(0 0 5px rgba(217,41,32,.65)); animation: route-line 3.6s .9s cubic-bezier(.65,0,.35,1) forwards; }
+      .cn-halo { fill: none; stroke: rgba(169,217,242,.5); stroke-width: 1; stroke-dasharray: 3 8; animation: spin-slow 26s linear infinite; transform-origin: 563px 88px; }
+      .command-label { position: absolute; top: 2%; right: 0; color: rgba(255,255,255,.56); font-family: var(--mono); font-size: 9px; letter-spacing: .12em; text-align: right; text-transform: uppercase; }
+      .command-label strong { display: block; margin-top: 7px; color: var(--sky); font-size: 10px; }
+      .status-panel { position: absolute; z-index: 3; top: 14%; right: 0; width: 265px; padding: 18px; color: var(--ink); border-top: 3px solid var(--red); background: rgba(251,252,253,.96); box-shadow: 0 18px 48px rgba(5,26,56,.28); }
+      .status-header { display: flex; align-items: start; justify-content: space-between; gap: 16px; padding-bottom: 13px; border-bottom: 1px solid var(--line); }
+      .status-header small { color: var(--blue-soft); font-family: var(--mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; }
+      .status-header span { color: var(--red); font-family: var(--mono); font-size: 8px; letter-spacing: .08em; text-transform: uppercase; }
+      .status-header h2 { margin: 6px 0 0; color: var(--blue); font-family: var(--display); font-size: 25px; letter-spacing: -.07em; line-height: .95; }
+      .status-list { display: grid; gap: 0; margin-top: 5px; }
+      .status-option { display: grid; grid-template-columns: 25px 1fr 11px; gap: 8px; align-items: center; padding: 9px 0; color: var(--muted); border: 0; border-bottom: 1px solid var(--line); background: transparent; text-align: left; }
+      .status-option:hover, .status-option[aria-selected="true"] { color: var(--blue); }
+      .status-option[aria-selected="true"] { font-weight: 800; }
+      .status-number { color: var(--red); font-family: var(--mono); font-size: 9px; }
+      .status-option svg { width: 11px; opacity: .5; }
+      .status-detail { padding-top: 14px; }
+      .status-detail small { color: var(--red); font-family: var(--mono); font-size: 8px; letter-spacing: .1em; text-transform: uppercase; }
+      .status-detail h3 { margin: 5px 0 4px; color: var(--blue); font-family: var(--display); font-size: 20px; letter-spacing: -.06em; }
+      .status-detail p { margin: 0; color: var(--muted); font-size: 10px; line-height: 1.4; }
+      .status-note { display: block; margin-top: 12px; color: var(--muted); font-family: var(--mono); font-size: 8px; line-height: 1.4; }
+      .route-module { position: absolute; right: 29%; bottom: -1%; z-index: 4; width: 215px; padding: 14px; color: var(--white); background: var(--blue-deep); border: 1px solid rgba(169,217,242,.28); box-shadow: 0 16px 34px rgba(5,26,56,.28); }
+      .route-module small { display: block; color: var(--sky); font-family: var(--mono); font-size: 8px; letter-spacing: .12em; text-transform: uppercase; }
+      .route-module strong { display: block; margin-top: 8px; font-family: var(--display); font-size: 18px; letter-spacing: -.05em; line-height: 1; }
+      .module-step { display: flex; gap: 8px; align-items: center; margin-top: 11px; color: rgba(255,255,255,.58); font-size: 10px; }
+      .module-step::before { width: 6px; height: 6px; border-radius: 50%; background: var(--red); content: ""; }
+      .module-step.is-current { color: var(--white); }
+      .module-step.is-current::before { box-shadow: 0 0 0 4px rgba(217,41,32,.18); }
+      .scroll-prompt { position: absolute; right: 24px; bottom: 23px; z-index: 3; display: flex; align-items: center; gap: 9px; color: rgba(255,255,255,.62); font-family: var(--mono); font-size: 9px; letter-spacing: .14em; text-transform: uppercase; }
+      .scroll-prompt::before { width: 55px; height: 1px; background: linear-gradient(90deg, transparent, var(--sky)); content: ""; }
+
+      .transit-progress { position: fixed; top: 50%; left: 12px; z-index: 15; width: 2px; height: 130px; background: rgba(8,45,94,.15); transform: translateY(-50%); }
+      .transit-progress span { position: absolute; top: 0; left: 0; width: 2px; height: 0; background: var(--red); transition: height .15s linear; }
+      .transit-progress::after { position: absolute; top: 0; left: -3px; width: 8px; height: 8px; border-radius: 50%; background: var(--red); content: ""; }
+
+      .section { position: relative; padding: 118px 24px; }
+      .section-inner { width: min(100%, var(--max)); margin: 0 auto; }
+      .section-head { display: grid; grid-template-columns: minmax(210px,.35fr) minmax(0,.65fr); gap: 30px; align-items: end; margin-bottom: 54px; }
+      .section-kicker { margin: 0; color: var(--blue-soft); font-family: var(--mono); font-size: 10px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+      .section-kicker::before { display: inline-block; width: 23px; height: 1px; margin: 0 9px 3px 0; background: currentColor; content: ""; }
+      .section-head h2 { max-width: 760px; margin: 0; color: var(--blue); font-family: var(--display); font-size: clamp(41px, 5.2vw, 74px); letter-spacing: -.09em; line-height: .94; }
+      .section-head p { max-width: 480px; margin: 0 0 2px; color: var(--muted); font-size: 14px; }
+      .section-head h2 + p { margin-top: 17px; }
+      .reveal { opacity: 0; transform: translateY(23px); transition: opacity .7s ease, transform .7s cubic-bezier(.22,1,.36,1); }
+      .reveal.is-visible { opacity: 1; transform: translateY(0); }
+      .delay-1 { transition-delay: .08s; } .delay-2 { transition-delay: .16s; } .delay-3 { transition-delay: .24s; }
+
+      .ticker { padding: 28px 24px; color: var(--white); background: var(--charcoal); }
+      .ticker-inner { display: grid; grid-template-columns: 1.35fr repeat(3,1fr); width: min(100%, var(--max)); margin: 0 auto; }
+      .ticker-item { min-height: 60px; padding: 7px 24px; border-left: 1px solid rgba(255,255,255,.15); }
+      .ticker-item:first-child { padding-left: 0; border-left: 0; }
+      .ticker-item strong { display: block; color: var(--white); font-family: var(--display); font-size: 24px; letter-spacing: -.06em; line-height: 1; }
+      .ticker-item:first-child strong { font-size: 16px; letter-spacing: -.03em; }
+      .ticker-item span { display: block; margin-top: 7px; color: rgba(255,255,255,.51); font-family: var(--mono); font-size: 9px; letter-spacing: .08em; text-transform: uppercase; }
+
+      .goals { background: var(--mist); }
+      .goal-grid { display: grid; grid-template-columns: repeat(12,1fr); gap: 9px; }
+      .goal-card { position: relative; display: flex; min-height: 265px; flex-direction: column; justify-content: space-between; grid-column: span 4; padding: 23px; overflow: hidden; background: var(--white); border: 1px solid var(--line); transition: color .25s ease, background .25s ease, transform .25s ease; }
+      .goal-card:nth-child(2), .goal-card:nth-child(5) { background: var(--steel); }
+      .goal-card:nth-child(3), .goal-card:nth-child(6) { color: var(--white); background: var(--blue); }
+      .goal-card:hover { color: var(--white); background: var(--blue-soft); transform: translateY(-6px); }
+      .goal-number { display: flex; justify-content: space-between; color: var(--red); font-family: var(--mono); font-size: 10px; }
+      .goal-card:nth-child(3) .goal-number, .goal-card:nth-child(6) .goal-number, .goal-card:hover .goal-number { color: var(--sky); }
+      .goal-card h3 { max-width: 260px; margin: 49px 0 8px; font-family: var(--display); font-size: clamp(26px, 3vw, 39px); letter-spacing: -.08em; line-height: .95; }
+      .goal-card p { max-width: 250px; margin: 0; color: var(--muted); font-size: 11px; }
+      .goal-card:nth-child(3) p, .goal-card:nth-child(6) p, .goal-card:hover p { color: rgba(255,255,255,.66); }
+      .goal-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding-top: 12px; border-top: 1px solid var(--line); color: var(--blue-soft); font-family: var(--mono); font-size: 9px; letter-spacing: .08em; text-transform: uppercase; }
+      .goal-card:nth-child(3) .goal-foot, .goal-card:nth-child(6) .goal-foot, .goal-card:hover .goal-foot { color: var(--sky); border-color: rgba(255,255,255,.21); }
+      .goal-foot svg { width: 16px; transition: transform .2s ease; }
+      .goal-card:hover .goal-foot svg { transform: translateX(5px); }
+
+      .transit-map { color: var(--white); background: var(--blue); }
+      .transit-map .section-head h2 { color: var(--white); }
+      .transit-map .section-head p { color: rgba(255,255,255,.59); }
+      .transit-map .section-kicker { color: var(--sky); }
+      .metro-board { position: relative; min-height: 370px; padding: 34px 25px 27px; overflow: hidden; border: 1px solid rgba(169,217,242,.22); background: var(--blue-deep); }
+      .metro-board::before { position: absolute; inset: 0; opacity: .2; background-image: linear-gradient(rgba(169,217,242,.15) 1px, transparent 1px), linear-gradient(90deg, rgba(169,217,242,.15) 1px, transparent 1px); background-size: 56px 56px; content: ""; }
+      .metro-board::after { position: absolute; top: 86px; right: 0; left: 0; height: 1px; background: rgba(169,217,242,.18); content: ""; }
+      .metro-lines { position: absolute; inset: 0; width: 100%; height: 100%; }
+      .metro-lines path { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 5 8; }
+      .line-red { stroke: var(--red); } .line-sky { stroke: var(--sky); } .line-white { stroke: rgba(255,255,255,.65); }
+      .metro-board h3 { position: relative; z-index: 1; margin: 0; color: var(--white); font-family: var(--display); font-size: 22px; letter-spacing: -.07em; }
+      .metro-board small { position: relative; z-index: 1; display: block; margin-top: 6px; color: var(--sky); font-family: var(--mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; }
+      .metro-stops { position: absolute; z-index: 2; right: 27px; bottom: 34px; left: 27px; display: grid; grid-template-columns: repeat(6,1fr); gap: 12px; }
+      .metro-stop { position: relative; padding-top: 24px; }
+      .metro-stop::before { position: absolute; top: 0; left: 0; width: 15px; height: 15px; border: 4px solid var(--blue-deep); border-radius: 50%; background: var(--sky); box-shadow: 0 0 0 1px var(--sky); content: ""; }
+      .metro-stop:nth-child(2)::before, .metro-stop:nth-child(5)::before { background: var(--red); box-shadow: 0 0 0 1px var(--red); }
+      .metro-stop strong { display: block; color: var(--white); font-family: var(--display); font-size: 16px; letter-spacing: -.05em; line-height: 1; }
+      .metro-stop span { display: block; margin-top: 4px; color: rgba(255,255,255,.5); font-size: 9px; }
+      .map-caption { position: absolute; right: 27px; bottom: 14px; color: rgba(255,255,255,.42); font-family: var(--mono); font-size: 8px; letter-spacing: .08em; text-transform: uppercase; }
+
+      .consultant { background: var(--paper); }
+      .consultant-grid { display: grid; grid-template-columns: .87fr 1.13fr; gap: 75px; align-items: center; }
+      .consultant-image { position: relative; padding: 0 18px 18px 0; }
+      .consultant-image::after { position: absolute; right: 0; bottom: 0; width: 86%; height: 85%; border: 1px solid var(--blue-soft); content: ""; }
+      .consultant-image img { position: relative; z-index: 1; width: 100%; aspect-ratio: .88; object-fit: cover; filter: saturate(.72); }
+      .consultant-tag { position: absolute; right: -15px; bottom: 36px; z-index: 2; width: 165px; padding: 15px; color: var(--white); background: var(--red); font-family: var(--mono); font-size: 9px; letter-spacing: .08em; text-transform: uppercase; }
+      .consultant-copy h2 { max-width: 700px; margin: 0; color: var(--blue); font-family: var(--display); font-size: clamp(43px, 5.7vw, 78px); letter-spacing: -.1em; line-height: .91; }
+      .consultant-copy h2 span { color: var(--red); }
+      .consultant-copy > p { max-width: 565px; margin: 23px 0 0; color: var(--muted); font-size: 15px; }
+      .consultant-details { display: grid; grid-template-columns: repeat(2,1fr); gap: 15px 23px; max-width: 640px; margin-top: 29px; padding: 19px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+      .detail strong { display: block; color: var(--blue); font-family: var(--display); font-size: 17px; letter-spacing: -.04em; }
+      .detail span { display: block; margin-top: 3px; color: var(--muted); font-size: 10px; }
+      .consultant-quote { position: relative; max-width: 590px; margin-top: 24px; padding-left: 20px; color: var(--blue); font-family: Georgia, serif; font-size: 21px; font-style: italic; line-height: 1.3; }
+      .consultant-quote::before { position: absolute; top: 0; bottom: 0; left: 0; width: 3px; background: var(--red); content: ""; }
+
+      .services { background: var(--mist); }
+      .service-grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: 10px; }
+      .service-block { min-height: 260px; padding: 24px; background: var(--white); border: 1px solid var(--line); }
+      .service-block:nth-child(2) { color: var(--white); background: var(--blue); }
+      .service-block:nth-child(3) { grid-row: span 2; min-height: 530px; color: var(--white); background: var(--charcoal); }
+      .service-block:nth-child(4) { background: var(--steel); }
+      .service-block small { color: var(--red); font-family: var(--mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; }
+      .service-block:nth-child(2) small, .service-block:nth-child(3) small { color: var(--sky); }
+      .service-block h3 { max-width: 430px; margin: 66px 0 9px; color: var(--blue); font-family: var(--display); font-size: clamp(27px, 3vw, 42px); letter-spacing: -.08em; line-height: .93; }
+      .service-block:nth-child(2) h3, .service-block:nth-child(3) h3 { color: var(--white); }
+      .service-block p { max-width: 410px; margin: 0; color: var(--muted); font-size: 11px; }
+      .service-block:nth-child(2) p, .service-block:nth-child(3) p { color: rgba(255,255,255,.6); }
+      .service-list { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 23px; padding-top: 16px; border-top: 1px solid var(--line); list-style: none; }
+      .service-block:nth-child(3) .service-list { border-color: rgba(255,255,255,.2); }
+      .service-list li { color: var(--muted); font-size: 11px; }
+      .service-block:nth-child(3) .service-list li { color: rgba(255,255,255,.63); }
+      .service-list li::before { margin-right: 7px; color: var(--red); content: "↗"; }
+
+      .compare { background: var(--paper); }
+      .compare-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      .compare-card { min-height: 345px; padding: 28px; border: 1px solid var(--line); background: var(--white); }
+      .compare-card:nth-child(2) { color: var(--white); border-color: var(--blue); background: var(--blue); }
+      .compare-card small { color: var(--blue-soft); font-family: var(--mono); font-size: 10px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+      .compare-card:nth-child(2) small { color: var(--sky); }
+      .compare-card h3 { margin: 53px 0 10px; color: var(--blue); font-family: var(--display); font-size: 36px; letter-spacing: -.08em; line-height: .95; }
+      .compare-card:nth-child(2) h3 { color: var(--white); }
+      .compare-card p { max-width: 425px; margin: 0; color: var(--muted); font-size: 12px; }
+      .compare-card:nth-child(2) p { color: rgba(255,255,255,.64); }
+      .compare-points { display: grid; grid-template-columns: 1fr 1fr; gap: 9px 20px; margin: 24px 0 0; padding: 17px 0 0; border-top: 1px solid var(--line); list-style: none; }
+      .compare-card:nth-child(2) .compare-points { border-color: rgba(255,255,255,.21); }
+      .compare-points li { color: var(--muted); font-size: 11px; }
+      .compare-card:nth-child(2) .compare-points li { color: rgba(255,255,255,.67); }
+      .compare-points li::before { margin-right: 7px; color: var(--red); content: "•"; }
+
+      .routes { background: var(--mist); }
+      .route-grid { display: grid; grid-template-columns: repeat(5,1fr); gap: 1px; background: var(--line); }
+      .route-card { min-height: 225px; padding: 20px; background: var(--mist); transition: color .25s ease, background .25s ease, transform .25s ease; }
+      .route-card:hover { color: var(--white); background: var(--blue-soft); transform: translateY(-5px); }
+      .route-card small { color: var(--red); font-family: var(--mono); font-size: 10px; }
+      .route-card:hover small { color: var(--sky); }
+      .route-card h3 { margin: 62px 0 8px; color: var(--blue); font-family: var(--display); font-size: 23px; letter-spacing: -.07em; line-height: .95; }
+      .route-card:hover h3 { color: var(--white); }
+      .route-card p { margin: 0; color: var(--muted); font-size: 11px; line-height: 1.42; }
+      .route-card:hover p { color: rgba(255,255,255,.66); }
+
+      .eligibility { color: var(--white); background: var(--charcoal); }
+      .eligibility .section-head h2 { color: var(--white); }
+      .eligibility .section-head p { color: rgba(255,255,255,.58); }
+      .eligibility .section-kicker { color: var(--sky); }
+      .eligibility-grid { display: grid; grid-template-columns: .84fr 1.16fr; gap: 75px; align-items: center; }
+      .eligibility-copy h2 { margin: 0; color: var(--white); font-family: var(--display); font-size: clamp(44px, 5.7vw, 78px); letter-spacing: -.1em; line-height: .91; }
+      .eligibility-copy h2 em { color: var(--sky); font-style: normal; }
+      .eligibility-copy > p { max-width: 455px; margin: 23px 0 0; color: rgba(255,255,255,.63); font-size: 15px; }
+      .eligibility-list { display: grid; gap: 9px; margin: 24px 0 0; padding: 0; list-style: none; color: rgba(255,255,255,.75); font-size: 11px; }
+      .eligibility-list li::before { display: inline-grid; place-items: center; width: 18px; height: 18px; margin-right: 9px; color: var(--blue-deep); background: var(--sky); border-radius: 50%; content: "✓"; font-size: 9px; }
+      .dashboard { padding: 28px; border: 1px solid rgba(169,217,242,.2); background: rgba(5,26,56,.5); }
+      .dashboard-top { display: flex; align-items: start; justify-content: space-between; gap: 20px; padding-bottom: 20px; border-bottom: 1px solid rgba(255,255,255,.18); }
+      .dashboard-top small { color: var(--sky); font-family: var(--mono); font-size: 9px; letter-spacing: .11em; text-transform: uppercase; }
+      .dashboard-top h3 { margin: 8px 0 0; color: var(--white); font-family: var(--display); font-size: 28px; letter-spacing: -.07em; line-height: 1; }
+      .dash-score { color: var(--sky); font-family: var(--display); font-size: 58px; font-weight: 800; letter-spacing: -.12em; line-height: .8; }
+      .dash-score span { display: block; margin-top: 8px; color: rgba(255,255,255,.48); font-family: var(--mono); font-size: 8px; font-weight: 500; letter-spacing: .04em; text-align: right; text-transform: uppercase; }
+      .dash-line { position: relative; height: 5px; margin: 31px 0 8px; background: rgba(255,255,255,.18); }
+      .dash-line::before { position: absolute; top: -5px; left: var(--dash-position, 0); width: 16px; height: 16px; border: 3px solid var(--charcoal); border-radius: 50%; background: var(--red); box-shadow: 0 0 0 1px var(--red), 0 0 17px rgba(217,41,32,.75); content: ""; transition: left .25s ease; }
+      .dash-line-fill { width: 57%; height: 5px; background: linear-gradient(90deg, var(--red), var(--sky)); transition: width .25s ease; }
+      .dash-labels { display: flex; justify-content: space-between; color: rgba(255,255,255,.45); font-family: var(--mono); font-size: 8px; letter-spacing: .07em; text-transform: uppercase; }
+      .dash-controls { display: grid; gap: 18px; margin-top: 28px; }
+      .dash-control { display: grid; grid-template-columns: 1fr 42px; gap: 14px; align-items: center; }
+      .dash-label { display: flex; justify-content: space-between; margin-bottom: 7px; color: rgba(255,255,255,.6); font-family: var(--mono); font-size: 9px; letter-spacing: .04em; text-transform: uppercase; }
+      .dash-label output { color: var(--white); font-weight: 800; }
+      input[type="range"] { width: 100%; height: 3px; accent-color: var(--sky); cursor: pointer; }
+      .dash-unit { color: var(--sky); font-family: var(--mono); font-size: 11px; text-align: right; }
+      .dashboard-bottom { display: flex; justify-content: space-between; align-items: center; gap: 17px; margin-top: 23px; padding-top: 17px; border-top: 1px solid rgba(255,255,255,.17); }
+      .dashboard-bottom p { max-width: 255px; margin: 0; color: rgba(255,255,255,.49); font-size: 10px; line-height: 1.42; }
+
+      .refusals { color: var(--white); background: var(--red); }
+      .refusals .section-head h2 { color: var(--white); }
+      .refusals .section-head p { color: rgba(255,255,255,.68); }
+      .refusals .section-kicker { color: var(--white); }
+      .recovery-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 70px; align-items: end; }
+      .recovery-copy h2 { max-width: 690px; margin: 0; color: var(--white); font-family: var(--display); font-size: clamp(45px, 5.9vw, 83px); letter-spacing: -.1em; line-height: .9; }
+      .recovery-copy h2 span { color: #ffd3cf; }
+      .recovery-copy > p { max-width: 560px; margin: 22px 0 0; color: rgba(255,255,255,.7); font-size: 15px; }
+      .recovery-list { display: grid; grid-template-columns: repeat(2,1fr); gap: 11px; margin-top: 28px; }
+      .recovery-item { padding: 15px 0; border-top: 1px solid rgba(255,255,255,.33); }
+      .recovery-item strong { display: block; color: var(--white); font-family: var(--display); font-size: 17px; letter-spacing: -.04em; }
+      .recovery-item span { display: block; margin-top: 4px; color: rgba(255,255,255,.62); font-size: 10px; }
+      .recovery-flow { padding: 23px; color: var(--blue-deep); background: var(--white); }
+      .recovery-flow small { color: var(--red); font-family: var(--mono); font-size: 9px; letter-spacing: .12em; text-transform: uppercase; }
+      .recovery-flow h3 { margin: 32px 0 18px; color: var(--blue); font-family: var(--display); font-size: 30px; letter-spacing: -.08em; line-height: .96; }
+      .recovery-flow ol { display: grid; gap: 12px; margin: 0; padding: 0; list-style: none; counter-reset: recovery; }
+      .recovery-flow li { display: grid; grid-template-columns: 24px 1fr; gap: 10px; color: var(--muted); font-size: 11px; }
+      .recovery-flow li::before { counter-increment: recovery; color: var(--red); content: "0" counter(recovery); font-family: var(--mono); font-size: 9px; }
+
+      .employers { background: var(--mist); }
+      .employer-grid { display: grid; grid-template-columns: 1.05fr .95fr; gap: 73px; align-items: center; }
+      .employer-visual { position: relative; min-height: 470px; }
+      .employer-visual img { width: 86%; height: 445px; object-fit: cover; }
+      .employer-visual::after { position: absolute; right: 0; bottom: 0; width: 47%; height: 48%; border: 1px solid var(--blue-soft); content: ""; }
+      .employer-chip { position: absolute; right: 5%; bottom: 7%; z-index: 1; display: grid; place-items: center; width: 142px; height: 142px; padding: 15px; color: var(--white); background: var(--blue); border-radius: 50%; font-family: var(--mono); font-size: 9px; letter-spacing: .08em; text-align: center; text-transform: uppercase; transform: rotate(-8deg); }
+      .employer-copy h2 { margin: 0; color: var(--blue); font-family: var(--display); font-size: clamp(43px, 5.7vw, 77px); letter-spacing: -.1em; line-height: .9; }
+      .employer-copy h2 span { color: var(--red); }
+      .employer-copy > p { max-width: 530px; margin: 22px 0 0; color: var(--muted); font-size: 15px; }
+      .employer-services { display: grid; grid-template-columns: 1fr 1fr; gap: 13px 20px; margin-top: 27px; }
+      .employer-service { padding-top: 12px; border-top: 1px solid var(--line); }
+      .employer-service strong { display: block; color: var(--blue); font-family: var(--display); font-size: 17px; letter-spacing: -.04em; }
+      .employer-service span { display: block; margin-top: 4px; color: var(--muted); font-size: 10px; }
+
+      .stories { background: var(--paper); }
+      .story-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      .story { position: relative; min-height: 270px; padding: 29px; border: 1px solid var(--line); background: var(--white); }
+      .story:nth-child(2) { margin-top: 50px; color: var(--white); background: var(--blue); }
+      .story:nth-child(3) { grid-column: 1 / -1; max-width: 800px; color: var(--blue-deep); background: var(--steel); }
+      .story::before { position: absolute; top: 23px; right: 26px; color: var(--red); content: "“"; font-family: Georgia, serif; font-size: 75px; line-height: .7; }
+      .story:nth-child(2)::before { color: var(--sky); }
+      .story blockquote { max-width: 600px; margin: 44px 0 29px; font-family: Georgia, serif; font-size: clamp(20px, 2.2vw, 28px); font-style: italic; line-height: 1.2; }
+      .story footer { display: flex; justify-content: space-between; gap: 15px; padding-top: 13px; border-top: 1px solid var(--line); font-family: var(--mono); font-size: 9px; letter-spacing: .06em; text-transform: uppercase; }
+      .story:nth-child(2) footer { border-color: rgba(255,255,255,.23); }
+      .story footer strong { display: block; font-family: var(--body); font-size: 11px; letter-spacing: 0; text-transform: none; }
+      .story footer span { color: var(--muted); }
+      .story:nth-child(2) footer span { color: rgba(255,255,255,.58); }
+
+      .process { color: var(--white); background: var(--blue); }
+      .process .section-head h2 { color: var(--white); }
+      .process .section-head p { color: rgba(255,255,255,.61); }
+      .process .section-kicker { color: var(--sky); }
+      .process-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 1px; background: rgba(255,255,255,.22); }
+      .process-step { min-height: 245px; padding: 21px; background: rgba(5,26,56,.42); }
+      .process-step:nth-child(2) { background: rgba(5,26,56,.31); }
+      .process-step:nth-child(3) { background: rgba(5,26,56,.2); }
+      .process-step:nth-child(4) { color: var(--blue-deep); background: var(--sky); }
+      .process-step small { color: var(--sky); font-family: var(--mono); font-size: 10px; letter-spacing: .12em; }
+      .process-step:nth-child(4) small { color: var(--blue); }
+      .process-step h3 { margin: 72px 0 9px; color: var(--white); font-family: var(--display); font-size: 28px; letter-spacing: -.08em; line-height: .95; }
+      .process-step:nth-child(4) h3 { color: var(--blue-deep); }
+      .process-step p { margin: 0; color: rgba(255,255,255,.62); font-size: 11px; }
+      .process-step:nth-child(4) p { color: rgba(5,26,56,.66); }
+
+      .tools { background: var(--mist); }
+      .tool-grid { display: grid; grid-template-columns: repeat(5,1fr); gap: 1px; background: var(--line); }
+      .tool { min-height: 220px; padding: 20px; background: var(--mist); transition: color .25s ease, background .25s ease, transform .25s ease; }
+      .tool:hover { color: var(--white); background: var(--blue-soft); transform: translateY(-5px); }
+      .tool small { color: var(--red); font-family: var(--mono); font-size: 10px; }
+      .tool:hover small { color: var(--sky); }
+      .tool h3 { margin: 62px 0 8px; color: var(--blue); font-family: var(--display); font-size: 23px; letter-spacing: -.07em; line-height: .96; }
+      .tool:hover h3 { color: var(--white); }
+      .tool p { margin: 0; color: var(--muted); font-size: 11px; line-height: 1.4; }
+      .tool:hover p { color: rgba(255,255,255,.65); }
+
+      .final-cta { position: relative; padding: 125px 24px; color: var(--white); overflow: hidden; background: var(--blue-deep); }
+      .final-cta::before { position: absolute; inset: 0; opacity: .48; background: linear-gradient(90deg, rgba(5,26,56,.9), rgba(5,26,56,.48)), url("../public/images/pages/toronto-night.webp") center/cover; content: ""; }
+      .final-cta::after { position: absolute; right: -10%; bottom: -60%; width: 67%; height: 120%; border: 1px solid rgba(169,217,242,.27); border-radius: 50%; content: ""; transform: rotate(-9deg); }
+      .final-inner { position: relative; z-index: 1; display: grid; grid-template-columns: 1fr 1fr; gap: 52px; align-items: end; width: min(100%, var(--max)); margin: 0 auto; }
+      .final-cta h2 { max-width: 720px; margin: 0; color: var(--white); font-family: var(--display); font-size: clamp(48px, 6.2vw, 88px); letter-spacing: -.1em; line-height: .9; }
+      .final-cta h2 span { color: var(--sky); }
+      .final-copy p { max-width: 420px; margin: 0 0 25px; color: rgba(255,255,255,.7); font-size: 15px; }
+      .final-meta { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 32px; padding-top: 18px; border-top: 1px solid rgba(255,255,255,.25); }
+      .final-meta strong { display: block; font-family: var(--display); font-size: 17px; letter-spacing: -.04em; }
+      .final-meta span { display: block; margin-top: 3px; color: rgba(255,255,255,.54); font-size: 10px; }
+
+      .faq { background: var(--paper); }
+      .faq-grid { display: grid; grid-template-columns: .8fr 1.2fr; gap: 80px; }
+      .faq-intro h2 { margin: 0; color: var(--blue); font-family: var(--display); font-size: clamp(43px, 5.3vw, 72px); letter-spacing: -.1em; line-height: .92; }
+      .faq-intro p { max-width: 410px; margin: 22px 0 0; color: var(--muted); font-size: 14px; }
+      .faq-list { border-top: 1px solid var(--line); }
+      .faq-list details { border-bottom: 1px solid var(--line); }
+      .faq-list summary { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 19px 0; color: var(--blue); font-family: var(--display); font-size: 19px; font-weight: 750; letter-spacing: -.05em; cursor: pointer; list-style: none; }
+      .faq-list summary::-webkit-details-marker { display: none; }
+      .faq-list summary::after { color: var(--red); content: "+"; font-family: var(--mono); font-size: 20px; font-weight: 400; }
+      .faq-list details[open] summary::after { content: "−"; }
+      .faq-answer { max-width: 680px; padding: 0 42px 20px 0; color: var(--muted); font-size: 13px; }
+
+      .footer { padding: 73px 24px 24px; color: rgba(255,255,255,.7); background: var(--charcoal); }
+      .footer-inner { width: min(100%, var(--max)); margin: 0 auto; }
+      .footer-top { display: grid; grid-template-columns: 1.55fr repeat(4,1fr); gap: 34px; padding-bottom: 52px; }
+      .footer-brand img { width: 165px; margin-bottom: 21px; }
+      .footer-brand p { max-width: 290px; margin: 0; color: rgba(255,255,255,.52); font-size: 12px; }
+      .footer-brand strong { display: inline-block; margin-top: 17px; color: var(--sky); font-family: var(--mono); font-size: 9px; letter-spacing: .07em; text-transform: uppercase; }
+      .footer-col h3 { margin: 2px 0 16px; color: var(--white); font-family: var(--mono); font-size: 10px; letter-spacing: .13em; text-transform: uppercase; }
+      .footer-col ul { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+      .footer-col li, .footer-col a { color: rgba(255,255,255,.52); font-size: 11px; }
+      .footer-col a:hover { color: var(--sky); }
+      .regulator-row { display: grid; grid-template-columns: repeat(4,1fr); gap: 9px; padding: 22px 0; border-top: 1px solid rgba(255,255,255,.14); border-bottom: 1px solid rgba(255,255,255,.14); }
+      .regulator { padding: 13px; border: 1px solid rgba(255,255,255,.13); }
+      .regulator strong { display: block; color: var(--white); font-family: var(--display); font-size: 20px; letter-spacing: -.05em; }
+      .regulator span { display: block; margin-top: 4px; color: rgba(255,255,255,.42); font-size: 9px; line-height: 1.35; }
+      .footer-bottom { display: flex; justify-content: space-between; gap: 28px; padding-top: 22px; color: rgba(255,255,255,.37); font-size: 10px; }
+      .footer-bottom p { max-width: 720px; margin: 0; line-height: 1.5; }
+      .footer-bottom nav { display: flex; flex-wrap: wrap; gap: 15px; white-space: nowrap; }
+      .footer-bottom a:hover { color: var(--sky); }
+      .mobile-drawer { display: none; }
+      .whatsapp { position: fixed; right: 20px; bottom: 20px; z-index: 14; display: grid; place-items: center; width: 46px; height: 46px; color: var(--white); background: #168c55; border-radius: 50%; box-shadow: 0 10px 24px rgba(0,0,0,.24); transition: transform .2s ease; }
+      .whatsapp:hover { transform: translateY(-3px); }
+      .whatsapp svg { width: 21px; }
+
+      @keyframes draw-city { to { stroke-dashoffset: 0; } }
+      @keyframes draw-tower { to { stroke-dashoffset: 0; } }
+      @keyframes route-line { to { stroke-dashoffset: 0; } }
+      @keyframes window-on { 0% { opacity: 0; } 100% { opacity: .75; } }
+      @keyframes spin-slow { to { transform: rotate(360deg); } }
+
+      @media (max-width: 1180px) {
+        .nav-link, .nav-trigger { padding-right: 5px; padding-left: 5px; font-size: 10px; }
+        .nav-cta { padding-right: 10px; padding-left: 10px; }
+        .hero-inner { grid-template-columns: .9fr 1.1fr; gap: 20px; }
+        .hero h1 { font-size: clamp(51px, 6vw, 76px); }
+        .route-grid, .tool-grid { grid-template-columns: repeat(3,1fr); }
+        .route-card:last-child, .tool:last-child { grid-column: 2; }
+        .footer-top { grid-template-columns: 1.35fr repeat(4,1fr); gap: 22px; }
+      }
+      @media (max-width: 1080px) {
+        .desktop-nav, .nav-cta { display: none; }
+        .menu-toggle { display: inline-flex; }
+        .menu-popover { display: none; }
+        .mobile-drawer { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: -1; display: block; padding: 123px 24px 32px; overflow-y: auto; color: var(--ink); background: var(--paper); opacity: 0; visibility: hidden; transform: translateY(-20px); transition: opacity .25s ease, visibility .25s ease, transform .25s ease; }
+        .mobile-drawer.is-open { opacity: 1; visibility: visible; transform: translateY(0); }
+        .mobile-drawer nav { display: grid; max-width: 700px; margin: 0 auto; }
+        .mobile-drawer details { border-bottom: 1px solid var(--line); }
+        .mobile-drawer summary, .mobile-drawer > nav > a { display: flex; align-items: center; justify-content: space-between; padding: 17px 0; color: var(--blue); font-family: var(--display); font-size: 22px; font-weight: 800; letter-spacing: -.07em; list-style: none; cursor: pointer; }
+        .mobile-drawer summary::-webkit-details-marker { display: none; }
+        .mobile-drawer summary::after { color: var(--red); content: "+"; font-family: var(--mono); font-size: 18px; font-weight: 400; }
+        .mobile-drawer details[open] summary::after { content: "−"; }
+        .mobile-drawer details a { display: block; padding: 6px 0; color: var(--muted); font-size: 13px; }
+        .mobile-drawer .mobile-cta { display: block; margin-top: 25px; padding: 15px; color: var(--white); background: var(--red); font-family: var(--body); font-size: 13px; letter-spacing: 0; text-align: center; }
+        .hero { padding-top: 158px; }
+        .hero-inner, .consultant-grid, .eligibility-grid, .recovery-grid, .employer-grid, .final-inner { grid-template-columns: 1fr; }
+        .hero-inner { gap: 25px; }
+        .command-centre { min-height: 500px; }
+        .hero-copy { max-width: 700px; }
+        .section-head, .faq-grid { grid-template-columns: 1fr; gap: 17px; }
+        .section-head { margin-bottom: 35px; }
+        .consultant-grid, .eligibility-grid, .recovery-grid, .employer-grid, .final-inner { gap: 45px; }
+        .consultant-image { width: min(100%, 520px); }
+        .service-grid { grid-template-columns: 1fr 1fr; }
+        .service-block:nth-child(3) { grid-row: auto; min-height: 260px; }
+        .route-grid, .tool-grid { grid-template-columns: repeat(2,1fr); }
+        .route-card:last-child, .tool:last-child { grid-column: auto; }
+        .footer-top { grid-template-columns: 1.5fr repeat(2,1fr); }
+        .footer-brand { grid-row: span 2; }
+      }
+      @media (max-width: 700px) {
+        .topline-inner { width: min(calc(100% - 32px), var(--max)); font-size: 8px; }
+        .topline-right { gap: 9px; }
+        .top-dot { display: none; }
+        .site-header { top: 34px; padding: 10px 16px; }
+        .nav-shell { min-height: 62px; padding-left: 13px; }
+        .brand { width: 101px; }
+        .hero { min-height: 990px; padding: 147px 17px 64px; }
+        .hero-inner { min-height: 0; display: block; }
+        .hero h1 { font-size: clamp(52px, 15.4vw, 77px); }
+        .hero-copy-text { margin-top: 20px; font-size: 14px; }
+        .hero-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; }
+        .button { min-height: 46px; padding-right: 9px; padding-left: 9px; font-size: 9px; }
+        .hero-trust { gap: 8px 12px; font-size: 8px; }
+        .command-centre { min-height: 385px; margin-top: 19px; }
+        .skyline-svg { right: -22%; bottom: 8%; width: 135%; }
+        .command-label { top: -2%; right: 1%; font-size: 8px; }
+        .status-panel { top: 4%; right: 0; width: 208px; padding: 13px; }
+        .status-header h2 { font-size: 20px; }
+        .status-option { padding: 6px 0; font-size: 10px; }
+        .status-detail { padding-top: 9px; }
+        .status-detail h3 { font-size: 17px; }
+        .status-detail p { font-size: 9px; }
+        .route-module { right: 0; bottom: -1%; width: 175px; padding: 11px; }
+        .route-module strong { font-size: 15px; }
+        .module-step { margin-top: 7px; font-size: 9px; }
+        .scroll-prompt { right: 17px; bottom: 17px; font-size: 8px; }
+        .scroll-prompt::before { width: 28px; }
+        .transit-progress { display: none; }
+        .section { padding: 79px 17px; }
+        .section-head h2, .consultant-copy h2, .eligibility-copy h2, .recovery-copy h2, .employer-copy h2, .final-cta h2, .faq-intro h2 { font-size: clamp(42px, 14vw, 67px); }
+        .ticker { padding: 17px; }
+        .ticker-inner { grid-template-columns: 1fr 1fr; }
+        .ticker-item, .ticker-item:first-child { min-height: 75px; padding: 12px 13px; border-top: 1px solid rgba(255,255,255,.15); border-left: 1px solid rgba(255,255,255,.15); }
+        .ticker-item:nth-child(-n+2) { border-top: 0; }
+        .ticker-item:nth-child(odd) { border-left: 0; }
+        .ticker-item strong, .ticker-item:first-child strong { font-size: 19px; }
+        .ticker-item span { font-size: 8px; }
+        .goal-grid { display: block; }
+        .goal-card { min-height: 220px; margin-bottom: 8px; }
+        .goal-card h3 { margin-top: 40px; font-size: 32px; }
+        .metro-board { min-height: 480px; padding: 20px 15px; }
+        .metro-board::after { top: 160px; right: 15px; left: 15px; transform: rotate(90deg); transform-origin: center; }
+        .metro-lines { display: none; }
+        .metro-stops { right: 22px; bottom: 31px; left: 22px; display: grid; grid-template-columns: 1fr; gap: 7px; }
+        .metro-stop { display: grid; grid-template-columns: 22px 1fr; gap: 9px; align-items: center; padding-top: 0; }
+        .metro-stop::before { position: relative; top: auto; grid-row: span 2; }
+        .metro-stop strong { font-size: 17px; }
+        .metro-stop span { margin-top: 1px; }
+        .map-caption { right: 17px; bottom: 12px; font-size: 7px; }
+        .consultant-grid, .eligibility-grid, .recovery-grid, .employer-grid, .final-inner { gap: 30px; }
+        .consultant-tag { right: -2px; bottom: 23px; width: 137px; padding: 11px; font-size: 8px; }
+        .consultant-details { gap: 12px; }
+        .detail strong { font-size: 14px; }
+        .detail span { font-size: 9px; }
+        .consultant-quote { font-size: 18px; }
+        .service-grid { display: block; }
+        .service-block { min-height: 235px; margin-bottom: 8px; }
+        .service-block:nth-child(3) { min-height: 320px; }
+        .service-block h3 { margin-top: 49px; font-size: 31px; }
+        .compare-grid { display: block; }
+        .compare-card { min-height: 315px; margin-bottom: 8px; padding: 21px; }
+        .compare-card h3 { margin-top: 43px; font-size: 31px; }
+        .compare-points { gap: 8px 14px; }
+        .compare-points li { font-size: 10px; }
+        .route-grid, .tool-grid { grid-template-columns: 1fr 1fr; }
+        .route-card { min-height: 190px; padding: 15px; }
+        .route-card h3 { margin-top: 45px; font-size: 20px; }
+        .route-card p { font-size: 10px; }
+        .dashboard { padding: 19px; }
+        .dashboard-top h3 { font-size: 22px; }
+        .dash-score { font-size: 48px; }
+        .dashboard-bottom { display: block; }
+        .dashboard-bottom p { margin-bottom: 17px; }
+        .recovery-list { gap: 10px; }
+        .recovery-item strong { font-size: 14px; }
+        .recovery-item span { font-size: 9px; }
+        .recovery-flow h3 { font-size: 27px; }
+        .employer-visual { min-height: 350px; }
+        .employer-visual img { height: 335px; }
+        .employer-chip { right: 3%; bottom: 3%; width: 112px; height: 112px; font-size: 8px; }
+        .employer-services { gap: 12px 10px; }
+        .employer-service strong { font-size: 14px; }
+        .story-grid { display: block; }
+        .story { min-height: 245px; margin-bottom: 8px; padding: 22px; }
+        .story:nth-child(2) { margin-top: 0; }
+        .story:nth-child(3) { max-width: none; }
+        .story blockquote { margin-top: 36px; font-size: 21px; }
+        .process-grid { grid-template-columns: repeat(2,1fr); }
+        .process-step { min-height: 210px; padding: 16px; }
+        .process-step h3 { margin-top: 48px; font-size: 22px; }
+        .tool { min-height: 188px; padding: 15px; }
+        .tool h3 { margin-top: 45px; font-size: 20px; }
+        .final-cta { padding: 87px 17px; }
+        .final-copy { margin-top: 35px; }
+        .final-meta { gap: 10px; }
+        .faq-grid { gap: 31px; }
+        .faq-list summary { font-size: 17px; }
+        .faq-answer { font-size: 12px; }
+        .footer { padding: 56px 17px 20px; }
+        .footer-top { grid-template-columns: 1fr 1fr; gap: 34px 20px; }
+        .footer-brand { grid-row: auto; grid-column: 1 / -1; }
+        .regulator-row { grid-template-columns: 1fr 1fr; }
+        .regulator strong { font-size: 17px; }
+        .footer-bottom { display: block; }
+        .footer-bottom nav { margin-top: 15px; white-space: normal; }
+      }
+      @media (max-width: 380px) {
+        .hero { min-height: 1050px; }
+        .hero-actions { display: block; }
+        .hero-actions .button { width: 100%; margin-bottom: 7px; }
+        .hero-trust { display: grid; gap: 7px; }
+        .status-panel { width: 196px; }
+        .route-module { width: 165px; }
+        .route-card h3 { font-size: 18px; }
+        .process-step h3 { font-size: 19px; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        html { scroll-behavior: auto; }
+        *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; }
+        .reveal { opacity: 1; transform: none; }
+      }
+    </style>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <div class="topline"><div class="topline-inner"><a href="mailto:support@example.com">support@example.com</a><div class="topline-right"><span class="top-dot" aria-hidden="true"></span><span>CICC-regulated guidance</span><span class="top-dot" aria-hidden="true"></span><a href="https://secure.officio.ca/login" target="_blank" rel="noopener">Client Login</a></div></div></div>
+
+    <header class="site-header" id="site-header">
+      <div class="nav-shell"><a class="brand" href="#top" aria-label="Commonwealth Migration Canada — home"><img class="brand-light" src="../public/images/logo-white.png" alt="Commonwealth Migration Canada" /><img class="brand-dark" src="../public/images/logo-large.png" alt="Commonwealth Migration Canada" /></a><nav class="desktop-nav" aria-label="Main navigation"><a class="nav-link" href="#top">Home</a><button class="nav-trigger" type="button" aria-expanded="false" aria-controls="menu-immigrate" data-menu-trigger="menu-immigrate">Immigrate <svg viewBox="0 0 12 8" aria-hidden="true"><path d="m1 1 5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="nav-trigger" type="button" aria-expanded="false" aria-controls="menu-work" data-menu-trigger="menu-work">Work, Study &amp; Visit <svg viewBox="0 0 12 8" aria-hidden="true"><path d="m1 1 5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="nav-trigger" type="button" aria-expanded="false" aria-controls="menu-family" data-menu-trigger="menu-family">Sponsor &amp; Status <svg viewBox="0 0 12 8" aria-hidden="true"><path d="m1 1 5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><a class="nav-link" href="#refusals">Refusals &amp; Appeals</a><button class="nav-trigger" type="button" aria-expanded="false" aria-controls="menu-employers" data-menu-trigger="menu-employers">For Employers <svg viewBox="0 0 12 8" aria-hidden="true"><path d="m1 1 5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="nav-trigger" type="button" aria-expanded="false" aria-controls="menu-tools" data-menu-trigger="menu-tools">Tools &amp; Resources <svg viewBox="0 0 12 8" aria-hidden="true"><path d="m1 1 5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="nav-trigger" type="button" aria-expanded="false" aria-controls="menu-company" data-menu-trigger="menu-company">Company <svg viewBox="0 0 12 8" aria-hidden="true"><path d="m1 1 5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><a class="nav-cta" href="#contact">Book a Consultation <svg viewBox="0 0 18 18" aria-hidden="true"><path d="M3 9h11M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></a></nav><button class="menu-toggle" id="menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-drawer" aria-label="Open navigation"><svg viewBox="0 0 25 25" aria-hidden="true"><path d="M3 7h19M3 12.5h19M3 18h19" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></button>
+        <div class="menu-popover" id="menu-immigrate" data-menu-panel><div class="menu-grid"><div><p class="menu-heading">Skilled &amp; Express Entry</p><a class="menu-link" href="#pathways"><span class="menu-title">Express Entry</span><span class="menu-desc">FSW, CEC, FST &amp; category draws</span></a><a class="menu-link" href="#pathways"><span class="menu-title">Federal Skilled Worker</span><span class="menu-desc">For skilled workers outside Canada</span></a><a class="menu-link" href="#pathways"><span class="menu-title">Canadian Experience Class</span><span class="menu-desc">For workers already in Canada</span></a></div><div><p class="menu-heading">Other pathways</p><a class="menu-link" href="#pathways"><span class="menu-title">Provincial Nominees (PNP)</span><span class="menu-desc">Compare provinces and streams</span></a><a class="menu-link" href="#routes"><span class="menu-title">Atlantic Immigration Program</span><span class="menu-desc">Employer-driven pathway to Atlantic Canada</span></a><a class="menu-link" href="#routes"><span class="menu-title">Business &amp; Start-up Visa</span><span class="menu-desc">For entrepreneurs and business owners</span></a></div><div class="menu-feature"><div><p class="menu-heading">Most popular</p><h3>Express<br />Entry</h3><p>The main points-based route for skilled workers.</p></div><a href="#eligibility">Check your profile&nbsp; →</a></div></div></div>
+        <div class="menu-popover" id="menu-work" data-menu-panel><div class="menu-grid"><div><p class="menu-heading">Work in Canada</p><a class="menu-link" href="#routes"><span class="menu-title">Work Permits</span><span class="menu-desc">Employer-specific, LMIA &amp; open permits</span></a><a class="menu-link" href="#routes"><span class="menu-title">PGWP</span><span class="menu-desc">Post-graduation work permit</span></a><a class="menu-link" href="#routes"><span class="menu-title">Spousal Work Permit</span><span class="menu-desc">Open permits for spouses and partners</span></a></div><div><p class="menu-heading">Study &amp; Visit</p><a class="menu-link" href="#routes"><span class="menu-title">Study Permits</span><span class="menu-desc">Study at a Canadian DLI</span></a><a class="menu-link" href="#routes"><span class="menu-title">Visitor Visa, eTA &amp; Super Visa</span><span class="menu-desc">TRV, eTA &amp; parent Super Visa</span></a></div><div class="menu-feature"><div><p class="menu-heading">Career pathway</p><h3>Study →<br />Work → PR</h3><p>Plan education, work permit and permanent residence as one journey.</p></div><a href="#process">See the route&nbsp; →</a></div></div></div>
+        <div class="menu-popover" id="menu-family" data-menu-panel><div class="menu-grid"><div><p class="menu-heading">Family sponsorship</p><a class="menu-link" href="#routes"><span class="menu-title">Spousal / Partner Sponsorship</span><span class="menu-desc">Sponsor a spouse or common-law partner</span></a><a class="menu-link" href="#routes"><span class="menu-title">Parents &amp; Grandparents</span><span class="menu-desc">PGP lottery and Super Visa options</span></a><a class="menu-link" href="#routes"><span class="menu-title">Family Sponsorship</span><span class="menu-desc">Dependent children and other relatives</span></a></div><div><p class="menu-heading">Status &amp; admissibility</p><a class="menu-link" href="#routes"><span class="menu-title">PR Card &amp; Citizenship</span><span class="menu-desc">Renewals, PRTD and naturalization</span></a><a class="menu-link" href="#refusals"><span class="menu-title">Criminal Inadmissibility</span><span class="menu-desc">TRP, rehabilitation and appeals</span></a></div><div class="menu-feature"><div><p class="menu-heading">Most common</p><h3>Spousal<br />Sponsorship</h3><p>Reunite with a spouse or common-law partner.</p></div><a href="#contact">Talk through your route&nbsp; →</a></div></div></div>
+        <div class="menu-popover" id="menu-employers" data-menu-panel><div class="menu-grid"><div><p class="menu-heading">Hire global talent</p><a class="menu-link" href="#employers"><span class="menu-title">LMIA (All Streams)</span><span class="menu-desc">High-wage, low-wage and agri-food</span></a><a class="menu-link" href="#employers"><span class="menu-title">Global Talent Stream</span><span class="menu-desc">Expedited tech and in-demand roles</span></a><a class="menu-link" href="#employers"><span class="menu-title">Employer Compliance</span><span class="menu-desc">ESDC audits and obligations</span></a></div><div><p class="menu-heading">HGT Division</p><a class="menu-link" href="#employers"><span class="menu-title">Recruitment</span><span class="menu-desc">End-to-end global recruitment support</span></a><a class="menu-link" href="#process"><span class="menu-title">How It Works</span><span class="menu-desc">A clear employer-side process</span></a></div><div class="menu-feature"><div><p class="menu-heading">Employer specialist</p><h3>LMIA<br />Support</h3><p>Structured employer files for talent and compliance.</p></div><a href="#employers">Explore services&nbsp; →</a></div></div></div>
+        <div class="menu-popover" id="menu-tools" data-menu-panel><div class="menu-grid"><div><p class="menu-heading">Free self-service tools</p><a class="menu-link" href="#eligibility"><span class="menu-title">CRS Calculator</span><span class="menu-desc">Estimate your Express Entry score</span></a><a class="menu-link" href="#eligibility"><span class="menu-title">PNP Eligibility Check</span><span class="menu-desc">See which provincial streams fit</span></a><a class="menu-link" href="#routes"><span class="menu-title">NOC / Occupation Finder</span><span class="menu-desc">Match your job to a NOC code</span></a></div><div><p class="menu-heading">Learn &amp; prepare</p><a class="menu-link" href="#tools"><span class="menu-title">Document Checklist</span><span class="menu-desc">Know exactly what to prepare</span></a><a class="menu-link" href="#faq"><span class="menu-title">FAQs</span><span class="menu-desc">Common immigration questions</span></a><a class="menu-link" href="#tools"><span class="menu-title">Immigration Draws</span><span class="menu-desc">Live Express Entry and PNP results</span></a></div><div class="menu-feature"><div><p class="menu-heading">Free tool</p><h3>CRS<br />Calculator</h3><p>See your Express Entry score in under two minutes.</p></div><a href="#eligibility">Try the preview&nbsp; →</a></div></div></div>
+        <div class="menu-popover" id="menu-company" data-menu-panel><div class="menu-grid"><div><p class="menu-heading">Our firm</p><a class="menu-link" href="#consultant"><span class="menu-title">About Us</span><span class="menu-desc">Licensed RCIC guidance from day one</span></a><a class="menu-link" href="#consultant"><span class="menu-title">Our Team</span><span class="menu-desc">Meet the consultants</span></a><a class="menu-link" href="#process"><span class="menu-title">How It Works</span><span class="menu-desc">From assessment to final decision</span></a></div><div><p class="menu-heading">Get in touch</p><a class="menu-link" href="#contact"><span class="menu-title">Book Consultation</span><span class="menu-desc">Choose a time that suits you</span></a><a class="menu-link" href="#contact"><span class="menu-title">Book Urgent Consultation</span><span class="menu-desc">Refusal? Do not wait</span></a><a class="menu-link" href="mailto:support@example.com"><span class="menu-title">Email Us</span><span class="menu-desc">support@example.com</span></a></div><div class="menu-feature"><div><p class="menu-heading">Free first step</p><h3>Book a<br />Consultation</h3><p>Speak with a licensed consultant about your goal.</p></div><a href="#contact">Start the conversation&nbsp; →</a></div></div></div>
+      </div>
+      <div class="mobile-drawer" id="mobile-drawer" aria-label="Mobile navigation"><nav><a href="#top">Home</a><details><summary>Immigrate</summary><a href="#pathways">Express Entry</a><a href="#pathways">Provincial Nominees (PNP)</a><a href="#routes">Business &amp; Start-up Visa</a></details><details><summary>Work, Study &amp; Visit</summary><a href="#routes">Work Permits</a><a href="#routes">Study Permits</a><a href="#routes">Visitor Visa, eTA &amp; Super Visa</a></details><details><summary>Sponsor &amp; Status</summary><a href="#routes">Spousal / Partner Sponsorship</a><a href="#routes">Parents &amp; Grandparents</a><a href="#routes">PR Card &amp; Citizenship</a></details><a href="#refusals">Refusals &amp; Appeals</a><details><summary>For Employers</summary><a href="#employers">LMIA (All Streams)</a><a href="#employers">Global Talent Stream</a><a href="#employers">Employer Compliance</a></details><details><summary>Tools &amp; Resources</summary><a href="#eligibility">CRS Calculator</a><a href="#eligibility">PNP Eligibility Check</a><a href="#tools">Document Checklist</a></details><details><summary>Company</summary><a href="#consultant">About Us</a><a href="#consultant">Our Team</a><a href="#process">How It Works</a></details><a class="mobile-cta" href="#contact">Book a Consultation&nbsp; →</a></nav></div>
+    </header>
+
+    <main id="main-content">
+      <section class="hero" id="top" aria-labelledby="hero-title"><div class="hero-bg" role="img" aria-label="Toronto skyline and CN Tower at night"></div><div class="hero-inner"><div class="hero-copy"><p class="eyebrow reveal is-visible">Toronto Gateway · Licensed Canadian immigration guidance</p><h1 id="hero-title" class="reveal is-visible delay-1">Your Canadian route, <em>directed.</em></h1><p class="hero-copy-text reveal is-visible delay-2">From Express Entry and provincial nominations to work, study, family sponsorship and refusal support — use a clearer command centre for the decisions ahead.</p><div class="hero-actions reveal is-visible delay-3"><a class="button button-red" href="#contact">Book a Consultation <svg viewBox="0 0 18 18" aria-hidden="true"><path d="M3 9h11M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></a><a class="button button-line" href="#eligibility">Check Eligibility <svg viewBox="0 0 18 18" aria-hidden="true"><path d="M9 3v12M3 9h12" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></a></div><div class="hero-trust reveal is-visible delay-3"><span>CICC-regulated</span><span>Canada-wide support</span><span>15+ years team experience</span></div></div><div class="command-centre" id="command-centre"><div class="command-label">Toronto / Canada<strong>COMMAND CENTRE · FIG. 03</strong></div><svg class="skyline-svg" viewBox="0 0 800 440" role="img" aria-label="Outlined Toronto skyline with CN Tower"><path class="buildings" d="M30 350V279h38v71h14V231h39v119h14V264h43v86h14V192h39v158h20V244h32v106h13V217h35v133h18V113h8l7-51 7 51h9v237h19V240h31v110h18V198h42v152h15V230h35v120h17V164h43v186h17V210h34v140h17V247h48v103h19V178h39v172h15V229h35v121h20V194h41v156h24V253h35v97h20V218h46v132" /><path class="tower" d="M548 350V143m-21 207h42m-35-207h28m-21-17h14m-8-55h2m-1 0V23" /><path class="bridge" d="M25 370h750M50 335h700" /><circle class="window" style="--d:1.1s" cx="103" cy="250" r="2" /><circle class="window" style="--d:1.35s" cx="183" cy="210" r="2" /><circle class="window" style="--d:1.6s" cx="290" cy="239" r="2" /><circle class="window" style="--d:1.85s" cx="397" cy="218" r="2" /><circle class="window" style="--d:2.1s" cx="474" cy="181" r="2" /><circle class="window" style="--d:2.35s" cx="636" cy="184" r="2" /><circle class="window" style="--d:2.6s" cx="722" cy="238" r="2" /><path class="hero-route" d="M75 394C194 362 242 373 303 326c67-51 91-8 143-50 52-42 40-91 102-101" /><circle cx="75" cy="394" r="6" fill="var(--sky)" /><circle class="cn-halo" cx="548" cy="84" r="39" /><path d="M548 64 552 77l13-7-7 13 14 4-13 7 7 13-14-4-4 14-7-13-13 7 5-14-14-3 13-8-7-13 14 4 4-14 4 14Z" fill="var(--red)" stroke="var(--sky)" stroke-width="1.1" /></svg><aside class="status-panel" aria-label="Pathway status planning panel"><div class="status-header"><div><small>Planning dashboard</small><h2>Pathway Status</h2></div><span>Not official</span></div><div class="status-list" role="tablist" aria-label="Immigration pathways"><button class="status-option" type="button" role="tab" aria-selected="true" aria-controls="status-detail" data-status="pr"><span class="status-number">01</span><span>Express Entry &amp; PR</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="m7 4 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="status-option" type="button" role="tab" aria-selected="false" aria-controls="status-detail" data-status="pnp"><span class="status-number">02</span><span>Provincial nominees</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="m7 4 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="status-option" type="button" role="tab" aria-selected="false" aria-controls="status-detail" data-status="work"><span class="status-number">03</span><span>Work permits</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="m7 4 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="status-option" type="button" role="tab" aria-selected="false" aria-controls="status-detail" data-status="study"><span class="status-number">04</span><span>Study permits</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="m7 4 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="status-option" type="button" role="tab" aria-selected="false" aria-controls="status-detail" data-status="family"><span class="status-number">05</span><span>Family sponsorship</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="m7 4 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button><button class="status-option" type="button" role="tab" aria-selected="false" aria-controls="status-detail" data-status="visit"><span class="status-number">06</span><span>Visitor &amp; Super Visa</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="m7 4 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></button></div><div class="status-detail" id="status-detail" role="tabpanel"><small id="status-kicker">Planning signal</small><h3 id="status-title">Express Entry &amp; PR</h3><p id="status-copy">CRS strategy, program fit and a clearer federal route overview.</p></div><span class="status-note">Use this panel to explore a direction — not to imply eligibility or an official application status.</span></aside><div class="route-module" aria-live="polite"><small>Live route module</small><strong id="module-title">Assess your profile.</strong><span class="module-step is-current">Understand the starting point</span><span class="module-step">Match the pathway</span><span class="module-step">Prepare the application</span></div></div></div><div class="scroll-prompt">Scroll the command centre</div></section>
+
+      <section class="ticker" aria-label="Credentials and support markers"><div class="ticker-inner"><div class="ticker-item"><strong>One team. Clear next steps.</strong><span>From first question to final decision</span></div><div class="ticker-item"><strong>R705959</strong><span>Licensed RCIC</span></div><div class="ticker-item"><strong>15+</strong><span>Years of team experience</span></div><div class="ticker-item"><strong>Canada-wide</strong><span>Brampton, Ontario base</span></div></div></section>
+
+      <section class="section goals" id="goals" aria-labelledby="goals-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Where do you want to go?</p><div><h2 id="goals-title">Choose the destination before the detail.</h2><p>Start with the outcome you are trying to reach. We’ll connect that intention to the pathways, tools and next questions that fit.</p></div></div><div class="goal-grid"><a class="goal-card reveal" href="#pathways"><div class="goal-number"><span>01</span><span>Permanent residence</span></div><div><h3>Express Entry &amp; PR</h3><p>Build a stronger federal profile with CRS strategy, program fit and a clear plan.</p></div><div class="goal-foot"><span>Open route</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="M2 9h13M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></div></a><a class="goal-card reveal delay-1" href="#pathways"><div class="goal-number"><span>02</span><span>PNP pathways</span></div><div><h3>Provincial nominees</h3><p>Compare provinces and nomination streams before choosing a route.</p></div><div class="goal-foot"><span>Open route</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="M2 9h13M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></div></a><a class="goal-card reveal delay-2" href="#routes"><div class="goal-number"><span>03</span><span>Work in Canada</span></div><div><h3>Work permits</h3><p>Employer-specific, open permits, LMIA and restoration options.</p></div><div class="goal-foot"><span>Open route</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="M2 9h13M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></div></a><a class="goal-card reveal" href="#routes"><div class="goal-number"><span>04</span><span>Study to settle</span></div><div><h3>Study permits</h3><p>Plan the permit, school choice and post-graduation pathway together.</p></div><div class="goal-foot"><span>Open route</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="M2 9h13M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></div></a><a class="goal-card reveal delay-1" href="#routes"><div class="goal-number"><span>05</span><span>Bring family closer</span></div><div><h3>Family sponsorship</h3><p>Understand spousal, partner, parent and dependent-child routes.</p></div><div class="goal-foot"><span>Open route</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="M2 9h13M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></div></a><a class="goal-card reveal delay-2" href="#refusals"><div class="goal-number"><span>06</span><span>A better next step</span></div><div><h3>Refusals &amp; appeals</h3><p>Turn refusal reasons, GCMS notes and PFLs into a plan.</p></div><div class="goal-foot"><span>Open route</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="M2 9h13M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.5" /></svg></div></a></div></div></section>
+
+      <section class="section transit-map" id="pathways" aria-labelledby="pathways-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Canadian pathways</p><div><h2 id="pathways-title">A transit map for the decisions ahead.</h2><p>Routes can connect. The right starting point depends on your profile, history, goal and current program criteria.</p></div></div><div class="metro-board reveal"><h3>Toronto Gateway / pathway network</h3><small>Explore · Compare · Prepare · Move forward</small><svg class="metro-lines" viewBox="0 0 1200 370" preserveAspectRatio="none" aria-hidden="true"><path class="line-red" d="M0 290c190 0 175-110 340-110s167 100 328 100 181-165 532-165" /><path class="line-sky" d="M0 140c136 0 214 100 350 100s184-122 338-122 188 89 512 89" /><path class="line-white" d="M33 332c180-15 220-52 333-52 126 0 151-74 290-74 192 0 247 42 511 42" /></svg><div class="metro-stops"><div class="metro-stop"><strong>Profile</strong><span>Assess your goal</span></div><div class="metro-stop"><strong>Express Entry</strong><span>Federal programs</span></div><div class="metro-stop"><strong>PNP</strong><span>Province fit</span></div><div class="metro-stop"><strong>Work / Study</strong><span>Temporary status</span></div><div class="metro-stop"><strong>Family</strong><span>Sponsorship routes</span></div><div class="metro-stop"><strong>Decision</strong><span>Prepare the next move</span></div></div><span class="map-caption">Illustrative route map · Not an eligibility result</span></div></div></section>
+
+      <section class="section consultant" id="consultant" aria-labelledby="consultant-title"><div class="section-inner consultant-grid"><div class="consultant-image reveal"><img src="../public/images/pages/office-meeting.webp" alt="Consultants reviewing an immigration file with a client" loading="lazy" /><div class="consultant-tag">Serving GTA · Ontario · Canada-wide</div></div><div class="consultant-copy"><p class="section-kicker reveal">The professional directing the journey</p><h2 id="consultant-title" class="reveal delay-1">Meet the person behind the <span>route.</span></h2><p class="reveal delay-2">Sanjay Singh Kumar is Principal Consultant at Commonwealth Migration Canada, leading high-stakes immigration, refusal, Express Entry, PNP and employer files with a practical, end-to-end approach.</p><div class="consultant-details reveal delay-2"><div class="detail"><strong>Sanjay Singh Kumar</strong><span>Principal Consultant · Licensed RCIC</span></div><div class="detail"><strong>R705959</strong><span>College of Immigration and Citizenship Consultants</span></div><div class="detail"><strong>15 years</strong><span>Team experience</span></div><div class="detail"><strong>EN · PA · HI · UR</strong><span>English · Punjabi · Hindi · Urdu</span></div></div><div class="consultant-quote reveal delay-3">Clear next steps, not guesswork — that is what a good route should feel like.</div></div></div></section>
+
+      <section class="section services" id="services" aria-labelledby="services-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Services / metropolitan blocks</p><div><h2 id="services-title">A practice built for different files.</h2><p>Move through the service area that matches your situation, then bring the right question into a consultation.</p></div></div><div class="service-grid"><article class="service-block reveal"><small>01 / Permanent residence</small><h3>Build the federal profile.</h3><p>Express Entry, FSW, CEC, FST, CRS strategy, category draws and provincial connections.</p><ul class="service-list"><li>Express Entry</li><li>FSW / CEC / FST</li><li>CRS strategy</li><li>PNP comparison</li></ul></article><article class="service-block reveal delay-1"><small>02 / Temporary status</small><h3>Work, study &amp; visit.</h3><p>Permits and visitor routes planned with the longer journey in view.</p><ul class="service-list"><li>Work permits</li><li>Study permits</li><li>PGWP</li><li>Visitor &amp; Super Visa</li></ul></article><article class="service-block reveal delay-2"><small>03 / Complex cases</small><h3>When the file needs more attention.</h3><p>Refusals, PFLs, GCMS analysis, restoration, appeals and judicial review referrals — never generic re-filing.</p><ul class="service-list"><li>Visitor, study &amp; work refusals</li><li>Family sponsorship refusals</li><li>PFL response</li><li>IAD appeals</li><li>GCMS analysis</li><li>Reapplication strategy</li></ul><a class="button button-red" href="#refusals" style="margin-top:25px">Review the recovery route&nbsp; →</a></article><article class="service-block reveal delay-3"><small>04 / Family &amp; status</small><h3>Bring people closer.</h3><p>Spousal, partner, parent, dependent-child sponsorship, PR cards and citizenship.</p><ul class="service-list"><li>Spousal sponsorship</li><li>Parents &amp; grandparents</li><li>PR card &amp; PRTD</li><li>Citizenship</li></ul></article></div></div></section>
+
+      <section class="section compare" id="compare" aria-labelledby="compare-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Express Entry vs PNP</p><div><h2 id="compare-title">Compare the route before you commit.</h2><p>Federal and provincial pathways can work together. The right frame depends on occupation, language, education, experience and ties.</p></div></div><div class="compare-grid"><article class="compare-card reveal"><small>Federal route / Express Entry</small><h3>Build points. Watch the draw.</h3><p>Use the three federal programs plus CRS strategy and category-based options as your planning frame.</p><ul class="compare-points"><li>CRS score</li><li>Language results</li><li>Education &amp; ECA</li><li>Work experience</li><li>FSW · CEC · FST</li><li>Category draws</li></ul></article><article class="compare-card reveal delay-1"><small>Provincial route / PNP</small><h3>Find the province that fits.</h3><p>Compare provinces and nomination streams before choosing. Each program has its own criteria and invitations.</p><ul class="compare-points"><li>Occupation demand</li><li>Job offer or ties</li><li>Province criteria</li><li>Language &amp; funds</li><li>Base &amp; enhanced streams</li><li>Settlement intent</li></ul></article></div></div></section>
+
+      <section class="section routes" id="routes" aria-labelledby="routes-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Work, study, family, visit, citizenship</p><div><h2 id="routes-title">Find your line on the network.</h2><p>Each route begins with a goal and ends with a set of questions worth answering carefully.</p></div></div><div class="route-grid"><a class="route-card reveal" href="#contact"><small>01 / WORK</small><h3>Work permits</h3><p>Employer-specific, open permits, LMIA and restoration options.</p></a><a class="route-card reveal delay-1" href="#contact"><small>02 / STUDY</small><h3>Study permits</h3><p>DLI choice, PAL where required and PGWP planning.</p></a><a class="route-card reveal delay-2" href="#contact"><small>03 / FAMILY</small><h3>Family sponsorship</h3><p>Spousal, partner, parent, grandparent and child routes.</p></a><a class="route-card reveal delay-3" href="#contact"><small>04 / VISIT</small><h3>Visitor &amp; Super Visa</h3><p>TRVs, eTA, business visitors and family visits.</p></a><a class="route-card reveal" href="#contact"><small>05 / STATUS</small><h3>Citizenship &amp; PR card</h3><p>Renewals, PRTDs, residency obligations and naturalization.</p></a></div></div></section>
+
+      <section class="section eligibility" id="eligibility" aria-labelledby="eligibility-title"><div class="section-inner eligibility-grid"><div class="eligibility-copy"><p class="section-kicker reveal">Profile dashboard / free tools</p><h2 id="eligibility-title" class="reveal delay-1">See where your profile could <em>connect.</em></h2><p class="reveal delay-2">Answer a few short questions and see a directional snapshot across Express Entry, PNPs, work, study and visitor routes before you pay filing fees or retain help.</p><ul class="eligibility-list reveal delay-2"><li>CRS and eligibility snapshot</li><li>Pathway match for federal, provincial and temporary options</li><li>No sign-up · Optional email · Clear next steps</li></ul><a class="button button-sky reveal delay-3" href="#contact" style="margin-top:28px">Start a free assessment <svg viewBox="0 0 18 18" aria-hidden="true"><path d="M3 9h11M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></a></div><div class="dashboard reveal delay-1"><div class="dashboard-top"><div><small>Illustrative planning preview</small><h3>Profile signal</h3></div><div class="dash-score" id="dash-score">56<span>directional only</span></div></div><div class="dash-line"><div class="dash-line-fill" id="dash-line-fill"></div></div><div class="dash-labels"><span>Explore</span><span>Align</span><span>Prepare</span><span>Move</span></div><div class="dash-controls"><label class="dash-control"><span><span class="dash-label">Language <output id="dash-language-output">CLB 8</output></span><input id="dash-language" type="range" min="1" max="3" value="2" /></span><span class="dash-unit">+12</span></label><label class="dash-control"><span><span class="dash-label">Education <output id="dash-education-output">Bachelor's</output></span><input id="dash-education" type="range" min="1" max="3" value="2" /></span><span class="dash-unit">+16</span></label><label class="dash-control"><span><span class="dash-label">Canadian experience <output id="dash-experience-output">1 year</output></span><input id="dash-experience" type="range" min="0" max="3" value="1" /></span><span class="dash-unit">+20</span></label></div><div class="dashboard-bottom"><p>This preview is for planning only. It is not an official IRCC result or an eligibility decision.</p><a class="button button-line" href="#tools">See all tools&nbsp; →</a></div></div></div></section>
+
+      <section class="section refusals" id="refusals" aria-labelledby="refusal-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Recovery workflow</p><div><h2>When the route needs to be recalculated.</h2><p>Refusals and procedural fairness files deserve a clear, evidence-led next move.</p></div></div><div class="recovery-grid"><div class="recovery-copy"><h2 id="refusal-title" class="reveal delay-1">A refusal is a signal to <span>review.</span></h2><p class="reveal delay-2">Officers decide on the file they see. We pull GCMS notes where needed, isolate the stated reasons and build evidence-backed replies, reapplications or appeal paths — so the next submission addresses what went wrong.</p><div class="recovery-list reveal delay-3"><div class="recovery-item"><strong>Visitor visa refused</strong><span>Ties, funds or purpose — strengthen the narrative.</span></div><div class="recovery-item"><strong>Study permit refused</strong><span>Study plan or finances — fix the gaps.</span></div><div class="recovery-item"><strong>Sponsorship refused</strong><span>Genuineness or eligibility — build proof.</span></div><div class="recovery-item"><strong>PFL response</strong><span>Time-sensitive response strategy.</span></div></div><a class="button button-sky reveal delay-3" href="#contact" style="margin-top:28px">Talk through the refusal <svg viewBox="0 0 18 18" aria-hidden="true"><path d="M3 9h11M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></a></div><div class="recovery-flow reveal delay-2"><small>Recovery workflow / 04</small><h3>Review. Identify. Respond.</h3><ol><li>Read the decision and isolate the actual concern.</li><li>Review history, documents and evidence gaps.</li><li>Shape a response, reapplication, appeal or referral.</li><li>Move before the relevant window closes.</li></ol></div></div></div></section>
+
+      <section class="section employers" id="employers" aria-labelledby="employers-title"><div class="section-inner employer-grid"><div class="employer-visual reveal"><img src="../public/images/pages/workers.webp" alt="Workers on a Canadian construction site" loading="lazy" /><div class="employer-chip">HGT<br />Division<br />Employer<br />services</div></div><div class="employer-copy"><p class="section-kicker reveal">Employer immigration</p><h2 id="employers-title" class="reveal delay-1">Build a more defensible <span>talent route.</span></h2><p class="reveal delay-2">Commonwealth Migration’s employer and recruitment services support Canadian businesses domestically and internationally — from LMIA and Global Talent Stream to ESDC compliance and employer-side provincial nomination representation.</p><div class="employer-services reveal delay-3"><div class="employer-service"><strong>LMIA &amp; TFW streams</strong><span>High-wage, low-wage and agri-food.</span></div><div class="employer-service"><strong>Global Talent Stream</strong><span>Expedited tech and in-demand roles.</span></div><div class="employer-service"><strong>ESDC compliance</strong><span>Audits, compliance and TFWP integrity.</span></div><div class="employer-service"><strong>Recruitment</strong><span>End-to-end global recruitment support.</span></div></div><a class="button button-red reveal delay-3" href="#contact" style="margin-top:28px">Explore employer services <svg viewBox="0 0 18 18" aria-hidden="true"><path d="M3 9h11M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></a></div></div></section>
+
+      <section class="section stories" aria-labelledby="stories-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Client stories</p><div><h2 id="stories-title">Real people. Clearer routes.</h2><p>Short excerpts from people and employers the team has worked with across the GTA and Canada.</p></div></div><div class="story-grid"><article class="story reveal"><blockquote>“Sanjay and his team made our Express Entry process seamless. Every step was handled with precision.”</blockquote><footer><span><strong>Desai Akshi</strong>Express Entry</span><span>Toronto, ON</span></footer></article><article class="story reveal delay-1"><blockquote>“After two study permit refusals, I was losing hope. My application was restructured and approved on the third attempt.”</blockquote><footer><span><strong>Cayne Santana</strong>Study Permit</span><span>International student</span></footer></article><article class="story reveal delay-2"><blockquote>“As a business owner, I needed to hire skilled workers from overseas. The employer services team handled the LMIA process professionally.”</blockquote><footer><span><strong>Cris Jhon Simbe</strong>LMIA</span><span>Brampton, ON</span></footer></article></div></div></section>
+
+      <section class="section process" id="process" aria-labelledby="process-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Four transit stops</p><div><h2 id="process-title">Assess. Plan. Prepare. Move forward.</h2><p>A decision-ready file starts before the forms. Each stage gives you a better question to ask next.</p></div></div><div class="process-grid"><article class="process-step reveal"><small>01 / ASSESS</small><h3>Understand the goal.</h3><p>Start with your destination, history, constraints and the facts that can change the route.</p></article><article class="process-step reveal delay-1"><small>02 / PLAN</small><h3>Shape the options.</h3><p>Compare federal, provincial and temporary pathways against the profile you actually have.</p></article><article class="process-step reveal delay-2"><small>03 / PREPARE</small><h3>Build the evidence.</h3><p>Organise forms, explanations and documents around the decision-maker’s questions.</p></article><article class="process-step reveal delay-3"><small>04 / MOVE FORWARD</small><h3>Own the next step.</h3><p>Submit, respond, reapply or escalate with clarity about timing and responsibility.</p></article></div></div></section>
+
+      <section class="section tools" id="tools" aria-labelledby="tools-title"><div class="section-inner"><div class="section-head reveal"><p class="section-kicker">Tools &amp; resources</p><div><h2 id="tools-title">Pack better information for the journey.</h2><p>Start with a quick estimate, then bring the result into a more focused immigration strategy.</p></div></div><div class="tool-grid"><a class="tool reveal" href="#eligibility"><small>01 / FREE</small><h3>CRS Calculator</h3><p>Estimate your Express Entry Comprehensive Ranking System score.</p></a><a class="tool reveal delay-1" href="#eligibility"><small>02 / FREE</small><h3>PNP Eligibility</h3><p>See which provincial streams may deserve further research.</p></a><a class="tool reveal delay-2" href="#routes"><small>03 / FREE</small><h3>NOC Finder</h3><p>Compare your duties with Canadian occupation descriptions.</p></a><a class="tool reveal delay-3" href="#contact"><small>04 / PREPARE</small><h3>Document Checklist</h3><p>Know what to prepare for common immigration routes.</p></a><a class="tool reveal" href="#contact"><small>05 / START</small><h3>Free Assessment</h3><p>Find the right starting point for your profile and goal.</p></a></div></div></section>
+
+      <section class="final-cta" id="contact" aria-labelledby="contact-title"><div class="final-inner"><div><p class="eyebrow" style="color:var(--sky)">Your next decision starts here</p><h2 id="contact-title">Talk to a licensed <span>guide.</span></h2></div><div class="final-copy"><p>Bring the questions, history and documents you have. The first conversation is about identifying the clearest next step — not making a promise about the outcome.</p><a class="button button-red" href="mailto:support@example.com">Book a Free Consultation <svg viewBox="0 0 18 18" aria-hidden="true"><path d="M3 9h11M9 3l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></a><div class="final-meta"><div><strong>(555) 012-3456</strong><span>Call the Brampton office</span></div><div><strong>support@example.com</strong><span>Canada-wide support</span></div></div></div></div></section>
+
+      <section class="section faq" id="faq" aria-labelledby="faq-title"><div class="section-inner faq-grid"><div class="faq-intro"><p class="section-kicker reveal">Clear answers, before you decide</p><h2 id="faq-title" class="reveal delay-1">Questions worth asking early.</h2><p class="reveal delay-2">Use the guides and tools to understand the route, then speak with a licensed RCIC if your history, documents or deadline need a tailored review.</p></div><div class="faq-list reveal delay-1"><details open><summary>What happens during a free assessment?</summary><div class="faq-answer">You share the basics of your goal and profile so the team can identify possible pathways, immediate gaps and the most useful next step.</div></details><details><summary>Do I need every document before requesting an assessment?</summary><div class="faq-answer">No. Start with the information you have. The assessment can help you understand which documents and facts will matter most before you prepare the full application.</div></details><details><summary>What does the CRS calculator estimate?</summary><div class="faq-answer">It estimates your Express Entry Comprehensive Ranking System score using factors such as age, education, language, work experience and adaptability. It is a planning estimate, not an official IRCC decision.</div></details><details><summary>Does a PNP result guarantee a nomination?</summary><div class="faq-answer">No. Provincial programs have their own criteria, invitations and document requirements. Use a result as a starting point for a more detailed assessment.</div></details><details><summary>What can happen after a refusal or PFL?</summary><div class="faq-answer">The team can review the stated reasons, consider GCMS notes where appropriate and help identify whether a response, reapplication, appeal or another route fits the file.</div></details></div></div></section>
+    </main>
+
+    <footer class="footer"><div class="footer-inner"><div class="footer-top"><div class="footer-brand"><img src="../public/images/logo-white.png" alt="Commonwealth Migration Canada" /><p>Canada Immigration Simplified. CICC-regulated licensed RCICs serving clients across Canada — Express Entry, every PNP stream, LMIA, work and study permits, family sponsorship and refusals.</p><strong>Licensed RCIC R705959 · CICC-regulated</strong></div><div class="footer-col"><h3>Immigrate</h3><ul><li><a href="#pathways">Express Entry</a></li><li><a href="#pathways">Provincial Nominees</a></li><li><a href="#routes">Atlantic Immigration</a></li><li><a href="#routes">Business Immigration</a></li></ul></div><div class="footer-col"><h3>Work &amp; Study</h3><ul><li><a href="#routes">Work Permits</a></li><li><a href="#routes">Study Permits</a></li><li><a href="#routes">Visitor &amp; Super Visa</a></li><li><a href="#process">PGWP</a></li></ul></div><div class="footer-col"><h3>Employers</h3><ul><li><a href="#employers">LMIA</a></li><li><a href="#employers">Global Talent Stream</a></li><li><a href="#employers">Employer Compliance</a></li><li><a href="#employers">Recruitment</a></li></ul></div><div class="footer-col"><h3>Company</h3><ul><li><a href="#consultant">About Us</a></li><li><a href="#consultant">Our Team</a></li><li><a href="#process">How It Works</a></li><li><a href="#contact">Our Office</a></li></ul></div></div><div class="regulator-row"><a class="regulator" href="https://www.canada.ca/en/immigration-refugees-citizenship.html" target="_blank" rel="noopener"><strong>IRCC</strong><span>Immigration, Refugees and Citizenship Canada · Federal immigration authority</span></a><a class="regulator" href="https://college-ic.ca/" target="_blank" rel="noopener"><strong>CICC</strong><span>College of Immigration and Citizenship Consultants · Regulator of RCIC consultants</span></a><a class="regulator" href="https://www.canada.ca/en/employment-social-development/services/foreign-workers.html" target="_blank" rel="noopener"><strong>ESDC</strong><span>Employment and Social Development Canada · LMIA and labour programs</span></a><a class="regulator" href="https://www.cbsa-asfc.gc.ca/" target="_blank" rel="noopener"><strong>CBSA</strong><span>Canada Border Services Agency · Border and enforcement authority</span></a></div><div class="footer-bottom"><p>© 2026 Commonwealth Migration Canada. Content on this page is general information only and does not constitute legal advice. Immigration outcomes depend on individual circumstances and current IRCC requirements. Commonwealth Migration Canada does not guarantee visa approval.</p><nav><a href="#top">Back to top ↑</a><a href="#faq">FAQs</a><a href="mailto:support@example.com">Email us</a><a href="https://www.linkedin.com/company/commonwealthmigrationgroup" target="_blank" rel="noopener">LinkedIn</a></nav></div></div></footer>
+    <a class="whatsapp" href="https://wa.me/5550123456" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.5 11.5 0 0 0 2.4 17.2L1 22.2l5.2-1.4a11.5 11.5 0 0 0 14.3-17.3ZM6.7 18.9l-.3.2-3 .8.8-2.9.2-.3a9.4 9.4 0 1 1 2.3 2.2Zm9.1-5.1c-.5-.3-1.2-.7-1.4-.7-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a7.7 7.7 0 0 1-2.3-1.4 8.7 8.7 0 0 1-1.6-2c-.2-.3 0-.4.1-.6l.4-.5c.2-.2.2-.4.3-.6 0-.2 0-.4-.1-.6l-.6-1.5c-.2-.4-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.2.2-.9.8-.9 2s.9 2.3 1 2.5a11.1 11.1 0 0 0 4.2 4c.6.2 1 .4 1.4.5.6.2 1.1.2 1.5.1.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2-.1 0-.3-.1-.6-.3Z" fill="currentColor" /></svg></a>
+    <div class="transit-progress" aria-hidden="true"><span id="transit-progress-fill"></span></div>
+
+    <script>
+      (function () {
+        const header = document.getElementById('site-header');
+        const toggle = document.getElementById('menu-toggle');
+        const drawer = document.getElementById('mobile-drawer');
+        const triggers = Array.from(document.querySelectorAll('[data-menu-trigger]'));
+        const panels = Array.from(document.querySelectorAll('[data-menu-panel]'));
+        const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        function closeMenus() { triggers.forEach((trigger) => trigger.setAttribute('aria-expanded','false')); panels.forEach((panel) => panel.classList.remove('is-open')); }
+        triggers.forEach((trigger) => trigger.addEventListener('click', function () { const panel = document.getElementById(trigger.getAttribute('data-menu-trigger')); const willOpen = !panel.classList.contains('is-open'); closeMenus(); if (willOpen) { trigger.setAttribute('aria-expanded','true'); panel.classList.add('is-open'); } }));
+        document.addEventListener('click', (event) => { if (!event.target.closest('.nav-shell')) closeMenus(); });
+        document.addEventListener('keydown', (event) => { if (event.key === 'Escape') { closeMenus(); drawer.classList.remove('is-open'); toggle.setAttribute('aria-expanded','false'); toggle.setAttribute('aria-label','Open navigation'); document.body.classList.remove('menu-open'); } });
+        toggle.addEventListener('click', function () { const open = drawer.classList.toggle('is-open'); toggle.setAttribute('aria-expanded', String(open)); toggle.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation'); document.body.classList.toggle('menu-open', open); });
+        drawer.querySelectorAll('a').forEach((link) => link.addEventListener('click', function () { drawer.classList.remove('is-open'); toggle.setAttribute('aria-expanded','false'); toggle.setAttribute('aria-label','Open navigation'); document.body.classList.remove('menu-open'); }));
+        function updateHeader() { header.classList.toggle('is-sticky', window.scrollY > 30); const max = document.documentElement.scrollHeight - window.innerHeight; const progress = max > 0 ? Math.min(100, (window.scrollY / max) * 100) : 0; document.getElementById('transit-progress-fill').style.height = progress + '%'; }
+        updateHeader(); window.addEventListener('scroll', updateHeader, {passive:true});
+
+        const revealItems = document.querySelectorAll('.reveal:not(.is-visible)');
+        if ('IntersectionObserver' in window && !reduceMotion) { const observer = new IntersectionObserver((entries, current) => entries.forEach((entry) => { if (entry.isIntersecting) { entry.target.classList.add('is-visible'); current.unobserve(entry.target); } }), {threshold:.12}); revealItems.forEach((item) => observer.observe(item)); } else revealItems.forEach((item) => item.classList.add('is-visible'));
+
+        const commandCentre = document.getElementById('command-centre');
+        if (commandCentre && !reduceMotion) { let frame; window.addEventListener('pointermove', (event) => { const x = (event.clientX / window.innerWidth - .5) * 10; const y = (event.clientY / window.innerHeight - .5) * 7; cancelAnimationFrame(frame); frame = requestAnimationFrame(() => { commandCentre.style.setProperty('--parallax-x', x.toFixed(2) + 'px'); commandCentre.style.setProperty('--parallax-y', y.toFixed(2) + 'px'); }); }, {passive:true}); }
+
+        const statusData = { pr: ['Express Entry & PR','CRS strategy, program fit and a clearer federal route overview.'], pnp: ['Provincial nominees','Compare provinces and nomination streams before choosing a route.'], work: ['Work permits','Employer-specific, open permit and LMIA-supported options.'], study: ['Study permits','Plan your DLI, study permit and post-graduation pathway together.'], family: ['Family sponsorship','Understand spousal, partner, parent and dependent-child routes.'], visit: ['Visitor & Super Visa','Plan TRVs, eTA, business visits and family visits carefully.'] };
+        const statusOptions = document.querySelectorAll('.status-option');
+        function setStatus(key) { const item = statusData[key]; if (!item) return; document.getElementById('status-title').textContent = item[0]; document.getElementById('status-copy').textContent = item[1]; statusOptions.forEach((option) => option.setAttribute('aria-selected', String(option.dataset.status === key))); }
+        statusOptions.forEach((option, index) => { option.addEventListener('click', () => setStatus(option.dataset.status)); option.addEventListener('keydown', (event) => { if (event.key === 'ArrowDown' || event.key === 'ArrowRight') { event.preventDefault(); const next = statusOptions[(index + 1) % statusOptions.length]; next.focus(); setStatus(next.dataset.status); } if (event.key === 'ArrowUp' || event.key === 'ArrowLeft') { event.preventDefault(); const prev = statusOptions[(index - 1 + statusOptions.length) % statusOptions.length]; prev.focus(); setStatus(prev.dataset.status); } } ); });
+
+        const moduleTitles = ['Assess your profile.','Match your Canadian pathway.','Prepare your application.','Move forward confidently.'];
+        const moduleSteps = document.querySelectorAll('.module-step'); let moduleIndex = 0;
+        function setModule(index) { moduleIndex = index % moduleTitles.length; document.getElementById('module-title').textContent = moduleTitles[moduleIndex]; moduleSteps.forEach((step, i) => step.classList.toggle('is-current', i === moduleIndex)); }
+        if (!reduceMotion) window.setInterval(() => setModule(moduleIndex + 1), 3900);
+
+        const language = document.getElementById('dash-language'); const education = document.getElementById('dash-education'); const experience = document.getElementById('dash-experience'); const dashScore = document.getElementById('dash-score'); const dashFill = document.getElementById('dash-line-fill');
+        const languageLabels = ['CLB 6','CLB 8','CLB 9+']; const educationLabels = ['Secondary','Diploma',"Bachelor's"]; const experienceLabels = ['No Canadian experience','1 year','2 years','3+ years'];
+        function updateDashboard() { if (!language || !education || !experience) return; const score = 34 + Number(language.value) * 6 + Number(education.value) * 5 + Number(experience.value) * 4; document.getElementById('dash-language-output').value = languageLabels[Number(language.value) - 1]; document.getElementById('dash-education-output').value = educationLabels[Number(education.value) - 1]; document.getElementById('dash-experience-output').value = experienceLabels[Number(experience.value)]; dashScore.childNodes[0].nodeValue = score; dashFill.style.width = score + '%'; const line = document.querySelector('.dash-line'); line.style.setProperty('--dash-position', score + '%'); }
+        [language, education, experience].forEach((input) => input && input.addEventListener('input', updateDashboard)); updateDashboard();
+      }());
+    </script>
+  </body>
+</html>

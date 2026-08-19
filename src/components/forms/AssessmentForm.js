@@ -10,6 +10,7 @@ import FormSubmitButton from "./FormSubmitButton";
 import FormErrorBanner from "./FormErrorBanner";
 import { useFormSubmit } from "@/hooks/useFormSubmit";
 import { site } from "@/config/site";
+import { currentPagePath } from "@/config/pageRoutes";
 
 const initial = {
   fullName: "",
@@ -55,7 +56,7 @@ export default function AssessmentForm() {
         <strong className="text-ink">{form.email}</strong> within two business days with your written assessment.
         <p className="mt-6 text-sm text-muted">
           In the meantime, try the{" "}
-          <Link href="/tools/crs-calculator" className="font-semibold text-secondary underline underline-offset-2 hover:text-primary">
+          <Link href={currentPagePath("/tools/crs-calculator")} className="font-semibold text-secondary underline underline-offset-2 hover:text-primary">
             CRS calculator
           </Link>
           .

@@ -1,9 +1,35 @@
+import fs from "node:fs";
+import path from "node:path";
+
+const routeMapPath = path.join(process.cwd(), "pageData", "route-map.json");
+const routeMap = fs.existsSync(routeMapPath)
+  ? JSON.parse(fs.readFileSync(routeMapPath, "utf8"))
+  : [];
+
+const redirectSources = new Set();
+const pageDataRedirects = [];
+for (const route of routeMap) {
+  for (const source of [route.legacyPath, route.previousPath]) {
+    if (!source || source === "/" || source === route.path || redirectSources.has(source)) continue;
+    redirectSources.add(source);
+    pageDataRedirects.push({ source, destination: route.path, permanent: true });
+  }
+}
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactCompiler: true,
 
   async redirects() {
     return [
+      // Rewritten pageData routes — preserve the old paths as permanent SEO redirects.
+      ...pageDataRedirects,
+      { source: "/tools/pnp-eligibility", destination: "/tools/pnp-eligibility-canada", permanent: true },
+      { source: "/tools/noc-finder", destination: "/tools/noc-finder-canada", permanent: true },
+      { source: "/tools/document-checklist", destination: "/tools/document-checklist-canada", permanent: true },
+      // Interactive tool routes whose old URLs were not represented by a source Markdown file.
+      { source: "/tools/free-assessment", destination: "/assessment/free-canada-immigration-assessment", permanent: true },
+
       // Template /programs → new /immigration structure
       { source: "/programs", destination: "/immigration", permanent: true },
       { source: "/programs/express-entry", destination: "/immigration/express-entry", permanent: true },

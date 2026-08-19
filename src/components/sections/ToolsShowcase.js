@@ -3,6 +3,7 @@ import { ArrowRight } from "lucide-react";
 import { tools } from "@/data/tools";
 import iconMap, { fallbackIcon } from "@/lib/icons";
 import { cn } from "@/lib/utils";
+import { currentPagePath } from "@/config/pageRoutes";
 
 /** Shared long-form tools directory band shown across the site. */
 export default function ToolsShowcase({ className }) {
@@ -18,7 +19,7 @@ export default function ToolsShowcase({ className }) {
             Start with a quick estimate, then bring the result into a more focused immigration strategy.
           </p>
         </div>
-        <Link href="/tools" className="tools-showcase__view-all group">
+        <Link href={currentPagePath("/tools")} className="tools-showcase__view-all group">
           View all tools
           <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" aria-hidden />
         </Link>
@@ -28,7 +29,7 @@ export default function ToolsShowcase({ className }) {
         {tools.map((tool, index) => {
           const Icon = iconMap[tool.icon] || fallbackIcon;
           return (
-            <Link key={tool.slug} href={`/tools/${tool.slug}`} className="tools-showcase__link group">
+            <Link key={tool.slug} href={currentPagePath(`/tools/${tool.slug}`)} className="tools-showcase__link group">
               <span className="tools-showcase__icon">
                 <Icon className="h-4 w-4" aria-hidden />
               </span>

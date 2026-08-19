@@ -1,10 +1,11 @@
 import { site } from "@/config/site";
+import { currentPagePath } from "@/config/pageRoutes";
 
 /**
  * Navigation structure — Commonwealth Migration Canada.
  *
  * The older, full content inventory is intentionally restored here: the
- * dropdowns expose the routes represented by the scraped-data pages, while
+ * dropdowns expose the routes represented by the rewritten pageData pages, while
  * the shared red-only visual treatment remains controlled by the theme.
  */
 
@@ -155,7 +156,7 @@ const resourcesLinks = resourcesColumns.flatMap((column) => column.items);
 const aboutLinks = aboutColumns.flatMap((column) => column.items);
 const contactLinks = contactColumns.flatMap((column) => column.items);
 
-export const navigation = {
+const rawNavigation = {
   utility: {
     email: site.email,
     login: { label: "Client Login", href: site.ctas.login.href },
@@ -292,5 +293,15 @@ export const navigation = {
     ] },
   ],
 };
+
+function normalizeLinks(value) {
+  if (Array.isArray(value)) return value.map(normalizeLinks);
+  if (!value || typeof value !== "object") return value;
+  const next = Object.fromEntries(Object.entries(value).map(([key, item]) => [key, normalizeLinks(item)]));
+  if (typeof next.href === "string") next.href = currentPagePath(next.href);
+  return next;
+}
+
+export const navigation = normalizeLinks(rawNavigation);
 
 export default navigation;

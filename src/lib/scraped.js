@@ -1,5 +1,5 @@
 /**
- * Parser for the processed scraped-content files in `scraped-data/data/`.
+ * Parser for the rewritten page content files in `pageData/`.
  *
  * Each Markdown file is a page with consistent sections for SEO metadata,
  * hero copy, page content, links, image alt text and structured data. The

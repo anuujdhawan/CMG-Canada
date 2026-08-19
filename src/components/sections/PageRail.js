@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowRight, CalendarCheck, Calculator, MapPin, Search, ClipboardCheck } from "lucide-react";
 import { site } from "@/config/site";
 import RelatedLinks from "./RelatedLinks";
+import { currentPagePath } from "@/config/pageRoutes";
 
 const RAIL_TOOLS = [
   { label: "CRS Calculator", href: "/tools/crs-calculator", icon: Calculator },
@@ -48,7 +49,7 @@ export default function PageRail({ related = [], showTools = true }) {
               return (
                 <li key={tool.href}>
                   <Link
-                    href={tool.href}
+                    href={currentPagePath(tool.href)}
                     className="group flex items-center gap-3 rounded-xl px-3 py-2.5 text-base font-semibold text-primary-dark transition-colors hover:bg-surface hover:text-primary sm:py-3 sm:text-lg"
                   >
                     <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-surface text-primary transition-colors group-hover:bg-primary group-hover:text-white">
@@ -62,7 +63,7 @@ export default function PageRail({ related = [], showTools = true }) {
             })}
           </ul>
           <div className="border-t border-line bg-surface/50 px-8 py-5 sm:px-10">
-            <Link href="/tools" className="inline-flex items-center gap-1.5 text-sm font-bold text-primary transition-colors hover:text-primary-dark sm:text-base">
+            <Link href={currentPagePath("/tools")} className="inline-flex items-center gap-1.5 text-sm font-bold text-primary transition-colors hover:text-primary-dark sm:text-base">
               View all tools
               <ArrowRight className="h-4 w-4" aria-hidden />
             </Link>
