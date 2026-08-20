@@ -83,7 +83,17 @@ export const site = {
   emailHref: env("NEXT_PUBLIC_SUPPORT_EMAIL_HREF", "/contact/contact-immigration-consultant-brampton"),
   phone: env("NEXT_PUBLIC_PHONE", "Contact via website"),
   phoneHref: env("NEXT_PUBLIC_PHONE_HREF", "/contact/contact-immigration-consultant-brampton"),
-  whatsappUrl: env("NEXT_PUBLIC_WHATSAPP_URL", "/contact/contact-immigration-consultant-brampton"),
+  whatsappUrl: (() => {
+    const raw = env("NEXT_PUBLIC_WHATSAPP_URL", "").trim();
+    if (!raw) return "";
+    // Already a full WhatsApp URL — use as-is
+    if (/^https?:\/\/(wa\.me|api\.whatsapp\.com|chat\.whatsapp\.com)/i.test(raw)) return raw;
+    if (/^https?:\/\//i.test(raw)) return raw;
+    // Bare phone number (e.g. +14165551234 or 14165551234) → build wa.me link
+    const digits = raw.replace(/[^\d]/g, "");
+    if (digits.length >= 8) return `https://wa.me/${digits}`;
+    return raw;
+  })(),
 
   address: {
     line1: env("NEXT_PUBLIC_ADDRESS_LINE1", "Canada-wide service by appointment"),

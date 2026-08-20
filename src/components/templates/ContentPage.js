@@ -228,8 +228,8 @@ export default function ContentPage({ page, children }) {
   const faqItems = getPageFaqs(page);
   const pathwayVariant = page.path === "/" ? "home" : page.path.startsWith("/tools") ? "tools" : "page";
   const servicePage = isServicePagePath(page.path);
-  const heroVariant = page.path === "/" ? "home" : servicePage ? "service" : "default";
-  const backgroundSlides = page.path === "/" ? HERO_SLIDES : servicePage ? [getServiceHeroSlide(page.path)] : undefined;
+  const heroVariant = page.path === "/" ? "home" : "service";
+  const backgroundSlides = HERO_SLIDES;
 
   const renderBlocks = [];
   let slotIdx = 0;

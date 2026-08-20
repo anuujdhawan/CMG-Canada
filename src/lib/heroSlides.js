@@ -7,31 +7,31 @@
  */
 export const HERO_SLIDES = [
   {
-    src: "/images/hero/toronto-cn-tower-skyline.jpg",
+    src: "/images/hero/toronto-cn-tower-skyline.webp",
     alt: "Toronto skyline with the CN Tower under a clear blue sky",
     label: "Toronto · Start your Canadian journey"},
   {
-    src: "/images/hero/calgary-downtown-skyline.jpg",
+    src: "/images/hero/calgary-downtown-skyline.webp",
     alt: "Calgary downtown skyline and bridge in daylight",
     label: "Calgary · Build your next chapter"},
   {
-    src: "/images/hero/downtown-toronto-office-towers.jpg",
+    src: "/images/hero/downtown-toronto-office-towers.webp",
     alt: "Downtown Toronto office towers viewed from below",
     label: "Opportunity · A plan built around your facts"},
   {
-    src: "/images/hero/city-skyline-at-dusk.jpg",
+    src: "/images/hero/city-skyline-at-dusk.webp",
     alt: "City skyline and bridge reflected in the water at dusk",
     label: "Belonging · Find the route that fits"},
   {
-    src: "/images/hero/toronto-skyline-autumn-park.jpg",
+    src: "/images/hero/toronto-skyline-autumn-park.webp",
     alt: "Toronto skyline beyond an autumn park",
     label: "Community · Make Canada home"},
   {
-    src: "/images/hero/canadian-flag-modern-office.jpg",
+    src: "/images/hero/canadian-flag-modern-office.webp",
     alt: "Canadian flag outside a modern office building",
     label: "Canada · Move forward with confidence"},
   {
-    src: "/images/hero/toronto-financial-district-street.jpg",
+    src: "/images/hero/toronto-financial-district-street.webp",
     alt: "People walking through Toronto's financial district",
     label: "Momentum · Take the next clear step"}];
 

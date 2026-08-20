@@ -2,6 +2,7 @@ import { site } from "@/config/site";
 import { cn } from "@/lib/utils";
 import HeroBanner from "./HeroBanner";
 import { HERO_TRUST_BADGES } from "@/lib/hero";
+import { HERO_SLIDES } from "@/lib/heroSlides";
 import { currentPagePath } from "@/config/pageRoutes";
 
 /**
@@ -33,6 +34,8 @@ export default function PageHeader({
       headline={title}
       subheadline={lead || ""}
       className={className}
+      variant="service"
+      backgroundSlides={HERO_SLIDES}
       ctaButtons={
         ctas ||
         [

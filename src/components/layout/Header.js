@@ -83,7 +83,7 @@ function MegaDropdown({ item, open, onClose }) {
                     <Link
                       href={viewAll}
                       onClick={onClose}
-                      className="group mt-2 flex items-center gap-1 pl-3.5 text-[12.5px] font-bold text-accent-dark hover:text-primary transition-colors"
+                      className="dropdown-view-all group mt-2 flex items-center gap-1 pl-3.5 text-[12.5px] font-bold text-accent-dark hover:text-primary transition-colors no-underline after:hidden"
                     >
                       View all
                       <ArrowRight aria-hidden className="h-3 w-3 transition-transform duration-200 group-hover:translate-x-0.5" />
@@ -116,24 +116,24 @@ function MegaDropdown({ item, open, onClose }) {
 
 function DropdownLink({ link, onClose }) {
   const content = (
-    <span className="group flex items-start gap-3 px-3.5 py-3 rounded-xl hover:bg-primary transition-all duration-150">
-      {link.urgent && <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0 text-accent group-hover:text-white" aria-hidden />}
+    <span className="group relative flex items-start gap-3 px-3.5 py-3 transition-all duration-150">
+      {link.urgent && <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0 text-accent" aria-hidden />}
       <span className="flex min-w-0 flex-1 flex-col">
-        <span className="flex items-center gap-1.5 text-[15px] font-semibold text-ink group-hover:text-white leading-tight transition-colors">
+        <span className="flex items-center gap-1.5 text-[15px] font-semibold text-ink leading-tight transition-colors">
           <span className="truncate">{link.label}</span>
           {link.urgent && (
-            <span className="shrink-0 rounded-full bg-accent-soft px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-accent-dark group-hover:bg-white/20 group-hover:text-white">
+            <span className="shrink-0 rounded-full bg-primary px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white border border-primary shadow-sm">
               Urgent
             </span>
           )}
         </span>
-        <span className="text-[13px] text-muted group-hover:text-white/80 mt-1 leading-snug transition-colors">
+        <span className="text-[13px] text-muted mt-1 leading-snug transition-colors">
           {link.desc || link.description}
         </span>
       </span>
       <ArrowRight
         aria-hidden
-        className="mt-1 h-3.5 w-3.5 shrink-0 -translate-x-1 opacity-0 text-white transition-all duration-200 group-hover:translate-x-0 group-hover:opacity-100"
+        className="mt-1 h-3.5 w-3.5 shrink-0 -translate-x-1 opacity-0 text-primary transition-all duration-200 group-hover:translate-x-0 group-hover:opacity-100"
       />
     </span>
   );

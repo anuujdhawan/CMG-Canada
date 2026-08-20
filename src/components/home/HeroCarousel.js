@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import { cn } from "@/lib/utils";
 import { HERO_SLIDES } from "@/lib/heroSlides";
 
-const AUTOPLAY_MS = 6200;
+const AUTOPLAY_MS = 3200;
 
 export default function HeroCarousel({ slides = HERO_SLIDES, className, showControls = true }) {
   const [activeIndex, setActiveIndex] = useState(0);

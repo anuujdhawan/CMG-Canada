@@ -6,6 +6,8 @@ import { getServiceHeroSlide, HERO_SLIDES } from "@/lib/heroSlides";
 import { Block, parseBlocks, rebrand } from "@/components/templates/MarkdownBlocks";
 import HeroCarousel from "./HeroCarousel";
 import ReferenceFooter from "./ReferenceFooter";
+import ServiceImageGallery from "./ServiceImageGallery";
+import ServiceContentImageFrame, { getServiceContentImages } from "./ServiceContentImageFrame";
 import TemplateMotion from "./TemplateMotion";
 
 const href = (path) => currentPagePath(path);
@@ -28,12 +30,38 @@ function getLead(page, blocks) {
   return rebrand(heroBlocks.find((block) => block.type === "paragraph")?.text || page.seo?.description || blocks.find((block) => block.type === "paragraph")?.text || "A clear, evidence-led plan for your Canadian immigration goal.");
 }
 
+function groupContentBlocks(blocks) {
+  const leading = [];
+  const sections = [];
+  let current = null;
+
+  blocks.forEach((block) => {
+    if (block.type === "heading" && block.level === 2) {
+      current = [block];
+      sections.push(current);
+      return;
+    }
+    if (current) current.push(block);
+    else leading.push(block);
+  });
+
+  return { leading, sections };
+}
+
+function renderContentBlocks(blocks, prefix) {
+  return blocks.map((block, index) => <Block key={`${prefix}-${block.type}-${index}`} block={block} />);
+}
+
 export default function ReferenceServicePage({ page, children }) {
   const blocks = parseBlocks(page.content || "");
   const slide = getServiceHeroSlide(page.path);
   const headings = blocks.filter((block) => block.type === "heading" && block.level >= 2).slice(0, 5);
   const lead = getLead(page, blocks);
   const title = rebrand(page.h1);
+  const { leading, sections } = groupContentBlocks(blocks);
+  const contentImages = getServiceContentImages(page);
+  const firstImageSection = sections.length > 1 ? 1 : 0;
+  const secondImageSection = sections.length > 3 ? 3 : Math.min(2, Math.max(sections.length - 1, 0));
 
   return (
     <div className="cmg-template-home cmg-template-service" data-concept="nocturne">
@@ -41,7 +69,7 @@ export default function ReferenceServicePage({ page, children }) {
       <section className="hero service-hero" aria-labelledby="service-hero-title">
         <div className="ambient a" aria-hidden="true" />
         <div className="ambient b" aria-hidden="true" />
-        <HeroCarousel slides={[slide || HERO_SLIDES[0]]} showControls={false} className="hero-background-carousel" />
+        <HeroCarousel slides={HERO_SLIDES} showControls={false} className="hero-background-carousel" />
         <div className="hero-layout">
           <div className="hero-copy reveal in">
             <p className="eyebrow">Licensed Canadian immigration guidance</p>
@@ -68,6 +96,8 @@ export default function ReferenceServicePage({ page, children }) {
         </div>
       </section>
 
+      <ServiceImageGallery page={page} />
+
       <section className="section alt">
         <div className="section-inner service-route-layout">
           <div className="service-route-copy reveal"><p className="eyebrow">What this service covers</p><h2>Read the detail, then choose the next step</h2><p>Use the guide below to understand the route before you book. Your existing page content remains the source of truth; this surface gives it the same visual hierarchy as the reference homepage.</p><TemplateLink path={site.ctas.primary.href} className="btn btn-primary">Talk through your file <ArrowUpRight width={18} height={18} aria-hidden="true" /></TemplateLink></div>
@@ -78,7 +108,19 @@ export default function ReferenceServicePage({ page, children }) {
       <section className="section service-reading-section">
         <div className="section-inner service-reading-shell">
           <ServiceSectionHeading eyebrow="Your service guide" title="The details that move the file forward" lead="Review the complete guide below, then use the consultation path when your situation needs a tailored strategy." />
-          <article className="service-reading reveal in">{blocks.map((block, index) => <Block key={`${block.type}-${index}`} block={block} />)}</article>
+          <article className="service-reading reveal in">
+            {renderContentBlocks(leading, "leading")}
+            {sections.map((section, index) => {
+              if (index === firstImageSection) {
+                return <ServiceContentImageFrame key={`image-frame-${index}`} image={contentImages[0]} side="left">{renderContentBlocks(section, `frame-left-${index}`)}</ServiceContentImageFrame>;
+              }
+              if (index === secondImageSection && secondImageSection !== firstImageSection) {
+                return <ServiceContentImageFrame key={`image-frame-${index}`} image={contentImages[1]} side="right">{renderContentBlocks(section, `frame-right-${index}`)}</ServiceContentImageFrame>;
+              }
+              return <div className="service-content-full-width" key={`content-section-${index}`}>{renderContentBlocks(section, `full-${index}`)}</div>;
+            })}
+            {secondImageSection === firstImageSection && <ServiceContentImageFrame image={contentImages[1]} side="right"><p>When the route needs a second perspective, a focused review helps connect the facts, evidence and next decision.</p></ServiceContentImageFrame>}
+          </article>
         </div>
       </section>
 

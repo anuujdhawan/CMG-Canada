@@ -79,26 +79,26 @@ export default function ConsultationModal() {
 
   return (
     <div
-      className="fixed inset-0 z-[260] flex items-end justify-center bg-navy-dark/70 p-3 backdrop-blur-[2px] sm:items-center sm:p-6"
+      className="consultation-modal fixed inset-0 z-[260] flex items-end justify-center p-3 sm:items-center sm:p-6"
       role="presentation"
       onMouseDown={(event) => {
         if (event.target === event.currentTarget) setOpen(false);
       }}
     >
       <section
-        className="relative flex max-h-[calc(100vh-1.5rem)] w-full max-w-3xl flex-col overflow-hidden rounded-3xl border border-white/70 bg-surface shadow-[0_28px_90px_color-mix(in_srgb,var(--brand-navy)_20%,transparent)] sm:max-h-[calc(100vh-3rem)]"
+        className="consultation-modal__dialog relative flex max-h-[calc(100vh-1.5rem)] w-full flex-col overflow-hidden rounded-3xl sm:max-h-[calc(100vh-3rem)]"
         role="dialog"
         aria-modal="true"
         aria-labelledby="consultation-modal-title"
       >
-        <div className="flex shrink-0 items-center justify-between gap-4 border-b border-white/15 bg-navy px-5 py-4 text-white backdrop-blur sm:px-7">
+        <div className="consultation-modal__header flex shrink-0 items-center justify-between gap-4 px-5 py-4 sm:px-8">
           <div className="flex min-w-0 items-center gap-3">
-            <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/20 bg-white/15 text-white shadow-sm">
+            <span className="consultation-modal__header-icon flex h-10 w-10 shrink-0 items-center justify-center rounded-full">
               <CalendarCheck className="h-5 w-5" aria-hidden="true" />
             </span>
             <div className="min-w-0">
-              <p className="eyebrow text-accent-soft">Start with a conversation</p>
-              <h2 id="consultation-modal-title" className="mt-1 truncate font-serif text-xl font-bold text-white sm:text-2xl">
+              <p className="consultation-modal__kicker eyebrow">Start with a conversation</p>
+              <h2 id="consultation-modal-title" className="consultation-modal__title mt-1 truncate">
                 Book a free consultation
               </h2>
             </div>
@@ -107,14 +107,14 @@ export default function ConsultationModal() {
             ref={closeButtonRef}
             type="button"
             onClick={() => setOpen(false)}
-            className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/25 text-white transition-colors hover:bg-white/15 hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
+            className="consultation-modal__close flex h-10 w-10 shrink-0 items-center justify-center rounded-full transition-colors"
             aria-label="Close consultation form"
           >
             <X className="h-5 w-5" aria-hidden="true" />
           </button>
         </div>
 
-        <div className="min-h-0 overflow-y-auto p-3 sm:p-6">
+        <div className="consultation-modal__body min-h-0 overflow-y-auto p-3 sm:p-6">
           <ConsultationForm />
         </div>
       </section>

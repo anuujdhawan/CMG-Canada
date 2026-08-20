@@ -54,7 +54,7 @@ export default function MobileMenu({ onClose }) {
   };
 
   return (
-    <div className="fixed inset-0 z-[70] lg:hidden" role="dialog" aria-modal="true" aria-label="Mobile menu">
+    <div className="fixed inset-0 z-[260] lg:hidden" role="dialog" aria-modal="true" aria-label="Mobile menu">
       {/* Backdrop */}
       <button
         type="button"
@@ -140,7 +140,7 @@ export default function MobileMenu({ onClose }) {
                   <span className="flex items-center gap-2">
                     {item.label}
                     {item.urgent && (
-                      <span className="rounded-full bg-accent-soft px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-accent-dark">
+                      <span className="rounded-full bg-primary px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white border border-primary shadow-sm">
                         Urgent
                       </span>
                     )}
@@ -173,7 +173,7 @@ export default function MobileMenu({ onClose }) {
                       <Link
                         href={item.href}
                         onClick={onClose}
-                        className="block px-3 py-2.5 rounded-xl text-sm font-bold text-primary underline-offset-4 hover:underline"
+                        className="dropdown-view-all block px-3 py-2.5 rounded-xl text-sm font-bold text-primary no-underline"
                       >
                         View all {item.label.toLowerCase()} →
                       </Link>

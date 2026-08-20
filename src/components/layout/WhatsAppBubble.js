@@ -5,15 +5,16 @@ import { site } from "@/config/site";
 const whatsappHref = site.whatsappUrl;
 const whatsappColor = process.env.NEXT_PUBLIC_WHATSAPP_BUBBLE_COLOR || "var(--brand-primary)";
 
-/** Sitewide WhatsApp handoff bubble. The URL and brand color are env-configurable. */
+/** Sitewide WhatsApp handoff bubble. URL is driven by NEXT_PUBLIC_WHATSAPP_URL in .env — hidden until a number/URL is configured. */
 export default function WhatsAppBubble() {
+  if (!whatsappHref) return null;
   return (
     <a
       href={whatsappHref}
       target="_blank"
       rel="noopener noreferrer"
-      aria-label="Contact us online"
-      title="Contact us online"
+      aria-label="Chat on WhatsApp"
+      title="Chat on WhatsApp"
       className="cmg-whatsapp-bubble"
       style={{ "--whatsapp-bubble-color": whatsappColor }}
     >
@@ -38,7 +39,7 @@ export default function WhatsAppBubble() {
           </g>
         </svg>
       </span>
-      <span className="sr-only">Contact us online</span>
+      <span className="sr-only">Chat on WhatsApp</span>
     </a>
   );
 }

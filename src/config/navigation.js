@@ -289,6 +289,7 @@ const rawNavigation = {
     { title: "Contact", links: [
       { label: "Book Consultation", href: "/book" },
       { label: "Email Us", href: site.emailHref },
+      { label: "Make Payment", href: site.ctas.payment.href },
       { label: "Client Login", href: site.ctas.login.href },
     ] },
   ],

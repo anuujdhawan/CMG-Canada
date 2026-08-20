@@ -304,7 +304,6 @@ const config = {
     botAvatar: BotAvatar,
   },
   customStyles: {
-    botMessageBox: { backgroundColor: "var(--brand-accent-soft)" },
     chatButton: { backgroundColor: "var(--brand-primary)" },
   },
   widgets: [
@@ -520,7 +519,7 @@ class ActionProvider {
       { label: "Send my details", action: "lead", primary: true },
       { label: "Start free assessment", href: currentPagePath("/tools/free-assessment"), primary: true, icon: "calendar" },
       { label: site.ctas.primary.label, href: site.ctas.primary.href, primary: true, icon: "calendar" },
-      { label: "WhatsApp the team", href: whatsappHref, external: true, icon: "whatsapp" },
+      ...(whatsappHref ? [{ label: "WhatsApp the team", href: whatsappHref, external: true, icon: "whatsapp" }] : []),
       { label: "Start over", action: "restart" },
     ];
 

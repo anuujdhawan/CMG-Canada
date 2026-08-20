@@ -34,7 +34,7 @@ export default function ThemeToggle({ className = "" }) {
       aria-pressed={isLight}
     >
       {isLight ? <Moon aria-hidden /> : <Sun aria-hidden />}
-      <span>{isLight ? "Dark theme" : "Light theme"}</span>
+      <span>{isLight ? "Dark" : "Light"}</span>
     </button>
   );
 }

@@ -54,7 +54,7 @@ export default function HeroBanner({
       )}
       style={{ isolation: "isolate" }}
     >
-      {isImageHero && <HeroCarousel slides={backgroundSlides} />}
+      {isImageHero && <HeroCarousel slides={backgroundSlides || undefined} showControls={false} />}
       <div aria-hidden className="pointer-events-none absolute inset-0 hero-tex-grid opacity-[0.08]" />
       <motion.div className="hero-light-orb hero-light-orb--left" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
       <motion.div className="hero-light-orb hero-light-orb--right" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
