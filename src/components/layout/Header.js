@@ -208,11 +208,11 @@ export default function Header() {
         transition={{ duration: DURATION.hover, ease: EASE_OUT }}
       >
         {/* Utility strip */}
-        <div className="bg-[#05070b] text-white">
+        <div className="site-header__utility-strip">
           <div className="mx-auto flex h-9 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
             <a
               href={site.emailHref}
-              className="flex items-center gap-1.5 text-[12px] font-medium text-white/80 hover:text-white transition-colors"
+              className="site-header__utility-link flex items-center gap-1.5 text-[12px] font-medium transition-colors"
             >
               <Mail className="h-3.5 w-3.5" />
               {navigation.utility.email}
@@ -227,7 +227,7 @@ export default function Header() {
         <div className="px-3 pt-3 sm:px-4">
           <div
             className={cn(
-              "site-header__nav-shell relative mx-auto max-w-[1400px] bg-white/95 backdrop-blur-md rounded-2xl border border-line/80 px-4 transition-shadow duration-300",
+              "site-header__nav-shell relative mx-auto max-w-[1400px] backdrop-blur-md rounded-2xl border px-4 transition-shadow duration-300",
               scrolled
                 ? "shadow-[0_8px_32px_color-mix(in_srgb,var(--brand-navy)_12%,transparent),0_2px_8px_color-mix(in_srgb,var(--brand-navy)_6%,transparent)]"
                 : "shadow-[0_4px_24px_color-mix(in_srgb,var(--brand-navy)_8%,transparent),0_1px_4px_color-mix(in_srgb,var(--brand-navy)_4%,transparent)]"

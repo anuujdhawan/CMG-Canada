@@ -1,6 +1,6 @@
 # CRS score explained: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/crs-score-canada
+> **Source URL:** https://commonwealthmigration.ca/blog/express-entry/crs-score-canada
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** CRS score explained | 2026 Canada Guide
 - **Meta description:** Turn the score breakdown into a prioritized improvement plan rather than chasing a historical cutoff. See official rules before applying.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/crs-score-canada
+- **Canonical URL:** https://commonwealthmigration.ca/blog/express-entry/crs-score-canada
 - **OG title:** CRS score explained | Commonwealth Migration Research
 - **OG description:** Turn the score breakdown into a prioritized improvement plan rather than chasing a historical cutoff. See official rules before applying.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/crs-score-canada#webpage",
-      "url": "https://commonwealthmigration.ca/blog/crs-score-canada",
+      "@id": "https://commonwealthmigration.ca/blog/express-entry/crs-score-canada#webpage",
+      "url": "https://commonwealthmigration.ca/blog/express-entry/crs-score-canada",
       "name": "CRS score explained | 2026 Canada Guide",
       "description": "Turn the score breakdown into a prioritized improvement plan rather than chasing a historical cutoff. See official rules before applying.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "CRS score Canada",
-          "item": "https://commonwealthmigration.ca/blog/crs-score-canada"
+          "item": "https://commonwealthmigration.ca/blog/express-entry/crs-score-canada"
         }
       ]
     },

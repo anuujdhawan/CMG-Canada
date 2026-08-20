@@ -1,6 +1,6 @@
 # Express Entry or PNP: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/express-entry-vs-pnp
+> **Source URL:** https://commonwealthmigration.ca/blog/express-entry/express-entry-vs-pnp
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Express Entry or PNP | 2026 Canada Guide
 - **Meta description:** Compare a national pool strategy with a province-specific nomination. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/express-entry-vs-pnp
+- **Canonical URL:** https://commonwealthmigration.ca/blog/express-entry/express-entry-vs-pnp
 - **OG title:** Express Entry or PNP | Commonwealth Migration Research
 - **OG description:** Compare a national pool strategy with a province-specific nomination. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/express-entry-vs-pnp#webpage",
-      "url": "https://commonwealthmigration.ca/blog/express-entry-vs-pnp",
+      "@id": "https://commonwealthmigration.ca/blog/express-entry/express-entry-vs-pnp#webpage",
+      "url": "https://commonwealthmigration.ca/blog/express-entry/express-entry-vs-pnp",
       "name": "Express Entry or PNP | 2026 Canada Guide",
       "description": "Compare a national pool strategy with a province-specific nomination. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "Express Entry vs PNP",
-          "item": "https://commonwealthmigration.ca/blog/express-entry-vs-pnp"
+          "item": "https://commonwealthmigration.ca/blog/express-entry/express-entry-vs-pnp"
         }
       ]
     },

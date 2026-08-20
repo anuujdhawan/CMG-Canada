@@ -1,6 +1,6 @@
 # Student to Canadian PR: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/international-student-to-canadian-pr
+> **Source URL:** https://commonwealthmigration.ca/blog/study-permits/international-student-to-canadian-pr
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Student to Canadian PR | 2026 Canada Guide
 - **Meta description:** Treat school choice, work authorization and future PR as one timeline. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/international-student-to-canadian-pr
+- **Canonical URL:** https://commonwealthmigration.ca/blog/study-permits/international-student-to-canadian-pr
 - **OG title:** Student to Canadian PR | Commonwealth Migration Research
 - **OG description:** Treat school choice, work authorization and future PR as one timeline. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/international-student-to-canadian-pr#webpage",
-      "url": "https://commonwealthmigration.ca/blog/international-student-to-canadian-pr",
+      "@id": "https://commonwealthmigration.ca/blog/study-permits/international-student-to-canadian-pr#webpage",
+      "url": "https://commonwealthmigration.ca/blog/study-permits/international-student-to-canadian-pr",
       "name": "Student to Canadian PR | 2026 Canada Guide",
       "description": "Treat school choice, work authorization and future PR as one timeline. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "international student to Canadian PR",
-          "item": "https://commonwealthmigration.ca/blog/international-student-to-canadian-pr"
+          "item": "https://commonwealthmigration.ca/blog/study-permits/international-student-to-canadian-pr"
         }
       ]
     },

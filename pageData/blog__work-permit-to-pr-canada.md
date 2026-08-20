@@ -1,6 +1,6 @@
 # Work permit to PR: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/work-permit-to-pr-canada
+> **Source URL:** https://commonwealthmigration.ca/blog/work-permits/work-permit-to-pr-canada
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Work permit to PR | 2026 Canada Guide
 - **Meta description:** Compare CEC, PNP, regional and employer routes before the permit clock runs down. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/work-permit-to-pr-canada
+- **Canonical URL:** https://commonwealthmigration.ca/blog/work-permits/work-permit-to-pr-canada
 - **OG title:** Work permit to PR | Commonwealth Migration Research
 - **OG description:** Compare CEC, PNP, regional and employer routes before the permit clock runs down. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/work-permit-to-pr-canada#webpage",
-      "url": "https://commonwealthmigration.ca/blog/work-permit-to-pr-canada",
+      "@id": "https://commonwealthmigration.ca/blog/work-permits/work-permit-to-pr-canada#webpage",
+      "url": "https://commonwealthmigration.ca/blog/work-permits/work-permit-to-pr-canada",
       "name": "Work permit to PR | 2026 Canada Guide",
       "description": "Compare CEC, PNP, regional and employer routes before the permit clock runs down. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "work permit to PR Canada",
-          "item": "https://commonwealthmigration.ca/blog/work-permit-to-pr-canada"
+          "item": "https://commonwealthmigration.ca/blog/work-permits/work-permit-to-pr-canada"
         }
       ]
     },

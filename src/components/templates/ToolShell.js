@@ -1,13 +1,5 @@
-import PageHeader from "@/components/ui/PageHeader";
-import Disclaimer from "@/components/ui/Disclaimer";
-import CtaBanner from "@/components/ui/CtaBanner";
-import Section from "@/components/ui/Section";
-import DarkRedPathwaySection from "@/components/sections/DarkRedPathwaySection";
-import ToolsShowcase from "@/components/sections/ToolsShowcase";
-import PageFaqSection from "@/components/sections/PageFaqSection";
-import PageHeroAside from "@/components/sections/PageHeroAside";
 import { getPage } from "@/lib/sitePages";
-import { getPageFaqs } from "@/lib/faqs";
+import ReferenceServicePage from "@/components/home/ReferenceServicePage";
 
 export default function ToolShell({ eyebrow, title, lead, currentSlug, pagePath: explicitPagePath, children }) {
   const pagePath = explicitPagePath || `/tools/${currentSlug}`;
@@ -18,31 +10,8 @@ export default function ToolShell({ eyebrow, title, lead, currentSlug, pagePath:
     headingOutline: [],
     jsonLd: [],
   };
-  return (
-    <>
-      <PageHeader eyebrow={eyebrow} title={title} lead={lead}>
-        <PageHeroAside page={page} title={title} />
-      </PageHeader>
-
-      <DarkRedPathwaySection variant="tools" className="homepage-pathways" />
-
-      <Section className="content-stage" containerClassName="mx-auto max-w-6xl">
-        <div className="article-shell p-5 sm:p-8 lg:p-10">
-          <div className="relative z-10 mx-auto max-w-4xl">{children}</div>
-        </div>
-      </Section>
-
-      <ToolsShowcase />
-
-      <Section className="band-red-tint border-t border-line" containerClassName="mx-auto max-w-6xl">
-        <div className="mt-8">
-          <Disclaimer className="mx-auto max-w-3xl" />
-        </div>
-      </Section>
-
-      <PageFaqSection page={page} items={getPageFaqs(page)} />
-
-      <CtaBanner />
-    </>
-  );
+  // Tool routes use the same reusable reference service shell as every other
+  // content route. This keeps the hero, typography, motion, footer and both
+  // theme palettes in one place instead of maintaining a second tool theme.
+  return <ReferenceServicePage page={{ ...page, h1: page.h1 || title }}>{children}</ReferenceServicePage>;
 }

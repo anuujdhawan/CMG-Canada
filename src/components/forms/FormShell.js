@@ -1,20 +1,17 @@
 import { cn } from "@/lib/utils";
 
 /**
- * White card shell shared by all demo forms.
- * Pass `as="form"` (plus form props) when the card itself is the form.
+ * Form shell — single source for every assessment/contact form.
+ * Theme-aware: dark/light via html[data-theme] + .env-driven --cmg-* vars.
  */
 export function FormShell({ as: Tag = "div", className, children, ...rest }) {
   return (
-    <Tag className={cn("rounded-brand-2xl border border-line bg-white p-6 shadow-card sm:p-8", className)} {...rest}>
-      {children}
+    <Tag className={cn("tool-card", className)} {...rest}>
+      <div className="tool-card__body">{children}</div>
     </Tag>
   );
 }
 
-/**
- * Two-column responsive field grid (single column on mobile).
- */
 export function FieldGrid({ className, children }) {
   return <div className={cn("grid gap-5 sm:grid-cols-2", className)}>{children}</div>;
 }

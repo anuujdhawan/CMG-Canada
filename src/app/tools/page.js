@@ -15,10 +15,9 @@ export const metadata = {
 export default function ToolsPage() {
   if (!toolsPage) return null;
   return (
-    <>
-      <ContentPage page={toolsPage} />
+    <ContentPage page={toolsPage}>
       <InteractiveToolsGrid />
       <PageIndexGrid pathname={pagePath} />
-    </>
+    </ContentPage>
   );
 }

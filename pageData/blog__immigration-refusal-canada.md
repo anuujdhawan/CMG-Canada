@@ -1,6 +1,6 @@
 # Immigration refusal in Canada: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/immigration-refusal-canada
+> **Source URL:** https://commonwealthmigration.ca/blog/refusals/immigration-refusal-canada
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Immigration refusal in Canada | 2026 Canada Guide
 - **Meta description:** Secure the decision and deadline, then match the remedy to the error. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/immigration-refusal-canada
+- **Canonical URL:** https://commonwealthmigration.ca/blog/refusals/immigration-refusal-canada
 - **OG title:** Immigration refusal in Canada | Commonwealth Migration Research
 - **OG description:** Secure the decision and deadline, then match the remedy to the error. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -144,8 +144,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/immigration-refusal-canada#webpage",
-      "url": "https://commonwealthmigration.ca/blog/immigration-refusal-canada",
+      "@id": "https://commonwealthmigration.ca/blog/refusals/immigration-refusal-canada#webpage",
+      "url": "https://commonwealthmigration.ca/blog/refusals/immigration-refusal-canada",
       "name": "Immigration refusal in Canada | 2026 Canada Guide",
       "description": "Secure the decision and deadline, then match the remedy to the error. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -173,7 +173,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "immigration refusal Canada",
-          "item": "https://commonwealthmigration.ca/blog/immigration-refusal-canada"
+          "item": "https://commonwealthmigration.ca/blog/refusals/immigration-refusal-canada"
         }
       ]
     },

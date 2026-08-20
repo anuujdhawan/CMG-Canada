@@ -20,11 +20,14 @@ const ROUTE_MAP = fs.existsSync(ROUTE_MAP_FILE)
   ? JSON.parse(fs.readFileSync(ROUTE_MAP_FILE, "utf8"))
   : [];
 const ROUTE_BY_FILE = new Map(ROUTE_MAP.map((route) => [route.outputFile, route]));
+const FILE_BY_PATH = new Map(ROUTE_MAP.map((route) => [route.path, route.outputFile]));
+const routeAliases = (route) => [
+  route.legacyPath,
+  route.previousPath,
+  ...(Array.isArray(route.redirectPaths) ? route.redirectPaths : []),
+].filter(Boolean);
 const LEGACY_PATH_TO_FILE = new Map(
-  ROUTE_MAP.flatMap((route) => [
-    [route.legacyPath, route.outputFile],
-    [route.previousPath, route.outputFile],
-  ]).filter(([source]) => source)
+  ROUTE_MAP.flatMap((route) => routeAliases(route).map((source) => [source, route.outputFile]))
 );
 
 /** Files that are documentation, not pages. */
@@ -71,9 +74,9 @@ export function pathForLegacyPath(pathname) {
 export function getPage(pathname) {
   const requestedPath = String(pathname || "/").replace(/\/$/, "") || "/";
   const directFile = pathToFilename(requestedPath);
-  const file = fs.existsSync(path.join(PAGE_DATA_DIR, directFile))
+  const file = FILE_BY_PATH.get(requestedPath) || (fs.existsSync(path.join(PAGE_DATA_DIR, directFile))
     ? directFile
-    : LEGACY_PATH_TO_FILE.get(requestedPath);
+    : LEGACY_PATH_TO_FILE.get(requestedPath));
   if (!file) return null;
   const full = path.join(PAGE_DATA_DIR, file);
   if (!fs.existsSync(full)) return null;

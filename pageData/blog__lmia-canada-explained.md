@@ -1,6 +1,6 @@
 # LMIA Canada explained: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/lmia-canada-explained
+> **Source URL:** https://commonwealthmigration.ca/blog/employer-immigration/lmia-canada-explained
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** LMIA Canada explained | 2026 Canada Guide
 - **Meta description:** Keep the employer's labour-market case separate from the worker's permit application. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/lmia-canada-explained
+- **Canonical URL:** https://commonwealthmigration.ca/blog/employer-immigration/lmia-canada-explained
 - **OG title:** LMIA Canada explained | Commonwealth Migration Research
 - **OG description:** Keep the employer's labour-market case separate from the worker's permit application. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/lmia-canada-explained#webpage",
-      "url": "https://commonwealthmigration.ca/blog/lmia-canada-explained",
+      "@id": "https://commonwealthmigration.ca/blog/employer-immigration/lmia-canada-explained#webpage",
+      "url": "https://commonwealthmigration.ca/blog/employer-immigration/lmia-canada-explained",
       "name": "LMIA Canada explained | 2026 Canada Guide",
       "description": "Keep the employer's labour-market case separate from the worker's permit application. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "LMIA Canada explained",
-          "item": "https://commonwealthmigration.ca/blog/lmia-canada-explained"
+          "item": "https://commonwealthmigration.ca/blog/employer-immigration/lmia-canada-explained"
         }
       ]
     },

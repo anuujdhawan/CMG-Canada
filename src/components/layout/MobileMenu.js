@@ -60,7 +60,7 @@ export default function MobileMenu({ onClose }) {
         type="button"
         aria-label="Close menu"
         onClick={onClose}
-        className="absolute inset-0 h-full w-full cursor-default bg-navy-dark/60"
+        className="cmg-mobile-menu__backdrop absolute inset-0 h-full w-full cursor-default"
       />
 
       {/* Panel */}
@@ -69,7 +69,7 @@ export default function MobileMenu({ onClose }) {
         animate={{ x: 0 }}
         exit={{ x: "100%" }}
         transition={{ duration: 0.28, ease: EASE_OUT }}
-        className="cmg-mobile-menu absolute right-0 top-0 flex h-full w-[85vw] sm:w-[320px] flex-col bg-[#05070b] shadow-dropdown"
+        className="cmg-mobile-menu absolute right-0 top-0 flex h-full w-[85vw] sm:w-[320px] flex-col shadow-dropdown"
       >
         {/* Header */}
         <div className="px-5 py-4 border-b border-white/10 flex items-center justify-between">
@@ -100,15 +100,6 @@ export default function MobileMenu({ onClose }) {
           >
             Home
           </Link>
-          <a
-            href={navigation.utility.login.href}
-            target="_blank"
-            rel="noopener noreferrer"
-            onClick={onClose}
-            className="flex items-center px-4 py-3.5 rounded-xl text-ink font-semibold hover:bg-accent-soft hover:text-primary transition-all text-sm"
-          >
-            {navigation.utility.login.label}
-          </a>
 
           {navigation.main.map((item) => {
             const hasChildren = item.children?.length > 0;

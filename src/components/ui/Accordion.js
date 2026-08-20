@@ -12,7 +12,7 @@ export default function Accordion({ items, className, defaultOpen = 0, idPrefix 
   const [openIndex, setOpenIndex] = useState(defaultOpen);
 
   return (
-    <div className={cn("divide-y divide-line rounded-brand-xl border border-line bg-white", className)}>
+    <div className={cn("divide-y divide-line rounded-brand-xl border border-line bg-[var(--cmg-light-surface)]", className)}>
       {items.map((item, i) => {
         const open = openIndex === i;
         return (

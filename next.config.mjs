@@ -9,7 +9,11 @@ const routeMap = fs.existsSync(routeMapPath)
 const redirectSources = new Set();
 const pageDataRedirects = [];
 for (const route of routeMap) {
-  for (const source of [route.legacyPath, route.previousPath]) {
+  for (const source of [
+    route.legacyPath,
+    route.previousPath,
+    ...(Array.isArray(route.redirectPaths) ? route.redirectPaths : []),
+  ]) {
     if (!source || source === "/" || source === route.path || redirectSources.has(source)) continue;
     redirectSources.add(source);
     pageDataRedirects.push({ source, destination: route.path, permanent: true });

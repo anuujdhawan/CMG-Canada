@@ -1,5 +1,5 @@
 /**
- * Shared hero tokens — every page hero (home, content pages, tools, login)
+ * Shared hero tokens — every page hero (home, content pages and tools)
  * uses the same gradient, generous padding and title sizing so the hero
  * band looks and feels identical site-wide.
  */

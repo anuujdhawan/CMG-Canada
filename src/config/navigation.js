@@ -138,7 +138,6 @@ const contactColumns = [
       { label: "Book Consultation", desc: "Choose a time that suits you", href: "/book" },
       { label: "Book Urgent Consultation", desc: "Refusal? Don't wait", href: "/book", urgent: true },
       { label: "Make Payment", desc: "Secure online payment", href: site.ctas.payment.href },
-      { label: "Client Login", desc: "Track your case 24/7", href: site.ctas.login.href, external: true },
     ],
   },
 ];
@@ -159,7 +158,6 @@ const contactLinks = contactColumns.flatMap((column) => column.items);
 const rawNavigation = {
   utility: {
     email: site.email,
-    login: { label: "Client Login", href: site.ctas.login.href },
   },
 
   header: [
@@ -271,8 +269,8 @@ const rawNavigation = {
     { title: "Work & Study", links: [
       { label: "Work Permits", href: "/immigration/work-permit" },
       { label: "Study Permits", href: "/immigration/study-permit" },
-      { label: "Visitor Visa & Super Visa", href: "/immigration/visitor-visa" },
-      { label: "PGWP", href: "/immigration/pgwp" },
+      { label: "Visitor & Super Visa", href: "/immigration/visitor-visa" },
+      { label: "LMIA & GTS", href: "/for-employers/lmia" },
     ] },
     { title: "Employers", links: [
       { label: "LMIA (All Streams)", href: "/for-employers/lmia" },
@@ -290,7 +288,6 @@ const rawNavigation = {
       { label: "Book Consultation", href: "/book" },
       { label: "Email Us", href: site.emailHref },
       { label: "Make Payment", href: site.ctas.payment.href },
-      { label: "Client Login", href: site.ctas.login.href },
     ] },
   ],
 };

@@ -46,26 +46,26 @@ export default function PageIndexGrid({ pathname }) {
   const Icon = isTools ? Calculator : isCities ? MapPin : null;
 
   return (
-    <section aria-label="Related pages" className="homepage-pathways border-t border-line">
-      <div className="site-container section-pad pt-12 lg:pt-14">
+    <section aria-label="Related pages" className="reference-index-grid">
+      <div className="reference-index-grid__inner">
         <div className="flex items-end justify-between gap-4">
           <div>
-            <p className="eyebrow text-accent-dark">
+            <p className="eyebrow">
               {base === "/blog" ? "Latest articles" : isCities ? "Serving cities across Canada" : "Explore"}
             </p>
-            <h2 className="mt-2 font-serif text-2xl font-bold text-navy sm:text-[1.75rem]">
+            <h2>
               {base === "/blog" ? "Read the guides, then decide" : `${segmentLabel(base.split("/").pop())} guides`}
             </h2>
           </div>
           <Link
             href={base}
-            className="hidden shrink-0 items-center gap-1.5 text-sm font-bold text-primary hover:text-accent-dark transition-colors sm:inline-flex"
+            className="reference-index-grid__view-all"
           >
             View all <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
 
-        <div className="mt-9 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="reference-index-grid__cards">
           {visibleChildren.map((page, index) => {
             const published = formatDate(page.meta.lastModified);
             const eyebrow = base === "/blog"

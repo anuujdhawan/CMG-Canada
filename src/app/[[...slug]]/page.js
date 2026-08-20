@@ -8,7 +8,7 @@ export const dynamicParams = false;
 
 /** Prerender every approved Markdown page (including the home route). */
 export function generateStaticParams() {
-  return getAllPages().map((page) => ({
+  return getAllPages().filter((page) => page.path !== "/blog").map((page) => ({
     slug: page.path === "/" ? [] : page.path.slice(1).split("/"),
   }));
 }
@@ -59,8 +59,9 @@ export default async function ContentRoute({ params }) {
 
   return (
     <>
-      <ContentPage page={page} />
-      {pathname !== "/" && <PageIndexGrid pathname={pathname} />}
+      <ContentPage page={page}>
+        {pathname !== "/" && <PageIndexGrid pathname={pathname} />}
+      </ContentPage>
     </>
   );
 }

@@ -13,7 +13,7 @@ const tones = {
 export default function FormSuccessCard({ title, tone = "success", className, children }) {
   const { icon: Icon, chip, color } = tones[tone] || tones.success;
   return (
-    <div className={cn("rounded-brand-2xl border border-line bg-white p-8 text-center shadow-card sm:p-12", className)}>
+    <div className={cn("tool-card p-8 text-center sm:p-12", className)}>
       <span className={cn("mx-auto flex h-14 w-14 items-center justify-center rounded-full", chip)}>
         <Icon className={cn("h-7 w-7", color)} aria-hidden />
       </span>

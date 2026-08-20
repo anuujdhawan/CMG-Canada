@@ -7,7 +7,7 @@ export default function CardShell({ href, children, className, ariaLabel, motion
     ? ""
     : "transition-all duration-200 hover:-translate-y-1 hover:border-primary/40 hover:shadow-hover";
   const classes = cn(
-    "flex h-full flex-col rounded-2xl border border-line bg-white p-6",
+    "card-shell flex h-full flex-col rounded-2xl border p-6",
     motionClasses,
     className
   );

@@ -47,7 +47,6 @@ const publicEnv = {
   NEXT_PUBLIC_CTA_URGENT: process.env.NEXT_PUBLIC_CTA_URGENT,
   NEXT_PUBLIC_CTA_ASSESSMENT: process.env.NEXT_PUBLIC_CTA_ASSESSMENT,
   NEXT_PUBLIC_CTA_PAYMENT: process.env.NEXT_PUBLIC_CTA_PAYMENT,
-  NEXT_PUBLIC_CLIENT_LOGIN_URL: process.env.NEXT_PUBLIC_CLIENT_LOGIN_URL,
   NEXT_PUBLIC_CTA_TOOLS: process.env.NEXT_PUBLIC_CTA_TOOLS,
   NEXT_PUBLIC_LEGAL_PRIVACY: process.env.NEXT_PUBLIC_LEGAL_PRIVACY,
   NEXT_PUBLIC_LEGAL_TERMS: process.env.NEXT_PUBLIC_LEGAL_TERMS,
@@ -116,7 +115,7 @@ export const site = {
   logos: {
     large: env("NEXT_PUBLIC_LOGO_LARGE", "/images/logo-large.png"), // blue/red wordmark for light surfaces
     white: env("NEXT_PUBLIC_LOGO_WHITE", "/images/CMG-LOGO.webp"), // white/red template wordmark for dark surfaces
-    footer: env("NEXT_PUBLIC_LOGO_FOOTER", "/images/cmg-logo-red.png"), // red/blue wordmark used in the footer in both themes
+    footer: env("NEXT_PUBLIC_LOGO_FOOTER", "/images/cmg-logo-red-black.webp"), // red-black wordmark used in the footer in both themes
     favicon: env("NEXT_PUBLIC_LOGO_FAVICON", "/images/icon.png"),
     og: env("NEXT_PUBLIC_OG_IMAGE", "/images/og-default.png"),
   },
@@ -148,7 +147,6 @@ export const site = {
     urgent: { label: "Book Urgent Consultation", href: env("NEXT_PUBLIC_CTA_URGENT", "/assessment/free-canada-immigration-assessment") },
     assessment: { label: "Free Assessment", href: env("NEXT_PUBLIC_CTA_ASSESSMENT", "/assessment/free-canada-immigration-assessment") },
     payment: { label: "Make Payment", href: env("NEXT_PUBLIC_CTA_PAYMENT", "/pay") },
-    login: { label: "Client Login", href: env("NEXT_PUBLIC_CLIENT_LOGIN_URL", "https://secure.officio.ca/login") },
     tools: { label: "Free Tools", href: env("NEXT_PUBLIC_CTA_TOOLS", "/tools/canada-immigration-calculators") },
   },
 

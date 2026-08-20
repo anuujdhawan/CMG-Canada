@@ -1,6 +1,6 @@
 # Express Entry for beginners: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/express-entry-beginners-guide
+> **Source URL:** https://commonwealthmigration.ca/blog/express-entry/express-entry-beginners-guide
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Express Entry for beginners | 2026 Canada Guide
 - **Meta description:** Separate eligibility, pool ranking, invitation and the final PR application. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/express-entry-beginners-guide
+- **Canonical URL:** https://commonwealthmigration.ca/blog/express-entry/express-entry-beginners-guide
 - **OG title:** Express Entry for beginners | Commonwealth Migration Research
 - **OG description:** Separate eligibility, pool ranking, invitation and the final PR application. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/express-entry-beginners-guide#webpage",
-      "url": "https://commonwealthmigration.ca/blog/express-entry-beginners-guide",
+      "@id": "https://commonwealthmigration.ca/blog/express-entry/express-entry-beginners-guide#webpage",
+      "url": "https://commonwealthmigration.ca/blog/express-entry/express-entry-beginners-guide",
       "name": "Express Entry for beginners | 2026 Canada Guide",
       "description": "Separate eligibility, pool ranking, invitation and the final PR application. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "Express Entry Canada 2026",
-          "item": "https://commonwealthmigration.ca/blog/express-entry-beginners-guide"
+          "item": "https://commonwealthmigration.ca/blog/express-entry/express-entry-beginners-guide"
         }
       ]
     },

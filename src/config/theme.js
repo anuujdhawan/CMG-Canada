@@ -42,6 +42,7 @@ const colors = {
   success: env("NEXT_PUBLIC_THEME_SUCCESS", "#2E8B57"),
   warning: env("NEXT_PUBLIC_THEME_WARNING", "#B7791F"),
   error: env("NEXT_PUBLIC_THEME_ERROR", "#B3122A"),
+  logoBg: env("NEXT_PUBLIC_THEME_LOGO_BG", "#ffffff"),
   // Hero colour stops retained for compatibility with existing integrations.
   heroStart: env("NEXT_PUBLIC_THEME_HERO_START", "#FFE4E7"),
   heroMid: env("NEXT_PUBLIC_THEME_HERO_MID", "#D80621"),
@@ -61,7 +62,9 @@ const templateColors = {
     surfaceAlt: env("NEXT_PUBLIC_TEMPLATE_DARK_SURFACE_ALT", "#0b121d"),
     ink: env("NEXT_PUBLIC_TEMPLATE_DARK_INK", "#f7f8fb"),
     muted: env("NEXT_PUBLIC_TEMPLATE_DARK_MUTED", "#aeb8c5"),
-    border: env("NEXT_PUBLIC_TEMPLATE_DARK_BORDER", "rgba(255,255,255,.13)")},
+    border: env("NEXT_PUBLIC_TEMPLATE_DARK_BORDER", "rgba(255,255,255,.13)"),
+    onPrimary: env("NEXT_PUBLIC_TEMPLATE_DARK_ON_PRIMARY", "#ffffff"),
+    success: env("NEXT_PUBLIC_TEMPLATE_DARK_SUCCESS", "#2e9d65")},
   light: {
     primary: env("NEXT_PUBLIC_TEMPLATE_LIGHT_PRIMARY", "#f31f3f"),
     secondary: env("NEXT_PUBLIC_TEMPLATE_LIGHT_SECONDARY", "#ffffff"),
@@ -71,7 +74,9 @@ const templateColors = {
     surfaceAlt: env("NEXT_PUBLIC_TEMPLATE_LIGHT_SURFACE_ALT", "#eef0f3"),
     ink: env("NEXT_PUBLIC_TEMPLATE_LIGHT_INK", "#10151d"),
     muted: env("NEXT_PUBLIC_TEMPLATE_LIGHT_MUTED", "#5d6875"),
-    border: env("NEXT_PUBLIC_TEMPLATE_LIGHT_BORDER", "rgba(7,13,22,.14)")}};
+    border: env("NEXT_PUBLIC_TEMPLATE_LIGHT_BORDER", "rgba(7,13,22,.14)"),
+    onPrimary: env("NEXT_PUBLIC_TEMPLATE_LIGHT_ON_PRIMARY", "#ffffff"),
+    success: env("NEXT_PUBLIC_TEMPLATE_LIGHT_SUCCESS", "#237a4b")}};
 
 const templateButtons = {
   nav: {
@@ -123,6 +128,7 @@ export const themeCssVars = {
   "--brand-success": colors.success,
   "--brand-warning": colors.warning,
   "--brand-error": colors.error,
+  "--brand-logo-bg": colors.logoBg,
   "--brand-hero-start": colors.heroStart,
   "--brand-hero-mid": colors.heroMid,
   "--brand-hero-end": colors.heroEnd,
@@ -142,6 +148,8 @@ export const templateThemeCssVars = {
   "--cmg-dark-ink": templateColors.dark.ink,
   "--cmg-dark-muted": templateColors.dark.muted,
   "--cmg-dark-border": templateColors.dark.border,
+  "--cmg-dark-on-primary": templateColors.dark.onPrimary,
+  "--cmg-dark-success": templateColors.dark.success,
   "--cmg-light-primary": templateColors.light.primary,
   "--cmg-light-secondary": templateColors.light.secondary,
   "--cmg-light-accent": templateColors.light.accent,
@@ -151,6 +159,18 @@ export const templateThemeCssVars = {
   "--cmg-light-ink": templateColors.light.ink,
   "--cmg-light-muted": templateColors.light.muted,
   "--cmg-light-border": templateColors.light.border,
+  "--cmg-light-on-primary": templateColors.light.onPrimary,
+  "--cmg-light-success": templateColors.light.success,
+  "--cmg-template-primary-bright": env("NEXT_PUBLIC_TEMPLATE_PRIMARY_BRIGHT", "#ff3b5a"),
+  "--cmg-template-primary-highlight": env("NEXT_PUBLIC_TEMPLATE_PRIMARY_HIGHLIGHT", "#ff6b7f"),
+  "--cmg-template-primary-pale": env("NEXT_PUBLIC_TEMPLATE_PRIMARY_PALE", "#ffd2d8"),
+  "--cmg-template-deep-surface": env("NEXT_PUBLIC_TEMPLATE_DEEP_SURFACE", "#04080f"),
+  "--cmg-template-modal-end": env("NEXT_PUBLIC_TEMPLATE_MODAL_END", "#ff5269"),
+  "--cmg-template-nav-surface": env("NEXT_PUBLIC_TEMPLATE_NAV_SURFACE", "#05070b"),
+  "--cmg-template-nav-ink": env("NEXT_PUBLIC_TEMPLATE_NAV_INK", "#f7f8fb"),
+  "--cmg-template-utility-surface": env("NEXT_PUBLIC_TEMPLATE_UTILITY_SURFACE", "#050912"),
+  "--cmg-template-utility-ink": env("NEXT_PUBLIC_TEMPLATE_UTILITY_INK", "#f7f8fb"),
+  "--cmg-template-star": env("NEXT_PUBLIC_TEMPLATE_STAR", "#f2b94b"),
   "--cmg-template-nav-cta": templateButtons.nav.background,
   "--cmg-template-nav-cta-text": templateButtons.nav.text,
   "--cmg-template-nav-cta-hover": templateButtons.nav.hoverBackground,

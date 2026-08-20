@@ -7,16 +7,16 @@ import { cn } from "@/lib/utils";
  */
 const variants = {
   primary:
-    "bg-primary text-white hover:bg-navy shadow-md focus-visible:outline-accent",
+    "bg-primary text-[var(--cmg-light-surface)] hover:bg-navy shadow-md focus-visible:outline-accent",
   accent:
-    "bg-accent text-white hover:bg-accent-dark shadow-banner focus-visible:outline-accent",
+    "bg-accent text-[var(--cmg-light-surface)] hover:bg-accent-dark shadow-banner focus-visible:outline-accent",
   outline:
-    "border border-primary/25 bg-white text-primary hover:border-primary/50 hover:bg-accent-soft",
+    "border border-primary/25 bg-[var(--cmg-light-surface)] text-primary hover:border-primary/50 hover:bg-accent-soft",
   ghost: "text-primary hover:bg-primary/5",
   light:
-    "bg-white text-primary hover:bg-surface-alt shadow-sm",
+    "bg-[var(--cmg-light-surface)] text-primary hover:bg-surface-alt shadow-sm",
   lightOutline:
-    "border border-white/30 bg-white/5 text-white hover:bg-white/15",
+    "border border-[var(--cmg-light-surface)]/30 bg-[var(--cmg-light-surface)]/5 text-[var(--cmg-light-surface)] hover:bg-[var(--cmg-light-surface)]/15",
 };
 
 const sizes = {

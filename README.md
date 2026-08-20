@@ -29,11 +29,10 @@ npm run lint       # eslint
 | Colors, radii, shadows, typography | `NEXT_PUBLIC_THEME_*` in `.env` → `src/config/theme.js` → `:root` in `src/styles/globals.css` |
 | Navigation (header, mobile, footer) | `src/config/navigation.js` |
 | Scroll-reveal motion (framer-motion) | `src/lib/motion.js` + `src/components/motion/` |
-| Floating CTA + sticky mobile bar | `src/components/layout/FloatingCTA.js`, `StickyMobileCTA.js` |
-| Homepage/marketing copy | `src/config/content.js` |
-| Program records (25 programs) | `src/data/programs.js` |
-| Consultancy services | `src/data/services.js` |
-| FAQs, team, blog, guides, tools, NOC demo data | `src/data/*.js` |
+| Floating contact bubbles + sticky mobile bar | `src/components/chatbot/GuidedChatbot.js`, `src/components/layout/WhatsAppBubble.js`, `src/components/layout/StickyMobileCTA.js` |
+| Homepage and service-page presentation | `src/components/home/ReferenceHomepage.js`, `ReferenceServicePage.js` |
+| Page records and rewritten content | `src/lib/sitePages.js`, `pageData/` |
+| FAQs, tools and NOC demo data | `src/lib/faqs.js`, `src/data/tools.js`, `src/data/noc.js` |
 | Metadata builder (domain-agnostic SEO) | `src/lib/seo.js` |
 | Rewritten SEO page content and route map | `pageData/` (validate with `npm run validate:page-data`) |
 | Single environment file | `.env` |
@@ -45,8 +44,9 @@ npm run lint       # eslint
    integration keys, **and the entire color palette + hero spacing**
    (`NEXT_PUBLIC_THEME_*`). This is the only env file (`NEXT_PUBLIC_` only for
    browser-safe values). Edit → rebuild → the whole site recolors.
-2. **`public/images/`** — replace `logo-large.png`, `logo-small.png`, `icon.png`,
-   `apple-icon.png` and `og-default.png` (keep the same filenames).
+2. **`public/images/`** — replace the configured brand assets (`logo-large.png`,
+   `CMG-LOGO.webp`, the footer logo, `icon.png`, `apple-icon.png` and
+   `og-default.png`) while keeping the paths configured in `.env`.
 3. **`src/config/site.js`** — tagline, description, address, hours, CTA labels, legal links.
 4. **`src/config/navigation.js`** — menu labels, order, enabled/disabled items, URLs.
 5. **`src/data/`** — replace program copy, FAQs, team, blog and guide content.
@@ -66,7 +66,7 @@ new routes.
 - **Tools** — CRS calculator, PNP eligibility check, NOC finder, document checklist:
   working front-end logic marked as estimates/demo data. Verify against current
   IRCC/official sources before client launch.
-- **Payment & Client Login** — UI shells only; wire a real provider before launch.
+- **Payment** — UI shell only; wire a real provider before launch.
 - **Team profiles, testimonials, draw data, guides** — placeholders in `src/data/`.
 
 ## Legal

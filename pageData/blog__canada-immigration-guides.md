@@ -1,6 +1,6 @@
 # Blog: clearer information for your next step
 
-> **Source URL:** https://commonwealthmigration.ca/blog/canada-immigration-guides
+> **Source URL:** https://commonwealthmigration.ca/blog
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** A practical guide to Blog | Commonwealth Migration
 - **Meta description:** Read a practical blog guide, then verify the current official Canada immigration requirements before acting. See official rules before applying.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/canada-immigration-guides
+- **Canonical URL:** https://commonwealthmigration.ca/blog
 - **OG title:** Blog | Commonwealth Migration
 - **OG description:** Read a practical blog guide, then verify the current official Canada immigration requirements before acting. See official rules before applying.
 - **Robots:** index, follow
@@ -143,8 +143,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/canada-immigration-guides#webpage",
-      "url": "https://commonwealthmigration.ca/blog/canada-immigration-guides",
+      "@id": "https://commonwealthmigration.ca/blog#webpage",
+      "url": "https://commonwealthmigration.ca/blog",
       "name": "A practical guide to Blog | Commonwealth Migration",
       "description": "Read a practical blog guide, then verify the current official Canada immigration requirements before acting. See official rules before applying.",
       "inLanguage": "en-CA",
@@ -172,7 +172,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "Blog",
-          "item": "https://commonwealthmigration.ca/blog/canada-immigration-guides"
+          "item": "https://commonwealthmigration.ca/blog"
         }
       ]
     },

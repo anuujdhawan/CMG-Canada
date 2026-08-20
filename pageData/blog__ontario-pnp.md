@@ -1,6 +1,6 @@
 # Ontario PNP and OINP: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/ontario-pnp
+> **Source URL:** https://commonwealthmigration.ca/blog/provincial-nominee-programs/ontario-pnp
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Ontario PNP and OINP | 2026 Canada Guide
 - **Meta description:** Read the live stream notice instead of relying on last year's checklist. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/ontario-pnp
+- **Canonical URL:** https://commonwealthmigration.ca/blog/provincial-nominee-programs/ontario-pnp
 - **OG title:** Ontario PNP and OINP | Commonwealth Migration Research
 - **OG description:** Read the live stream notice instead of relying on last year's checklist. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/ontario-pnp#webpage",
-      "url": "https://commonwealthmigration.ca/blog/ontario-pnp",
+      "@id": "https://commonwealthmigration.ca/blog/provincial-nominee-programs/ontario-pnp#webpage",
+      "url": "https://commonwealthmigration.ca/blog/provincial-nominee-programs/ontario-pnp",
       "name": "Ontario PNP and OINP | 2026 Canada Guide",
       "description": "Read the live stream notice instead of relying on last year's checklist. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "Ontario PNP 2026",
-          "item": "https://commonwealthmigration.ca/blog/ontario-pnp"
+          "item": "https://commonwealthmigration.ca/blog/provincial-nominee-programs/ontario-pnp"
         }
       ]
     },

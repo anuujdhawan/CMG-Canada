@@ -58,8 +58,8 @@
     "outputFile": "blog__canada-immigration-guides.md",
     "legacyPath": "/blog",
     "previousPath": "/canada-immigration-guides",
-    "path": "/blog/canada-immigration-guides",
-    "url": "https://commonwealthmigration.ca/blog/canada-immigration-guides",
+    "path": "/blog",
+    "url": "https://commonwealthmigration.ca/blog",
     "keyword": "Blog"
   },
   {
@@ -67,8 +67,9 @@
     "outputFile": "blog__canada-visitor-visa-refused.md",
     "legacyPath": "/blog/canada-visitor-visa-refused-what-to-do",
     "previousPath": "/canada-visitor-visa-refused",
-    "path": "/blog/canada-visitor-visa-refused",
-    "url": "https://commonwealthmigration.ca/blog/canada-visitor-visa-refused",
+    "redirectPaths": ["/blog/canada-visitor-visa-refused"],
+    "path": "/blog/visitor-visas/canada-visitor-visa-refused",
+    "url": "https://commonwealthmigration.ca/blog/visitor-visas/canada-visitor-visa-refused",
     "keyword": "Canada visitor visa refused"
   },
   {
@@ -76,8 +77,9 @@
     "outputFile": "blog__canada-work-permit-types.md",
     "legacyPath": "/blog/canada-work-permit-types-guide-2026",
     "previousPath": "/canada-work-permit-types",
-    "path": "/blog/canada-work-permit-types",
-    "url": "https://commonwealthmigration.ca/blog/canada-work-permit-types",
+    "redirectPaths": ["/blog/canada-work-permit-types"],
+    "path": "/blog/work-permits/canada-work-permit-types",
+    "url": "https://commonwealthmigration.ca/blog/work-permits/canada-work-permit-types",
     "keyword": "Canada work permit types"
   },
   {
@@ -85,8 +87,9 @@
     "outputFile": "blog__express-entry-beginners-guide.md",
     "legacyPath": "/blog/express-entry-beginners-guide-2026",
     "previousPath": "/express-entry-beginners-guide",
-    "path": "/blog/express-entry-beginners-guide",
-    "url": "https://commonwealthmigration.ca/blog/express-entry-beginners-guide",
+    "redirectPaths": ["/blog/express-entry-beginners-guide"],
+    "path": "/blog/express-entry/express-entry-beginners-guide",
+    "url": "https://commonwealthmigration.ca/blog/express-entry/express-entry-beginners-guide",
     "keyword": "Express Entry Canada 2026"
   },
   {
@@ -94,8 +97,9 @@
     "outputFile": "blog__express-entry-category-based-selection.md",
     "legacyPath": "/blog/express-entry-category-based-selection-2026",
     "previousPath": "/express-entry-category-based-selection",
-    "path": "/blog/express-entry-category-based-selection",
-    "url": "https://commonwealthmigration.ca/blog/express-entry-category-based-selection",
+    "redirectPaths": ["/blog/express-entry-category-based-selection"],
+    "path": "/blog/express-entry/express-entry-category-based-selection",
+    "url": "https://commonwealthmigration.ca/blog/express-entry/express-entry-category-based-selection",
     "keyword": "Express Entry category-based selection"
   },
   {
@@ -103,8 +107,9 @@
     "outputFile": "blog__crs-score-canada.md",
     "legacyPath": "/blog/express-entry-crs-score-explained",
     "previousPath": "/crs-score-canada",
-    "path": "/blog/crs-score-canada",
-    "url": "https://commonwealthmigration.ca/blog/crs-score-canada",
+    "redirectPaths": ["/blog/crs-score-canada"],
+    "path": "/blog/express-entry/crs-score-canada",
+    "url": "https://commonwealthmigration.ca/blog/express-entry/crs-score-canada",
     "keyword": "CRS score Canada"
   },
   {
@@ -112,8 +117,9 @@
     "outputFile": "blog__express-entry-vs-pnp.md",
     "legacyPath": "/blog/express-entry-vs-pnp-which-is-right-for-you",
     "previousPath": "/express-entry-vs-pnp",
-    "path": "/blog/express-entry-vs-pnp",
-    "url": "https://commonwealthmigration.ca/blog/express-entry-vs-pnp",
+    "redirectPaths": ["/blog/express-entry-vs-pnp"],
+    "path": "/blog/express-entry/express-entry-vs-pnp",
+    "url": "https://commonwealthmigration.ca/blog/express-entry/express-entry-vs-pnp",
     "keyword": "Express Entry vs PNP"
   },
   {
@@ -121,8 +127,9 @@
     "outputFile": "blog__choose-brampton-immigration-consultant.md",
     "legacyPath": "/blog/how-to-choose-immigration-consultant-brampton-2026",
     "previousPath": "/choose-brampton-immigration-consultant",
-    "path": "/blog/choose-brampton-immigration-consultant",
-    "url": "https://commonwealthmigration.ca/blog/choose-brampton-immigration-consultant",
+    "redirectPaths": ["/blog/choose-brampton-immigration-consultant"],
+    "path": "/blog/immigration-guides/choose-brampton-immigration-consultant",
+    "url": "https://commonwealthmigration.ca/blog/immigration-guides/choose-brampton-immigration-consultant",
     "keyword": "Brampton immigration consultant"
   },
   {
@@ -130,8 +137,9 @@
     "outputFile": "blog__choose-immigration-consultant-canada.md",
     "legacyPath": "/blog/how-to-choose-immigration-consultant-canada-2026",
     "previousPath": "/choose-immigration-consultant-canada",
-    "path": "/blog/choose-immigration-consultant-canada",
-    "url": "https://commonwealthmigration.ca/blog/choose-immigration-consultant-canada",
+    "redirectPaths": ["/blog/choose-immigration-consultant-canada"],
+    "path": "/blog/immigration-guides/choose-immigration-consultant-canada",
+    "url": "https://commonwealthmigration.ca/blog/immigration-guides/choose-immigration-consultant-canada",
     "keyword": "immigration consultant Canada"
   },
   {
@@ -139,8 +147,9 @@
     "outputFile": "blog__immigration-refusal-canada.md",
     "legacyPath": "/blog/immigration-application-refused-what-to-do-next",
     "previousPath": "/immigration-refusal-canada",
-    "path": "/blog/immigration-refusal-canada",
-    "url": "https://commonwealthmigration.ca/blog/immigration-refusal-canada",
+    "redirectPaths": ["/blog/immigration-refusal-canada"],
+    "path": "/blog/refusals/immigration-refusal-canada",
+    "url": "https://commonwealthmigration.ca/blog/refusals/immigration-refusal-canada",
     "keyword": "immigration refusal Canada"
   },
   {
@@ -148,8 +157,9 @@
     "outputFile": "blog__international-student-to-canadian-pr.md",
     "legacyPath": "/blog/international-student-to-canadian-pr-guide",
     "previousPath": "/international-student-to-canadian-pr",
-    "path": "/blog/international-student-to-canadian-pr",
-    "url": "https://commonwealthmigration.ca/blog/international-student-to-canadian-pr",
+    "redirectPaths": ["/blog/international-student-to-canadian-pr"],
+    "path": "/blog/study-permits/international-student-to-canadian-pr",
+    "url": "https://commonwealthmigration.ca/blog/study-permits/international-student-to-canadian-pr",
     "keyword": "international student to Canadian PR"
   },
   {
@@ -157,8 +167,9 @@
     "outputFile": "blog__lmia-canada-explained.md",
     "legacyPath": "/blog/lmia-canada-explained-2026",
     "previousPath": "/lmia-canada-explained",
-    "path": "/blog/lmia-canada-explained",
-    "url": "https://commonwealthmigration.ca/blog/lmia-canada-explained",
+    "redirectPaths": ["/blog/lmia-canada-explained"],
+    "path": "/blog/employer-immigration/lmia-canada-explained",
+    "url": "https://commonwealthmigration.ca/blog/employer-immigration/lmia-canada-explained",
     "keyword": "LMIA Canada explained"
   },
   {
@@ -166,8 +177,9 @@
     "outputFile": "blog__ontario-pnp.md",
     "legacyPath": "/blog/ontario-pnp-oinp-guide-2026",
     "previousPath": "/ontario-pnp",
-    "path": "/blog/ontario-pnp",
-    "url": "https://commonwealthmigration.ca/blog/ontario-pnp",
+    "redirectPaths": ["/blog/ontario-pnp"],
+    "path": "/blog/provincial-nominee-programs/ontario-pnp",
+    "url": "https://commonwealthmigration.ca/blog/provincial-nominee-programs/ontario-pnp",
     "keyword": "Ontario PNP 2026"
   },
   {
@@ -175,8 +187,9 @@
     "outputFile": "blog__spousal-sponsorship-canada.md",
     "legacyPath": "/blog/spousal-sponsorship-canada-guide-2026",
     "previousPath": "/spousal-sponsorship-canada",
-    "path": "/blog/spousal-sponsorship-canada",
-    "url": "https://commonwealthmigration.ca/blog/spousal-sponsorship-canada",
+    "redirectPaths": ["/blog/spousal-sponsorship-canada"],
+    "path": "/blog/family-sponsorship/spousal-sponsorship-canada",
+    "url": "https://commonwealthmigration.ca/blog/family-sponsorship/spousal-sponsorship-canada",
     "keyword": "spousal sponsorship Canada"
   },
   {
@@ -184,8 +197,9 @@
     "outputFile": "blog__work-permit-to-pr-canada.md",
     "legacyPath": "/blog/work-permit-to-canadian-pr-pathways",
     "previousPath": "/work-permit-to-pr-canada",
-    "path": "/blog/work-permit-to-pr-canada",
-    "url": "https://commonwealthmigration.ca/blog/work-permit-to-pr-canada",
+    "redirectPaths": ["/blog/work-permit-to-pr-canada"],
+    "path": "/blog/work-permits/work-permit-to-pr-canada",
+    "url": "https://commonwealthmigration.ca/blog/work-permits/work-permit-to-pr-canada",
     "keyword": "work permit to PR Canada"
   },
   {

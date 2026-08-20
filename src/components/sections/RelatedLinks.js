@@ -6,7 +6,7 @@ import { currentPagePath } from "@/config/pageRoutes";
 
 /** Drop navigation/social/boilerplate anchors from the page link inventory. */
 const SKIP_ANCHOR =
-  /skip to main content|make payment|book book consultation|^home$|read (all|our) reviews|google|pulse|nexus|vault|client login|get your free crs estimate|continue to services|view guide|learn more/i;
+  /skip to main content|make payment|book book consultation|^home$|read (all|our) reviews|google|pulse|nexus|vault|get your free crs estimate|continue to services|view guide|learn more/i;
 
 export function cleanRelatedLinks(page, limit = 14) {
   const seen = new Set();
@@ -39,14 +39,14 @@ export function cleanRelatedLinks(page, limit = 14) {
 
 /**
  * Related-topics card. `compact` renders as a slim right-rail card
- * (used by PageRail); the full variant is a rich bordered panel.
+ * (used by the service-page content flow); the full variant is a rich bordered panel.
  */
 export default function RelatedLinks({ links, compact = false }) {
   if (!links || links.length === 0) return null;
 
   if (compact) {
     return (
-      <div className="card-red-edge overflow-hidden rounded-2xl border border-line bg-white shadow-card">
+      <div className="card-red-edge overflow-hidden rounded-2xl border border-line bg-[var(--cmg-light-surface)] shadow-card">
         <div className="relative border-b border-line bg-surface px-5 py-4">
           <p className="eyebrow text-accent-dark">Keep exploring</p>
           <h2 className="mt-1 text-[15px] font-bold text-navy">Related topics</h2>
@@ -71,7 +71,7 @@ export default function RelatedLinks({ links, compact = false }) {
   return (
     <section
       aria-label="Related topics"
-      className="card-red-edge mt-14 overflow-hidden rounded-2xl border border-line bg-white p-6 shadow-card sm:p-8"
+      className="card-red-edge mt-14 overflow-hidden rounded-2xl border border-line bg-[var(--cmg-light-surface)] p-6 shadow-card sm:p-8"
     >
       <div className="flex items-center gap-3">
         <span aria-hidden className="h-8 w-1 rounded-full bg-primary" />

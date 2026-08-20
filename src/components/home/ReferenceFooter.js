@@ -20,6 +20,33 @@ function TemplateLink({ children, path, ...props }) {
 
 const SOCIAL_KEYS = ["linkedin", "facebook", "instagram", "youtube"];
 
+const REGULATORY_BODIES = [
+  {
+    name: "IRCC",
+    full: "Immigration, Refugees and Citizenship Canada",
+    sub: "Federal Immigration Authority",
+    href: "https://www.canada.ca/en/immigration-refugees-citizenship.html",
+  },
+  {
+    name: "CICC",
+    full: "College of Immigration and Citizenship Consultants",
+    sub: "Regulator of RCIC Consultants",
+    href: "https://college-ic.ca/",
+  },
+  {
+    name: "ESDC",
+    full: "Employment and Social Development Canada",
+    sub: "LMIA & Labour Programs",
+    href: "https://www.canada.ca/en/employment-social-development/services/foreign-workers.html",
+  },
+  {
+    name: "CBSA",
+    full: "Canada Border Services Agency",
+    sub: "Border & Enforcement Authority",
+    href: "https://www.cbsa-asfc.gc.ca/",
+  },
+];
+
 export default function ReferenceFooter() {
   const socialLinks = SOCIAL_KEYS.filter((k) => site.social[k]);
   return (
@@ -115,33 +142,32 @@ export default function ReferenceFooter() {
               <span>{site.phone}</span>
               <ExternalLink size={11} className="reference-footer__link-arrow" aria-hidden />
             </a>
-            <a href={site.ctas.login.href} target="_blank" rel="noopener noreferrer" className="reference-footer__plain-link">
-              <span>Client login</span>
-              <ExternalLink size={11} className="reference-footer__link-arrow" aria-hidden />
-            </a>
           </nav>
-        </div>
 
-        <div className="reference-footer__trust">
-          <div className="reference-footer__trust-label">
-            <span className="reference-footer__trust-line" aria-hidden />
-            <span>Regulated &amp; Recognised</span>
-            <span className="reference-footer__trust-line" aria-hidden />
-          </div>
-          <div className="reference-footer__trust-badges">
-            <span>IRCC</span>
-            <span className="reference-footer__trust-dot" aria-hidden>
-              ·
-            </span>
-            <span>CICC</span>
-            <span className="reference-footer__trust-dot" aria-hidden>
-              ·
-            </span>
-            <span>ESDC</span>
-            <span className="reference-footer__trust-dot" aria-hidden>
-              ·
-            </span>
-            <span>CBSA</span>
+          <div className="reference-footer__trust">
+            <div className="reference-footer__trust-label">
+              <span className="reference-footer__trust-line" aria-hidden />
+              <span>Regulated &amp; Recognised By</span>
+              <span className="reference-footer__trust-line" aria-hidden />
+            </div>
+            <div className="reference-footer__trust-grid">
+              {REGULATORY_BODIES.map((body) => (
+                <a
+                  key={body.name}
+                  href={body.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="reference-footer__trust-card"
+                >
+                  <span className="reference-footer__trust-card-icon">
+                    <ExternalLink size={14} aria-hidden />
+                  </span>
+                  <span className="reference-footer__trust-card-name">{body.name}</span>
+                  <span className="reference-footer__trust-card-full">{body.full}</span>
+                  <span className="reference-footer__trust-card-sub">{body.sub}</span>
+                </a>
+              ))}
+            </div>
           </div>
         </div>
 

@@ -4,7 +4,6 @@ import { ExternalLink, GraduationCap, MapPin, Phone, Mail, ArrowUpRight, ShieldC
 import { socialIcons } from "@/components/ui/SocialIcons";
 import { navigation } from "@/config/navigation";
 import { site } from "@/config/site";
-import BigMapleLeaf from "@/components/sections/BigMapleLeaf";
 
 const SOCIAL_ITEMS = [
   { key: "linkedin", label: `${site.name} on LinkedIn` },
@@ -76,7 +75,6 @@ export default function Footer() {
         <div className="site-footer__orb site-footer__orb--a" />
         <div className="site-footer__orb site-footer__orb--b" />
       </div>
-      <BigMapleLeaf className="footer-big-maple-leaf" />
 
       <div className="site-footer__inner max-w-7xl mx-auto px-5 md:px-8">
         {/* Main grid */}
@@ -170,33 +168,33 @@ export default function Footer() {
             {linkColumns.map((col) => (
               <LinkColumn key={col.title} title={col.title} links={col.links} />
             ))}
-          </div>
-        </div>
 
-        {/* Regulatory trust bar */}
-        <div className="site-footer__trust">
-          <div className="site-footer__trust-header">
-            <span className="site-footer__trust-line" aria-hidden />
-            <p>Regulated &amp; Recognised By</p>
-            <span className="site-footer__trust-line" aria-hidden />
-          </div>
-          <div className="site-footer__trust-grid">
-            {REGULATORY_BODIES.map((body) => (
-              <a
-                key={body.name}
-                href={body.href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="site-footer__trust-card"
-              >
-                <span className="site-footer__trust-card-icon">
-                  <ExternalLink size={14} aria-hidden />
-                </span>
-                <span className="site-footer__trust-card-name">{body.name}</span>
-                <span className="site-footer__trust-card-full">{body.full}</span>
-                <span className="site-footer__trust-card-sub">{body.sub}</span>
-              </a>
-            ))}
+            {/* Regulatory trust bar — placed below link columns */}
+            <div className="site-footer__trust">
+              <div className="site-footer__trust-header">
+                <span className="site-footer__trust-line" aria-hidden />
+                <p>Regulated &amp; Recognised By</p>
+                <span className="site-footer__trust-line" aria-hidden />
+              </div>
+              <div className="site-footer__trust-grid">
+                {REGULATORY_BODIES.map((body) => (
+                  <a
+                    key={body.name}
+                    href={body.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="site-footer__trust-card"
+                  >
+                    <span className="site-footer__trust-card-icon">
+                      <ExternalLink size={14} aria-hidden />
+                    </span>
+                    <span className="site-footer__trust-card-name">{body.name}</span>
+                    <span className="site-footer__trust-card-full">{body.full}</span>
+                    <span className="site-footer__trust-card-sub">{body.sub}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
 

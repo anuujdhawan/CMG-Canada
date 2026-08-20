@@ -1,6 +1,6 @@
 # Express Entry category selection: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/express-entry-category-based-selection
+> **Source URL:** https://commonwealthmigration.ca/blog/express-entry/express-entry-category-based-selection
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Express Entry category selection | 2026 Canada Guide
 - **Meta description:** Category eligibility depends on defined work or language evidence and the round instructions. Read the current official source and prepare better questions.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/express-entry-category-based-selection
+- **Canonical URL:** https://commonwealthmigration.ca/blog/express-entry/express-entry-category-based-selection
 - **OG title:** Express Entry category selection | Commonwealth Migration Research
 - **OG description:** Category eligibility depends on defined work or language evidence and the round instructions. Read the current official source and prepare better questions.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/express-entry-category-based-selection#webpage",
-      "url": "https://commonwealthmigration.ca/blog/express-entry-category-based-selection",
+      "@id": "https://commonwealthmigration.ca/blog/express-entry/express-entry-category-based-selection#webpage",
+      "url": "https://commonwealthmigration.ca/blog/express-entry/express-entry-category-based-selection",
       "name": "Express Entry category selection | 2026 Canada Guide",
       "description": "Category eligibility depends on defined work or language evidence and the round instructions. Read the current official source and prepare better questions.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "Express Entry category-based selection",
-          "item": "https://commonwealthmigration.ca/blog/express-entry-category-based-selection"
+          "item": "https://commonwealthmigration.ca/blog/express-entry/express-entry-category-based-selection"
         }
       ]
     },

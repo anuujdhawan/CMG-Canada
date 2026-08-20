@@ -2,9 +2,10 @@ import routeMap from "../../pageData/route-map.json";
 
 const routeByLegacyPath = Object.fromEntries(
   routeMap.flatMap((route) => [
-    [route.legacyPath, route.path],
-    [route.previousPath, route.path],
-  ]).filter(([source]) => source)
+    route.legacyPath,
+    route.previousPath,
+    ...(Array.isArray(route.redirectPaths) ? route.redirectPaths : []),
+  ].filter(Boolean).map((source) => [source, route.path]))
 );
 
 // These interactive routes do not have a source Markdown page of their own.

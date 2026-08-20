@@ -1,6 +1,6 @@
 # Canada visitor visa refused: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/canada-visitor-visa-refused
+> **Source URL:** https://commonwealthmigration.ca/blog/visitor-visas/canada-visitor-visa-refused
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Canada visitor visa refused | 2026 Canada Guide
 - **Meta description:** Read the refusal as an evidence map, then build a purposeful reapplication. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/canada-visitor-visa-refused
+- **Canonical URL:** https://commonwealthmigration.ca/blog/visitor-visas/canada-visitor-visa-refused
 - **OG title:** Canada visitor visa refused | Commonwealth Migration Research
 - **OG description:** Read the refusal as an evidence map, then build a purposeful reapplication. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/canada-visitor-visa-refused#webpage",
-      "url": "https://commonwealthmigration.ca/blog/canada-visitor-visa-refused",
+      "@id": "https://commonwealthmigration.ca/blog/visitor-visas/canada-visitor-visa-refused#webpage",
+      "url": "https://commonwealthmigration.ca/blog/visitor-visas/canada-visitor-visa-refused",
       "name": "Canada visitor visa refused | 2026 Canada Guide",
       "description": "Read the refusal as an evidence map, then build a purposeful reapplication. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "Canada visitor visa refused",
-          "item": "https://commonwealthmigration.ca/blog/canada-visitor-visa-refused"
+          "item": "https://commonwealthmigration.ca/blog/visitor-visas/canada-visitor-visa-refused"
         }
       ]
     },

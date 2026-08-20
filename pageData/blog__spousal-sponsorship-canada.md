@@ -1,6 +1,6 @@
 # Spousal sponsorship in Canada: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/spousal-sponsorship-canada
+> **Source URL:** https://commonwealthmigration.ca/blog/family-sponsorship/spousal-sponsorship-canada
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Spousal sponsorship in Canada | 2026 Canada Guide
 - **Meta description:** Build a relationship record by chronology, quality and explanation. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/spousal-sponsorship-canada
+- **Canonical URL:** https://commonwealthmigration.ca/blog/family-sponsorship/spousal-sponsorship-canada
 - **OG title:** Spousal sponsorship in Canada | Commonwealth Migration Research
 - **OG description:** Build a relationship record by chronology, quality and explanation. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/spousal-sponsorship-canada#webpage",
-      "url": "https://commonwealthmigration.ca/blog/spousal-sponsorship-canada",
+      "@id": "https://commonwealthmigration.ca/blog/family-sponsorship/spousal-sponsorship-canada#webpage",
+      "url": "https://commonwealthmigration.ca/blog/family-sponsorship/spousal-sponsorship-canada",
       "name": "Spousal sponsorship in Canada | 2026 Canada Guide",
       "description": "Build a relationship record by chronology, quality and explanation. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "spousal sponsorship Canada",
-          "item": "https://commonwealthmigration.ca/blog/spousal-sponsorship-canada"
+          "item": "https://commonwealthmigration.ca/blog/family-sponsorship/spousal-sponsorship-canada"
         }
       ]
     },

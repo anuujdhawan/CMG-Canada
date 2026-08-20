@@ -1,6 +1,6 @@
 # Canada work permit types: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/canada-work-permit-types
+> **Source URL:** https://commonwealthmigration.ca/blog/work-permits/canada-work-permit-types
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Canada work permit types | 2026 Canada Guide
 - **Meta description:** Classify the job and worker before choosing LMIA, exemption, open or graduate options. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/canada-work-permit-types
+- **Canonical URL:** https://commonwealthmigration.ca/blog/work-permits/canada-work-permit-types
 - **OG title:** Canada work permit types | Commonwealth Migration Research
 - **OG description:** Classify the job and worker before choosing LMIA, exemption, open or graduate options. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -145,8 +145,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/canada-work-permit-types#webpage",
-      "url": "https://commonwealthmigration.ca/blog/canada-work-permit-types",
+      "@id": "https://commonwealthmigration.ca/blog/work-permits/canada-work-permit-types#webpage",
+      "url": "https://commonwealthmigration.ca/blog/work-permits/canada-work-permit-types",
       "name": "Canada work permit types | 2026 Canada Guide",
       "description": "Classify the job and worker before choosing LMIA, exemption, open or graduate options. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -174,7 +174,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "Canada work permit types",
-          "item": "https://commonwealthmigration.ca/blog/canada-work-permit-types"
+          "item": "https://commonwealthmigration.ca/blog/work-permits/canada-work-permit-types"
         }
       ]
     },

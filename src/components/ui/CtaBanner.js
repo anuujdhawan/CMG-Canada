@@ -60,7 +60,7 @@ export default function CtaBanner({ variant = "standard", title, description }) 
 
   return (
     <section aria-label="Call to action — start your Canadian immigration journey" className="bg-red-soft px-4 py-5 sm:px-6 sm:py-8">
-      <div ref={sectionRef} className="relative mx-auto w-full max-w-6xl overflow-hidden rounded-[1.75rem] border border-line bg-white py-12 shadow-premium sm:py-16">
+      <div ref={sectionRef} className="relative mx-auto w-full max-w-6xl overflow-hidden rounded-[1.75rem] border border-line bg-[var(--cmg-light-surface)] py-12 shadow-premium sm:py-16">
         {/* Grain overlay */}
         <div
           aria-hidden

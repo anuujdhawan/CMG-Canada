@@ -1,14 +1,4 @@
 const SPECIFIC_FAQS = {
-  "/login": [
-    {
-      question: "What can I do in the client portal?",
-      answer: "The client portal is designed for case updates, document uploads and messages with your consultant in one place.",
-    },
-    {
-      question: "How do I get client portal access?",
-      answer: "Email the team using the address on this page to request access. We will confirm your account details and guide you through the next step.",
-    },
-  ],
   "/tools/crs-calculator": [
     {
       question: "What does the CRS calculator estimate?",

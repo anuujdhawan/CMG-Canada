@@ -1,6 +1,6 @@
 # Choosing a Canadian immigration consultant: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/choose-immigration-consultant-canada
+> **Source URL:** https://commonwealthmigration.ca/blog/immigration-guides/choose-immigration-consultant-canada
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Choosing a Canadian immigration consultant | 2026 Canada Guide
 - **Meta description:** Use a licensing and scope checklist before retaining a representative. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/choose-immigration-consultant-canada
+- **Canonical URL:** https://commonwealthmigration.ca/blog/immigration-guides/choose-immigration-consultant-canada
 - **OG title:** Choosing a Canadian immigration consultant | Commonwealth Migration Research
 - **OG description:** Use a licensing and scope checklist before retaining a representative. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -144,8 +144,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/choose-immigration-consultant-canada#webpage",
-      "url": "https://commonwealthmigration.ca/blog/choose-immigration-consultant-canada",
+      "@id": "https://commonwealthmigration.ca/blog/immigration-guides/choose-immigration-consultant-canada#webpage",
+      "url": "https://commonwealthmigration.ca/blog/immigration-guides/choose-immigration-consultant-canada",
       "name": "Choosing a Canadian immigration consultant | 2026 Canada Guide",
       "description": "Use a licensing and scope checklist before retaining a representative. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -173,7 +173,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "immigration consultant Canada",
-          "item": "https://commonwealthmigration.ca/blog/choose-immigration-consultant-canada"
+          "item": "https://commonwealthmigration.ca/blog/immigration-guides/choose-immigration-consultant-canada"
         }
       ]
     },

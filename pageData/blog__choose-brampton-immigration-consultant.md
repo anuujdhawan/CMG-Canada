@@ -1,6 +1,6 @@
 # Choosing a Brampton immigration consultant: research the decision before the form
 
-> **Source URL:** https://commonwealthmigration.ca/blog/choose-brampton-immigration-consultant
+> **Source URL:** https://commonwealthmigration.ca/blog/immigration-guides/choose-brampton-immigration-consultant
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -10,7 +10,7 @@
 - **Title tag:** Choosing a Brampton immigration consultant | 2026 Canada Guide
 - **Meta description:** Verify the individual licence, service scope, fees and relevant experience. Read the current official source and prepare better questions before you file.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://commonwealthmigration.ca/blog/choose-brampton-immigration-consultant
+- **Canonical URL:** https://commonwealthmigration.ca/blog/immigration-guides/choose-brampton-immigration-consultant
 - **OG title:** Choosing a Brampton immigration consultant | Commonwealth Migration Research
 - **OG description:** Verify the individual licence, service scope, fees and relevant experience. Read the current official source and prepare better questions before you file.
 - **Robots:** index, follow
@@ -144,8 +144,8 @@ If you are ready to move from general research to a file-specific plan, [book a 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://commonwealthmigration.ca/blog/choose-brampton-immigration-consultant#webpage",
-      "url": "https://commonwealthmigration.ca/blog/choose-brampton-immigration-consultant",
+      "@id": "https://commonwealthmigration.ca/blog/immigration-guides/choose-brampton-immigration-consultant#webpage",
+      "url": "https://commonwealthmigration.ca/blog/immigration-guides/choose-brampton-immigration-consultant",
       "name": "Choosing a Brampton immigration consultant | 2026 Canada Guide",
       "description": "Verify the individual licence, service scope, fees and relevant experience. Read the current official source and prepare better questions before you file.",
       "inLanguage": "en-CA",
@@ -173,7 +173,7 @@ If you are ready to move from general research to a file-specific plan, [book a 
           "@type": "ListItem",
           "position": 2,
           "name": "Brampton immigration consultant",
-          "item": "https://commonwealthmigration.ca/blog/choose-brampton-immigration-consultant"
+          "item": "https://commonwealthmigration.ca/blog/immigration-guides/choose-brampton-immigration-consultant"
         }
       ]
     },
