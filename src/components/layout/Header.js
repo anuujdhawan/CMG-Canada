@@ -4,8 +4,8 @@ import { useCallback, useRef, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
-import { motion, AnimatePresence, useReducedMotion } from "framer-motion";
-import { Menu, ChevronDown, Mail, ShieldCheck, AlertTriangle, ArrowRight } from "lucide-react";
+import { motion, AnimatePresence } from "framer-motion";
+import { Menu, ChevronDown, Mail, AlertTriangle, ArrowRight } from "lucide-react";
 import { navigation } from "@/config/navigation";
 import { site } from "@/config/site";
 import { cn, slugify } from "@/lib/utils";
@@ -13,25 +13,22 @@ import { isActiveNavItem } from "@/lib/navActive";
 import { EASE_OUT, DURATION } from "@/lib/motion";
 import { useScrolled } from "@/hooks/useScrolled";
 import MobileMenu from "./MobileMenu";
+import ThemeToggle from "./ThemeToggle";
 
 /* ─── Logo lockup (CMG wordmark) ──────────────────────────────────── */
-function BrandLogo({ scrolled }) {
+function BrandLogo() {
   return (
     <Link href="/" className="flex items-center shrink-0" aria-label={`${site.name} — home`}>
-      <motion.div
-        animate={{ scale: scrolled ? 0.9 : 1 }}
-        transition={{ duration: DURATION.hover, ease: EASE_OUT }}
-        className="header-logo-shell flex items-center"
-      >
+      <div className="header-logo-shell flex items-center">
         <Image
-          src={site.logos.large}
+          src={site.logos.white}
           alt={site.name}
           width={1912}
           height={1140}
           priority
           className="h-9 w-auto object-contain sm:h-10"
         />
-      </motion.div>
+      </div>
     </Link>
   );
 }
@@ -172,7 +169,6 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
   const scrolled = useScrolled(20);
-  const shouldReduce = useReducedMotion() ?? false;
 
   const triggerRefs = useRef({});
   const timers = useRef({});
@@ -200,37 +196,29 @@ export default function Header() {
   );
 
   const navLinkClass =
-    "font-sans px-1.5 py-2.5 rounded-md text-[13px] font-semibold text-navy hover:text-primary hover:bg-primary/10 transition-all duration-150 whitespace-nowrap";
+    "font-sans px-1.5 py-2.5 rounded-md text-[13px] font-semibold text-white hover:text-white hover:bg-white/10 transition-all duration-150 whitespace-nowrap";
   const dropdownBtnClass =
-    "font-sans flex items-center gap-0.5 px-1.5 py-2.5 rounded-md text-[13px] font-semibold text-navy hover:text-primary hover:bg-primary/10 transition-all duration-150 whitespace-nowrap";
+    "font-sans flex items-center gap-0.5 px-1.5 py-2.5 rounded-md text-[13px] font-semibold text-white hover:text-white hover:bg-white/10 transition-all duration-150 whitespace-nowrap";
 
   return (
     <>
       <motion.header
-        className="fixed top-0 inset-x-0"
+        className="site-header fixed top-0 inset-x-0"
         style={{ zIndex: 200 }}
         transition={{ duration: DURATION.hover, ease: EASE_OUT }}
       >
         {/* Utility strip */}
-        <div className="bg-navy-dark text-white">
+        <div className="bg-[#05070b] text-white">
           <div className="mx-auto flex h-9 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
             <a
-              href={`mailto:${navigation.utility.email}`}
+              href={site.emailHref}
               className="flex items-center gap-1.5 text-[12px] font-medium text-white/80 hover:text-white transition-colors"
             >
               <Mail className="h-3.5 w-3.5" />
               {navigation.utility.email}
             </a>
             <div className="flex items-center gap-5">
-              <a
-                href={navigation.utility.login.href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-1.5 text-[12px] font-semibold text-white/80 hover:text-white transition-colors"
-              >
-                <ShieldCheck className="h-3.5 w-3.5" />
-                {navigation.utility.login.label}
-              </a>
+              <ThemeToggle />
             </div>
           </div>
         </div>
@@ -245,12 +233,8 @@ export default function Header() {
                 : "shadow-[0_4px_24px_color-mix(in_srgb,var(--brand-navy)_8%,transparent),0_1px_4px_color-mix(in_srgb,var(--brand-navy)_4%,transparent)]"
             )}
           >
-            <motion.div
-              className="flex items-center justify-between"
-              animate={shouldReduce ? {} : { height: scrolled ? "56px" : "62px" }}
-              transition={{ duration: DURATION.hover, ease: EASE_OUT }}
-            >
-              <BrandLogo scrolled={scrolled} />
+            <div className="flex items-center justify-between">
+              <BrandLogo />
 
               {/* Desktop Nav */}
               <nav className="site-header__desktop-nav hidden lg:flex items-center gap-0.5" aria-label="Main">
@@ -321,7 +305,7 @@ export default function Header() {
               >
                 <Menu className="h-6 w-6" />
               </button>
-            </motion.div>
+            </div>
           </div>
         </div>
       </motion.header>

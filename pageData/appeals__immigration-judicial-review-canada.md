@@ -1,7 +1,6 @@
 # Judicial review: a Federal Court pathway after an immigration decision
 
 > **Source URL:** https://commonwealthmigration.ca/appeals/immigration-judicial-review-canada
-> **Original Source URL:** https://visamastercanada.com/appeals/judicial-review
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

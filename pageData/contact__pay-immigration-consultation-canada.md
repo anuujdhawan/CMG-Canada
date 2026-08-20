@@ -1,7 +1,6 @@
 # Secure Payment for Immigration Services
 
 > **Source URL:** https://commonwealthmigration.ca/contact/pay-immigration-consultation-canada
-> **Original Source URL:** https://visamastercanada.com/pay
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.6
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

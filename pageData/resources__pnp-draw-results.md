@@ -1,7 +1,6 @@
 # PNP Draw Results 2026
 
 > **Source URL:** https://commonwealthmigration.ca/resources/pnp-draw-results
-> **Original Source URL:** https://visamastercanada.com/pnp-draws
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

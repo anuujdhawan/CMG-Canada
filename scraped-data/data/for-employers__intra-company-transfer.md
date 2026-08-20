@@ -1,6 +1,6 @@
 # Intra-Company Transfer (ICT) Canada 2026 | LMIA-Exempt Permit | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/for-employers/intra-company-transfer
+> **Source URL:** https://commonwealthmigration.ca/for-employers/intra-company-transfer
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Intra-Company Transfer (ICT) Canada 2026 | LMIA-Exempt Permit | Licensed RCIC
 - **Meta description:** Transfer executives, managers and specialized workers to Canada without an LMIA. ICT eligibility, documents, PR pathway covered. Licensed RCIC guidance.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/for-employers/intra-company-transfer
+- **Canonical URL:** https://commonwealthmigration.ca/for-employers/intra-company-transfer
 - **OG title:** Intra-Company Transfer Canada (ICT) 2026 | Executives & Specialized Knowledge | Licensed RCIC
 - **OG description:** LMIA-exempt transfer of key employees to Canada. Executives, senior managers, specialized knowledge workers. Corporate relationship and 1-year requirement explained.
 - **Robots:** index, follow
@@ -55,7 +55,7 @@
 - #### Identity and Status Documents
 - #### Evidence of 1-Year Qualifying Employment
 - #### Credentials and Qualifications
-- #### VMC Document Review
+- #### Commonwealth Migration Document Review
 - ### Ready to Transfer a Key Employee to Canada?
 - ## ICT to Permanent Residence - The Express Entry Route
 - #### Accumulate 12 Months of Skilled Work Experience in Canada
@@ -64,14 +64,14 @@
 - #### Receive ITA and Apply for PR
 - ### ICT vs. L-1 - Canadian vs. US Comparison
 - ### Spousal Work Rights Under ICT
-- ## Why ICT Applications Get Refused - and How VMC Avoids Them
+- ## Why ICT Applications Get Refused - and How Commonwealth Migration Avoids Them
 - ### Poorly written support letter
 - ### Not documenting the corporate relationship
 - ### Claiming specialized knowledge for roles that don't qualify
 - ### Not meeting the 1-year requirement
 - ### Canadian entity not yet operational
 - ### Mismatched job duties in Canada vs. abroad
-- ### How VMC Prevents ICT Refusals
+- ### How Commonwealth Migration Prevents ICT Refusals
 - ## Intra-Company Transfer FAQ
 - ## Related Services
 - ## Get Expert Advice From a Licensed RCIC
@@ -82,7 +82,7 @@
 
 # Intra-Company Transfer (ICT) Work Permits Canada 2026
 
-Transfer executives, senior managers, and specialized knowledge workers from your foreign operations to a Canadian entity - no LMIA, no advertising. VMC's licensed RCICs confirm eligibility, prepare the employer offer and documentation package, and support the work permit through to approval.
+Transfer executives, senior managers, and specialized knowledge workers from your foreign operations to a Canadian entity - no LMIA, no advertising. Commonwealth Migration's licensed RCICs confirm eligibility, prepare the employer offer and documentation package, and support the work permit through to approval.
 
 ICT quick links
 
@@ -93,7 +93,7 @@ ICT quick links
 - → All Employer Services
 Ready to transfer a key employee?
 
-VMC confirms corporate relationship, prepares the full ICT package, and supports the work permit application.
+Commonwealth Migration confirms corporate relationship, prepares the full ICT package, and supports the work permit application.
 
 ---
 
@@ -248,7 +248,7 @@ ICT work permit duration depends on whether the worker is an executive/senior ma
 | Up to 1 year (building phase) |
 | Extension possible once entity is established |
 | Applies to standard max above |
-| VMC advises on when entity is sufficiently established to support longer permits |
+| Commonwealth Migration advises on when entity is sufficiently established to support longer permits |
 
 ### The 1-Year Qualifying Requirement Before Transfer
 
@@ -307,13 +307,13 @@ An ICT work permit application requires comprehensive documentation from both th
 - Resume / CV confirming career history
 - Evidence of specialized knowledge acquisition (for SKW positions)
 
-#### VMC Document Review
+#### Commonwealth Migration Document Review
 
-VMC reviews every document in the ICT package against IRCC expectations before submission - support letter, corporate structure evidence, and qualifying employment proof. Weak documentation is the primary reason for ICT refusals.
+Commonwealth Migration reviews every document in the ICT package against IRCC expectations before submission - support letter, corporate structure evidence, and qualifying employment proof. Weak documentation is the primary reason for ICT refusals.
 
 ### Ready to Transfer a Key Employee to Canada?
 
-VMC confirms corporate relationship eligibility, prepares the full ICT package, and supports the work permit through to approval - with no LMIA and no advertising required.
+Commonwealth Migration confirms corporate relationship eligibility, prepares the full ICT package, and supports the work permit through to approval - with no LMIA and no advertising required.
 
 ## ICT to Permanent Residence - The Express Entry Route
 
@@ -329,11 +329,11 @@ Create an Express Entry profile. Your Comprehensive Ranking System (CRS) score i
 
 #### CRS Points from ICT Arranged Employment
 
-If your ICT offer qualifies as arranged employment under R205(a), you may be eligible for an additional 50 or 200 CRS points - significantly boosting your score. VMC confirms if your specific ICT offer triggers the arranged employment boost.
+If your ICT offer qualifies as arranged employment under R205(a), you may be eligible for an additional 50 or 200 CRS points - significantly boosting your score. Commonwealth Migration confirms if your specific ICT offer triggers the arranged employment boost.
 
 #### Receive ITA and Apply for PR
 
-When IRCC issues an Invitation to Apply in a draw, you have 60 days to submit a complete PR application. VMC prepares the full PR application including document compilation, form completion, and submission.
+When IRCC issues an Invitation to Apply in a draw, you have 60 days to submit a complete PR application. Commonwealth Migration prepares the full PR application including document compilation, form completion, and submission.
 
 ### ICT vs. L-1 - Canadian vs. US Comparison
 
@@ -366,9 +366,9 @@ For readers familiar with the US L-1 intra-company transferee category - here is
 
 ### Spousal Work Rights Under ICT
 
-Spouses and common-law partners of ICT workers in NOC TEER 0 or 1 occupations are eligible for a spousal open work permit - allowing them to work for any Canadian employer without a specific job offer. VMC handles both applications simultaneously to minimize processing delays.
+Spouses and common-law partners of ICT workers in NOC TEER 0 or 1 occupations are eligible for a spousal open work permit - allowing them to work for any Canadian employer without a specific job offer. Commonwealth Migration handles both applications simultaneously to minimize processing delays.
 
-## Why ICT Applications Get Refused - and How VMC Avoids Them
+## Why ICT Applications Get Refused - and How Commonwealth Migration Avoids Them
 
 ICT refusals are usually documentation problems, not eligibility problems. The most common issues are preventable with proper preparation.
 
@@ -396,9 +396,9 @@ A newly registered company with no employees, office space, or active business o
 
 The role in Canada should be in the same functional category (executive, manager, or specialized knowledge) as the role held abroad. Significant changes in responsibility or level raise flags.
 
-### How VMC Prevents ICT Refusals
+### How Commonwealth Migration Prevents ICT Refusals
 
-VMC reviews every ICT application with the same scrutiny an IRCC officer would apply. We identify corporate relationship gaps, challenge SKW claims that don't meet the legal test before submission, restructure support letters that are vague, and ensure the qualifying employment evidence is airtight. Our goal is to prevent a refusal rather than recover from one.
+Commonwealth Migration reviews every ICT application with the same scrutiny an IRCC officer would apply. We identify corporate relationship gaps, challenge SKW claims that don't meet the legal test before submission, restructure support letters that are vague, and ensure the qualifying employment evidence is airtight. Our goal is to prevent a refusal rather than recover from one.
 
 ## Intra-Company Transfer FAQ
 
@@ -414,7 +414,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -422,29 +422,29 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/for-employers/intra-company-transfer#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| For Employers | https://visamastercanada.com/for-employers |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| LMIA-Exempt Overview | https://visamastercanada.com/for-employers/lmia-exempt |
-| (647) 395-3471 | tel:+16473953471 |
-| → LMIA-Exempt for Employers | https://visamastercanada.com/for-employers/lmia-exempt |
-| → Global Talent Stream | https://visamastercanada.com/for-employers/global-talent-stream |
-| → Employer Compliance | https://visamastercanada.com/for-employers/employer-compliance |
-| → Express Entry (for workers) | https://visamastercanada.com/immigration/express-entry |
-| → All Employer Services | https://visamastercanada.com/for-employers |
-| Book ICT Consultation → | https://visamastercanada.com/free-assessment |
-| Book Free Consultation → | https://visamastercanada.com/free-assessment |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| LMIA-Exempt for Employers → | https://visamastercanada.com/for-employers/lmia-exempt |
-| Global Talent Stream → | https://visamastercanada.com/for-employers/global-talent-stream |
-| Employer Compliance → | https://visamastercanada.com/for-employers/employer-compliance |
-| Express Entry → | https://visamastercanada.com/immigration/express-entry |
-| LMIA-Exempt for Workers → | https://visamastercanada.com/immigration/lmia-exempt |
-| All Employer Services → | https://visamastercanada.com/for-employers |
-| Book Free Consultation → | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/for-employers/intra-company-transfer#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| For Employers | https://commonwealthmigration.ca/for-employers |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| LMIA-Exempt Overview | https://commonwealthmigration.ca/for-employers/lmia-exempt |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → LMIA-Exempt for Employers | https://commonwealthmigration.ca/for-employers/lmia-exempt |
+| → Global Talent Stream | https://commonwealthmigration.ca/for-employers/global-talent-stream |
+| → Employer Compliance | https://commonwealthmigration.ca/for-employers/employer-compliance |
+| → Express Entry (for workers) | https://commonwealthmigration.ca/immigration/express-entry |
+| → All Employer Services | https://commonwealthmigration.ca/for-employers |
+| Book ICT Consultation → | https://commonwealthmigration.ca/free-assessment |
+| Book Free Consultation → | https://commonwealthmigration.ca/free-assessment |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| LMIA-Exempt for Employers → | https://commonwealthmigration.ca/for-employers/lmia-exempt |
+| Global Talent Stream → | https://commonwealthmigration.ca/for-employers/global-talent-stream |
+| Employer Compliance → | https://commonwealthmigration.ca/for-employers/employer-compliance |
+| Express Entry → | https://commonwealthmigration.ca/immigration/express-entry |
+| LMIA-Exempt for Workers → | https://commonwealthmigration.ca/immigration/lmia-exempt |
+| All Employer Services → | https://commonwealthmigration.ca/for-employers |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -457,17 +457,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/for-employers/intra-company-transfer#service","name":"Intra-Company Transfer (ICT) Work Permit Services Canada","description":"LMIA-exempt intra-company transfer work permits for executives, senior managers, and specialized knowledge workers. Corporate relationship verification, document preparation, and compliance support.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://visamastercanada.com/for-employers"},{"@type":"ListItem","position":3,"name":"Intra-Company Transfer","item":"https://visamastercanada.com/for-employers/intra-company-transfer"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/for-employers/intra-company-transfer#service","name":"Intra-Company Transfer (ICT) Work Permit Services Canada","description":"LMIA-exempt intra-company transfer work permits for executives, senior managers, and specialized knowledge workers. Corporate relationship verification, document preparation, and compliance support.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://commonwealthmigration.ca/for-employers"},{"@type":"ListItem","position":3,"name":"Intra-Company Transfer","item":"https://commonwealthmigration.ca/for-employers/intra-company-transfer"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://visamastercanada.com/for-employers"},{"@type":"ListItem","position":3,"name":"Intra-Company Transfer"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://commonwealthmigration.ca/for-employers"},{"@type":"ListItem","position":3,"name":"Intra-Company Transfer"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the difference between a senior manager and a specialized knowledge worker under ICT?","acceptedAnswer":{"@type":"Answer","text":"A senior manager manages the entire organization or a major component - they supervise other managers or professionals and have authority over hiring, budgets, and key policy decisions. A specialized knowledge worker has advanced, proprietary knowledge of the employer's products, services, research, equipment, techniques, or management that is not readily available in the Canadian labour market. The specialized knowledge must be essential to the Canadian entity's operations and not achievable by training a Canadian employee within a reasonable time. The documentary requirements and initial permit duration differ: senior managers/executives get up to 3 years; specialized knowledge workers get up to 1 year initially."}},{"@type":"Question","name":"Can a startup use the Intra-Company Transfer stream?","acceptedAnswer":{"@type":"Answer","text":"Yes, but with important caveats. The Canadian entity must be a genuine, active business operation - not just a shell company or a new registered entity with no actual operations. IRCC will examine whether the Canadian entity can realistically support the transferred employee. If the Canadian entity is newly established, the worker may be restricted to a 1-year initial permit while the company is getting established. VMC advises startups on how to demonstrate the genuineness of the Canadian entity."}},{"@type":"Question","name":"How long can an ICT holder stay in Canada?","acceptedAnswer":{"@type":"Answer","text":"Initial work permits are typically up to 3 years for executives and senior managers, and up to 1 year for specialized knowledge workers. These can be extended. The maximum cumulative duration is 7 years for executives and senior managers, and 5 years for specialized knowledge workers - after which the worker must leave Canada for a period before becoming eligible for a new ICT permit."}},{"@type":"Question","name":"Does an ICT work permit give CRS points under Express Entry?","acceptedAnswer":{"@type":"Answer","text":"An ICT work permit under R205(a) can qualify for arranged employment CRS points (50 or 200 points) if the job offer meets all requirements: it must be for a NOC TEER 0, 1, 2, or 3 occupation, non-seasonal, at least 1 year in duration, and from an employer whose Offer of Employment was submitted through the IRCC portal under R205(a). The 50-point boost applies for most eligible NOC levels; 200 points applies for NOC TEER 0, 1 (management and senior positions). VMC advises on whether your ICT offer qualifies for the CRS boost."}},{"@type":"Question","name":"Can I extend my ICT work permit?","acceptedAnswer":{"@type":"Answer","text":"Yes. ICT work permits can be extended as long as the underlying ICT criteria continue to be met - the corporate relationship still exists, you continue in a qualifying role, and you have not exceeded the maximum cumulative duration (7 years for executives/managers, 5 years for specialized knowledge). Apply to extend before the current permit expires. VMC handles ICT extensions and advises on when the maximum duration is approaching."}},{"@type":"Question","name":"Can the spouse of an ICT holder work in Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes. Spouses and common-law partners of ICT holders who are employed in a NOC TEER 0 or 1 occupation are eligible for an open work permit under IRCC's spousal work permit provisions. This allows the spouse to work for any Canadian employer without being tied to a specific job offer. VMC handles both the ICT work permit and spousal OWP in the same file."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the difference between a senior manager and a specialized knowledge worker under ICT?","acceptedAnswer":{"@type":"Answer","text":"A senior manager manages the entire organization or a major component - they supervise other managers or professionals and have authority over hiring, budgets, and key policy decisions. A specialized knowledge worker has advanced, proprietary knowledge of the employer's products, services, research, equipment, techniques, or management that is not readily available in the Canadian labour market. The specialized knowledge must be essential to the Canadian entity's operations and not achievable by training a Canadian employee within a reasonable time. The documentary requirements and initial permit duration differ: senior managers/executives get up to 3 years; specialized knowledge workers get up to 1 year initially."}},{"@type":"Question","name":"Can a startup use the Intra-Company Transfer stream?","acceptedAnswer":{"@type":"Answer","text":"Yes, but with important caveats. The Canadian entity must be a genuine, active business operation - not just a shell company or a new registered entity with no actual operations. IRCC will examine whether the Canadian entity can realistically support the transferred employee. If the Canadian entity is newly established, the worker may be restricted to a 1-year initial permit while the company is getting established. Commonwealth Migration advises startups on how to demonstrate the genuineness of the Canadian entity."}},{"@type":"Question","name":"How long can an ICT holder stay in Canada?","acceptedAnswer":{"@type":"Answer","text":"Initial work permits are typically up to 3 years for executives and senior managers, and up to 1 year for specialized knowledge workers. These can be extended. The maximum cumulative duration is 7 years for executives and senior managers, and 5 years for specialized knowledge workers - after which the worker must leave Canada for a period before becoming eligible for a new ICT permit."}},{"@type":"Question","name":"Does an ICT work permit give CRS points under Express Entry?","acceptedAnswer":{"@type":"Answer","text":"An ICT work permit under R205(a) can qualify for arranged employment CRS points (50 or 200 points) if the job offer meets all requirements: it must be for a NOC TEER 0, 1, 2, or 3 occupation, non-seasonal, at least 1 year in duration, and from an employer whose Offer of Employment was submitted through the IRCC portal under R205(a). The 50-point boost applies for most eligible NOC levels; 200 points applies for NOC TEER 0, 1 (management and senior positions). Commonwealth Migration advises on whether your ICT offer qualifies for the CRS boost."}},{"@type":"Question","name":"Can I extend my ICT work permit?","acceptedAnswer":{"@type":"Answer","text":"Yes. ICT work permits can be extended as long as the underlying ICT criteria continue to be met - the corporate relationship still exists, you continue in a qualifying role, and you have not exceeded the maximum cumulative duration (7 years for executives/managers, 5 years for specialized knowledge). Apply to extend before the current permit expires. Commonwealth Migration handles ICT extensions and advises on when the maximum duration is approaching."}},{"@type":"Question","name":"Can the spouse of an ICT holder work in Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes. Spouses and common-law partners of ICT holders who are employed in a NOC TEER 0 or 1 occupation are eligible for an open work permit under IRCC's spousal work permit provisions. This allows the spouse to work for any Canadian employer without being tied to a specific job offer. Commonwealth Migration handles both the ICT work permit and spousal OWP in the same file."}}]}
 ```

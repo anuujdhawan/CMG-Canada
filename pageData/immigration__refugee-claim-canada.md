@@ -1,7 +1,6 @@
 # Refugee protection Canada: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/refugee-claim-canada
-> **Original Source URL:** https://visamastercanada.com/immigration/refugees
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,7 +1,6 @@
 # Canadian immigration pathways: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/canadian-immigration-pathways
-> **Original Source URL:** https://visamastercanada.com/immigration
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

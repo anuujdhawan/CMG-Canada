@@ -1,6 +1,6 @@
 # LMIA Work Permit 2026 | Work in Canada with Employer Sponsorship | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/lmia
+> **Source URL:** https://commonwealthmigration.ca/immigration/lmia
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** LMIA Work Permit 2026 | Work in Canada with Employer Sponsorship | Licensed RCIC
 - **Meta description:** A positive LMIA lets your employer hire you legally in Canada. Learn how LMIA works, find a legitimate employer, and build your PR pathway. Free assessment.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/lmia
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/lmia
 - **OG title:** LMIA Work Permit 2026 | Employer Sponsorship & Work Permit | Licensed RCIC
 - **OG description:** LMIA for workers: employer sponsorship, work permit types, finding legitimate employers, PR pathway. Licensed RCIC guidance.
 - **Robots:** index, follow
@@ -33,7 +33,7 @@
 - ### Agricultural LMIA
 - ### Caregiver LMIA
 - ### Global Talent Stream (GTS)
-- ### Have a Job Offer? VMC Verifies the LMIA First
+- ### Have a Job Offer? Commonwealth Migration Verifies the LMIA First
 - ## How to Find a Legitimate LMIA Employer
 - ### Job Bank Canada
 - ### LinkedIn Canada
@@ -62,7 +62,7 @@
 - ### LMIA for Wrong NOC Code
 - ### Job Conditions Don't Match LMIA
 - ### Expired LMIA
-- ### How VMC Protects Workers
+- ### How Commonwealth Migration Protects Workers
 - ## LMIA Work Permit FAQ - Worker Questions
 - ## Ready to Pursue Your LMIA Work Permit?
 - ## Related Services
@@ -74,7 +74,7 @@
 
 # LMIA Work Permit 2026 - How It Benefits You as a Worker
 
-A positive LMIA lets your Canadian employer hire you legally in Canada. VMC helps workers verify legitimate LMIA employers, apply for work permits, and build a clear PR pathway through Canadian work experience.
+A positive LMIA lets your Canadian employer hire you legally in Canada. Commonwealth Migration helps workers verify legitimate LMIA employers, apply for work permits, and build a clear PR pathway through Canadian work experience.
 
 LMIA at a glance
 
@@ -94,7 +94,7 @@ GTS processing
 
 CEC eligibility (TEER 0-3)
 
-VMC helps workers with
+Commonwealth Migration helps workers with
 
 - Verifying LMIA employer legitimacy
 - Work permit application after positive LMIA
@@ -103,7 +103,7 @@ VMC helps workers with
 - LMIA-exempt alternatives assessment
 Have a job offer?
 
-VMC verifies the LMIA and prepares your work permit application.
+Commonwealth Migration verifies the LMIA and prepares your work permit application.
 
 ---
 
@@ -125,7 +125,7 @@ Once your employer has a positive LMIA, they share the LMIA number with you. You
 
 Working in Canada on an LMIA work permit builds Canadian work experience - which earns CRS points through the skilled work experience factor and qualifies you for the Canadian Experience Class (CEC) pathway to permanent residence.
 
-Important distinction: The LMIA belongs to the employer. You cannot apply for an LMIA yourself. You need an employer willing to go through the process on your behalf. VMC helps you find and vet legitimate LMIA employers, and handles the work permit application once a positive LMIA is secured.
+Important distinction: The LMIA belongs to the employer. You cannot apply for an LMIA yourself. You need an employer willing to go through the process on your behalf. Commonwealth Migration helps you find and vet legitimate LMIA employers, and handles the work permit application once a positive LMIA is secured.
 
 ## How LMIA Leads to Permanent Residence
 
@@ -208,9 +208,9 @@ The fastest LMIA stream, targeting NOC TEER 0 and TEER 1 tech and highly skilled
 - Category A: referral required
 - Category B: in-demand occupations list
 
-### Have a Job Offer? VMC Verifies the LMIA First
+### Have a Job Offer? Commonwealth Migration Verifies the LMIA First
 
-Before you commit to any employer's LMIA job offer, VMC verifies the LMIA is legitimate with ESDC. This protects you from fraud and ensures your work permit application will succeed.
+Before you commit to any employer's LMIA job offer, Commonwealth Migration verifies the LMIA is legitimate with ESDC. This protects you from fraud and ensures your work permit application will succeed.
 
 ## How to Find a Legitimate LMIA Employer
 
@@ -234,9 +234,9 @@ Healthcare facilities (nurses, PSWs), construction firms (trades), agricultural 
 
 ### LMIA Job Offer Fraud - A Growing Problem
 
-Fraudsters advertise fake LMIA jobs on social media and WhatsApp, charging workers $5,000-$30,000 for a "positive LMIA." This is illegal - it is a criminal offence for workers to pay for an LMIA. Legitimate employers never ask workers to contribute to LMIA costs. VMC verifies the legitimacy of every LMIA employer before advising clients to proceed.
+Fraudsters advertise fake LMIA jobs on social media and WhatsApp, charging workers $5,000-$30,000 for a "positive LMIA." This is illegal - it is a criminal offence for workers to pay for an LMIA. Legitimate employers never ask workers to contribute to LMIA costs. Commonwealth Migration verifies the legitimacy of every LMIA employer before advising clients to proceed.
 
-If you are offered an LMIA job and asked to pay any amount - stop and contact VMC for a free verification check.
+If you are offered an LMIA job and asked to pay any amount - stop and contact Commonwealth Migration for a free verification check.
 
 ## What You Need from Your Employer
 
@@ -256,7 +256,7 @@ Written confirmation of the wage offered and number of hours per week.
 
 ### Company legitimacy documents
 
-Business registration, CRA number, operating evidence. VMC verifies these.
+Business registration, CRA number, operating evidence. Commonwealth Migration verifies these.
 
 ## How to Apply for a Work Permit with LMIA
 
@@ -284,9 +284,9 @@ Most applicants must provide biometrics at a Visa Application Centre (VAC) in th
 
 ### Receive Work Permit Decision
 
-Processing varies by stream and country. Expedited processing may be available for certain occupations. VMC tracks your file and responds to any IRCC requests.
+Processing varies by stream and country. Expedited processing may be available for certain occupations. Commonwealth Migration tracks your file and responds to any IRCC requests.
 
-Government fees: Work permit application CAD $155 · Biometrics $85/person (if first time or expired) · Open work permit holder fee $100 (if applicable) · Processing times vary by country and occupation - VMC provides current IRCC estimates at consultation.
+Government fees: Work permit application CAD $155 · Biometrics $85/person (if first time or expired) · Open work permit holder fee $100 (if applicable) · Processing times vary by country and occupation - Commonwealth Migration provides current IRCC estimates at consultation.
 
 ## LMIA and Express Entry - Timing and Strategy
 
@@ -333,7 +333,7 @@ Not every work permit requires an LMIA. Understanding which pathway applies to y
 
 ## Common LMIA Pitfalls for Workers
 
-These mistakes can cost you thousands of dollars, delay your immigration, or jeopardize your status in Canada. VMC helps you avoid every one of them.
+These mistakes can cost you thousands of dollars, delay your immigration, or jeopardize your status in Canada. Commonwealth Migration helps you avoid every one of them.
 
 ### LMIA Fraud - Paying for an LMIA
 
@@ -341,7 +341,7 @@ The most dangerous pitfall. Fraudsters charge workers $5,000-$30,000 for a "posi
 
 ### Employer Withdrawing LMIA After Arrival
 
-Some employers use the LMIA process to recruit workers, then reduce hours, change duties, or withdraw the offer. VMC reviews employment contracts before clients proceed and advises on legal protections.
+Some employers use the LMIA process to recruit workers, then reduce hours, change duties, or withdraw the offer. Commonwealth Migration reviews employment contracts before clients proceed and advises on legal protections.
 
 ### LMIA for Wrong NOC Code
 
@@ -355,9 +355,9 @@ Work permits are issued based on the LMIA conditions. If you perform different d
 
 A positive LMIA is valid for 18 months. If you do not apply for your work permit within that window, the LMIA expires and the employer must reapply. Track your timeline carefully.
 
-### How VMC Protects Workers
+### How Commonwealth Migration Protects Workers
 
-Before any VMC client proceeds with an LMIA job offer, VMC verifies the employer's business registration, confirms the LMIA number with ESDC, reviews the employment contract against LMIA conditions, and ensures the NOC code matches the worker's qualifications. This protects clients from fraud and application errors before they commit to any move.
+Before any Commonwealth Migration client proceeds with an LMIA job offer, Commonwealth Migration verifies the employer's business registration, confirms the LMIA number with ESDC, reviews the employment contract against LMIA conditions, and ensures the NOC code matches the worker's qualifications. This protects clients from fraud and application errors before they commit to any move.
 
 ## LMIA Work Permit FAQ - Worker Questions
 
@@ -373,13 +373,13 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Ready to Pursue Your LMIA Work Permit?
 
-VMC verifies LMIA legitimacy, handles your work permit application, and maps your Canadian experience into an Express Entry strategy - so every month you work moves you closer to permanent residence.
+Commonwealth Migration verifies LMIA legitimacy, handles your work permit application, and maps your Canadian experience into an Express Entry strategy - so every month you work moves you closer to permanent residence.
 
 ## Related Services
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -387,29 +387,29 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/lmia#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Work Permit | https://visamastercanada.com/immigration/work-permit |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| LMIA-Exempt Options | https://visamastercanada.com/immigration/lmia-exempt |
-| (647) 395-3471 | tel:+16473953471 |
-| Get a Free Assessment → | https://visamastercanada.com/free-assessment |
-| Call (647) 395-3471 | tel:+16473953471 |
+| Skip to main content | https://commonwealthmigration.ca/immigration/lmia#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Work Permit | https://commonwealthmigration.ca/immigration/work-permit |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| LMIA-Exempt Options | https://commonwealthmigration.ca/immigration/lmia-exempt |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Get a Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
 | jobbank.gc.ca | https://www.jobbank.gc.ca/ |
-| Explore LMIA-Exempt Options | https://visamastercanada.com/immigration/lmia-exempt |
-| Free Pathway Assessment | https://visamastercanada.com/free-assessment |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Work Permits | https://visamastercanada.com/immigration/work-permit |
-| LMIA-Exempt Work Permits | https://visamastercanada.com/immigration/lmia-exempt |
-| Express Entry | https://visamastercanada.com/immigration/express-entry |
-| LMIA for Employers | https://visamastercanada.com/for-employers/lmia |
-| Global Talent Stream | https://visamastercanada.com/for-employers/global-talent-stream |
-| LMIA Refusal Help | https://visamastercanada.com/for-employers/lmia-refusal |
-| Canadian Experience Class | https://visamastercanada.com/immigration/cec |
-| Book Free Consultation → | https://visamastercanada.com/book |
+| Explore LMIA-Exempt Options | https://commonwealthmigration.ca/immigration/lmia-exempt |
+| Free Pathway Assessment | https://commonwealthmigration.ca/free-assessment |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
+| LMIA-Exempt Work Permits | https://commonwealthmigration.ca/immigration/lmia-exempt |
+| Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| LMIA for Employers | https://commonwealthmigration.ca/for-employers/lmia |
+| Global Talent Stream | https://commonwealthmigration.ca/for-employers/global-talent-stream |
+| LMIA Refusal Help | https://commonwealthmigration.ca/for-employers/lmia-refusal |
+| Canadian Experience Class | https://commonwealthmigration.ca/immigration/cec |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -422,17 +422,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/lmia#service","name":"LMIA Work Permit Services for Workers","description":"Licensed RCIC guidance for LMIA-backed work permits, employer sponsorship, Canadian work experience pathways, Express Entry strategy, and work permit applications.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://visamastercanada.com/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"LMIA Work Permit","item":"https://visamastercanada.com/immigration/lmia"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/lmia#service","name":"LMIA Work Permit Services for Workers","description":"Licensed RCIC guidance for LMIA-backed work permits, employer sponsorship, Canadian work experience pathways, Express Entry strategy, and work permit applications.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://commonwealthmigration.ca/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"LMIA Work Permit","item":"https://commonwealthmigration.ca/immigration/lmia"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://visamastercanada.com/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"LMIA Work Permit"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://commonwealthmigration.ca/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"LMIA Work Permit"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does an LMIA cost the employer?","acceptedAnswer":{"@type":"Answer","text":"The government ESDC fee is CAD $1,000 per position for most LMIA streams. Agricultural positions are exempt from this fee. The employer pays this fee - it is illegal for workers to reimburse or pay their employer for an LMIA."}},{"@type":"Question","name":"Can I pay my employer to get an LMIA?","acceptedAnswer":{"@type":"Answer","text":"No. Paying an employer (or a third party) for an LMIA is a federal offence in Canada. It is also a common fraud scheme targeting immigrant workers. Victims often lose thousands of dollars and may be barred from future immigration. VMC verifies employer legitimacy before any client proceeds with an LMIA job offer."}},{"@type":"Question","name":"How long is a positive LMIA valid?","acceptedAnswer":{"@type":"Answer","text":"A positive LMIA is typically valid for 18 months from the date of issue. The worker must apply for their work permit within that window. After 18 months, the employer would need to reapply for a new LMIA."}},{"@type":"Question","name":"Can I change employers after getting a work permit with LMIA?","acceptedAnswer":{"@type":"Answer","text":"No - an LMIA-based work permit is employer-specific and location-specific. You are authorized to work only for the named employer at the named location. To change employers, your new employer must obtain a new LMIA and you must apply for a new work permit. Some exceptions apply through the Open Work Permit for Vulnerable Workers."}},{"@type":"Question","name":"Does a positive LMIA guarantee I get the work permit?","acceptedAnswer":{"@type":"Answer","text":"No. A positive LMIA is a necessary but not sufficient condition. IRCC still assesses your work permit application independently: your identity, admissibility (criminal, medical), qualifications matching the job, and intention to leave Canada at the end of your authorized stay. VMC prepares both the employer's LMIA and the worker's work permit to maximize success."}},{"@type":"Question","name":"What happens if my employer's LMIA is refused?","acceptedAnswer":{"@type":"Answer","text":"If the LMIA is refused, the employer cannot support your work permit under that stream. The employer may reapply with a stronger application addressing ESDC's stated concerns, or explore LMIA-exempt pathways. VMC assists employers with reapplications and helps workers understand their options, including LMIA-exempt work permit categories."}},{"@type":"Question","name":"Can I have two LMIA jobs at the same time?","acceptedAnswer":{"@type":"Answer","text":"Generally no. An LMIA work permit restricts you to one specific employer. However, if you obtain a second, separate work permit (e.g. an open work permit from a different stream), you may be able to work for multiple employers. This is complex and requires specific advice for your situation."}},{"@type":"Question","name":"Does an LMIA still add CRS points in Express Entry?","acceptedAnswer":{"@type":"Answer","text":"No - as of March 25, 2025, IRCC removed arranged employment (job offer) points from the Comprehensive Ranking System. An LMIA-backed work permit no longer directly adds +50 or +200 CRS points to your Express Entry profile. However, working in Canada on an LMIA work permit for 12 months in a TEER 0-3 occupation earns up to 80 CRS points through the Canadian skilled work experience factor - which is often the faster route to an ITA."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does an LMIA cost the employer?","acceptedAnswer":{"@type":"Answer","text":"The government ESDC fee is CAD $1,000 per position for most LMIA streams. Agricultural positions are exempt from this fee. The employer pays this fee - it is illegal for workers to reimburse or pay their employer for an LMIA."}},{"@type":"Question","name":"Can I pay my employer to get an LMIA?","acceptedAnswer":{"@type":"Answer","text":"No. Paying an employer (or a third party) for an LMIA is a federal offence in Canada. It is also a common fraud scheme targeting immigrant workers. Victims often lose thousands of dollars and may be barred from future immigration. Commonwealth Migration verifies employer legitimacy before any client proceeds with an LMIA job offer."}},{"@type":"Question","name":"How long is a positive LMIA valid?","acceptedAnswer":{"@type":"Answer","text":"A positive LMIA is typically valid for 18 months from the date of issue. The worker must apply for their work permit within that window. After 18 months, the employer would need to reapply for a new LMIA."}},{"@type":"Question","name":"Can I change employers after getting a work permit with LMIA?","acceptedAnswer":{"@type":"Answer","text":"No - an LMIA-based work permit is employer-specific and location-specific. You are authorized to work only for the named employer at the named location. To change employers, your new employer must obtain a new LMIA and you must apply for a new work permit. Some exceptions apply through the Open Work Permit for Vulnerable Workers."}},{"@type":"Question","name":"Does a positive LMIA guarantee I get the work permit?","acceptedAnswer":{"@type":"Answer","text":"No. A positive LMIA is a necessary but not sufficient condition. IRCC still assesses your work permit application independently: your identity, admissibility (criminal, medical), qualifications matching the job, and intention to leave Canada at the end of your authorized stay. Commonwealth Migration prepares both the employer's LMIA and the worker's work permit to maximize success."}},{"@type":"Question","name":"What happens if my employer's LMIA is refused?","acceptedAnswer":{"@type":"Answer","text":"If the LMIA is refused, the employer cannot support your work permit under that stream. The employer may reapply with a stronger application addressing ESDC's stated concerns, or explore LMIA-exempt pathways. Commonwealth Migration assists employers with reapplications and helps workers understand their options, including LMIA-exempt work permit categories."}},{"@type":"Question","name":"Can I have two LMIA jobs at the same time?","acceptedAnswer":{"@type":"Answer","text":"Generally no. An LMIA work permit restricts you to one specific employer. However, if you obtain a second, separate work permit (e.g. an open work permit from a different stream), you may be able to work for multiple employers. This is complex and requires specific advice for your situation."}},{"@type":"Question","name":"Does an LMIA still add CRS points in Express Entry?","acceptedAnswer":{"@type":"Answer","text":"No - as of March 25, 2025, IRCC removed arranged employment (job offer) points from the Comprehensive Ranking System. An LMIA-backed work permit no longer directly adds +50 or +200 CRS points to your Express Entry profile. However, working in Canada on an LMIA work permit for 12 months in a TEER 0-3 occupation earns up to 80 CRS points through the Canadian skilled work experience factor - which is often the faster route to an ITA."}}]}
 ```

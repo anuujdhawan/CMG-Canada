@@ -1,7 +1,6 @@
 # Work permit document checklist: organize evidence in the right order
 
 > **Source URL:** https://commonwealthmigration.ca/resources/document-checklist/work-permit-document-checklist-canada
-> **Original Source URL:** https://visamastercanada.com/resources/document-checklist/work-permit
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,6 +1,6 @@
 # PEI PNP 2026 | Prince Edward Island Nominee Program & AIP | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/pnp/pei
+> **Source URL:** https://commonwealthmigration.ca/immigration/pnp/pei
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** PEI PNP 2026 | Prince Edward Island Nominee Program & AIP | Licensed RCIC
 - **Meta description:** PEI PNP 2026 - Express Entry PEI, Skilled Worker, International Graduate and AIP. Smallest allocation - AIP is often the better employer path. Licensed RCIC.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/pnp/pei
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/pnp/pei
 - **OG title:** PEI PNP 2026 - Complete Guide | Prince Edward Island Nominee Program | Licensed RCIC
 - **OG description:** Canada's smallest PNP allocation. EOI pool, +600 CRS nomination, AIP option. All 5 streams explained by licensed RCIC consultants.
 - **Robots:** index, follow
@@ -51,13 +51,13 @@
 - ### Submitting Business Stream Application Without Completing the Exploratory Visit
 - ### Not Parallel-Tracking AIP When Your Employer Is Ready
 - ### Failing to Document PEI Connections That Increase Your EOI Score
-- ## Why PEI Immigration Clients Choose VMC
+- ## Why PEI Immigration Clients Choose Commonwealth Migration
 - ### Stream Matching and EOI Score Optimization
 - ### AIP vs PEIPNP Pathway Comparison
 - ### Full Application Preparation Within PEI&apos;s Strict Timelines
 - ### Licensed RCICs Accountable Under CICC
 - ### Serving PEI Clients Across the Island and Remotely
-- ## PEI PNP or AIP - VMC Will Find Your Fastest Route
+- ## PEI PNP or AIP - Commonwealth Migration Will Find Your Fastest Route
 - ## Related Immigration Pathways
 
 ---
@@ -68,7 +68,7 @@
 
 ---- PRINCE EDWARD ISLAND PROVINCIAL NOMINEE PROGRAM (PEIPNP)
 
-Canada's smallest province runs one of the most selective PNP systems in the country. With PEI's nomination allocation among the smallest nationally, every invitation is deliberately targeted by sector and candidate strength. Express Entry PEI adds +600 CRS. Labour Impact and Critical Worker streams require PEI employer support. AIP operates outside PEI's quota and is often the faster path for employer-ready cases. VMC provides PEI PNP and AIP guidance from licensed RCICs serving Charlottetown, Summerside, and all of PEI.
+Canada's smallest province runs one of the most selective PNP systems in the country. With PEI's nomination allocation among the smallest nationally, every invitation is deliberately targeted by sector and candidate strength. Express Entry PEI adds +600 CRS. Labour Impact and Critical Worker streams require PEI employer support. AIP operates outside PEI's quota and is often the faster path for employer-ready cases. Commonwealth Migration provides PEI PNP and AIP guidance from licensed RCICs serving Charlottetown, Summerside, and all of PEI.
 
 PEIPNP 2026
 
@@ -105,7 +105,7 @@ Compare AIP vs PEIPNP before committing to one path.
 
 Prince Edward Island receives the smallest provincial nomination allocation nationally. In 2026, PEI's quota is a small fraction of the 91,500 national PNP spaces available. That means PEIPNP invitations are rare, highly competitive, and tightly targeted by sector and candidate profile. Candidates with a PEI employer ready to support a nomination should evaluate the Atlantic Immigration Program (AIP) in parallel.
 
-AIP operates outside PEI's nomination quota entirely. If your employer qualifies for AIP designation and you meet program eligibility criteria, AIP can deliver an endorsement letter and federal PR pathway without waiting for PEIPNP's limited invitation rounds. VMC assesses PEIPNP and AIP eligibility side-by-side in every consultation for PEI employer cases — parallel-tracking both paths is often the fastest strategy.
+AIP operates outside PEI's nomination quota entirely. If your employer qualifies for AIP designation and you meet program eligibility criteria, AIP can deliver an endorsement letter and federal PR pathway without waiting for PEIPNP's limited invitation rounds. Commonwealth Migration assesses PEIPNP and AIP eligibility side-by-side in every consultation for PEI employer cases — parallel-tracking both paths is often the fastest strategy.
 
 ## Canada's Smallest Province, Most Selective Nomination System
 
@@ -187,7 +187,7 @@ Approved applicants sign a performance agreement, post a performance bond, and p
 
 Not sure which stream applies to your situation?
 
-VMC confirms your stream in a free initial consultation — reviewing your NOC, employer location, work permit type, language scores, and provincial connection before any EOI is submitted.
+Commonwealth Migration confirms your stream in a free initial consultation — reviewing your NOC, employer location, work permit type, language scores, and provincial connection before any EOI is submitted.
 
 ## How to Win the PEI EOI Pool
 
@@ -236,7 +236,7 @@ Key AIP facts (verify IRCC + provincial manuals)
 - Government processing fee currently $1,365 CAD to IRCC (2026 rate - verify fee schedule).
 - Typical timeline: roughly 6-12 months from complete submission to PR decision, file-dependent.
 
-VMC pairs employer designation paperwork with worker eligibility so endorsement and IRCC stages stay synchronized.
+Commonwealth Migration pairs employer designation paperwork with worker eligibility so endorsement and IRCC stages stay synchronized.
 
 ## How to Apply for PEIPNP - Timeline and Deadlines
 
@@ -276,7 +276,7 @@ Build your EOI profile with accurate information. Use your NOC based on your pri
 
 ### Receive ITA during a published draw round - note the 30-day window
 
-PEIPNP does not publish draw dates in advance. When you receive an ITA by email, you typically have 30 days to respond with a complete application. This window is not routinely extended. Candidates who have not prepared documents in advance frequently cannot meet this deadline. VMC prepares your complete document package before the EOI is submitted.
+PEIPNP does not publish draw dates in advance. When you receive an ITA by email, you typically have 30 days to respond with a complete application. This window is not routinely extended. Candidates who have not prepared documents in advance frequently cannot meet this deadline. Commonwealth Migration prepares your complete document package before the EOI is submitted.
 
 ### Gather all documents within the ITA window
 
@@ -292,7 +292,7 @@ Express Entry-linked nominees: update your federal profile with the provincial n
 
 ## Common PEIPNP Mistakes That Cause Refusals or Lost ITAs
 
-These are the errors VMC sees most frequently in PEI cases — all of them avoidable with proper preparation.
+These are the errors Commonwealth Migration sees most frequently in PEI cases — all of them avoidable with proper preparation.
 
 ### Submitting an EOI with Outdated Language Scores
 
@@ -316,33 +316,33 @@ Many employer-ready candidates wait months in the PEIPNP EOI pool when their emp
 
 ### Failing to Document PEI Connections That Increase Your EOI Score
 
-Candidates who have prior study, work, or family connections to PEI but do not document them in their EOI leave points on the table. Every documented PEI connection — prior work permit in PEI, transcripts from a PEI institution, a relative's PR card showing PEI address — can increase your ranking score in a pool where margins are often narrow. VMC audits every PEI connection before EOI submission.
+Candidates who have prior study, work, or family connections to PEI but do not document them in their EOI leave points on the table. Every documented PEI connection — prior work permit in PEI, transcripts from a PEI institution, a relative's PR card showing PEI address — can increase your ranking score in a pool where margins are often narrow. Commonwealth Migration audits every PEI connection before EOI submission.
 
-## Why PEI Immigration Clients Choose VMC
+## Why PEI Immigration Clients Choose Commonwealth Migration
 
-VMC brings licensed RCIC expertise, AIP-vs-PNP pathway modeling, and strict deadline management to every PEI case.
+Commonwealth Migration brings licensed RCIC expertise, AIP-vs-PNP pathway modeling, and strict deadline management to every PEI case.
 
 ### Stream Matching and EOI Score Optimization
 
-VMC confirms the correct PEIPNP stream for your NOC, employer type, and location before any EOI is submitted. Then VMC calculates your current EOI score and identifies every legal improvement available: language test upgrades, documentation of PEI connections, employer attestation quality, and NOC accuracy. Most clients improve their score by 5-15 points through preparation alone.
+Commonwealth Migration confirms the correct PEIPNP stream for your NOC, employer type, and location before any EOI is submitted. Then Commonwealth Migration calculates your current EOI score and identifies every legal improvement available: language test upgrades, documentation of PEI connections, employer attestation quality, and NOC accuracy. Most clients improve their score by 5-15 points through preparation alone.
 
 ### AIP vs PEIPNP Pathway Comparison
 
-VMC models both pathways side-by-side. If your employer is ready for AIP designation, VMC calculates whether AIP can deliver endorsement faster than waiting for a PEIPNP ITA. If your CRS is borderline, VMC evaluates whether the +600 CRS nomination or a direct AIP endorsement better serves your PR timeline. The answer is different for every client — generic advice misses it.
+Commonwealth Migration models both pathways side-by-side. If your employer is ready for AIP designation, Commonwealth Migration calculates whether AIP can deliver endorsement faster than waiting for a PEIPNP ITA. If your CRS is borderline, Commonwealth Migration evaluates whether the +600 CRS nomination or a direct AIP endorsement better serves your PR timeline. The answer is different for every client — generic advice misses it.
 
 ### Full Application Preparation Within PEI's Strict Timelines
 
-PEI's 30-day ITA response window is unforgiving. VMC prepares complete, submission-ready application packages before the EOI is filed. When the ITA arrives, the team verifies documents and submits within days — not scrambling at the deadline. This preparation includes employer attestation reviews, language test expiry tracking, ECA status verification, and fee payment coordination.
+PEI's 30-day ITA response window is unforgiving. Commonwealth Migration prepares complete, submission-ready application packages before the EOI is filed. When the ITA arrives, the team verifies documents and submits within days — not scrambling at the deadline. This preparation includes employer attestation reviews, language test expiry tracking, ECA status verification, and fee payment coordination.
 
 ### Licensed RCICs Accountable Under CICC
 
-Every PEIPNP and AIP engagement at VMC is handled by licensed Regulated Canadian Immigration Consultants (RCICs) registered with the [College of Immigration and Citizenship Consultants (CICC)](https://college-ic.ca/). VMC's principal RCIC, Sanjay Singh Kumar (R705959), has guided hundreds of Atlantic Canada cases. Unlicensed consultants and document preparers cannot legally provide immigration advice — use only a licensed RCIC or Canadian immigration lawyer.
+Every PEIPNP and AIP engagement at Commonwealth Migration is handled by licensed Regulated Canadian Immigration Consultants (RCICs) registered with the [College of Immigration and Citizenship Consultants (CICC)](https://college-ic.ca/). The licensed team provides Atlantic Canada guidance; verify current registration on the CICC public register. Unlicensed consultants and document preparers cannot legally provide immigration advice — use only a licensed RCIC or Canadian immigration lawyer.
 
 ### Serving PEI Clients Across the Island and Remotely
 
-VMC serves PEI immigration clients in Charlottetown, Summerside, Montague, Alberton, Souris, and the Evangeline francophone region. Remote consultations are available for candidates currently outside PEI who are planning to relocate. Employer consultations for PEI businesses seeking AIP designation can be arranged by phone, video, or in-person coordination.
+Commonwealth Migration serves PEI immigration clients in Charlottetown, Summerside, Montague, Alberton, Souris, and the Evangeline francophone region. Remote consultations are available for candidates currently outside PEI who are planning to relocate. Employer consultations for PEI businesses seeking AIP designation can be arranged by phone, video, or in-person coordination.
 
-PEI PNP or AIP - VMC Will Find Your Fastest Route
+PEI PNP or AIP - Commonwealth Migration Will Find Your Fastest Route
 
 With PEI's small allocation and 30-day ITA windows, preparation before the EOI is not optional. Start the conversation now.
 
@@ -352,9 +352,9 @@ With PEI's small allocation and 30-day ITA windows, preparation before the EOI i
 - How does the +600 CRS points nomination work?
 Still have questions? Our licensed RCICs answer within 24 hours.
 
-## PEI PNP or AIP - VMC Will Find Your Fastest Route
+## PEI PNP or AIP - Commonwealth Migration Will Find Your Fastest Route
 
-VMC's licensed RCICs confirm your stream, optimize your EOI score, model AIP against PEIPNP timelines, and prepare a complete application package so you are ready the moment an ITA arrives. Always cross-check [IRCC's provincial nominee page](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html) and the [PEI immigration website](https://www.princeedwardisland.ca/en/topic/immigrate-pei) for current rules.
+Commonwealth Migration's licensed RCICs confirm your stream, optimize your EOI score, model AIP against PEIPNP timelines, and prepare a complete application package so you are ready the moment an ITA arrives. Always cross-check [IRCC's provincial nominee page](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html) and the [PEI immigration website](https://www.princeedwardisland.ca/en/topic/immigrate-pei) for current rules.
 
 Serving PEI immigration clients in Charlottetown · Summerside · Montague · Alberton · Souris · Evangeline Region · and across Canada
 
@@ -366,30 +366,30 @@ Serving PEI immigration clients in Charlottetown · Summerside · Montague · Al
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/pnp/pei#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| PNP | https://visamastercanada.com/immigration/pnp |
-| Book PEI Assessment → | https://visamastercanada.com/free-assessment |
-| Check My Eligibility | https://visamastercanada.com/tools |
-| (647) 395-3471 | tel:+16473953471 |
-| → New Brunswick | https://visamastercanada.com/immigration/pnp/new-brunswick |
-| → Nova Scotia | https://visamastercanada.com/immigration/pnp/nova-scotia |
-| → PNP Hub | https://visamastercanada.com/immigration/pnp |
-| Free assessment → | https://visamastercanada.com/free-assessment |
-| Get My PEI Eligibility Confirmed → | https://visamastercanada.com/free-assessment |
-| Book Free PEI Assessment → | https://visamastercanada.com/free-assessment |
-| Book AIP Employer + Worker consult → | https://visamastercanada.com/book |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| View All PNP Programs | https://visamastercanada.com/immigration/pnp |
-| PNP Hub → All provincial nominee programs | https://visamastercanada.com/immigration/pnp |
-| New Brunswick PNP → NBPNP + AIP pathway | https://visamastercanada.com/immigration/pnp/new-brunswick |
-| Nova Scotia PNP → NSNP four-stream structure | https://visamastercanada.com/immigration/pnp/nova-scotia |
-| Express Entry → Federal skilled worker pathways | https://visamastercanada.com/immigration/express-entry |
-| Work Permit → Work in Canada while you apply | https://visamastercanada.com/immigration/work-permit |
-| Family Sponsorship → Sponsor a spouse or family member | https://visamastercanada.com/immigration/sponsorship/spousal |
+| Skip to main content | https://commonwealthmigration.ca/immigration/pnp/pei#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| PNP | https://commonwealthmigration.ca/immigration/pnp |
+| Book PEI Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Check My Eligibility | https://commonwealthmigration.ca/tools |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → New Brunswick | https://commonwealthmigration.ca/immigration/pnp/new-brunswick |
+| → Nova Scotia | https://commonwealthmigration.ca/immigration/pnp/nova-scotia |
+| → PNP Hub | https://commonwealthmigration.ca/immigration/pnp |
+| Free assessment → | https://commonwealthmigration.ca/free-assessment |
+| Get My PEI Eligibility Confirmed → | https://commonwealthmigration.ca/free-assessment |
+| Book Free PEI Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Book AIP Employer + Worker consult → | https://commonwealthmigration.ca/book |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| View All PNP Programs | https://commonwealthmigration.ca/immigration/pnp |
+| PNP Hub → All provincial nominee programs | https://commonwealthmigration.ca/immigration/pnp |
+| New Brunswick PNP → NBPNP + AIP pathway | https://commonwealthmigration.ca/immigration/pnp/new-brunswick |
+| Nova Scotia PNP → NSNP four-stream structure | https://commonwealthmigration.ca/immigration/pnp/nova-scotia |
+| Express Entry → Federal skilled worker pathways | https://commonwealthmigration.ca/immigration/express-entry |
+| Work Permit → Work in Canada while you apply | https://commonwealthmigration.ca/immigration/work-permit |
+| Family Sponsorship → Sponsor a spouse or family member | https://commonwealthmigration.ca/immigration/sponsorship/spousal |
 
 ---
 
@@ -402,13 +402,13 @@ Serving PEI immigration clients in Charlottetown · Summerside · Montague · Al
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Provincial Nominee Program","item":"https://visamastercanada.com/immigration/pnp"},{"@type":"ListItem","position":4,"name":"Prince Edward Island","item":"https://visamastercanada.com/immigration/pnp/pei"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the PEI Provincial Nominee Program?","acceptedAnswer":{"@type":"Answer","text":"The Prince Edward Island Provincial Nominee Program (PEIPNP) allows PEI to nominate skilled workers, graduates, and entrepreneurs for Canadian permanent residence. PEI receives one of the smallest PNP allocations nationally - invitations are highly targeted by sector and candidate profile strength."}},{"@type":"Question","name":"How does the +600 CRS nomination work?","acceptedAnswer":{"@type":"Answer","text":"Upon provincial nomination through the Express Entry PEI stream, IRCC adds 600 CRS points to your federal profile — in recent draws, well above every published cutoff (IRCC sets the cutoff each round). After receiving a federal ITA you have 60 days to file a complete PR application with IRCC."}},{"@type":"Question","name":"When is AIP better than PEIPNP?","acceptedAnswer":{"@type":"Answer","text":"AIP is often better when your employer is ready for designation and you cannot wait for PEI's limited invitation rounds. AIP operates outside PEI's nomination quota entirely. VMC model both pathways at assessment."}},{"@type":"Question","name":"What is the ITA response window?","acceptedAnswer":{"@type":"Answer","text":"PEI typically gives 30 days to respond to an ITA with a complete application. This window is not routinely extended - prepare all documents before submitting your EOI."}}]},{"@type":"Service","name":"Prince Edward Island PNP and AIP Immigration Services","serviceType":"Immigration Consulting","provider":{"@type":"LocalBusiness","name":"Licensed Regulated Canadian Immigration Consultants","address":"83 Kennedy Rd S Unit 16, Brampton, Ontario","telephone":"+16473953471"},"areaServed":"Prince Edward Island, Canada","description":"Licensed RCIC guidance for PEIPNP - Express Entry PEI, Labour Impact Skilled Worker, Critical Worker, International Graduate, Business Impact, and Atlantic Immigration Program (AIP) employer designation. Serving Charlottetown, Summerside, and across PEI."}]}
+{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Provincial Nominee Program","item":"https://commonwealthmigration.ca/immigration/pnp"},{"@type":"ListItem","position":4,"name":"Prince Edward Island","item":"https://commonwealthmigration.ca/immigration/pnp/pei"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the PEI Provincial Nominee Program?","acceptedAnswer":{"@type":"Answer","text":"The Prince Edward Island Provincial Nominee Program (PEIPNP) allows PEI to nominate skilled workers, graduates, and entrepreneurs for Canadian permanent residence. PEI receives one of the smallest PNP allocations nationally - invitations are highly targeted by sector and candidate profile strength."}},{"@type":"Question","name":"How does the +600 CRS nomination work?","acceptedAnswer":{"@type":"Answer","text":"Upon provincial nomination through the Express Entry PEI stream, IRCC adds 600 CRS points to your federal profile — in recent draws, well above every published cutoff (IRCC sets the cutoff each round). After receiving a federal ITA you have 60 days to file a complete PR application with IRCC."}},{"@type":"Question","name":"When is AIP better than PEIPNP?","acceptedAnswer":{"@type":"Answer","text":"AIP is often better when your employer is ready for designation and you cannot wait for PEI's limited invitation rounds. AIP operates outside PEI's nomination quota entirely. Commonwealth Migration model both pathways at assessment."}},{"@type":"Question","name":"What is the ITA response window?","acceptedAnswer":{"@type":"Answer","text":"PEI typically gives 30 days to respond to an ITA with a complete application. This window is not routinely extended - prepare all documents before submitting your EOI."}}]},{"@type":"Service","name":"Prince Edward Island PNP and AIP Immigration Services","serviceType":"Immigration Consulting","provider":{"@type":"LocalBusiness","name":"Licensed Regulated Canadian Immigration Consultants","address":"Canada-wide service by appointment, Brampton, Ontario"},"areaServed":"Prince Edward Island, Canada","description":"Licensed RCIC guidance for PEIPNP - Express Entry PEI, Labour Impact Skilled Worker, Critical Worker, International Graduate, Business Impact, and Atlantic Immigration Program (AIP) employer designation. Serving Charlottetown, Summerside, and across PEI."}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://visamastercanada.com/immigration/pnp"},{"@type":"ListItem","position":4,"name":"Prince Edward Island"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://commonwealthmigration.ca/immigration/pnp"},{"@type":"ListItem","position":4,"name":"Prince Edward Island"}]}
 ```

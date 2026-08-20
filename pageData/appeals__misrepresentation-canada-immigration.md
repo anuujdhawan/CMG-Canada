@@ -1,7 +1,6 @@
 # Misrepresentation to IRCC: answer the record before the ban starts
 
 > **Source URL:** https://commonwealthmigration.ca/appeals/misrepresentation-canada-immigration
-> **Original Source URL:** https://visamastercanada.com/appeals/misrepresentation
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,6 +1,6 @@
 # Work & Study in Canada | Work Permits & Study Permits | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/work-study
+> **Source URL:** https://commonwealthmigration.ca/work-study
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Work & Study in Canada | Work Permits & Study Permits | Licensed RCIC
 - **Meta description:** Work permits (LMIA, open, PGWP), study permits, visitor visas. Licensed RCIC in Brampton. Free consultation for work and study in Canada.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/work-study
+- **Canonical URL:** https://commonwealthmigration.ca/work-study
 - **OG title:** Work & Study in Canada | Licensed RCIC
 - **OG description:** Expert help with work permits, study permits, and visitor visas. Book a free consultation.
 - **Robots:** index, follow
@@ -121,7 +121,7 @@ Only for employer-specific permits under most streams. Open work permits — and
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh. Every VMC consultant is a Regulated Canadian Immigration Consultant (RCIC) in good standing with the College of Immigration and Citizenship Consultants (CICC).
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team. Every Commonwealth Migration consultant is a Regulated Canadian Immigration Consultant (RCIC) in good standing with the College of Immigration and Citizenship Consultants (CICC).
 
 ---
 
@@ -129,23 +129,23 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/work-study#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Book Free Consultation | https://visamastercanada.com/contact-us |
-| Work Permits LMIA-based, open work permits, employer-specific, and intra-company transfers. We guide you through eligibility and application strategy. LMIA work permits Open work permits Intra-company transfers BOWP & extensions Learn more → | https://visamastercanada.com/immigration/work-permit |
-| Study Permits Study at a designated learning institution (DLI). We assist with initial applications, extensions, DLI transfers, and co-op work permits. DLI applications Extensions Co-op work permits SDS & non-SDS Learn more → | https://visamastercanada.com/immigration/study-permit |
-| Post-Graduation Work Permit (PGWP) Gain Canadian work experience after studies - often up to 3 years - with no job offer required. Key pathway to Express Entry and PNP. Up to 3 years No job offer needed Pathway to PR Eligibility assessment Learn more → | https://visamastercanada.com/immigration/pgwp |
-| Visitor Visa Tourism, family visits, or business. Single and multiple-entry visitor visas, plus Super Visas for parents and grandparents. Tourist visa Super Visa Business visitor Multiple entry Learn more → | https://visamastercanada.com/immigration/visitor-visa |
-| Work Permits | https://visamastercanada.com/immigration/work-permit |
-| Study Permits | https://visamastercanada.com/immigration/study-permit |
-| PGWP | https://visamastercanada.com/immigration/pgwp |
-| Visitor Visa | https://visamastercanada.com/immigration/visitor-visa |
-| Express Entry (after work) | https://visamastercanada.com/immigration/express-entry |
-| CRS Calculator | https://visamastercanada.com/tools/crs-calculator |
-| Contact Us | https://visamastercanada.com/contact-us |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| (647) 395-3471 | tel:+16473953471 |
+| Skip to main content | https://commonwealthmigration.ca/work-study#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Book Free Consultation | https://commonwealthmigration.ca/contact-us |
+| Work Permits LMIA-based, open work permits, employer-specific, and intra-company transfers. We guide you through eligibility and application strategy. LMIA work permits Open work permits Intra-company transfers BOWP & extensions Learn more → | https://commonwealthmigration.ca/immigration/work-permit |
+| Study Permits Study at a designated learning institution (DLI). We assist with initial applications, extensions, DLI transfers, and co-op work permits. DLI applications Extensions Co-op work permits SDS & non-SDS Learn more → | https://commonwealthmigration.ca/immigration/study-permit |
+| Post-Graduation Work Permit (PGWP) Gain Canadian work experience after studies - often up to 3 years - with no job offer required. Key pathway to Express Entry and PNP. Up to 3 years No job offer needed Pathway to PR Eligibility assessment Learn more → | https://commonwealthmigration.ca/immigration/pgwp |
+| Visitor Visa Tourism, family visits, or business. Single and multiple-entry visitor visas, plus Super Visas for parents and grandparents. Tourist visa Super Visa Business visitor Multiple entry Learn more → | https://commonwealthmigration.ca/immigration/visitor-visa |
+| Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
+| Study Permits | https://commonwealthmigration.ca/immigration/study-permit |
+| PGWP | https://commonwealthmigration.ca/immigration/pgwp |
+| Visitor Visa | https://commonwealthmigration.ca/immigration/visitor-visa |
+| Express Entry (after work) | https://commonwealthmigration.ca/immigration/express-entry |
+| CRS Calculator | https://commonwealthmigration.ca/tools/crs-calculator |
+| Contact Us | https://commonwealthmigration.ca/contact-us |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
 
 ---
 
@@ -158,5 +158,5 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```

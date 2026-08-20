@@ -1,7 +1,6 @@
 # Employer immigration services Canada: build the file before the worker starts
 
 > **Source URL:** https://commonwealthmigration.ca/employers/employer-immigration-services-canada
-> **Original Source URL:** https://visamastercanada.com/for-employers
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

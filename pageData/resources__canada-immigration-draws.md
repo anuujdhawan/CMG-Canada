@@ -1,7 +1,6 @@
 # Canada Immigration Draws 2026
 
 > **Source URL:** https://commonwealthmigration.ca/resources/canada-immigration-draws
-> **Original Source URL:** https://visamastercanada.com/immigration-draws
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 1
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

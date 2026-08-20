@@ -1,7 +1,6 @@
 # Student to Canadian PR: research the decision before the form
 
 > **Source URL:** https://commonwealthmigration.ca/blog/international-student-to-canadian-pr
-> **Original Source URL:** https://visamastercanada.com/blog/international-student-to-canadian-pr-guide
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

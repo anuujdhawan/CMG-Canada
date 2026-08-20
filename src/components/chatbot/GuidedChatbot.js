@@ -1,15 +1,12 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Chatbot, createChatBotMessage, createClientMessage } from "react-chatbot-kit";
 import { ArrowRight, CalendarCheck, Check, ExternalLink, MessageCircle, RotateCcw, Search, X } from "lucide-react";
 import { site } from "@/config/site";
 import { currentPagePath } from "@/config/pageRoutes";
 
-const phoneDigits = site.phone.replace(/[^0-9]/g, "");
-const whatsappHref = `https://wa.me/${phoneDigits}?text=${encodeURIComponent(
-  "Hi, I would like help choosing a Canadian immigration pathway."
-)}`;
+const whatsappHref = site.whatsappUrl;
 
 const services = [
   { id: "pr", icon: "🍁", label: "Express Entry / PR", keywords: ["express", "entry", "permanent", "pr", "pnp", "nominee", "immigrate"] },
@@ -581,6 +578,12 @@ class MessageParser {
 
 export default function GuidedChatbot() {
   const [open, setOpen] = useState(false);
+
+  useEffect(() => {
+    const openFromFloatingAction = () => setOpen(true);
+    window.addEventListener("cmg:open-chatbot", openFromFloatingAction);
+    return () => window.removeEventListener("cmg:open-chatbot", openFromFloatingAction);
+  }, []);
 
   return (
     <div className={`cmg-chatbot-root ${open ? "cmg-chatbot-root--open" : ""}`}>

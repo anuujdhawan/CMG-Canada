@@ -1,7 +1,6 @@
 # Federal Skilled Worker Canada: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/federal-skilled-worker-program
-> **Original Source URL:** https://visamastercanada.com/immigration/fsw
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

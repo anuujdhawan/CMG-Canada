@@ -1,7 +1,6 @@
 # Canada Visa Refusal Help
 
 > **Source URL:** https://commonwealthmigration.ca/appeals/canada-visa-refusal-help
-> **Original Source URL:** https://visamastercanada.com/refusals
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

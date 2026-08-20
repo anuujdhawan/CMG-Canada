@@ -1,7 +1,6 @@
 # Immigrate to Canada from Sri Lanka: start with the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigrate-to-canada/from-sri-lanka
-> **Original Source URL:** https://visamastercanada.com/immigrate/sri-lanka
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

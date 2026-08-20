@@ -17,20 +17,20 @@ import { getPageFaqs } from "@/lib/faqs";
 import { cn } from "@/lib/utils";
 import PageHeroAside from "@/components/sections/PageHeroAside";
 import { currentPagePath } from "@/config/pageRoutes";
+import { getServiceHeroSlide, HERO_SLIDES, isServicePagePath } from "@/lib/heroSlides";
+import ReferenceHomepage from "@/components/home/ReferenceHomepage";
+import ReferenceServicePage from "@/components/home/ReferenceServicePage";
+import ContactForm from "@/components/forms/ContactForm";
 
 // Re-exported so existing callers (catch-all route, PageIndexGrid) keep
 // working — the implementation now lives in MarkdownBlocks / RelatedLinks.
 export { rebrand, localizeUrl, cleanRelatedLinks };
 
-/**
- * Scrub imported structured data: drop source-firm social profiles from
- * `sameAs` and substitute the configured Commonwealth social URLs, so JSON-LD
- * never points at the source firm's profiles.
- */
+/** Keep structured-data social links limited to the configured site profiles. */
 function cleanJsonLd(obj) {
   const clone = JSON.parse(JSON.stringify(obj));
   if (Array.isArray(clone.sameAs)) {
-    clone.sameAs = clone.sameAs.filter((u) => !/visamaster/i.test(u));
+    clone.sameAs = [];
     for (const url of Object.values(site.social)) {
       if (url && !clone.sameAs.includes(url)) clone.sameAs.push(url);
     }
@@ -171,6 +171,53 @@ function getHeroContent(page) {
    ════════════════════════════════════════════════════════════════════ */
 
 export default function ContentPage({ page, children }) {
+  if (page.path === "/") {
+    return (
+      <>
+        <ReferenceHomepage page={page} heroData={getHeroContent(page)} />
+        {page.jsonLd.map((obj, i) => (
+          <script
+            key={i}
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: rebrand(JSON.stringify(cleanJsonLd(obj))) }}
+          />
+        ))}
+      </>
+    );
+  }
+
+  if (page.path === "/contact/contact-immigration-consultant-brampton") {
+    return (
+      <>
+        <ReferenceServicePage page={page}>
+          <ContactForm />
+        </ReferenceServicePage>
+        {page.jsonLd.map((obj, i) => (
+          <script
+            key={i}
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: rebrand(JSON.stringify(cleanJsonLd(obj))) }}
+          />
+        ))}
+      </>
+    );
+  }
+
+  if (isServicePagePath(page.path)) {
+    return (
+      <>
+        <ReferenceServicePage page={page} />
+        {page.jsonLd.map((obj, i) => (
+          <script
+            key={i}
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: rebrand(JSON.stringify(cleanJsonLd(obj))) }}
+          />
+        ))}
+      </>
+    );
+  }
+
   const contentBlocks = parseBlocks(page.content);
   const hero = getHeroContent(page);
   const related = cleanRelatedLinks(page);
@@ -180,6 +227,9 @@ export default function ContentPage({ page, children }) {
   const hasHomeMidBand = page.path === "/";
   const faqItems = getPageFaqs(page);
   const pathwayVariant = page.path === "/" ? "home" : page.path.startsWith("/tools") ? "tools" : "page";
+  const servicePage = isServicePagePath(page.path);
+  const heroVariant = page.path === "/" ? "home" : servicePage ? "service" : "default";
+  const backgroundSlides = page.path === "/" ? HERO_SLIDES : servicePage ? [getServiceHeroSlide(page.path)] : undefined;
 
   const renderBlocks = [];
   let slotIdx = 0;
@@ -193,14 +243,15 @@ export default function ContentPage({ page, children }) {
   });
 
   return (
-    <>
+    <div className={cn("content-page-shell", page.path === "/" && "homepage-theme", servicePage && "service-page-theme")}>
       {/* Hero */}
       <HeroBanner
         eyebrow="Licensed Canadian immigration guidance"
         headline={hero.title}
         breadcrumbs={hero.breadcrumbs}
         leadContent={hero.leadBlock ? <Block block={hero.leadBlock} dark /> : null}
-        variant={page.path === "/" ? "home" : "default"}
+        variant={heroVariant}
+        backgroundSlides={backgroundSlides}
         ctaButtons={[
           { label: site.ctas.primary.label, href: site.ctas.primary.href, variant: "primary" },
           { label: "Free Assessment", href: site.ctas.assessment.href, variant: "dark" },
@@ -234,7 +285,7 @@ export default function ContentPage({ page, children }) {
           <div className="article-shell mx-auto max-w-7xl p-5 sm:p-8 lg:p-10 xl:p-12">
             <div className="relative z-10 lg:grid lg:grid-cols-[minmax(0,1.45fr)_minmax(285px,0.55fr)] lg:gap-10 xl:gap-12">
               {/* Main column */}
-              <div className="min-w-0 [&_strong]:font-semibold [&_strong]:text-primary">
+              <div className="service-article-content min-w-0 [&_strong]:font-semibold [&_strong]:text-primary">
                 <div>{renderBlocks}</div>
 
                 {/* Tools strip on pathway pages */}
@@ -273,6 +324,6 @@ export default function ContentPage({ page, children }) {
           dangerouslySetInnerHTML={{ __html: rebrand(JSON.stringify(cleanJsonLd(obj))) }}
         />
       ))}
-    </>
+    </div>
   );
 }

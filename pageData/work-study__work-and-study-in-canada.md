@@ -1,7 +1,6 @@
 # Work and Study in Canada
 
 > **Source URL:** https://commonwealthmigration.ca/work-study/work-and-study-in-canada
-> **Original Source URL:** https://visamastercanada.com/work-study
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,7 +1,6 @@
 # Privacy Policy | Commonwealth Migration Canada
 
 > **Source URL:** https://commonwealthmigration.ca/legal/privacy-policy
-> **Original Source URL:** https://visamastercanada.com/privacy
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.4
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

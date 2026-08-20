@@ -1,7 +1,6 @@
 # Newfoundland and Labrador PNP: build the provincial case around the live stream
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/provincial-nominee-program/newfoundland-and-labrador-pnp
-> **Original Source URL:** https://visamastercanada.com/immigration/pnp/newfoundland
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

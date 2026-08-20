@@ -1,6 +1,6 @@
 # Canada Transit Visa / Airport Transit Visa (ATV) 2026 | Connecting Flights | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/transit-visa
+> **Source URL:** https://commonwealthmigration.ca/immigration/transit-visa
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Canada Transit Visa / Airport Transit Visa (ATV) 2026 | Connecting Flights | Licensed RCIC
 - **Meta description:** Need a Canadian transit visa or Airport Transit Visa (ATV) for a connecting flight through Canada? Learn who needs one, who is exempt, and how to apply. Licensed RCIC guidance.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/transit-visa
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/transit-visa
 - **OG title:** Canada Transit Visa / ATV 2026 | Connecting Flights | Licensed RCIC
 - **OG description:** Airport Transit Visa for connecting through Canada - who needs one, who is exempt, how to apply, and direct airside transit rules. Licensed RCIC guidance.
 - **Robots:** index, follow
@@ -55,7 +55,7 @@
 
 # Canada Transit Visa / Airport Transit Visa (ATV) 2026
 
-Here is a travel trap that catches thousands of passengers every year: your connecting flight touches down in Toronto or Vancouver for two hours, you never even leave the terminal — and the airline refuses to board you at your origin because your nationality requires a Canadian transit visa. The rule is unforgiving, and the visa cannot be obtained at the airport. VMC confirms your requirements in minutes and prepares your transit visa application before you book.
+Here is a travel trap that catches thousands of passengers every year: your connecting flight touches down in Toronto or Vancouver for two hours, you never even leave the terminal — and the airline refuses to board you at your origin because your nationality requires a Canadian transit visa. The rule is unforgiving, and the visa cannot be obtained at the airport. Commonwealth Migration confirms your requirements in minutes and prepares your transit visa application before you book.
 
 Transit visa
 
@@ -83,7 +83,7 @@ Related programs
 - → Super Visa
 Not sure if you need a transit visa?
 
-VMC checks your nationality and route in minutes.
+Commonwealth Migration checks your nationality and route in minutes.
 
 ---
 
@@ -125,7 +125,7 @@ Strict eligibility - not available to all nationalities even with a US visa
 
 Citizens of the following countries typically require a Canadian TRV or ATV to transit through a Canadian airport. This list is based on IRCC policy and may change.
 
-This list is not exhaustive. Country requirements change periodically based on bilateral agreements and IRCC policy. Always verify your specific nationality and route with VMC or directly with IRCC before booking travel.
+This list is not exhaustive. Country requirements change periodically based on bilateral agreements and IRCC policy. Always verify your specific nationality and route with Commonwealth Migration or directly with IRCC before booking travel.
 
 ### Why some nationalities need a transit visa even for a short layover
 
@@ -168,7 +168,7 @@ TWOV requirements:
 - Valid US non-immigrant visa (or US Permanent Resident Card)
 - Traveling to or from the United States (direct connection only)
 - Transiting through a Canadian airport without leaving the international transit area
-- Not all nationalities qualify - check with VMC before booking
+- Not all nationalities qualify - check with Commonwealth Migration before booking
 
 ### Still require a Canadian visa despite having a US visa
 
@@ -181,11 +181,11 @@ Some nationalities require a Canadian visa even if they hold a valid US visa - t
 - Somalia
 - Yemen
 - Others as determined by IRCC policy
-Always verify with VMC before booking travel through Canada.
+Always verify with Commonwealth Migration before booking travel through Canada.
 
 ### Not Sure If You Need a Transit Visa?
 
-VMC's licensed RCICs confirm your requirements based on your nationality and travel route - preventing denied boarding or denied entry at the Canadian airport.
+Commonwealth Migration's licensed RCICs confirm your requirements based on your nationality and travel route - preventing denied boarding or denied entry at the Canadian airport.
 
 ## How to Apply for a Canadian Transit Visa
 
@@ -193,7 +193,7 @@ The application process is similar to a regular visitor visa. The key difference
 
 #### Confirm You Need a Transit Visa
 
-Verify whether your nationality requires a Canadian visa or ATV for your specific transit route. VMC checks this quickly based on your passport.
+Verify whether your nationality requires a Canadian visa or ATV for your specific transit route. Commonwealth Migration checks this quickly based on your passport.
 
 #### Gather Your Documents
 
@@ -248,7 +248,7 @@ Multiple entry TRV may be issued for frequent transiting travelers
 
 ### Connecting Through Canada? Get It Right Before You Fly.
 
-VMC's licensed RCICs confirm your transit visa requirements and prepare your application quickly - preventing denied boarding or denied entry at the Canadian airport.
+Commonwealth Migration's licensed RCICs confirm your transit visa requirements and prepare your application quickly - preventing denied boarding or denied entry at the Canadian airport.
 
 ## Transit Visa Frequently Asked Questions
 
@@ -261,7 +261,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -269,20 +269,20 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/transit-visa#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| View All Programs | https://visamastercanada.com/immigration |
-| (647) 395-3471 | tel:+16473953471 |
-| → Visitor Visa (TRV) | https://visamastercanada.com/immigration/visitor-visa |
-| → eTA | https://visamastercanada.com/immigration/eta |
-| → Business Visitor Visa | https://visamastercanada.com/immigration/business-visa |
-| → Super Visa | https://visamastercanada.com/immigration/super-visa |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Book Free Consultation | https://visamastercanada.com/contact |
+| Skip to main content | https://commonwealthmigration.ca/immigration/transit-visa#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| View All Programs | https://commonwealthmigration.ca/immigration |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Visitor Visa (TRV) | https://commonwealthmigration.ca/immigration/visitor-visa |
+| → eTA | https://commonwealthmigration.ca/immigration/eta |
+| → Business Visitor Visa | https://commonwealthmigration.ca/immigration/business-visa |
+| → Super Visa | https://commonwealthmigration.ca/immigration/super-visa |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
 
 ---
 
@@ -295,17 +295,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/transit-visa#service","name":"Canada Transit Visa Services","description":"Licensed RCIC guidance for Canada Airport Transit Visa (ATV), TWOV eligibility, and transit visa applications for travelers connecting through Canadian airports.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Visa Master Canada","url":"https://visamastercanada.com"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Transit Visa","item":"https://visamastercanada.com/immigration/transit-visa"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/transit-visa#service","name":"Canada Transit Visa Services","description":"Licensed RCIC guidance for Canada Airport Transit Visa (ATV), TWOV eligibility, and transit visa applications for travelers connecting through Canadian airports.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Transit Visa","item":"https://commonwealthmigration.ca/immigration/transit-visa"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Transit Visa"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Transit Visa"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"I have a connecting flight through Toronto - do I need a Canadian visa?","acceptedAnswer":{"@type":"Answer","text":"It depends on your nationality. If your country is on the visa-required list, you generally need a Temporary Resident Visa (TRV) even for a transit connection in Canada. Some nationalities may qualify for the Transit Without Visa program or a Direct Airside Transit exemption if they meet specific conditions. VMC confirms your exact requirements based on your passport and travel route."}},{"@type":"Question","name":"What is an Airport Transit Visa (ATV)?","acceptedAnswer":{"@type":"Answer","text":"An Airport Transit Visa is a special visa for travelers who are transiting through a Canadian airport without entering Canada. It is separate from a regular visitor visa (TRV). However, most travelers from visa-required countries simply apply for a regular TRV and use it for transit - a TRV covers both visiting and transiting Canada."}},{"@type":"Question","name":"What is the Transit Without Visa (TWOV) program?","acceptedAnswer":{"@type":"Answer","text":"The Transit Without Visa program allows nationals of certain countries to transit through Canadian airports without a Canadian visa, provided they meet specific conditions: holding a valid US visa (or being a US green card holder), connecting on a direct flight to or from the US, and not leaving the airport's international transit area. Not all nationalities are eligible - check with VMC before booking."}},{"@type":"Question","name":"I have a US visa - can I transit Canada without a Canadian visa?","acceptedAnswer":{"@type":"Answer","text":"Possibly, through the TWOV program - but only if you are transiting on a direct connection to or from the US, hold a valid US non-immigrant visa, and remain in the international transit area. US green card holders may also qualify. However, the TWOV rules are strict and depend on your nationality, so VMC recommends verifying your specific eligibility before booking."}},{"@type":"Question","name":"How do I apply for a transit visa to Canada?","acceptedAnswer":{"@type":"Answer","text":"You apply online through the IRCC secure account portal. Select the Temporary Resident Visa (visitor visa) application and indicate your purpose is transit. You will need your travel itinerary, onward flight details, any destination country visa (e.g. US visa if transiting to the US), and the usual supporting documents. Government fee is CAD $100. Processing times vary."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"I have a connecting flight through Toronto - do I need a Canadian visa?","acceptedAnswer":{"@type":"Answer","text":"It depends on your nationality. If your country is on the visa-required list, you generally need a Temporary Resident Visa (TRV) even for a transit connection in Canada. Some nationalities may qualify for the Transit Without Visa program or a Direct Airside Transit exemption if they meet specific conditions. Commonwealth Migration confirms your exact requirements based on your passport and travel route."}},{"@type":"Question","name":"What is an Airport Transit Visa (ATV)?","acceptedAnswer":{"@type":"Answer","text":"An Airport Transit Visa is a special visa for travelers who are transiting through a Canadian airport without entering Canada. It is separate from a regular visitor visa (TRV). However, most travelers from visa-required countries simply apply for a regular TRV and use it for transit - a TRV covers both visiting and transiting Canada."}},{"@type":"Question","name":"What is the Transit Without Visa (TWOV) program?","acceptedAnswer":{"@type":"Answer","text":"The Transit Without Visa program allows nationals of certain countries to transit through Canadian airports without a Canadian visa, provided they meet specific conditions: holding a valid US visa (or being a US green card holder), connecting on a direct flight to or from the US, and not leaving the airport's international transit area. Not all nationalities are eligible - check with Commonwealth Migration before booking."}},{"@type":"Question","name":"I have a US visa - can I transit Canada without a Canadian visa?","acceptedAnswer":{"@type":"Answer","text":"Possibly, through the TWOV program - but only if you are transiting on a direct connection to or from the US, hold a valid US non-immigrant visa, and remain in the international transit area. US green card holders may also qualify. However, the TWOV rules are strict and depend on your nationality, so Commonwealth Migration recommends verifying your specific eligibility before booking."}},{"@type":"Question","name":"How do I apply for a transit visa to Canada?","acceptedAnswer":{"@type":"Answer","text":"You apply online through the IRCC secure account portal. Select the Temporary Resident Visa (visitor visa) application and indicate your purpose is transit. You will need your travel itinerary, onward flight details, any destination country visa (e.g. US visa if transiting to the US), and the usual supporting documents. Government fee is CAD $100. Processing times vary."}}]}
 ```

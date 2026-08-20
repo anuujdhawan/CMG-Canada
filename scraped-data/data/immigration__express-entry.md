@@ -1,6 +1,6 @@
 # Canada Express Entry 2026 | FSW, CEC, FST & Category Draws | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/express-entry
+> **Source URL:** https://commonwealthmigration.ca/immigration/express-entry
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Canada Express Entry 2026 | FSW, CEC, FST & Category Draws | Licensed RCIC
 - **Meta description:** Expert Express Entry guidance from a licensed RCIC: FSW, CEC, FST, category-based draws, CRS optimization, PNP strategy. Free profile assessment. Serving GTA.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/express-entry
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/express-entry
 - **OG title:** Express Entry Canada 2026 | Licensed RCIC
 - **OG description:** Expert Express Entry guidance from licensed RCIC consultants. FSW, CEC, FST, category-based draws. CRS optimization and PNP strategy. GTA and Canada-wide.
 - **Robots:** index, follow
@@ -52,7 +52,7 @@
 - ### 8 Languages
 - ### Transparent Fixed Fees
 - ### Get Your Free CRS Assessment
-- ## Real Express Entry Results
+- ## Illustrative Express Entry planning perspectives
 - ## Start Your Express Entry Journey - Free
 
 ---
@@ -381,7 +381,7 @@ We assess PNP eligibility nationwide - not just Ontario.
 
 ### 8 Languages
 
-Consultations in English, Punjabi, Hindi, Urdu, Tamil, Telugu, Malayalam, and French.
+Consultations in Plain-language consultations with clear written next steps.
 
 ### Transparent Fixed Fees
 
@@ -393,32 +393,32 @@ Speak with a licensed RCIC - no obligation
 
 Typically responds within 1 business hour
 
----- Success Stories ----
+---- Illustrative planning perspectives ----
 
-## Real Express Entry Results
+## Illustrative Express Entry planning perspectives
 
-> "Sanjay optimized my CRS by 45 points through language strategy alone. ITA in 3 months, PR 8 months later."
-Priya D.
+> **Illustrative Express Entry scenario:** "A review helped me compare language improvement with other ways to strengthen my profile."
+Illustrative applicant
 
 Express Entry · FSW
 
 Toronto, ON
 
-> "I didn't know I qualified for CEC. VMC found my pathway, prepared everything, and I got PR in 7 months. Family is here now."
-Rajesh M.
+> **Illustrative Express Entry scenario:** "I learned which program questions to resolve before preparing the full application."
+Illustrative applicant
 
 Express Entry · CEC
 
 Brampton, ON
 
-> "CRS of 420 - too low for general draws. VMC found me a BC PNP nomination (+600 pts). ITA next draw."
-Maria S.
+> **Illustrative provincial scenario:** "The comparison made it easier to see why a provincial option might deserve research alongside federal programs."
+Illustrative applicant
 
 Express Entry · PNP-Linked
 
 Mississauga, ON
 
-Read all reviews on Google →
+Discuss your profile →
 
 - What is Express Entry and is it the right pathway for me? Express Entry is Canada's primary system for selecting skilled immigrants for permanent residence. It manages three federal programs: Federal Skilled Worker (FSW), Canadian Experience Class (CEC), and Federal Skilled Trades (FST). You create an online profile, receive a Comprehensive Ranking System (CRS) score, and wait for IRCC to issue an Invitation to Apply (ITA) in periodic draws. In 2026, IRCC has been holding draws roughly every week - issuing over 49,000 ITAs in just the first 11 weeks of the year. It is the fastest route to Canadian PR for most skilled workers. Whether it is right for you depends on your education, language scores, work experience, and whether you have Canadian connections. We offer a free assessment to identify your strongest pathway. IRCC's official Express Entry page is the best starting point for the formal rules.
 - What is the difference between FSW, CEC, and FST under Express Entry? Federal Skilled Worker (FSW) is for people outside Canada with at least 1 year of foreign skilled work experience in NOC TEER 0, 1, 2, or 3, a language score of CLB 7 or higher in all four abilities, and completed post-secondary education. It uses a 67-point selection grid before CRS scoring applies. Canadian Experience Class (CEC) is for people who already have at least 1 year of skilled work experience inside Canada in the past 3 years - no minimum education required. In 2026, CEC has been the most active draw category with CRS cutoffs around 507. Federal Skilled Trades (FST) is for tradespeople with 2 years of experience and either a valid job offer or a certificate of qualification in their trade. CEC candidates typically receive ITAs faster due to higher CRS scores from Canadian experience.
@@ -443,41 +443,41 @@ Related Services
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/express-entry#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration/express-entry |
-| Book Consultation → | https://visamastercanada.com/book |
-| Free CRS Calculator | https://visamastercanada.com/tools/crs-calculator |
-| (647) 395-3471 | tel:+16473953471 |
+| Skip to main content | https://commonwealthmigration.ca/immigration/express-entry#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration/express-entry |
+| Book Consultation → | https://commonwealthmigration.ca/book |
+| Free CRS Calculator | https://commonwealthmigration.ca/tools/crs-calculator |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
 | Open official draw results → | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html |
-| → Federal Skilled Worker | https://visamastercanada.com/immigration/fsw |
-| → Canadian Experience Class | https://visamastercanada.com/immigration/cec |
-| → Federal Skilled Trades | https://visamastercanada.com/immigration/express-entry#fst-section |
-| Federal Skilled Worker International work experience 1+ yr foreign skilled work (TEER 0-3) CLB 7 language score Min. 67 pts on FSW grid ECA for foreign education See requirements | https://visamastercanada.com/immigration/express-entry#fsw-section |
-| Canadian Experience Class Already working in Canada 1+ yr Canadian skilled work NOC TEER 0, 1, 2, or 3 CLB 7 (TEER 0/1) or CLB 5 (TEER 2/3) Most active stream 2025-2026 See requirements | https://visamastercanada.com/immigration/express-entry#cec-section |
-| Federal Skilled Trades Tradesperson seeking PR 2+ yrs trades experience Job offer OR certificate of qualification CLB 5 reading/writing, CLB 4 speaking/listening Eligible trade category See requirements | https://visamastercanada.com/immigration/express-entry#fst-section |
-| Free assessment - find your best pathway → | https://visamastercanada.com/contact-us |
-| Full FSW Requirements | https://visamastercanada.com/immigration/fsw |
-| Full CEC Requirements | https://visamastercanada.com/immigration/cec |
-| Check my category eligibility free | https://visamastercanada.com/contact-us |
-| View All 178 Draws | https://visamastercanada.com/draw-results |
-| Calculate My CRS Score Free | https://visamastercanada.com/tools/crs-calculator |
-| Explore PNP Options (+600 pts) | https://visamastercanada.com/immigration/pnp |
-| Not sure which program fits? Free profile assessment | https://visamastercanada.com/contact-us |
-| Calculate My CRS Score → | https://visamastercanada.com/tools/crs-calculator |
-| Read all reviews on Google → | https://g.page/r/CXllvLzKjhzkEAE/review |
-| Book Free Consultation | https://visamastercanada.com/book |
-| Book a Consultation → | https://visamastercanada.com/book |
-| 📞 (647) 395-3471 | tel:+16473953471 |
-| Federal Skilled Worker (FSW) → | https://visamastercanada.com/immigration/fsw |
-| Canadian Experience Class (CEC) → | https://visamastercanada.com/immigration/cec |
-| Provincial Nominees (PNP) → | https://visamastercanada.com/immigration/pnp |
-| CRS Calculator → | https://visamastercanada.com/tools/crs-calculator |
-| Express Entry Draw History → | https://visamastercanada.com/draw-results |
-| Work Permit → | https://visamastercanada.com/immigration/work-permit |
-| Refusals & PFL → | https://visamastercanada.com/refusals |
+| → Federal Skilled Worker | https://commonwealthmigration.ca/immigration/fsw |
+| → Canadian Experience Class | https://commonwealthmigration.ca/immigration/cec |
+| → Federal Skilled Trades | https://commonwealthmigration.ca/immigration/express-entry#fst-section |
+| Federal Skilled Worker International work experience 1+ yr foreign skilled work (TEER 0-3) CLB 7 language score Min. 67 pts on FSW grid ECA for foreign education See requirements | https://commonwealthmigration.ca/immigration/express-entry#fsw-section |
+| Canadian Experience Class Already working in Canada 1+ yr Canadian skilled work NOC TEER 0, 1, 2, or 3 CLB 7 (TEER 0/1) or CLB 5 (TEER 2/3) Most active stream 2025-2026 See requirements | https://commonwealthmigration.ca/immigration/express-entry#cec-section |
+| Federal Skilled Trades Tradesperson seeking PR 2+ yrs trades experience Job offer OR certificate of qualification CLB 5 reading/writing, CLB 4 speaking/listening Eligible trade category See requirements | https://commonwealthmigration.ca/immigration/express-entry#fst-section |
+| Free assessment - find your best pathway → | https://commonwealthmigration.ca/contact-us |
+| Full FSW Requirements | https://commonwealthmigration.ca/immigration/fsw |
+| Full CEC Requirements | https://commonwealthmigration.ca/immigration/cec |
+| Check my category eligibility free | https://commonwealthmigration.ca/contact-us |
+| View All 178 Draws | https://commonwealthmigration.ca/draw-results |
+| Calculate My CRS Score Free | https://commonwealthmigration.ca/tools/crs-calculator |
+| Explore PNP Options (+600 pts) | https://commonwealthmigration.ca/immigration/pnp |
+| Not sure which program fits? Free profile assessment | https://commonwealthmigration.ca/contact-us |
+| Calculate My CRS Score → | https://commonwealthmigration.ca/tools/crs-calculator |
+| Discuss your profile → | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Book Free Consultation | https://commonwealthmigration.ca/book |
+| Book a Consultation → | https://commonwealthmigration.ca/book |
+| 📞 contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Federal Skilled Worker (FSW) → | https://commonwealthmigration.ca/immigration/fsw |
+| Canadian Experience Class (CEC) → | https://commonwealthmigration.ca/immigration/cec |
+| Provincial Nominees (PNP) → | https://commonwealthmigration.ca/immigration/pnp |
+| CRS Calculator → | https://commonwealthmigration.ca/tools/crs-calculator |
+| Express Entry Draw History → | https://commonwealthmigration.ca/draw-results |
+| Work Permit → | https://commonwealthmigration.ca/immigration/work-permit |
+| Refusals & PFL → | https://commonwealthmigration.ca/refusals |
 
 ---
 
@@ -490,5 +490,5 @@ Related Services
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```

@@ -1,6 +1,6 @@
 # Caregiver Immigration Canada 2026 | Child Care & Home Support PR | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/caregiver
+> **Source URL:** https://commonwealthmigration.ca/immigration/caregiver
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Caregiver Immigration Canada 2026 | Child Care & Home Support PR | Licensed RCIC
 - **Meta description:** Immigrate to Canada as a caregiver: Home Child Care Provider NOC 44100 and Home Support Worker NOC 44101. Work permit, 24-month PR pathway. Licensed RCIC.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/caregiver
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/caregiver
 - **OG title:** Caregiver Immigration Canada 2026 | PR Pathway | Licensed RCIC
 - **OG description:** Canada caregiver pilots: Home Child Care Provider and Home Support Worker. Initial open work permit, 24-month path to PR. Licensed RCIC guidance.
 - **Robots:** index, follow
@@ -74,7 +74,7 @@
 
 # Caregiver Immigration Canada 2026 - Work Permit to Permanent Residence
 
-For nannies, home support workers, and the families who rely on them, Canada's caregiver pilots are one of the few programs that reward in-Canada work with a genuine path to permanent residence. Come to Canada on a work permit — an Initial Open Work Permit if you have experience, or an employer-specific permit with a job offer — work 24 months caring for children or supporting people at home, and apply for PR directly, no Express Entry points race required. VMC walks you through every step from the first eligibility check to landing as a permanent resident.
+For nannies, home support workers, and the families who rely on them, Canada's caregiver pilots are one of the few programs that reward in-Canada work with a genuine path to permanent residence. Come to Canada on a work permit — an Initial Open Work Permit if you have experience, or an employer-specific permit with a job offer — work 24 months caring for children or supporting people at home, and apply for PR directly, no Express Entry points race required. Commonwealth Migration walks you through every step from the first eligibility check to landing as a permanent resident.
 
 Caregiver program
 
@@ -103,7 +103,7 @@ Related programs
 - → LMIA
 Ready for your caregiver pathway?
 
-VMC confirms your eligibility and maps the full process.
+Commonwealth Migration confirms your eligibility and maps the full process.
 
 ---
 
@@ -127,7 +127,7 @@ This makes the caregiver pathway uniquely accessible for qualified workers who m
 - Strong employment demand across all provinces
 - Protected by Canadian labour law and employment standards
 - Provincially also has PNP caregiver streams as alternative
-Important: These are pilot programs. IRCC may update eligibility requirements, annual caps, or program structure. VMC stays current with all policy changes and advises you accordingly.
+Important: These are pilot programs. IRCC may update eligibility requirements, annual caps, or program structure. Commonwealth Migration stays current with all policy changes and advises you accordingly.
 
 ## Home Child Care Provider vs. Home Support Worker
 
@@ -224,14 +224,14 @@ If you don't qualify for the IOWP (less than 12 months prior experience), you ne
 
 - Job offer from a qualifying Canadian employer
 - Employer may need a positive LMIA
-- VMC assists employers through the LMIA process
+- Commonwealth Migration assists employers through the LMIA process
 - Work permit tied to that employer initially
 
 ### Application Steps
 
 #### Assess Your Eligibility
 
-Confirm your NOC, language test score, education credential, and work experience. VMC verifies all four requirements and identifies any gaps.
+Confirm your NOC, language test score, education credential, and work experience. Commonwealth Migration verifies all four requirements and identifies any gaps.
 
 #### Language Testing
 
@@ -243,7 +243,7 @@ If your education is from outside Canada, obtain an Educational Credential Asses
 
 #### Find an Employer (if no IOWP)
 
-If you don't qualify for the Initial OWP, you need a Canadian employer who will provide a job offer. The employer may need an LMIA. VMC advises employers on the process.
+If you don't qualify for the Initial OWP, you need a Canadian employer who will provide a job offer. The employer may need an LMIA. Commonwealth Migration advises employers on the process.
 
 #### Apply for Work Permit
 
@@ -255,7 +255,7 @@ After approval, you receive your work permit at the port of entry. Begin working
 
 ## How to Find a Caregiver Job in Canada
 
-Finding a qualifying employer is one of the most important steps in the caregiver pathway. VMC advises on how to find legitimate, compliant employers.
+Finding a qualifying employer is one of the most important steps in the caregiver pathway. Commonwealth Migration advises on how to find legitimate, compliant employers.
 
 ### Job Bank Canada
 
@@ -275,7 +275,7 @@ Both platforms list home child care and home support positions. Search for 'live
 
 ### Avoid fraudulent job offers
 
-Unfortunately, fraud targeting caregivers is common. Legitimate Canadian employers will never ask you to pay fees for a job offer, ask you to send money before you arrive, or promise guaranteed immigration in exchange for payment. If something seems too good to be true, contact VMC before proceeding. Our team can verify employer legitimacy.
+Unfortunately, fraud targeting caregivers is common. Legitimate Canadian employers will never ask you to pay fees for a job offer, ask you to send money before you arrive, or promise guaranteed immigration in exchange for payment. If something seems too good to be true, contact Commonwealth Migration before proceeding. Our team can verify employer legitimacy.
 
 ## The 24-Month Path to Permanent Residence
 
@@ -318,7 +318,7 @@ In addition to the federal pilots, several provinces have caregiver-specific PNP
 
 ### Start Your Caregiver PR Pathway Today
 
-VMC's licensed RCICs assess your eligibility, prepare your work permit, and guide your entire 24-month journey to permanent residence - including your family's applications.
+Commonwealth Migration's licensed RCICs assess your eligibility, prepare your work permit, and guide your entire 24-month journey to permanent residence - including your family's applications.
 
 ## Bringing Your Family to Canada
 
@@ -358,7 +358,7 @@ Submit your spouse's open work permit application at the same time as your own.
 
 ### Start Your Caregiver PR Pathway Today
 
-VMC's licensed RCICs assess your eligibility, prepare your work permit application, find compliant employers, and guide your entire 24-month journey to permanent residence.
+Commonwealth Migration's licensed RCICs assess your eligibility, prepare your work permit application, find compliant employers, and guide your entire 24-month journey to permanent residence.
 
 ## Caregiver Program Frequently Asked Questions
 
@@ -374,7 +374,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -382,22 +382,22 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/caregiver#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| View All Programs | https://visamastercanada.com/immigration |
-| (647) 395-3471 | tel:+16473953471 |
-| → Work Permits | https://visamastercanada.com/immigration/work-permit |
-| → Express Entry | https://visamastercanada.com/immigration/express-entry |
-| → PNP | https://visamastercanada.com/immigration/pnp |
-| → Family Sponsorship | https://visamastercanada.com/immigration/family-sponsorship |
-| → LMIA | https://visamastercanada.com/immigration/lmia |
-| Learn about PNP caregiver streams → | https://visamastercanada.com/immigration/pnp |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Book Free Consultation | https://visamastercanada.com/contact |
+| Skip to main content | https://commonwealthmigration.ca/immigration/caregiver#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| View All Programs | https://commonwealthmigration.ca/immigration |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
+| → Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| → PNP | https://commonwealthmigration.ca/immigration/pnp |
+| → Family Sponsorship | https://commonwealthmigration.ca/immigration/family-sponsorship |
+| → LMIA | https://commonwealthmigration.ca/immigration/lmia |
+| Learn about PNP caregiver streams → | https://commonwealthmigration.ca/immigration/pnp |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
 
 ---
 
@@ -410,17 +410,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/caregiver#service","name":"Caregiver Immigration Services","description":"Licensed RCIC guidance for Canada's caregiver pilot programs - Home Child Care Provider and Home Support Worker - including work permit and PR applications.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Visa Master Canada","url":"https://visamastercanada.com"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Caregiver","item":"https://visamastercanada.com/immigration/caregiver"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/caregiver#service","name":"Caregiver Immigration Services","description":"Licensed RCIC guidance for Canada's caregiver pilot programs - Home Child Care Provider and Home Support Worker - including work permit and PR applications.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Caregiver","item":"https://commonwealthmigration.ca/immigration/caregiver"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Caregiver Program"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Caregiver Program"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a job offer to apply for the caregiver program?","acceptedAnswer":{"@type":"Answer","text":"Under the current caregiver pilots, there is an Initial Open Work Permit (IOWP) option that allows experienced caregivers to come to Canada without a pre-arranged job offer and find an employer after arrival. To use the IOWP, you must have at least 12 months of eligible caregiver work experience in the past 3 years. If you don't meet the IOWP criteria, you will need a job offer from a Canadian employer, who may need to obtain an LMIA."}},{"@type":"Question","name":"What NOC code am I under?","acceptedAnswer":{"@type":"Answer","text":"Home Child Care Providers are under NOC 44100. Home Support Workers, Caregivers, and Related Occupations are under NOC 44101. The duties you perform must genuinely match the NOC description. Your job offer should clearly reflect those duties. VMC verifies your NOC classification before you apply."}},{"@type":"Question","name":"How long does it take to get PR as a caregiver?","acceptedAnswer":{"@type":"Answer","text":"You need 24 months (full-time equivalent) of qualifying Canadian work experience in the relevant NOC after arriving. The PR application is submitted after you accumulate that experience. IRCC processing times for the PR application vary - check IRCC's current processing time tool. In total, expect the work permit + experience + PR application to take 3-5 years from start to finish."}},{"@type":"Question","name":"Can my family come with me while I work as a caregiver?","acceptedAnswer":{"@type":"Answer","text":"Yes. Your spouse or common-law partner is eligible for an open work permit, and your dependent children are eligible for a study permit. This means your family can live and work (or study) in Canada while you complete your 24-month work experience period. VMC handles the family members' applications alongside your own."}},{"@type":"Question","name":"What language test do I need for the caregiver program?","acceptedAnswer":{"@type":"Answer","text":"You need a minimum of CLB 5 (Canadian Language Benchmark level 5) in English or French in all four abilities: reading, writing, listening, and speaking. Acceptable tests include IELTS General Training (minimum 5.0 in each skill) or CELPIP-General. The test must not be expired at the time of application."}},{"@type":"Question","name":"What if my employer mistreats me?","acceptedAnswer":{"@type":"Answer","text":"Canada has strong protections for caregiver workers. If you experience abuse, mistreatment, or non-compliance with your employment conditions, you can contact ESDC (Employment and Social Development Canada) or provincial labour standards authorities. In serious cases, VMC can help you apply for an emergency open work permit to leave your employer without losing your immigration status."}},{"@type":"Question","name":"What education do I need for the caregiver program?","acceptedAnswer":{"@type":"Answer","text":"You need at least a 1-year post-secondary certificate or diploma from a recognized institution, or a foreign credential that has been assessed as equivalent to Canadian 1-year post-secondary. If you have a 2-year or 4-year degree in a relevant field (such as nursing, early childhood education, or social work), this generally satisfies the education requirement."}},{"@type":"Question","name":"Are there provincial caregiver programs as well?","acceptedAnswer":{"@type":"Answer","text":"Yes. Several provinces have caregiver-specific streams through their Provincial Nominee Programs (PNP). For example, British Columbia and Ontario have streams for home support workers and home child care providers. PNP nomination adds 600 CRS points in Express Entry — in recent draws, well above every published cutoff (IRCC sets the cutoff each round). VMC assesses both federal and provincial caregiver pathways."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a job offer to apply for the caregiver program?","acceptedAnswer":{"@type":"Answer","text":"Under the current caregiver pilots, there is an Initial Open Work Permit (IOWP) option that allows experienced caregivers to come to Canada without a pre-arranged job offer and find an employer after arrival. To use the IOWP, you must have at least 12 months of eligible caregiver work experience in the past 3 years. If you don't meet the IOWP criteria, you will need a job offer from a Canadian employer, who may need to obtain an LMIA."}},{"@type":"Question","name":"What NOC code am I under?","acceptedAnswer":{"@type":"Answer","text":"Home Child Care Providers are under NOC 44100. Home Support Workers, Caregivers, and Related Occupations are under NOC 44101. The duties you perform must genuinely match the NOC description. Your job offer should clearly reflect those duties. Commonwealth Migration verifies your NOC classification before you apply."}},{"@type":"Question","name":"How long does it take to get PR as a caregiver?","acceptedAnswer":{"@type":"Answer","text":"You need 24 months (full-time equivalent) of qualifying Canadian work experience in the relevant NOC after arriving. The PR application is submitted after you accumulate that experience. IRCC processing times for the PR application vary - check IRCC's current processing time tool. In total, expect the work permit + experience + PR application to take 3-5 years from start to finish."}},{"@type":"Question","name":"Can my family come with me while I work as a caregiver?","acceptedAnswer":{"@type":"Answer","text":"Yes. Your spouse or common-law partner is eligible for an open work permit, and your dependent children are eligible for a study permit. This means your family can live and work (or study) in Canada while you complete your 24-month work experience period. Commonwealth Migration handles the family members' applications alongside your own."}},{"@type":"Question","name":"What language test do I need for the caregiver program?","acceptedAnswer":{"@type":"Answer","text":"You need a minimum of CLB 5 (Canadian Language Benchmark level 5) in English or French in all four abilities: reading, writing, listening, and speaking. Acceptable tests include IELTS General Training (minimum 5.0 in each skill) or CELPIP-General. The test must not be expired at the time of application."}},{"@type":"Question","name":"What if my employer mistreats me?","acceptedAnswer":{"@type":"Answer","text":"Canada has strong protections for caregiver workers. If you experience abuse, mistreatment, or non-compliance with your employment conditions, you can contact ESDC (Employment and Social Development Canada) or provincial labour standards authorities. In serious cases, Commonwealth Migration can help you apply for an emergency open work permit to leave your employer without losing your immigration status."}},{"@type":"Question","name":"What education do I need for the caregiver program?","acceptedAnswer":{"@type":"Answer","text":"You need at least a 1-year post-secondary certificate or diploma from a recognized institution, or a foreign credential that has been assessed as equivalent to Canadian 1-year post-secondary. If you have a 2-year or 4-year degree in a relevant field (such as nursing, early childhood education, or social work), this generally satisfies the education requirement."}},{"@type":"Question","name":"Are there provincial caregiver programs as well?","acceptedAnswer":{"@type":"Answer","text":"Yes. Several provinces have caregiver-specific streams through their Provincial Nominee Programs (PNP). For example, British Columbia and Ontario have streams for home support workers and home child care providers. PNP nomination adds 600 CRS points in Express Entry — in recent draws, well above every published cutoff (IRCC sets the cutoff each round). Commonwealth Migration assesses both federal and provincial caregiver pathways."}}]}
 ```

@@ -1,7 +1,6 @@
 # Terms of Service | Commonwealth Migration Canada
 
 > **Source URL:** https://commonwealthmigration.ca/legal/terms-of-service
-> **Original Source URL:** https://visamastercanada.com/terms
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.4
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

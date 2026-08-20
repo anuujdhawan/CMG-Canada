@@ -1,6 +1,6 @@
 # New Brunswick PNP 2026 - Complete Guide | NBPNP Community Letter | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/pnp/new-brunswick
+> **Source URL:** https://commonwealthmigration.ca/immigration/pnp/new-brunswick
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** New Brunswick PNP 2026 - Complete Guide | NBPNP Community Letter | Licensed RCIC
 - **Meta description:** New Brunswick PNP 2026 - Express Entry NB, Skilled Worker, Critical Worker, Entrepreneur and AIP stream. Community Interest Letter specialists. Licensed RCIC.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/pnp/new-brunswick
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/pnp/new-brunswick
 - **OG title:** New Brunswick PNP 2026 - Complete Guide | NBPNP + AIP | Licensed RCIC
 - **OG description:** Community Interest Letter built on documented evidence. NBPNP + AIP parallel strategy. French language advantage. Licensed RCIC consultants.
 - **Robots:** index, follow
@@ -29,7 +29,7 @@
 - ## The Document That Makes or Breaks Your NBPNP Application
 - ### What Officers Look For
 - ### What Gets Rejected
-- ### VMC Evidence Matrix - What Gets Built for Each Client
+- ### Commonwealth Migration Evidence Matrix - What Gets Built for Each Client
 - ## Five NBPNP Streams - Choosing the Right One
 - ### Express Entry New Brunswick
 - ### Skilled Worker with Employer Support
@@ -54,13 +54,13 @@
 - ### Applying Without a Verifiable NB Connection When NOI-Based
 - ### Failing to Update EOI After Material Changes
 - ### Not Parallel-Tracking AIP When Your Employer Is Ready
-- ## Why New Brunswick Immigration Clients Choose VMC
+- ## Why New Brunswick Immigration Clients Choose Commonwealth Migration
 - ### Community Interest Letter Drafting Specialists
 - ### French Advantage Identification and Strategy
 - ### AIP Employer Designation Management
 - ### NBPNP + AIP Parallel-Tracking
 - ### Serving NB Clients Across the Province and Remotely
-- ## New Brunswick PNP - VMC Builds the Evidence Package That Gets Approved
+- ## New Brunswick PNP - Commonwealth Migration Builds the Evidence Package That Gets Approved
 - ## Related Immigration Pathways
 
 ---
@@ -71,7 +71,7 @@
 
 ---- NEW BRUNSWICK PROVINCIAL NOMINEE PROGRAM (NBPNP)
 
-New Brunswick scrutinizes settlement intent more aggressively than almost any other province in Canada. The Community Interest Letter is not a box to tick — it is the heart of every NBPNP application, and generic letters are rejected on sight. The good news: NBPNP Express Entry, Skilled Worker with Employer Support, Critical Worker, and the Atlantic Immigration Program give you parallel ladders depending on your NOC, French language capacity, and employer designation status. VMC provides NBPNP and AIP guidance from licensed RCICs serving Fredericton, Moncton, Saint John, and all of New Brunswick.
+New Brunswick scrutinizes settlement intent more aggressively than almost any other province in Canada. The Community Interest Letter is not a box to tick — it is the heart of every NBPNP application, and generic letters are rejected on sight. The good news: NBPNP Express Entry, Skilled Worker with Employer Support, Critical Worker, and the Atlantic Immigration Program give you parallel ladders depending on your NOC, French language capacity, and employer designation status. Commonwealth Migration provides NBPNP and AIP guidance from licensed RCICs serving Fredericton, Moncton, Saint John, and all of New Brunswick.
 
 NBPNP 2026
 
@@ -108,7 +108,7 @@ Evidence-backed intent file - not a template.
 
 Officers in New Brunswick have reviewed thousands of Community Interest Letters, and they reject generic essays on sight. A letter that says "New Brunswick is a wonderful province with a high quality of life" provides no usable evidence of intent. NBPNP requires documented, verifiable proof that you have genuinely researched and committed to building a life in New Brunswick — not that you are willing to live there in exchange for permanent residence.
 
-VMC builds evidence packages for every NB client: employment history in NB, family connection diagrams with supporting documents, housing search records with dates, school research for children, documented exploratory visits, and community tie commitments. These packages are assembled around the officer's actual evaluation framework — never a template. The difference between an approved letter and a rejected one is almost always the quality of the supporting evidence, not the eloquence of the writing.
+Commonwealth Migration builds evidence packages for every NB client: employment history in NB, family connection diagrams with supporting documents, housing search records with dates, school research for children, documented exploratory visits, and community tie commitments. These packages are assembled around the officer's actual evaluation framework — never a template. The difference between an approved letter and a rejected one is almost always the quality of the supporting evidence, not the eloquence of the writing.
 
 ## Population Growth Through Evidence-Based Intent
 
@@ -132,7 +132,7 @@ New Brunswick has an above-average rate of immigration retention challenges — 
 
 ## The Document That Makes or Breaks Your NBPNP Application
 
-No other document in the NBPNP package receives as much officer attention as the Community Interest Letter. This section explains what officers look for, what gets rejected, and how VMC builds the evidence matrix that supports approval.
+No other document in the NBPNP package receives as much officer attention as the Community Interest Letter. This section explains what officers look for, what gets rejected, and how Commonwealth Migration builds the evidence matrix that supports approval.
 
 ### What Officers Look For
 
@@ -148,7 +148,7 @@ NBPNP officers evaluate Community Interest Letters against a mental checklist th
 
 ### What Gets Rejected
 
-Based on VMC's experience with NB officer feedback and refusal reasons, these are the letter types that consistently fail:
+Based on Commonwealth Migration's experience with NB officer feedback and refusal reasons, these are the letter types that consistently fail:
 
 - Generic quality-of-life essays: "New Brunswick has excellent healthcare, a safe environment, and a welcoming community" — this describes every province and proves nothing about NB-specific intent.
 - Unverified family claims: Mentioning relatives in NB without attaching their PR card, citizenship certificate, or proof of NB address.
@@ -157,7 +157,7 @@ Based on VMC's experience with NB officer feedback and refusal reasons, these ar
 - Employer letters not on letterhead: A plain text email from the employer does not carry the same weight as a formal letter on company letterhead with contact information and signature.
 - Template language matching known formats: Officers see patterns in letter language. Template-based letters are identifiable and trigger additional scrutiny of the rest of the package.
 
-### VMC Evidence Matrix - What Gets Built for Each Client
+### Commonwealth Migration Evidence Matrix - What Gets Built for Each Client
 
 Employer Track
 
@@ -188,7 +188,7 @@ Visit / Community Track
 - Employer meeting notes
 - Community organization correspondence
 
-VMC assembles whichever evidence tracks apply to your situation. Not every client has all four — but the more tracks you can substantiate, the stronger the letter.
+Commonwealth Migration assembles whichever evidence tracks apply to your situation. Not every client has all four — but the more tracks you can substantiate, the stronger the letter.
 
 ## Five NBPNP Streams - Choosing the Right One
 
@@ -231,7 +231,7 @@ Critical Worker draws are less frequent and more targeted. Seafood processing, f
 
 NB periodically opens targeted streams or pilots for specific occupational shortages, community needs, or sector priorities. French-speaking candidates are frequently favored in these pilots. Active pilots in 2025-2026 have included targeted technology occupations in Fredericton and Moncton, rural community healthcare workers, and Francophone Atlantic initiatives.
 
-These streams open and close without long advance notice. VMC monitors active NBPNP pilots and can confirm whether a current stream matches your profile before you begin preparing documentation.
+These streams open and close without long advance notice. Commonwealth Migration monitors active NBPNP pilots and can confirm whether a current stream matches your profile before you begin preparing documentation.
 
 - Criteria vary by pilot - confirm active streams
 - French language often advantaged
@@ -252,7 +252,7 @@ Provisional nominees must sign a performance agreement with NB confirming busine
 
 Confirm your stream before preparing any documents
 
-VMC reviews your NOC, employer NB registration, language scores, and provincial connection in a free consultation before recommending a stream. The wrong stream means the wrong Community Interest Letter strategy.
+Commonwealth Migration reviews your NOC, employer NB registration, language scores, and provincial connection in a free consultation before recommending a stream. The wrong stream means the wrong Community Interest Letter strategy.
 
 ## Bilingual Candidates Have a Significant Edge in New Brunswick
 
@@ -290,7 +290,7 @@ Key AIP facts (verify IRCC + provincial manuals)
 - Government processing fee currently $1,365 CAD to IRCC (2026 rate - verify fee schedule).
 - Typical timeline: roughly 6-12 months from complete submission to PR decision, file-dependent.
 
-VMC pairs employer designation paperwork with worker eligibility so endorsement and IRCC stages stay synchronized.
+Commonwealth Migration pairs employer designation paperwork with worker eligibility so endorsement and IRCC stages stay synchronized.
 
 ## How to Apply for NBPNP - From Stream Confirmation to PR
 
@@ -302,7 +302,7 @@ Verify your primary NOC and its TEER level. Confirm your NB employer is register
 
 ### Draft Community Interest Letter with full evidence package
 
-The letter and its supporting documents are prepared together — not sequentially. VMC maps each claim in the letter to a specific attached document: the employer claim to the job offer letter, the family claim to the relative's PR card and NB address proof, the housing claim to Realtor.ca screenshots with dates. Each section of the letter references specific attached evidence rather than making unsupported assertions.
+The letter and its supporting documents are prepared together — not sequentially. Commonwealth Migration maps each claim in the letter to a specific attached document: the employer claim to the job offer letter, the family claim to the relative's PR card and NB address proof, the housing claim to Realtor.ca screenshots with dates. Each section of the letter references specific attached evidence rather than making unsupported assertions.
 
 ### Gather employer authorization and compliance documentation
 
@@ -318,15 +318,15 @@ NBPNP officers may request additional information or clarification on any aspect
 
 ### Submit federal PR via Express Entry +600 or base PNP channel
 
-Express Entry-linked nominees: update your federal profile with the provincial nomination, receive the +600 CRS, accept the resulting federal ITA within 10 days, and submit a complete PR application within 60 days of the ITA. Base PNP nominees: file directly with IRCC through the paper-based or online PR application process. VMC coordinates both the provincial and federal stages to ensure no documentation gaps appear between the two steps.
+Express Entry-linked nominees: update your federal profile with the provincial nomination, receive the +600 CRS, accept the resulting federal ITA within 10 days, and submit a complete PR application within 60 days of the ITA. Base PNP nominees: file directly with IRCC through the paper-based or online PR application process. Commonwealth Migration coordinates both the provincial and federal stages to ensure no documentation gaps appear between the two steps.
 
 ## Common NBPNP Mistakes That Cause Refusals
 
-These errors appear in cases that come to VMC after an initial refusal or officer request. Every one of them was preventable.
+These errors appear in cases that come to Commonwealth Migration after an initial refusal or officer request. Every one of them was preventable.
 
 ### Submitting a Generic Community Interest Letter Without Supporting Evidence
 
-The single most common cause of NBPNP refusal. Officers are experienced at identifying letters that describe New Brunswick's attributes without proving the applicant's specific intent to establish there. A letter that is not attached to documented evidence — employer letters, housing searches, school research, travel records — is assessed as unverified intent. VMC builds the evidence package first and writes the letter around what can be proved.
+The single most common cause of NBPNP refusal. Officers are experienced at identifying letters that describe New Brunswick's attributes without proving the applicant's specific intent to establish there. A letter that is not attached to documented evidence — employer letters, housing searches, school research, travel records — is assessed as unverified intent. Commonwealth Migration builds the evidence package first and writes the letter around what can be proved.
 
 ### Not Confirming Employer's NAICS Code Compliance for AIP
 
@@ -346,33 +346,33 @@ If your language scores improve, your employer changes, your NOC changes, or you
 
 ### Not Parallel-Tracking AIP When Your Employer Is Ready
 
-NBPNP has its own nomination allocation which can fill earlier than expected in high-demand periods. Employer-ready candidates who wait for NBPNP to process while their employer qualifies for AIP designation are creating unnecessary single-path dependency. AIP bypasses NB's nomination quota entirely. VMC initiates AIP employer designation in parallel with NBPNP EOI preparation so clients have two active paths to PR simultaneously.
+NBPNP has its own nomination allocation which can fill earlier than expected in high-demand periods. Employer-ready candidates who wait for NBPNP to process while their employer qualifies for AIP designation are creating unnecessary single-path dependency. AIP bypasses NB's nomination quota entirely. Commonwealth Migration initiates AIP employer designation in parallel with NBPNP EOI preparation so clients have two active paths to PR simultaneously.
 
-## Why New Brunswick Immigration Clients Choose VMC
+## Why New Brunswick Immigration Clients Choose Commonwealth Migration
 
-The Community Interest Letter is not a writing exercise — it is an evidence management project. VMC's approach is to build the package around provable facts, not persuasive language.
+The Community Interest Letter is not a writing exercise — it is an evidence management project. Commonwealth Migration's approach is to build the package around provable facts, not persuasive language.
 
 ### Community Interest Letter Drafting Specialists
 
-VMC's NBPNP letter process begins with an evidence audit — identifying every NB connection the client has, gathering supporting documentation for each one, and then structuring the letter around the documented facts. Every section of the letter references an attached exhibit. Officers reading VMC letters find them significantly easier to assess favorably because the evidence framework eliminates guesswork about credibility.
+Commonwealth Migration's NBPNP letter process begins with an evidence audit — identifying every NB connection the client has, gathering supporting documentation for each one, and then structuring the letter around the documented facts. Every section of the letter references an attached exhibit. Officers reading Commonwealth Migration letters find them significantly easier to assess favorably because the evidence framework eliminates guesswork about credibility.
 
 ### French Advantage Identification and Strategy
 
-VMC identifies every client's French language profile at initial assessment. Bilingual candidates who have not taken a formal French test are advised to prioritize TEF or TCF before any application strategy is finalized. VMC then models the difference in outcomes between French-advantaged and English-only pathways in NB and federally — often revealing that a 4-hour language test is the highest-value investment in the entire immigration strategy.
+Commonwealth Migration identifies every client's French language profile at initial assessment. Bilingual candidates who have not taken a formal French test are advised to prioritize TEF or TCF before any application strategy is finalized. Commonwealth Migration then models the difference in outcomes between French-advantaged and English-only pathways in NB and federally — often revealing that a 4-hour language test is the highest-value investment in the entire immigration strategy.
 
 ### AIP Employer Designation Management
 
-VMC manages both the employer designation application and the worker eligibility confirmation for AIP cases simultaneously. Employer NAICS code compliance is confirmed before any designation paperwork is prepared. Worker eligibility criteria — including language, work experience, and occupation requirements — are verified against current AIP guidelines. The two tracks are synchronized so endorsement and federal PR filing can proceed without gaps.
+Commonwealth Migration manages both the employer designation application and the worker eligibility confirmation for AIP cases simultaneously. Employer NAICS code compliance is confirmed before any designation paperwork is prepared. Worker eligibility criteria — including language, work experience, and occupation requirements — are verified against current AIP guidelines. The two tracks are synchronized so endorsement and federal PR filing can proceed without gaps.
 
 ### NBPNP + AIP Parallel-Tracking
 
-For employer-ready candidates, VMC typically runs NBPNP EOI preparation and AIP employer designation simultaneously. Both tracks are maintained until one produces a result — at which point the other is deprioritized. This eliminates single-path dependency and typically reduces total wait time by 3-6 months compared to sequential pathway management.
+For employer-ready candidates, Commonwealth Migration typically runs NBPNP EOI preparation and AIP employer designation simultaneously. Both tracks are maintained until one produces a result — at which point the other is deprioritized. This eliminates single-path dependency and typically reduces total wait time by 3-6 months compared to sequential pathway management.
 
 ### Serving NB Clients Across the Province and Remotely
 
-VMC serves New Brunswick immigration clients in Fredericton, Moncton, Saint John, Bathurst, Miramichi, Campbellton, and rural communities across the province. Remote consultations are available for candidates outside NB who are planning to relocate. Francophone NB clients are served with bilingual consultation capacity.
+Commonwealth Migration serves New Brunswick immigration clients in Fredericton, Moncton, Saint John, Bathurst, Miramichi, Campbellton, and rural communities across the province. Remote consultations are available for candidates outside NB who are planning to relocate. Francophone NB clients are served with bilingual consultation capacity.
 
-NB PNP - VMC Builds the Evidence Package That Gets Approved
+NB PNP - Commonwealth Migration Builds the Evidence Package That Gets Approved
 
 Community letter quality is the difference between approval and refusal in most NB cases. Start with a consultation — not a template.
 
@@ -381,9 +381,9 @@ Community letter quality is the difference between approval and refusal in most 
 - How long should the Community Interest Letter be?
 Still have questions? Our licensed RCICs answer within 24 hours.
 
-## New Brunswick PNP - VMC Builds the Evidence Package That Gets Approved
+## New Brunswick PNP - Commonwealth Migration Builds the Evidence Package That Gets Approved
 
-VMC's licensed RCICs confirm your stream, draft a Community Interest Letter built on documented evidence, manage AIP employer designation in parallel, and identify your French language advantage before any application is filed. For the authoritative program framework, reference the [New Brunswick immigration website](https://www.welcomenb.ca/) and [IRCC's PNP overview](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html).
+Commonwealth Migration's licensed RCICs confirm your stream, draft a Community Interest Letter built on documented evidence, manage AIP employer designation in parallel, and identify your French language advantage before any application is filed. For the authoritative program framework, reference the [New Brunswick immigration website](https://www.welcomenb.ca/) and [IRCC's PNP overview](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html).
 
 Serving NB immigration clients in Fredericton · Moncton · Saint John · Bathurst · Miramichi · Campbellton · Dieppe · Edmundston · and across Canada
 
@@ -395,31 +395,31 @@ Serving NB immigration clients in Fredericton · Moncton · Saint John · Bathur
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/pnp/new-brunswick#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| PNP | https://visamastercanada.com/immigration/pnp |
-| Book NBPNP Assessment → | https://visamastercanada.com/free-assessment |
-| Check My Eligibility | https://visamastercanada.com/tools |
-| (647) 395-3471 | tel:+16473953471 |
-| → Nova Scotia | https://visamastercanada.com/immigration/pnp/nova-scotia |
-| → PEI | https://visamastercanada.com/immigration/pnp/pei |
-| → PNP Hub | https://visamastercanada.com/immigration/pnp |
-| Free assessment → | https://visamastercanada.com/free-assessment |
-| Get My NB Eligibility Confirmed → | https://visamastercanada.com/free-assessment |
-| Book Free NB Community Letter Consultation → | https://visamastercanada.com/free-assessment |
-| Book Free NB Assessment → | https://visamastercanada.com/free-assessment |
-| Book AIP Employer + Worker consult → | https://visamastercanada.com/book |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| View All PNP Programs | https://visamastercanada.com/immigration/pnp |
-| PNP Hub → All provincial nominee programs | https://visamastercanada.com/immigration/pnp |
-| Nova Scotia PNP → NSNP four-stream structure | https://visamastercanada.com/immigration/pnp/nova-scotia |
-| PEI PNP → Prince Edward Island PEIPNP + AIP | https://visamastercanada.com/immigration/pnp/pei |
-| Express Entry → Federal skilled worker pathways | https://visamastercanada.com/immigration/express-entry |
-| Work Permit → Work in Canada while you apply | https://visamastercanada.com/immigration/work-permit |
-| Family Sponsorship → Sponsor a spouse or family member | https://visamastercanada.com/immigration/sponsorship/spousal |
+| Skip to main content | https://commonwealthmigration.ca/immigration/pnp/new-brunswick#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| PNP | https://commonwealthmigration.ca/immigration/pnp |
+| Book NBPNP Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Check My Eligibility | https://commonwealthmigration.ca/tools |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Nova Scotia | https://commonwealthmigration.ca/immigration/pnp/nova-scotia |
+| → PEI | https://commonwealthmigration.ca/immigration/pnp/pei |
+| → PNP Hub | https://commonwealthmigration.ca/immigration/pnp |
+| Free assessment → | https://commonwealthmigration.ca/free-assessment |
+| Get My NB Eligibility Confirmed → | https://commonwealthmigration.ca/free-assessment |
+| Book Free NB Community Letter Consultation → | https://commonwealthmigration.ca/free-assessment |
+| Book Free NB Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Book AIP Employer + Worker consult → | https://commonwealthmigration.ca/book |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| View All PNP Programs | https://commonwealthmigration.ca/immigration/pnp |
+| PNP Hub → All provincial nominee programs | https://commonwealthmigration.ca/immigration/pnp |
+| Nova Scotia PNP → NSNP four-stream structure | https://commonwealthmigration.ca/immigration/pnp/nova-scotia |
+| PEI PNP → Prince Edward Island PEIPNP + AIP | https://commonwealthmigration.ca/immigration/pnp/pei |
+| Express Entry → Federal skilled worker pathways | https://commonwealthmigration.ca/immigration/express-entry |
+| Work Permit → Work in Canada while you apply | https://commonwealthmigration.ca/immigration/work-permit |
+| Family Sponsorship → Sponsor a spouse or family member | https://commonwealthmigration.ca/immigration/sponsorship/spousal |
 
 ---
 
@@ -432,13 +432,13 @@ Serving NB immigration clients in Fredericton · Moncton · Saint John · Bathur
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Provincial Nominee Program","item":"https://visamastercanada.com/immigration/pnp"},{"@type":"ListItem","position":4,"name":"New Brunswick","item":"https://visamastercanada.com/immigration/pnp/new-brunswick"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the New Brunswick Community Interest Letter?","acceptedAnswer":{"@type":"Answer","text":"The Community Interest Letter is a required document proving genuine intent to establish in New Brunswick. Officers reject generic essays. VMC builds evidence packages with employment history, family ties, housing research, exploratory visits, and school research mapped to specific attached documents."}},{"@type":"Question","name":"When is AIP better than NBPNP?","acceptedAnswer":{"@type":"Answer","text":"AIP is typically better when your employer is ready for designation and you want to bypass NB's nomination quota. AIP operates under a separate federal framework - endorsement does not consume NBPNP's allocation. VMC model both pathways at assessment."}},{"@type":"Question","name":"Does French language proficiency help with NBPNP?","acceptedAnswer":{"@type":"Answer","text":"Yes - bilingual candidates access Francophone-targeted draws, score higher in general EOI rankings, and may qualify for federal programs that add CRS points. NB is Canada's only officially bilingual province. Tested French at CLB 7+ opens the most doors."}},{"@type":"Question","name":"How long does NBPNP take?","acceptedAnswer":{"@type":"Answer","text":"Provincial processing from complete application to nomination: typically 3-6 months. Express Entry-linked nominees reach federal PR in approximately 6 months after nomination. Base PNP nominees add 12-18 months for IRCC processing. Total: plan for 12-24 months."}}]},{"@type":"Service","name":"New Brunswick NBPNP and AIP Immigration Services","serviceType":"Immigration Consulting","provider":{"@type":"LocalBusiness","name":"Licensed Regulated Canadian Immigration Consultants","address":"83 Kennedy Rd S Unit 16, Brampton, Ontario","telephone":"+16473953471"},"areaServed":"New Brunswick, Canada","description":"Licensed RCIC guidance for NBPNP - Express Entry NB, Skilled Worker with Employer Support, Critical Worker, Strategic Initiatives, and AIP employer designation. Community Interest Letter evidence packages. Serving Fredericton, Moncton, Saint John, and all of New Brunswick."}]}
+{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Provincial Nominee Program","item":"https://commonwealthmigration.ca/immigration/pnp"},{"@type":"ListItem","position":4,"name":"New Brunswick","item":"https://commonwealthmigration.ca/immigration/pnp/new-brunswick"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the New Brunswick Community Interest Letter?","acceptedAnswer":{"@type":"Answer","text":"The Community Interest Letter is a required document proving genuine intent to establish in New Brunswick. Officers reject generic essays. Commonwealth Migration builds evidence packages with employment history, family ties, housing research, exploratory visits, and school research mapped to specific attached documents."}},{"@type":"Question","name":"When is AIP better than NBPNP?","acceptedAnswer":{"@type":"Answer","text":"AIP is typically better when your employer is ready for designation and you want to bypass NB's nomination quota. AIP operates under a separate federal framework - endorsement does not consume NBPNP's allocation. Commonwealth Migration model both pathways at assessment."}},{"@type":"Question","name":"Does French language proficiency help with NBPNP?","acceptedAnswer":{"@type":"Answer","text":"Yes - bilingual candidates access Francophone-targeted draws, score higher in general EOI rankings, and may qualify for federal programs that add CRS points. NB is Canada's only officially bilingual province. Tested French at CLB 7+ opens the most doors."}},{"@type":"Question","name":"How long does NBPNP take?","acceptedAnswer":{"@type":"Answer","text":"Provincial processing from complete application to nomination: typically 3-6 months. Express Entry-linked nominees reach federal PR in approximately 6 months after nomination. Base PNP nominees add 12-18 months for IRCC processing. Total: plan for 12-24 months."}}]},{"@type":"Service","name":"New Brunswick NBPNP and AIP Immigration Services","serviceType":"Immigration Consulting","provider":{"@type":"LocalBusiness","name":"Licensed Regulated Canadian Immigration Consultants","address":"Canada-wide service by appointment, Brampton, Ontario"},"areaServed":"New Brunswick, Canada","description":"Licensed RCIC guidance for NBPNP - Express Entry NB, Skilled Worker with Employer Support, Critical Worker, Strategic Initiatives, and AIP employer designation. Community Interest Letter evidence packages. Serving Fredericton, Moncton, Saint John, and all of New Brunswick."}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://visamastercanada.com/immigration/pnp"},{"@type":"ListItem","position":4,"name":"New Brunswick"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://commonwealthmigration.ca/immigration/pnp"},{"@type":"ListItem","position":4,"name":"New Brunswick"}]}
 ```

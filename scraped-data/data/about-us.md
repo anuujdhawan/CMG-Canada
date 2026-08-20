@@ -1,6 +1,6 @@
 # About Us | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/about-us
+> **Source URL:** https://commonwealthmigration.ca/about-us
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -10,9 +10,9 @@
 ## SEO Metadata
 
 - **Title tag:** About Us | Licensed RCIC
-- **Meta description:** Learn about us - Licensed Regulated Canadian Immigration Consultants in Brampton, Ontario. CICC-regulated · Licensed RCIC R705959.
+- **Meta description:** Learn about us - Licensed Regulated Canadian Immigration Consultants in Brampton, Ontario. CICC-regulated · Licensed current CICC registration.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/about-us
+- **Canonical URL:** https://commonwealthmigration.ca/about-us
 - **OG title:** Licensed RCIC Immigration Consultants | Canada & GTA
 - **OG description:** CICC-regulated RCICs: Express Entry, every PNP stream, employer LMIA (HGT), work permits, study permits, sponsorship, refusals & PFL. Brampton office. Free consult + tools.
 - **Robots:** index, follow
@@ -25,7 +25,7 @@
 - ### Client-Focused
 - ### Multilingual
 - ### Google Verified Reviews
-- ## 15+ years, 1,000+ files, every stream - and a team that has seen your situation before.
+- ## Structured process, 1,000+ files, every stream - and a team that has seen your situation before.
 - ### Licensed RCIC
 - ### 8 Languages
 - ### 500+ Clients
@@ -33,40 +33,40 @@
 - ### Personal Support
 - ## One team, every step of your journey
 - ### Leadership
-- #### Sanjay Singh Kumar
-- #### Vipin Kumar
-- #### Amanpreet Kaur Gill
-- #### Tanu Verma
-- #### Chetan Khumbar
+- #### Case strategy team
+- #### Operations Lead
+- #### Client Experience Lead
+- #### Compliance Lead
+- #### Marketing Lead
 - ### Immigration support
-- #### Saloni
-- #### Chandrani
-- #### Vaibhav
-- #### Chaithra
+- #### Client Services Specialist
+- #### Client Services Specialist
+- #### Technology Support Specialist
+- #### Accounts Specialist
 - ### Case officers · operations
-- #### Diksha Kapoor
-- #### Abhishek
-- #### Nupur
-- #### Purnima
-- #### Ananya
-- #### Bharathi
-- #### Mandeep
+- #### Senior Case Officer
+- #### Case Officer
+- #### Case Officer
+- #### Case Officer
+- #### Case Officer
+- #### Senior Case Officer
+- #### Case Reviewer
 - ### Employer services · Hire Global Talent (HGT)
-- #### Rohit
-- #### Sahil
+- #### LMIA Specialist
+- #### LMIA Supervisor
 - #### LMIA Officer
 - ### Sales
-- #### Vidisha
-- #### Geeta
-- #### Vivek
-- #### Sweeti
-- #### Jyoti
-- #### Rinki
-- #### Daries
+- #### Client Relations Lead
+- #### Client Relations Specialist
+- #### Client Relations Specialist
+- #### Client Relations Specialist
+- #### Client Relations Specialist
+- #### Sales and Operations Specialist
+- #### Client Relations Specialist
 - ### Student recruitment · international & domestic
-- #### Arun
-- #### Mankaran
-- #### Tanishka
+- #### Recruitment Specialist
+- #### Recruitment Specialist
+- #### Recruitment Specialist
 - ## Book the call that maps your route
 - ### Contact Information
 
@@ -99,11 +99,11 @@ Our Story
 
 ## Built on Trust, Driven by Results
 
-VMC Immigration Services began in 2020 in Brampton, Ontario, on a single belief: families deserve regulated, straight-talking advice they can actually understand, and one team that can carry their whole case from the first question to landing day.
+Commonwealth Migration Canada began in 2020 in Brampton, Ontario, on a single belief: families deserve regulated, straight-talking advice they can actually understand, and one team that can carry their whole case from the first question to landing day.
 
 Today we are a dual-licensed firm, CICC-regulated immigration consultants and a licensed recruitment agency, so individuals, families and Canadian employers can handle everything under one roof: Express Entry and provincial nominee programs, work and study permits, family sponsorship, refusals and appeals, plus employer LMIA and global hiring through our Hire Global Talent (HGT) division and a dedicated student-recruitment team.
 
-As Licensed Regulated Canadian Immigration Consultants (RCICs), we are authorized by the College of Immigration and Citizenship Consultants (CICC) to represent you directly before Immigration, Refugees and Citizenship Canada (IRCC). Our team works across 8 languages, assigns every client a dedicated case manager, and quotes transparent, fixed fees, with 500+ clients served and 15+ years of combined experience behind every file. You can confirm our registration directly on the CICC register.
+As Licensed Regulated Canadian Immigration Consultants (RCICs), we are authorized by the College of Immigration and Citizenship Consultants (CICC) to represent you directly before Immigration, Refugees and Citizenship Canada (IRCC). Our team works across 8 languages, assigns every client a dedicated case manager, and quotes transparent, fixed fees, with 500+ clients served and Structured process of combined experience behind every file. You can confirm our registration directly on the CICC register.
 
 ### Licensed & Regulated
 
@@ -119,7 +119,7 @@ Dedicated case manager for every client
 
 ### Google Verified Reviews
 
-Real client reviews on Google
+Illustrative planning scenarios
 
 Why Choose Us
 
@@ -139,7 +139,7 @@ Clients helped
 
 Languages spoken
 
-## 15+ years, 1,000+ files, every stream - and a team that has seen your situation before.
+## Structured process, 1,000+ files, every stream - and a team that has seen your situation before.
 
 CICC-regulated RCICs, a dedicated case manager on every file, and an eight-language team that has handled nearly every scenario, from straightforward applications to complex refusals. You are never navigating alone, and you are never handed off to forms.
 
@@ -149,7 +149,7 @@ Licensed Regulated Canadian Immigration Consultants, CICC-regulated.
 
 ### 8 Languages
 
-English, Punjabi, Hindi, Urdu, Tamil, Telugu, Malayalam, French.
+Plain-language consultations with clear written next steps.
 
 ### 500+ Clients
 
@@ -171,71 +171,71 @@ Regulated immigration advice is provided exclusively by our licensed RCICs. The 
 
 ### Leadership
 
-#### Sanjay Singh Kumar
+#### Case strategy team
 
 Director
 
-#### Vipin Kumar
+#### Operations Lead
 
 COO / CFO
 
-#### Amanpreet Kaur Gill
+#### Client Experience Lead
 
 Operations Head
 
-#### Tanu Verma
+#### Compliance Lead
 
 Compliance & Finance Head
 
-#### Chetan Khumbar
+#### Marketing Lead
 
 Marketing Head
 
 ### Immigration support
 
-#### Saloni
+#### Client Services Specialist
 
 Executive Assistant
 
-#### Chandrani
+#### Client Services Specialist
 
 Executive Assistant
 
-#### Vaibhav
+#### Technology Support Specialist
 
 Tech Support Analyst
 
-#### Chaithra
+#### Accounts Specialist
 
 Bookkeeper · Accounts
 
 ### Case officers · operations
 
-#### Diksha Kapoor
+#### Senior Case Officer
 
 Senior Case Officer
 
-#### Abhishek
+#### Case Officer
 
 Case Officer
 
-#### Nupur
+#### Case Officer
 
 Case Officer
 
-#### Purnima
+#### Case Officer
 
 Case Officer
 
-#### Ananya
+#### Case Officer
 
 Case Officer
 
-#### Bharathi
+#### Senior Case Officer
 
 Senior Case Officer
 
-#### Mandeep
+#### Case Reviewer
 
 Case Reviewer
 
@@ -243,11 +243,11 @@ Case Reviewer
 
 LMIA · Recruitment · Compliance
 
-#### Rohit
+#### LMIA Specialist
 
 Sr. LMIA Expert
 
-#### Sahil
+#### LMIA Supervisor
 
 LMIA Supervisor
 
@@ -255,45 +255,45 @@ LMIA Supervisor
 
 ### Sales
 
-#### Vidisha
+#### Client Relations Lead
 
 Sales Head
 
-#### Geeta
+#### Client Relations Specialist
 
 Sr. Sales Rep
 
-#### Vivek
+#### Client Relations Specialist
 
 Sr. Sales Rep
 
-#### Sweeti
+#### Client Relations Specialist
 
 Sales Representative
 
-#### Jyoti
+#### Client Relations Specialist
 
 Sales Representative
 
-#### Rinki
+#### Sales and Operations Specialist
 
 Sales & Operations Executive
 
-#### Daries
+#### Client Relations Specialist
 
 Sales Representative
 
 ### Student recruitment · international & domestic
 
-#### Arun
+#### Recruitment Specialist
 
 Recruitment · Case Officer
 
-#### Mankaran
+#### Recruitment Specialist
 
 Recruitment · Sales Rep
 
-#### Tanishka
+#### Recruitment Specialist
 
 Recruitment · Case Officer
 
@@ -309,15 +309,15 @@ Book a free consultation with our Licensed Regulated Canadian Immigration Consul
 
 Phone
 
-+1 (647) 395-3471
++1 contact form
 
 Email
 
-info@visamastercanada.com
+contact form
 
 Address
 
-83 Kennedy Rd S, Brampton, ON
+Canada-wide service, Brampton, ON
 
 ---
 
@@ -325,59 +325,59 @@ Address
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/about-us#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Book consultation → | https://visamastercanada.com/book |
-| Meet our team | https://visamastercanada.com/team |
-| (647) 395-3471 | tel:+16473953471 |
-| → How it works | https://visamastercanada.com/how-it-works |
-| → Immigration hub | https://visamastercanada.com/immigration |
-| → Employer services (HGT) | https://visamastercanada.com/for-employers |
-| Start Your Journey → | https://visamastercanada.com/contact-us |
-| View open positions → | https://visamastercanada.com/contact-us |
-| Book a Consultation | https://visamastercanada.com/book |
-| Phone +1 (647) 395-3471 | tel:+16473953471 |
-| Email info@visamastercanada.com | mailto:info@visamastercanada.com |
+| Skip to main content | https://commonwealthmigration.ca/about-us#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Book consultation → | https://commonwealthmigration.ca/book |
+| Meet our team | https://commonwealthmigration.ca/team |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → How it works | https://commonwealthmigration.ca/how-it-works |
+| → Immigration hub | https://commonwealthmigration.ca/immigration |
+| → Employer services (HGT) | https://commonwealthmigration.ca/for-employers |
+| Start Your Journey → | https://commonwealthmigration.ca/contact-us |
+| View open positions → | https://commonwealthmigration.ca/contact-us |
+| Book a Consultation | https://commonwealthmigration.ca/book |
+| Phone +1 contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Email contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
 
 ---
 
 ## Image Alt Texts
 
 - Licensed Regulated Canadian Immigration Consultants - Brampton, GTA & Canada-wide
-- Sanjay Singh Kumar
-- Vipin Kumar
-- Amanpreet Kaur Gill
-- Saloni
-- Chandrani
-- Vaibhav
-- Chaithra
-- Abhishek
-- Nupur
-- Purnima
-- Ananya
-- Bharathi
-- Rohit
-- Sahil
-- Vidisha
-- Geeta
-- Vivek
-- Sweeti
-- Jyoti
-- Rinki
-- Arun
-- Mankaran
-- Tanishka
+- Case strategy team
+- Operations Lead
+- Client Experience Lead
+- Client Services Specialist
+- Client Services Specialist
+- Technology Support Specialist
+- Accounts Specialist
+- Case Officer
+- Case Officer
+- Case Officer
+- Case Officer
+- Senior Case Officer
+- LMIA Specialist
+- LMIA Supervisor
+- Client Relations Lead
+- Client Relations Specialist
+- Client Relations Specialist
+- Client Relations Specialist
+- Client Relations Specialist
+- Sales and Operations Specialist
+- Recruitment Specialist
+- Recruitment Specialist
+- Recruitment Specialist
 
 ---
 
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"About us"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"About us"}]}
 ```

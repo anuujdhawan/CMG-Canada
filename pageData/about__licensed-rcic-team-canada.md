@@ -1,7 +1,6 @@
 # Meet Our Licensed RCIC Team
 
 > **Source URL:** https://commonwealthmigration.ca/about/licensed-rcic-team-canada
-> **Original Source URL:** https://visamastercanada.com/team
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

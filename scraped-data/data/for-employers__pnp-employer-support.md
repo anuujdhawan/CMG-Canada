@@ -1,6 +1,6 @@
 # PNP Employer Support Canada | OINP, SINP, AIP, RCIP, BC, NL Registration | HGT
 
-> **Source URL:** https://visamastercanada.com/for-employers/pnp-employer-support
+> **Source URL:** https://commonwealthmigration.ca/for-employers/pnp-employer-support
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** PNP Employer Support Canada | OINP, SINP, AIP, RCIP, BC, NL Registration | HGT
 - **Meta description:** Employer PNP support: OINP, Nova Scotia ERC, Atlantic PNP, RCIP, BC PNP, Saskatchewan JAL and Newfoundland. Retain valued workers through PR. Licensed RCIC.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/for-employers/pnp-employer-support
+- **Canonical URL:** https://commonwealthmigration.ca/for-employers/pnp-employer-support
 - **OG title:** PNP Employer Support - Provincial Nomination for Employers | Licensed RCIC HGT
 - **OG description:** Employer PNP support: OINP, Nova Scotia ERC, Atlantic PNP, RCIP, BC PNP, Saskatchewan JAL and Newfoundland. Retain valued workers through PR. Licensed RCIC.
 - **Robots:** index, follow
@@ -154,23 +154,23 @@ All employer services · LMIA Services · Employer Compliance
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/for-employers/pnp-employer-support#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| For Employers | https://visamastercanada.com/for-employers |
-| Book employer consultation → | https://visamastercanada.com/book |
-| (647) 395-3471 | tel:+16473953471 |
-| LMIA services | https://visamastercanada.com/for-employers/lmia |
-| Contact us → → | https://visamastercanada.com/contact-us |
-| → Provincial nominee (PNP) hub | https://visamastercanada.com/immigration/pnp |
-| → All employer services | https://visamastercanada.com/for-employers |
-| Book PNP Employer Consultation → | https://visamastercanada.com/book |
-| Book Employer Consultation → | https://visamastercanada.com/book |
-| 📞 (647) 395-3471 | tel:+16473953471 |
-| All employer services | https://visamastercanada.com/for-employers |
-| LMIA Services | https://visamastercanada.com/for-employers/lmia |
-| Employer Compliance | https://visamastercanada.com/for-employers/employer-compliance |
+| Skip to main content | https://commonwealthmigration.ca/for-employers/pnp-employer-support#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| For Employers | https://commonwealthmigration.ca/for-employers |
+| Book employer consultation → | https://commonwealthmigration.ca/book |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| LMIA services | https://commonwealthmigration.ca/for-employers/lmia |
+| Contact us → → | https://commonwealthmigration.ca/contact-us |
+| → Provincial nominee (PNP) hub | https://commonwealthmigration.ca/immigration/pnp |
+| → All employer services | https://commonwealthmigration.ca/for-employers |
+| Book PNP Employer Consultation → | https://commonwealthmigration.ca/book |
+| Book Employer Consultation → | https://commonwealthmigration.ca/book |
+| 📞 contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| All employer services | https://commonwealthmigration.ca/for-employers |
+| LMIA Services | https://commonwealthmigration.ca/for-employers/lmia |
+| Employer Compliance | https://commonwealthmigration.ca/for-employers/employer-compliance |
 
 ---
 
@@ -183,15 +183,15 @@ All employer services · LMIA Services · Employer Compliance
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com/"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://visamastercanada.com/for-employers"},{"@type":"ListItem","position":3,"name":"PNP Employer Support"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca/"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://commonwealthmigration.ca/for-employers"},{"@type":"ListItem","position":3,"name":"PNP Employer Support"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"Service","name":"PNP Employer Support - Provincial Nomination for Canadian Employers","description":"Employer registration and support for OINP, SINP, AIP, RCIP, BC PNP, Nova Scotia, Newfoundland, Alberta. Retain workers through PR.","areaServed":"Canada","url":"https://visamastercanada.com/for-employers/pnp-employer-support"}
+{"@context":"https://schema.org","@type":"Service","name":"PNP Employer Support - Provincial Nomination for Canadian Employers","description":"Employer registration and support for OINP, SINP, AIP, RCIP, BC PNP, Nova Scotia, Newfoundland, Alberta. Retain workers through PR.","areaServed":"Canada","url":"https://commonwealthmigration.ca/for-employers/pnp-employer-support"}
 ```
 
 ```json
@@ -199,5 +199,5 @@ All employer services · LMIA Services · Employer Compliance
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://visamastercanada.com/for-employers"},{"@type":"ListItem","position":3,"name":"PNP employer support"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://commonwealthmigration.ca/for-employers"},{"@type":"ListItem","position":3,"name":"PNP employer support"}]}
 ```

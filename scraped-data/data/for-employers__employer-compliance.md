@@ -1,6 +1,6 @@
 # TFWP Employer Compliance Canada | ESDC Inspections & Audit Readiness | HGT
 
-> **Source URL:** https://visamastercanada.com/for-employers/employer-compliance
+> **Source URL:** https://commonwealthmigration.ca/for-employers/employer-compliance
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** TFWP Employer Compliance Canada | ESDC Inspections & Audit Readiness | HGT
 - **Meta description:** TFWP employer compliance: ESDC inspection prep, record-keeping, TFW obligations and voluntary disclosure. Licensed RCIC keeps your hiring program audit-ready.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/for-employers/employer-compliance
+- **Canonical URL:** https://commonwealthmigration.ca/for-employers/employer-compliance
 - **OG title:** Employer Compliance - TFWP & ESDC Inspections | Licensed RCIC HGT Division
 - **OG description:** TFWP employer compliance: ESDC inspection prep, record-keeping, TFW obligations and voluntary disclosure. Licensed RCIC keeps your hiring program audit-ready.
 - **Robots:** index, follow
@@ -164,24 +164,24 @@ All employer services · LMIA Services · Global Talent Stream
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/for-employers/employer-compliance#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| For Employers | https://visamastercanada.com/for-employers |
-| Book compliance review → | https://visamastercanada.com/book |
-| (647) 395-3471 | tel:+16473953471 |
-| Contact us | https://visamastercanada.com/contact-us |
-| Urgent support → → | https://visamastercanada.com/contact-us |
-| → LMIA services | https://visamastercanada.com/for-employers/lmia |
-| → LMIA-exempt / IMP | https://visamastercanada.com/for-employers/lmia-exempt |
-| Get Urgent Support → | https://visamastercanada.com/contact-us |
-| Book Compliance Review → | https://visamastercanada.com/book |
-| Book Employer Consultation → | https://visamastercanada.com/book |
-| 📞 (647) 395-3471 | tel:+16473953471 |
-| All employer services | https://visamastercanada.com/for-employers |
-| LMIA Services | https://visamastercanada.com/for-employers/lmia |
-| Global Talent Stream | https://visamastercanada.com/for-employers/global-talent-stream |
+| Skip to main content | https://commonwealthmigration.ca/for-employers/employer-compliance#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| For Employers | https://commonwealthmigration.ca/for-employers |
+| Book compliance review → | https://commonwealthmigration.ca/book |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Contact us | https://commonwealthmigration.ca/contact-us |
+| Urgent support → → | https://commonwealthmigration.ca/contact-us |
+| → LMIA services | https://commonwealthmigration.ca/for-employers/lmia |
+| → LMIA-exempt / IMP | https://commonwealthmigration.ca/for-employers/lmia-exempt |
+| Get Urgent Support → | https://commonwealthmigration.ca/contact-us |
+| Book Compliance Review → | https://commonwealthmigration.ca/book |
+| Book Employer Consultation → | https://commonwealthmigration.ca/book |
+| 📞 contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| All employer services | https://commonwealthmigration.ca/for-employers |
+| LMIA Services | https://commonwealthmigration.ca/for-employers/lmia |
+| Global Talent Stream | https://commonwealthmigration.ca/for-employers/global-talent-stream |
 
 ---
 
@@ -194,15 +194,15 @@ All employer services · LMIA Services · Global Talent Stream
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com/"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://visamastercanada.com/for-employers"},{"@type":"ListItem","position":3,"name":"Employer Compliance"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca/"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://commonwealthmigration.ca/for-employers"},{"@type":"ListItem","position":3,"name":"Employer Compliance"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"Service","name":"Employer Compliance & ESDC Inspection Support - TFWP Canada","description":"TFWP and IMP employer compliance. ESDC inspection preparation, record-keeping, voluntary disclosure. Licensed RCIC.","areaServed":"Canada","url":"https://visamastercanada.com/for-employers/employer-compliance"}
+{"@context":"https://schema.org","@type":"Service","name":"Employer Compliance & ESDC Inspection Support - TFWP Canada","description":"TFWP and IMP employer compliance. ESDC inspection preparation, record-keeping, voluntary disclosure. Licensed RCIC.","areaServed":"Canada","url":"https://commonwealthmigration.ca/for-employers/employer-compliance"}
 ```
 
 ```json
@@ -210,5 +210,5 @@ All employer services · LMIA Services · Global Talent Stream
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://visamastercanada.com/for-employers"},{"@type":"ListItem","position":3,"name":"Employer compliance"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://commonwealthmigration.ca/for-employers"},{"@type":"ListItem","position":3,"name":"Employer compliance"}]}
 ```

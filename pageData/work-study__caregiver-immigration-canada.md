@@ -1,7 +1,6 @@
 # Caregiver immigration Canada: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/work-study/caregiver-immigration-canada
-> **Original Source URL:** https://visamastercanada.com/immigration/caregiver
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

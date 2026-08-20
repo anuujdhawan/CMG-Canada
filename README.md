@@ -35,7 +35,7 @@ npm run lint       # eslint
 | Consultancy services | `src/data/services.js` |
 | FAQs, team, blog, guides, tools, NOC demo data | `src/data/*.js` |
 | Metadata builder (domain-agnostic SEO) | `src/lib/seo.js` |
-| Rewritten SEO page content and route map | `pageData/` and `scripts/generate-page-data.mjs` |
+| Rewritten SEO page content and route map | `pageData/` (validate with `npm run validate:page-data`) |
 | Single environment file | `.env` |
 | Logos / icons / OG image | `public/images/` |
 

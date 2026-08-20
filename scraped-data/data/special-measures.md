@@ -1,6 +1,6 @@
 # Canadian Immigration Special Measures 2026 | Public Policy | RCIC
 
-> **Source URL:** https://visamastercanada.com/special-measures
+> **Source URL:** https://commonwealthmigration.ca/special-measures
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Canadian Immigration Special Measures 2026 | Public Policy | RCIC
 - **Meta description:** Information on Canada's special immigration measures for Ukraine, Gaza, Iran, Sudan, Haiti. Licensed RCIC consultants. Free consultation.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/special-measures
+- **Canonical URL:** https://commonwealthmigration.ca/special-measures
 - **OG title:** Canadian Immigration Special Measures 2026 | Licensed RCIC
 - **OG description:** Special measures for Ukraine, Gaza, Iran, Sudan, Haiti. Licensed RCIC consultants. Free consultation.
 - **Robots:** index, follow
@@ -42,7 +42,7 @@
 
 ---- SPECIAL MEASURES · URGENT SUPPORT
 
-VMC's licensed RCICs have guided clients through Canada's most urgent humanitarian immigration programs, from CUAET to Gaza family reunification. We stay current on every IRCC announcement so you get accurate, timely advice when it matters most.
+Commonwealth Migration's licensed RCICs have guided clients through Canada's most urgent humanitarian immigration programs, from CUAET to Gaza family reunification. We stay current on every IRCC announcement so you get accurate, timely advice when it matters most.
 
 What We Cover
 
@@ -130,32 +130,32 @@ Speak with a licensed RCIC. No obligation - we guide you through your options.
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/special-measures#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Get Urgent Help → | https://visamastercanada.com/contact-us |
-| (647) 395-3471 | tel:+16473953471 |
-| → Ukraine (CUAET) | https://visamastercanada.com/special-measures/ukraine |
-| → Iran | https://visamastercanada.com/special-measures/iran |
-| → Gaza & West Bank | https://visamastercanada.com/special-measures/gaza |
-| → Work Permits | https://visamastercanada.com/immigration/work-permit |
-| → Contact | https://visamastercanada.com/contact-us |
-| Book Now → | https://visamastercanada.com/contact-us |
-| Ukraine (CUAET) Canada-Ukraine Authorization for Emergency Travel - current status, extensions, work/study permits, pathway to PR. | https://visamastercanada.com/special-measures/ukraine |
-| Gaza & West Bank Special measures for residents of Gaza and the West Bank - family reunification and temporary residence options. | https://visamastercanada.com/special-measures/gaza |
-| Iran Public policy for Iranian nationals - temporary residence and family reunification measures. | https://visamastercanada.com/special-measures/iran |
-| Sudan Measures for those affected by the situation in Sudan. Check IRCC for current programs. | https://visamastercanada.com/special-measures# |
-| Haiti Measures for Haitian nationals. Check IRCC for current programs. | https://visamastercanada.com/special-measures# |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Book a Consultation | https://visamastercanada.com/book |
-| 📞 (647) 395-3471 | tel:+16473953471 |
-| Ukraine (CUAET) | https://visamastercanada.com/special-measures/ukraine |
-| Iran | https://visamastercanada.com/special-measures/iran |
-| Gaza & West Bank | https://visamastercanada.com/special-measures/gaza |
-| Work Permits | https://visamastercanada.com/immigration/work-permit |
-| Contact | https://visamastercanada.com/contact-us |
-| 📞 Call (647) 395-3471 | tel:+16473953471 |
+| Skip to main content | https://commonwealthmigration.ca/special-measures#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Get Urgent Help → | https://commonwealthmigration.ca/contact-us |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Ukraine (CUAET) | https://commonwealthmigration.ca/special-measures/ukraine |
+| → Iran | https://commonwealthmigration.ca/special-measures/iran |
+| → Gaza & West Bank | https://commonwealthmigration.ca/special-measures/gaza |
+| → Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
+| → Contact | https://commonwealthmigration.ca/contact-us |
+| Book Now → | https://commonwealthmigration.ca/contact-us |
+| Ukraine (CUAET) Canada-Ukraine Authorization for Emergency Travel - current status, extensions, work/study permits, pathway to PR. | https://commonwealthmigration.ca/special-measures/ukraine |
+| Gaza & West Bank Special measures for residents of Gaza and the West Bank - family reunification and temporary residence options. | https://commonwealthmigration.ca/special-measures/gaza |
+| Iran Public policy for Iranian nationals - temporary residence and family reunification measures. | https://commonwealthmigration.ca/special-measures/iran |
+| Sudan Measures for those affected by the situation in Sudan. Check IRCC for current programs. | https://commonwealthmigration.ca/special-measures# |
+| Haiti Measures for Haitian nationals. Check IRCC for current programs. | https://commonwealthmigration.ca/special-measures# |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Book a Consultation | https://commonwealthmigration.ca/book |
+| 📞 contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Ukraine (CUAET) | https://commonwealthmigration.ca/special-measures/ukraine |
+| Iran | https://commonwealthmigration.ca/special-measures/iran |
+| Gaza & West Bank | https://commonwealthmigration.ca/special-measures/gaza |
+| Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
+| Contact | https://commonwealthmigration.ca/contact-us |
+| 📞 Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
 
 ---
 
@@ -168,11 +168,11 @@ Speak with a licensed RCIC. No obligation - we guide you through your options.
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Home","item":"https://visamastercanada.com/"},{"@type":"ListItem","position":3,"name":"Special Measures"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Home","item":"https://commonwealthmigration.ca/"},{"@type":"ListItem","position":3,"name":"Special Measures"}]}
 ```
 
 ```json

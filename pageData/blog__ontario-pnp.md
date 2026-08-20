@@ -1,7 +1,6 @@
 # Ontario PNP and OINP: research the decision before the form
 
 > **Source URL:** https://commonwealthmigration.ca/blog/ontario-pnp
-> **Original Source URL:** https://visamastercanada.com/blog/ontario-pnp-oinp-guide-2026
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

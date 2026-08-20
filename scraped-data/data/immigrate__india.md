@@ -1,6 +1,6 @@
 # Immigrate to Canada from India 2026 | Express Entry, PNP & H-1B | RCIC
 
-> **Source URL:** https://visamastercanada.com/immigrate/india
+> **Source URL:** https://commonwealthmigration.ca/immigrate/india
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Immigrate to Canada from India 2026 | Express Entry, PNP & H-1B | RCIC
 - **Meta description:** Canada immigration from India: Express Entry CEC and FSW, PNP streams, family sponsorship, H-1B to Canada pathway, IELTS tips and WES ECA. Licensed RCIC.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigrate/india
+- **Canonical URL:** https://commonwealthmigration.ca/immigrate/india
 - **OG title:** Immigrate to Canada from India 2026 | Licensed RCIC
 - **OG description:** Canada immigration from India: Express Entry CEC and FSW, PNP streams, family sponsorship, H-1B to Canada pathway, IELTS tips and WES ECA. Licensed RCIC.
 - **Robots:** index, follow
@@ -37,11 +37,11 @@
 - ## Your Road to Canadian PR - From India
 - ### Take Language Test
 - ### Get WES Educational Credential Assessment
-- ### Consult VMC - CRS Calculation
+- ### Consult Commonwealth Migration - CRS Calculation
 - ### Create Express Entry Profile
 - ### Explore PNP Pathways
 - ### Receive ITA and Submit PR Application
-- ## Common Challenges for Indian Applicants - and How VMC Helps
+- ## Common Challenges for Indian Applicants - and How Commonwealth Migration Helps
 - ### High CRS Competition
 - ### WES ECA Processing Time
 - ### IELTS Score Optimization
@@ -56,7 +56,7 @@
 
 # Immigrate to Canada from India - 2026 Guide
 
-India is Canada's #1 source country for immigration. IT engineers, accountants, nurses, and skilled professionals from Mumbai, Delhi, Bengaluru, and across India are building new lives in Brampton, Mississauga, Surrey, and Calgary. VMC's licensed RCICs navigate the entire process.
+India is Canada's #1 source country for immigration. IT engineers, accountants, nurses, and skilled professionals from Mumbai, Delhi, Bengaluru, and across India are building new lives in Brampton, Mississauga, Surrey, and Calgary. Commonwealth Migration's licensed RCICs navigate the entire process.
 
 India → Canada
 
@@ -84,7 +84,7 @@ Top pathways
 - → Family Sponsorship
 Indian professional ready to apply?
 
-VMC calculates your CRS, identifies your best pathway, and manages the full application process.
+Commonwealth Migration calculates your CRS, identifies your best pathway, and manages the full application process.
 
 ---
 
@@ -144,7 +144,7 @@ The large Indian-Canadian community in Brampton, Mississauga, Surrey, and Calgar
 
 H-1B to Canada Pathway
 
-Tens of thousands of Indian tech workers in the US on H-1B visas have moved to Canada in recent years. The process: obtain a Canadian work permit (CUSMA, ICT, or LMIA) → work in Canada 12 months → apply through CEC. VMC specializes in H-1B to Canada transitions for Indian IT professionals.
+Tens of thousands of Indian tech workers in the US on H-1B visas have moved to Canada in recent years. The process: obtain a Canadian work permit (CUSMA, ICT, or LMIA) → work in Canada 12 months → apply through CEC. Commonwealth Migration specializes in H-1B to Canada transitions for Indian IT professionals.
 
 ## Key Requirements for Indian Applicants
 
@@ -160,57 +160,57 @@ Tens of thousands of Indian tech workers in the US on H-1B visas have moved to C
 
 ### Take Language Test
 
-Book IELTS General Training or CELPIP. Target CLB 9 (IELTS 7.0 per band). Test results are valid for 2 years. VMC advises on test preparation resources.
+Book IELTS General Training or CELPIP. Target CLB 9 (IELTS 7.0 per band). Test results are valid for 2 years. Commonwealth Migration advises on test preparation resources.
 
 ### Get WES Educational Credential Assessment
 
 Submit transcripts from your Indian university to WES. Allow 60-90 business days. Required for FSW; recommended for CEC to gain education CRS points.
 
-### Consult VMC - CRS Calculation
+### Consult Commonwealth Migration - CRS Calculation
 
-VMC calculates your exact CRS score, identifies gaps, and recommends strategies: French language, job offer, provincial nomination, or occupation targeting.
+Commonwealth Migration calculates your exact CRS score, identifies gaps, and recommends strategies: French language, job offer, provincial nomination, or occupation targeting.
 
 ### Create Express Entry Profile
 
-VMC creates your Express Entry profile with accurate information. Small errors can cause significant problems — correct NOC, education, and work history are critical.
+Commonwealth Migration creates your Express Entry profile with accurate information. Small errors can cause significant problems — correct NOC, education, and work history are critical.
 
 ### Explore PNP Pathways
 
-VMC assesses whether any provincial streams offer a faster route based on your occupation, province of preference, and employer connections.
+Commonwealth Migration assesses whether any provincial streams offer a faster route based on your occupation, province of preference, and employer connections.
 
 ### Receive ITA and Submit PR Application
 
-After receiving an Invitation to Apply, VMC prepares the complete application: police certificates, medicals, NCRB certificate from India, employment records. Submitted within 60 days.
+After receiving an Invitation to Apply, Commonwealth Migration prepares the complete application: police certificates, medicals, NCRB certificate from India, employment records. Submitted within 60 days.
 
-## Common Challenges for Indian Applicants - and How VMC Helps
+## Common Challenges for Indian Applicants - and How Commonwealth Migration Helps
 
 ### High CRS Competition
 
-India is the #1 source country for Express Entry. The pool has many high-scoring Indian applicants. VMC strategies include targeting category-based draws (STEM, French, healthcare), obtaining PNP nominations, and securing Canadian job offers to boost CRS.
+India is the #1 source country for Express Entry. The pool has many high-scoring Indian applicants. Commonwealth Migration strategies include targeting category-based draws (STEM, French, healthcare), obtaining PNP nominations, and securing Canadian job offers to boost CRS.
 
-VMC approach: PNP nomination (+600 CRS), French language courses, provincial job offer strategy
+Commonwealth Migration approach: PNP nomination (+600 CRS), French language courses, provincial job offer strategy
 
 ### WES ECA Processing Time
 
-WES ECA for Indian degrees takes 60-90 business days. Many Indian universities require transcripts to be sent directly. VMC guides clients through the process to avoid delays.
+WES ECA for Indian degrees takes 60-90 business days. Many Indian universities require transcripts to be sent directly. Commonwealth Migration guides clients through the process to avoid delays.
 
-VMC approach: Start ECA early - at least 4 months before planned Express Entry submission
+Commonwealth Migration approach: Start ECA early - at least 4 months before planned Express Entry submission
 
 ### IELTS Score Optimization
 
-CLB 9 (IELTS 7.0 in all bands) adds significant CRS points. Many Indian applicants score well in reading/listening but struggle with the speaking band. VMC recommends targeted IELTS preparation.
+CLB 9 (IELTS 7.0 in all bands) adds significant CRS points. Many Indian applicants score well in reading/listening but struggle with the speaking band. Commonwealth Migration recommends targeted IELTS preparation.
 
-VMC approach: IELTS Academic vs General comparison; CELPIP as alternative for some applicants
+Commonwealth Migration approach: IELTS Academic vs General comparison; CELPIP as alternative for some applicants
 
 ### Police Certificate from India
 
-A police clearance certificate from the National Crime Records Bureau (NCRB) in New Delhi is required for Indian PR applications. The process can take 4-8 weeks. VMC provides guidance on obtaining the NCRB certificate.
+A police clearance certificate from the National Crime Records Bureau (NCRB) in New Delhi is required for Indian PR applications. The process can take 4-8 weeks. Commonwealth Migration provides guidance on obtaining the NCRB certificate.
 
-VMC approach: Apply for NCRB certificate through NDML platform; allow 6-8 weeks
+Commonwealth Migration approach: Apply for NCRB certificate through NDML platform; allow 6-8 weeks
 
 ### Ready to Start Your Canada Immigration Journey?
 
-VMC's licensed RCICs understand Indian applicants' profiles deeply — from WES ECA to NCRB certificates, IELTS strategy to H-1B transitions. Book a free consultation today.
+Commonwealth Migration's licensed RCICs understand Indian applicants' profiles deeply — from WES ECA to NCRB certificates, IELTS strategy to H-1B transitions. Book a free consultation today.
 
 ## Canada Immigration from India - FAQ
 
@@ -225,7 +225,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists — Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -233,24 +233,24 @@ Ready to build your Canada plan? Speak with our licensed specialists — Sanjay 
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigrate/india#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigrate | https://visamastercanada.com/immigrate |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Free CRS Assessment | https://visamastercanada.com/free-assessment |
-| (647) 395-3471 | tel:+16473953471 |
-| → Express Entry (CEC) | https://visamastercanada.com/immigration/cec |
-| → Federal Skilled Worker | https://visamastercanada.com/immigration/fsw |
-| → Ontario OINP | https://visamastercanada.com/immigration/pnp |
-| → Family Sponsorship | https://visamastercanada.com/immigration/family-sponsorship |
-| Book consultation → | https://visamastercanada.com/book |
-| Learn more | https://visamastercanada.com/immigration/cec |
-| Learn more | https://visamastercanada.com/immigration/fsw |
-| Learn more | https://visamastercanada.com/immigration/pnp |
-| Learn more | https://visamastercanada.com/immigration/family-sponsorship |
-| Book Free Consultation | https://visamastercanada.com/contact |
+| Skip to main content | https://commonwealthmigration.ca/immigrate/india#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigrate | https://commonwealthmigration.ca/immigrate |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Free CRS Assessment | https://commonwealthmigration.ca/free-assessment |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Express Entry (CEC) | https://commonwealthmigration.ca/immigration/cec |
+| → Federal Skilled Worker | https://commonwealthmigration.ca/immigration/fsw |
+| → Ontario OINP | https://commonwealthmigration.ca/immigration/pnp |
+| → Family Sponsorship | https://commonwealthmigration.ca/immigration/family-sponsorship |
+| Book consultation → | https://commonwealthmigration.ca/book |
+| Learn more | https://commonwealthmigration.ca/immigration/cec |
+| Learn more | https://commonwealthmigration.ca/immigration/fsw |
+| Learn more | https://commonwealthmigration.ca/immigration/pnp |
+| Learn more | https://commonwealthmigration.ca/immigration/family-sponsorship |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
 
 ---
 
@@ -263,17 +263,17 @@ Ready to build your Canada plan? Speak with our licensed specialists — Sanjay 
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigrate/india#service","name":"Canada Immigration Consulting for Indian Applicants","description":"Licensed RCIC guidance for Indian nationals seeking Canadian permanent residence through Express Entry, PNP, family sponsorship, and the H-1B to Canada pathway.","areaServed":["Canada","India"],"serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"VMC Immigration Services","url":"https://visamastercanada.com","telephone":"+16473953471"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigrate","item":"https://visamastercanada.com/immigrate"},{"@type":"ListItem","position":3,"name":"Immigrate from India","item":"https://visamastercanada.com/immigrate/india"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigrate/india#service","name":"Canada Immigration Consulting for Indian Applicants","description":"Licensed RCIC guidance for Indian nationals seeking Canadian permanent residence through Express Entry, PNP, family sponsorship, and the H-1B to Canada pathway.","areaServed":["Canada","India"],"serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigrate","item":"https://commonwealthmigration.ca/immigrate"},{"@type":"ListItem","position":3,"name":"Immigrate from India","item":"https://commonwealthmigration.ca/immigrate/india"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigrate","item":"https://visamastercanada.com/immigrate"},{"@type":"ListItem","position":3,"name":"From India"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigrate","item":"https://commonwealthmigration.ca/immigrate"},{"@type":"ListItem","position":3,"name":"From India"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Should I take IELTS or CELPIP for Canada immigration from India?","acceptedAnswer":{"@type":"Answer","text":"Both IELTS General Training and CELPIP are accepted for Express Entry and most PNP streams. Many Indian applicants find CELPIP easier for Canadian English pronunciation and typing-based writing, while IELTS has more test centers across India. Target CLB 9 (IELTS 7.0 in all bands) for a competitive CRS score. VMC advises clients on which test format suits their strengths."}},{"@type":"Question","name":"How do I get a WES ECA for my Indian degree?","acceptedAnswer":{"@type":"Answer","text":"World Education Services (WES) is the most commonly used ECA agency for Indian degrees. Submit your transcripts through your university's registrar directly to WES. Universities in India include IITs, Delhi University, Mumbai University, Osmania, Anna University, and hundreds of others. Processing time is typically 60-90 business days. You need an ECA to claim education points in Express Entry FSW and PNP applications. For CEC, you have Canadian experience but WES ECA adds education CRS points."}},{"@type":"Question","name":"What is the average CRS score for Indian applicants?","acceptedAnswer":{"@type":"Answer","text":"Indian applicants typically score between 450-510 in the Express Entry pool under FSW, depending on age, education, language, and work experience. CEC applicants with Canadian work experience typically score higher. Category-based draws (healthcare, STEM, French language, trades) have invited candidates with scores as low as 400-440. A provincial nomination adds 600 CRS points — in recent draws, well above every published federal cutoff (IRCC sets the cutoff each round). VMC helps Indian clients maximize their CRS through job offers, French language, and PNP pathways."}},{"@type":"Question","name":"Can I use my H-1B US work experience to immigrate to Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes - this is one of the most popular current pathways for Indian IT professionals in the US. Your US work experience counts fully for Express Entry FSW and CEC (if you worked in Canada first). Many H-1B workers also obtain a Canadian work permit under the Canada-US-Mexico Agreement (CUSMA) or through an LMIA, accumulate 12 months of Canadian experience, and then apply through CEC. VMC specializes in the H-1B to Canada pathway."}},{"@type":"Question","name":"Which province is best for Indian immigrants?","acceptedAnswer":{"@type":"Answer","text":"Ontario is home to the largest Indian community (Brampton, Mississauga, Surrey BC). Ontario's new OINP Workforce Priority stream can nominate candidates with a qualifying Ontario job offer, but is competitive. British Columbia has a large South Asian community in Surrey, Richmond, and Abbotsford. Alberta's tech sector actively recruits Indian IT professionals. Atlantic provinces (NS, NB, NL, PEI) have less competition and faster processing under AIP. VMC assesses your occupation, language, and employer ties to recommend the right province."}},{"@type":"Question","name":"Do Indian engineers need to take the P.Eng exam before immigrating?","acceptedAnswer":{"@type":"Answer","text":"Getting a P.Eng (Professional Engineer license) in Canada requires assessment by provincial engineering associations (PEO in Ontario, APEGBC in BC, APEGA in Alberta). This process takes 1-2 years after arriving in Canada and may require technical exams, work experience under a P.Eng, and English proficiency tests. Immigrating to Canada does not require a P.Eng - you can work as an engineer-in-training or in non-regulated engineering roles first. VMC advises on immigration strategy independently of credential licensing."}},{"@type":"Question","name":"Can I sponsor my parents from India to come to Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes - once you are a Canadian PR or citizen, you can apply for the Parent and Grandparent Program (PGP) or the Super Visa. The PGP has a lottery-based application process with limited spots each year. The Super Visa allows parents to stay in Canada for up to 5 years per visit and is easier to obtain. VMC handles both Super Visa and PGP sponsorship applications for Indian families."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Should I take IELTS or CELPIP for Canada immigration from India?","acceptedAnswer":{"@type":"Answer","text":"Both IELTS General Training and CELPIP are accepted for Express Entry and most PNP streams. Many Indian applicants find CELPIP easier for Canadian English pronunciation and typing-based writing, while IELTS has more test centers across India. Target CLB 9 (IELTS 7.0 in all bands) for a competitive CRS score. Commonwealth Migration advises clients on which test format suits their strengths."}},{"@type":"Question","name":"How do I get a WES ECA for my Indian degree?","acceptedAnswer":{"@type":"Answer","text":"World Education Services (WES) is the most commonly used ECA agency for Indian degrees. Submit your transcripts through your university's registrar directly to WES. Universities in India include IITs, Delhi University, Mumbai University, Osmania, Anna University, and hundreds of others. Processing time is typically 60-90 business days. You need an ECA to claim education points in Express Entry FSW and PNP applications. For CEC, you have Canadian experience but WES ECA adds education CRS points."}},{"@type":"Question","name":"What is the average CRS score for Indian applicants?","acceptedAnswer":{"@type":"Answer","text":"Indian applicants typically score between 450-510 in the Express Entry pool under FSW, depending on age, education, language, and work experience. CEC applicants with Canadian work experience typically score higher. Category-based draws (healthcare, STEM, French language, trades) have invited candidates with scores as low as 400-440. A provincial nomination adds 600 CRS points — in recent draws, well above every published federal cutoff (IRCC sets the cutoff each round). Commonwealth Migration helps Indian clients maximize their CRS through job offers, French language, and PNP pathways."}},{"@type":"Question","name":"Can I use my H-1B US work experience to immigrate to Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes - this is one of the most popular current pathways for Indian IT professionals in the US. Your US work experience counts fully for Express Entry FSW and CEC (if you worked in Canada first). Many H-1B workers also obtain a Canadian work permit under the Canada-US-Mexico Agreement (CUSMA) or through an LMIA, accumulate 12 months of Canadian experience, and then apply through CEC. Commonwealth Migration specializes in the H-1B to Canada pathway."}},{"@type":"Question","name":"Which province is best for Indian immigrants?","acceptedAnswer":{"@type":"Answer","text":"Ontario is home to the largest Indian community (Brampton, Mississauga, Surrey BC). Ontario's new OINP Workforce Priority stream can nominate candidates with a qualifying Ontario job offer, but is competitive. British Columbia has a large South Asian community in Surrey, Richmond, and Abbotsford. Alberta's tech sector actively recruits Indian IT professionals. Atlantic provinces (NS, NB, NL, PEI) have less competition and faster processing under AIP. Commonwealth Migration assesses your occupation, language, and employer ties to recommend the right province."}},{"@type":"Question","name":"Do Indian engineers need to take the P.Eng exam before immigrating?","acceptedAnswer":{"@type":"Answer","text":"Getting a P.Eng (Professional Engineer license) in Canada requires assessment by provincial engineering associations (PEO in Ontario, APEGBC in BC, APEGA in Alberta). This process takes 1-2 years after arriving in Canada and may require technical exams, work experience under a P.Eng, and English proficiency tests. Immigrating to Canada does not require a P.Eng - you can work as an engineer-in-training or in non-regulated engineering roles first. Commonwealth Migration advises on immigration strategy independently of credential licensing."}},{"@type":"Question","name":"Can I sponsor my parents from India to come to Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes - once you are a Canadian PR or citizen, you can apply for the Parent and Grandparent Program (PGP) or the Super Visa. The PGP has a lottery-based application process with limited spots each year. The Super Visa allows parents to stay in Canada for up to 5 years per visit and is easier to obtain. Commonwealth Migration handles both Super Visa and PGP sponsorship applications for Indian families."}}]}
 ```

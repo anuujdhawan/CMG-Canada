@@ -1,7 +1,6 @@
 # Temporary Resident Permit: make the need to enter understandable
 
 > **Source URL:** https://commonwealthmigration.ca/appeals/temporary-resident-permit-canada
-> **Original Source URL:** https://visamastercanada.com/appeals/trp
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

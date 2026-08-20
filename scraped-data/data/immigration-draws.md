@@ -1,6 +1,6 @@
-# Canadian Immigration Draws 2026 - Express Entry & PNP Live Tracker | VMC
+# Canadian Immigration Draws 2026 - Express Entry & PNP Live Tracker | Commonwealth Migration
 
-> **Source URL:** https://visamastercanada.com/immigration-draws
+> **Source URL:** https://commonwealthmigration.ca/immigration-draws
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 1
 > **Status:** ✅ Unique English content (processed)
@@ -9,11 +9,11 @@
 
 ## SEO Metadata
 
-- **Title tag:** Canadian Immigration Draws 2026 - Express Entry & PNP Live Tracker | VMC
+- **Title tag:** Canadian Immigration Draws 2026 - Express Entry & PNP Live Tracker | Commonwealth Migration
 - **Meta description:** Every Canadian immigration draw in one place - Express Entry CRS cutoffs, BC PNP SIRS scores, OINP, AAIP, SINP and MPNP results. Updated after every federal and provincial draw. Check if your score qualifies today.
 - **Meta keywords:** Canadian immigration draws 2026,Express Entry draw results,PNP draw results,CRS cutoff 2026,BC PNP draw,OINP draw,AAIP draw,SINP draw,MPNP draw,latest immigration draw Canada,today immigration draw Canada,provincial nominee draw results
-- **Canonical URL:** https://visamastercanada.com/immigration-draws
-- **OG title:** Canadian Immigration Draws 2026 - Express Entry & PNP Live Tracker | VMC
+- **Canonical URL:** https://commonwealthmigration.ca/immigration-draws
+- **OG title:** Canadian Immigration Draws 2026 - Express Entry & PNP Live Tracker | Commonwealth Migration
 - **OG description:** Every Canadian immigration draw in one place - Express Entry CRS cutoffs, BC PNP SIRS scores, OINP, AAIP, SINP and MPNP results. Updated after every federal and provincial draw.
 - **Robots:** index, follow
 
@@ -213,7 +213,7 @@ Each province runs its own scoring system and cadence. BC PNP draws bi-weekly on
 
 Our licensed RCICs review your full profile - CRS score, occupation, language, provincial ties - and map your fastest pathway to Canadian PR. Free, no obligation.
 
-CICC-Regulated · Licensed RCIC R705959 · 200+ Families Reunited
+CICC-Regulated · Licensed current CICC registration · 200+ Families Reunited
 
 ---
 
@@ -221,48 +221,48 @@ CICC-Regulated · Licensed RCIC R705959 · 200+ Families Reunited
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration-draws#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Check My CRS Score -> | https://visamastercanada.com/tools/crs-calculator |
-| Free RCIC Assessment | https://visamastercanada.com/book |
-| (647) 395-3471 | tel:+16473953471 |
-| → Express Entry Draws | https://visamastercanada.com/draw-results |
-| → PNP Draw Results | https://visamastercanada.com/pnp-draws |
-| → CRS Calculator | https://visamastercanada.com/tools/crs-calculator |
-| → Book Assessment | https://visamastercanada.com/book |
-| View → | https://visamastercanada.com/immigration/pnp/alberta |
-| View → | https://visamastercanada.com/draw-results |
-| View → | https://visamastercanada.com/immigration/pnp/british-columbia |
-| View → | https://visamastercanada.com/immigration/pnp/manitoba |
-| LATEST Alberta Aug 12, 2026 EOI 60 cutoff AEE (Express Entry) 57 invited | https://visamastercanada.com/immigration/pnp/alberta |
-| Alberta Aug 11, 2026 EOI 51 cutoff Rural Renewal 127 invited | https://visamastercanada.com/immigration/pnp/alberta |
-| Federal (Express Entry) Aug 7, 2026 CRS 470 cutoff Transport 300 invited | https://visamastercanada.com/draw-results |
-| Alberta Aug 7, 2026 EOI 55 cutoff AEE (Express Entry) 38 invited | https://visamastercanada.com/immigration/pnp/alberta |
-| Federal (Express Entry) Aug 6, 2026 CRS 391 cutoff French 5,000 invited | https://visamastercanada.com/draw-results |
-| British Columbia Aug 6, 2026 SIRS 102 cutoff Intl. Graduate 183 invited | https://visamastercanada.com/immigration/pnp/british-columbia |
-| British Columbia Aug 6, 2026 SIRS 84 cutoff Health Authority 124 invited | https://visamastercanada.com/immigration/pnp/british-columbia |
-| British Columbia Aug 6, 2026 SIRS 68 cutoff Skills Worker 5 invited | https://visamastercanada.com/immigration/pnp/british-columbia |
-| Alberta Aug 6, 2026 EOI 60 cutoff Accelerated Tech 95 invited | https://visamastercanada.com/immigration/pnp/alberta |
-| Federal (Express Entry) Aug 5, 2026 CRS 516 cutoff CEC 3,000 invited | https://visamastercanada.com/draw-results |
-| Federal (Express Entry) Aug 4, 2026 CRS 768 cutoff PNP 507 invited | https://visamastercanada.com/draw-results |
-| Alberta Aug 4, 2026 EOI 66 cutoff AEE (Express Entry) 50 invited | https://visamastercanada.com/immigration/pnp/alberta |
-| Manitoba Jul 30, 2026 No cutoff cutoff Skilled Worker 74 invited | https://visamastercanada.com/immigration/pnp/manitoba |
-| British Columbia Jul 28, 2026 SIRS 117 cutoff Express Entry BC 10 invited | https://visamastercanada.com/immigration/pnp/british-columbia |
-| Federal (Express Entry) Jul 23, 2026 CRS 368 cutoff Skilled Military 4 invited | https://visamastercanada.com/draw-results |
-| British Columbia Jul 23, 2026 SIRS 50 cutoff Skills Worker 60 invited | https://visamastercanada.com/immigration/pnp/british-columbia |
-| Federal (Express Entry) Jul 22, 2026 CRS 399 cutoff French 5,000 invited | https://visamastercanada.com/draw-results |
-| Federal (Express Entry) Jul 21, 2026 CRS 516 cutoff CEC 2,000 invited | https://visamastercanada.com/draw-results |
-| Alberta Jul 21, 2026 EOI 65 cutoff AEE (Express Entry) 53 invited | https://visamastercanada.com/immigration/pnp/alberta |
-| Federal (Express Entry) Jul 20, 2026 CRS 744 cutoff PNP 511 invited | https://visamastercanada.com/draw-results |
-| Calculate My Exact CRS Score -> | https://visamastercanada.com/tools/crs-calculator |
-| BC PNP British Columbia View draws -> | https://visamastercanada.com/immigration/pnp/british-columbia |
-| OINP Ontario View draws -> | https://visamastercanada.com/immigration/pnp/ontario |
-| AAIP Alberta View draws -> | https://visamastercanada.com/immigration/pnp/alberta |
-| MPNP Manitoba View draws -> | https://visamastercanada.com/immigration/pnp/manitoba |
-| SINP Saskatchewan View draws -> | https://visamastercanada.com/immigration/pnp/saskatchewan |
-| Book Free Assessment -> | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/immigration-draws#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Check My CRS Score -> | https://commonwealthmigration.ca/tools/crs-calculator |
+| Free RCIC Assessment | https://commonwealthmigration.ca/book |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Express Entry Draws | https://commonwealthmigration.ca/draw-results |
+| → PNP Draw Results | https://commonwealthmigration.ca/pnp-draws |
+| → CRS Calculator | https://commonwealthmigration.ca/tools/crs-calculator |
+| → Book Assessment | https://commonwealthmigration.ca/book |
+| View → | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| View → | https://commonwealthmigration.ca/draw-results |
+| View → | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| View → | https://commonwealthmigration.ca/immigration/pnp/manitoba |
+| LATEST Alberta Aug 12, 2026 EOI 60 cutoff AEE (Express Entry) 57 invited | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| Alberta Aug 11, 2026 EOI 51 cutoff Rural Renewal 127 invited | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| Federal (Express Entry) Aug 7, 2026 CRS 470 cutoff Transport 300 invited | https://commonwealthmigration.ca/draw-results |
+| Alberta Aug 7, 2026 EOI 55 cutoff AEE (Express Entry) 38 invited | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| Federal (Express Entry) Aug 6, 2026 CRS 391 cutoff French 5,000 invited | https://commonwealthmigration.ca/draw-results |
+| British Columbia Aug 6, 2026 SIRS 102 cutoff Intl. Graduate 183 invited | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| British Columbia Aug 6, 2026 SIRS 84 cutoff Health Authority 124 invited | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| British Columbia Aug 6, 2026 SIRS 68 cutoff Skills Worker 5 invited | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| Alberta Aug 6, 2026 EOI 60 cutoff Accelerated Tech 95 invited | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| Federal (Express Entry) Aug 5, 2026 CRS 516 cutoff CEC 3,000 invited | https://commonwealthmigration.ca/draw-results |
+| Federal (Express Entry) Aug 4, 2026 CRS 768 cutoff PNP 507 invited | https://commonwealthmigration.ca/draw-results |
+| Alberta Aug 4, 2026 EOI 66 cutoff AEE (Express Entry) 50 invited | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| Manitoba Jul 30, 2026 No cutoff cutoff Skilled Worker 74 invited | https://commonwealthmigration.ca/immigration/pnp/manitoba |
+| British Columbia Jul 28, 2026 SIRS 117 cutoff Express Entry BC 10 invited | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| Federal (Express Entry) Jul 23, 2026 CRS 368 cutoff Skilled Military 4 invited | https://commonwealthmigration.ca/draw-results |
+| British Columbia Jul 23, 2026 SIRS 50 cutoff Skills Worker 60 invited | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| Federal (Express Entry) Jul 22, 2026 CRS 399 cutoff French 5,000 invited | https://commonwealthmigration.ca/draw-results |
+| Federal (Express Entry) Jul 21, 2026 CRS 516 cutoff CEC 2,000 invited | https://commonwealthmigration.ca/draw-results |
+| Alberta Jul 21, 2026 EOI 65 cutoff AEE (Express Entry) 53 invited | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| Federal (Express Entry) Jul 20, 2026 CRS 744 cutoff PNP 511 invited | https://commonwealthmigration.ca/draw-results |
+| Calculate My Exact CRS Score -> | https://commonwealthmigration.ca/tools/crs-calculator |
+| BC PNP British Columbia View draws -> | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| OINP Ontario View draws -> | https://commonwealthmigration.ca/immigration/pnp/ontario |
+| AAIP Alberta View draws -> | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| MPNP Manitoba View draws -> | https://commonwealthmigration.ca/immigration/pnp/manitoba |
+| SINP Saskatchewan View draws -> | https://commonwealthmigration.ca/immigration/pnp/saskatchewan |
+| Book Free Assessment -> | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -275,7 +275,7 @@ CICC-Regulated · Licensed RCIC R705959 · 200+ Families Reunited
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
@@ -283,9 +283,9 @@ CICC-Regulated · Licensed RCIC R705959 · 200+ Families Reunited
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"ItemList","name":"Latest Canadian Immigration Draws 2026","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"name":"Alberta - AEE (Express Entry) (August 12, 2026)","url":"https://visamastercanada.com/immigration/pnp/alberta"},{"@type":"ListItem","position":2,"name":"Alberta - Rural Renewal (August 11, 2026)","url":"https://visamastercanada.com/immigration/pnp/alberta"},{"@type":"ListItem","position":3,"name":"Federal (Express Entry) - Transport (August 7, 2026)","url":"https://visamastercanada.com/draw-results"},{"@type":"ListItem","position":4,"name":"Alberta - AEE (Express Entry) (August 7, 2026)","url":"https://visamastercanada.com/immigration/pnp/alberta"},{"@type":"ListItem","position":5,"name":"Federal (Express Entry) - French (August 6, 2026)","url":"https://visamastercanada.com/draw-results"},{"@type":"ListItem","position":6,"name":"British Columbia - Intl. Graduate (August 6, 2026)","url":"https://visamastercanada.com/immigration/pnp/british-columbia"},{"@type":"ListItem","position":7,"name":"British Columbia - Health Authority (August 6, 2026)","url":"https://visamastercanada.com/immigration/pnp/british-columbia"},{"@type":"ListItem","position":8,"name":"British Columbia - Skills Worker (August 6, 2026)","url":"https://visamastercanada.com/immigration/pnp/british-columbia"},{"@type":"ListItem","position":9,"name":"Alberta - Accelerated Tech (August 6, 2026)","url":"https://visamastercanada.com/immigration/pnp/alberta"},{"@type":"ListItem","position":10,"name":"Federal (Express Entry) - CEC (August 5, 2026)","url":"https://visamastercanada.com/draw-results"}]}
+{"@context":"https://schema.org","@type":"ItemList","name":"Latest Canadian Immigration Draws 2026","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"name":"Alberta - AEE (Express Entry) (August 12, 2026)","url":"https://commonwealthmigration.ca/immigration/pnp/alberta"},{"@type":"ListItem","position":2,"name":"Alberta - Rural Renewal (August 11, 2026)","url":"https://commonwealthmigration.ca/immigration/pnp/alberta"},{"@type":"ListItem","position":3,"name":"Federal (Express Entry) - Transport (August 7, 2026)","url":"https://commonwealthmigration.ca/draw-results"},{"@type":"ListItem","position":4,"name":"Alberta - AEE (Express Entry) (August 7, 2026)","url":"https://commonwealthmigration.ca/immigration/pnp/alberta"},{"@type":"ListItem","position":5,"name":"Federal (Express Entry) - French (August 6, 2026)","url":"https://commonwealthmigration.ca/draw-results"},{"@type":"ListItem","position":6,"name":"British Columbia - Intl. Graduate (August 6, 2026)","url":"https://commonwealthmigration.ca/immigration/pnp/british-columbia"},{"@type":"ListItem","position":7,"name":"British Columbia - Health Authority (August 6, 2026)","url":"https://commonwealthmigration.ca/immigration/pnp/british-columbia"},{"@type":"ListItem","position":8,"name":"British Columbia - Skills Worker (August 6, 2026)","url":"https://commonwealthmigration.ca/immigration/pnp/british-columbia"},{"@type":"ListItem","position":9,"name":"Alberta - Accelerated Tech (August 6, 2026)","url":"https://commonwealthmigration.ca/immigration/pnp/alberta"},{"@type":"ListItem","position":10,"name":"Federal (Express Entry) - CEC (August 5, 2026)","url":"https://commonwealthmigration.ca/draw-results"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration Draws"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration Draws"}]}
 ```

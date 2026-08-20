@@ -6,6 +6,7 @@ import { ArrowRight, Award, ChevronRight, Clock, ShieldCheck } from "lucide-reac
 import { motion, useScroll, useTransform, useReducedMotion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { HERO_PADDING, HERO_TITLE_CLASS } from "@/lib/hero";
+import HeroCarousel from "@/components/home/HeroCarousel";
 import MapleLeaves from "@/components/sections/MapleLeaves";
 import BigMapleLeaf from "@/components/sections/BigMapleLeaf";
 
@@ -28,7 +29,7 @@ export default function HeroBanner({
   trustBadges = [],
   children,
   variant = "default",
-}) {
+  backgroundSlides}) {
   const ref = useRef(null);
   const { scrollYProgress } = useScroll({ target: ref, offset: ["start start", "end start"] });
   const shouldReduce = useReducedMotion() ?? false;
@@ -38,19 +39,27 @@ export default function HeroBanner({
   const contentOpacity = useTransform(scrollYProgress, [0, 0.7], [1, 0]);
   const contentStyle = shouldReduce ? undefined : { y: contentY, opacity: contentOpacity, willChange: "transform" };
   const isHomepage = variant === "home";
+  const isImageHero = isHomepage || variant === "service";
 
   return (
     <motion.section
       ref={ref}
       aria-label="Page introduction"
-      className={cn("relative overflow-hidden text-white", HERO_PADDING, isHomepage ? "homepage-hero" : "site-page-hero", className)}
+      className={cn(
+        "relative overflow-hidden text-white",
+        HERO_PADDING,
+        isHomepage ? "homepage-hero" : "site-page-hero",
+        isImageHero && "cmg-image-hero",
+        className
+      )}
       style={{ isolation: "isolate" }}
     >
+      {isImageHero && <HeroCarousel slides={backgroundSlides} />}
       <div aria-hidden className="pointer-events-none absolute inset-0 hero-tex-grid opacity-[0.08]" />
       <motion.div className="hero-light-orb hero-light-orb--left" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
       <motion.div className="hero-light-orb hero-light-orb--right" style={shouldReduce ? {} : { y: glowY }} aria-hidden />
-      <MapleLeaves />
-      <BigMapleLeaf />
+      {!isImageHero && <MapleLeaves />}
+      {!isImageHero && <BigMapleLeaf />}
 
       <div className="hero-inner site-container relative z-10">
         <motion.div className="hero-copy w-full max-w-4xl" style={contentStyle}>

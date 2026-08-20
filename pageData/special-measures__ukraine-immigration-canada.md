@@ -1,7 +1,6 @@
 # Ukraine immigration options: confirm temporary status and the next route
 
 > **Source URL:** https://commonwealthmigration.ca/special-measures/ukraine-immigration-canada
-> **Original Source URL:** https://visamastercanada.com/special-measures/ukraine
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,7 +1,6 @@
 # Gaza and Palestine measures: check eligibility, dates and status
 
 > **Source URL:** https://commonwealthmigration.ca/special-measures/gaza-immigration-canada
-> **Original Source URL:** https://visamastercanada.com/special-measures/gaza
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

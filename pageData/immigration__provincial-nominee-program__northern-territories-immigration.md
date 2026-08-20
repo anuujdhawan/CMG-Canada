@@ -1,7 +1,6 @@
 # Yukon, Northwest Territories and Nunavut PNP: build the provincial case around the live stream
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/provincial-nominee-program/northern-territories-immigration
-> **Original Source URL:** https://visamastercanada.com/immigration/pnp/northern
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

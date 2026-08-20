@@ -1,7 +1,6 @@
 # CRS score explained: research the decision before the form
 
 > **Source URL:** https://commonwealthmigration.ca/blog/crs-score-canada
-> **Original Source URL:** https://visamastercanada.com/blog/express-entry-crs-score-explained
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

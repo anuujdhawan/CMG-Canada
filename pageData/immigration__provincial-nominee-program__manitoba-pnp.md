@@ -1,7 +1,6 @@
 # Manitoba PNP: build the provincial case around the live stream
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/provincial-nominee-program/manitoba-pnp
-> **Original Source URL:** https://visamastercanada.com/immigration/pnp/manitoba
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

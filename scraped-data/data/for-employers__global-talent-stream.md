@@ -1,6 +1,6 @@
 # Global Talent Stream Canada 2026 | 2-Week Tech Hiring | GTS LMIA | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/for-employers/global-talent-stream
+> **Source URL:** https://commonwealthmigration.ca/for-employers/global-talent-stream
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,9 +12,9 @@
 - **Title tag:** Global Talent Stream Canada 2026 | 2-Week Tech Hiring | GTS LMIA | Licensed RCIC
 - **Meta description:** Hire international tech talent in approximately 2 weeks via Canada's Global Talent Stream. Category A and B, LMBP, eligible NOC codes. Licensed RCIC guidance.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/for-employers/global-talent-stream
+- **Canonical URL:** https://commonwealthmigration.ca/for-employers/global-talent-stream
 - **OG title:** Global Talent Stream Canada 2026 | 2-Week Fast-Track Tech Hiring | Licensed RCIC
-- **OG description:** ~2-week processing for tech and innovation. Category A (designated partner) and Category B (in-demand list). Labour Market Benefits Plan. VMC licensed RCIC.
+- **OG description:** ~2-week processing for tech and innovation. Category A (designated partner) and Category B (in-demand list). Labour Market Benefits Plan. Commonwealth Migration licensed RCIC.
 - **Robots:** index, follow
 
 ## Heading Outline
@@ -77,7 +77,7 @@
 
 # Global Talent Stream - Hire Tech Talent in 2 Weeks
 
-The Global Talent Stream (GTS) is Canada's fast-track LMIA program for tech and innovation employers. With a 2-business-day processing target at both ESDC and IRCC, your candidate can have a valid work permit in approximately 2 weeks. VMC's licensed RCICs prepare complete GTS applications - Category A, Category B, and Labour Market Benefits Plan - and support the work permit through to approval.
+The Global Talent Stream (GTS) is Canada's fast-track LMIA program for tech and innovation employers. With a 2-business-day processing target at both ESDC and IRCC, your candidate can have a valid work permit in approximately 2 weeks. Commonwealth Migration's licensed RCICs prepare complete GTS applications - Category A, Category B, and Labour Market Benefits Plan - and support the work permit through to approval.
 
 GTS at a glance
 
@@ -211,7 +211,7 @@ Your position must exactly match an occupation on ESDC's GTS in-demand occupatio
 
 #### Important Caution
 
-The in-demand occupations list is updated periodically by ESDC. A position that was on the list last year may have been removed. VMC verifies current NOC eligibility before submission.
+The in-demand occupations list is updated periodically by ESDC. A position that was on the list last year may have been removed. Commonwealth Migration verifies current NOC eligibility before submission.
 
 #### Best for:
 
@@ -219,7 +219,7 @@ Any employer hiring in clearly defined tech roles on the ESDC list - especially 
 
 ## GTS In-Demand Occupations List (Category B)
 
-The following occupations represent current key roles on the ESDC Global Talent Stream in-demand list. The complete list is maintained by ESDC and updated periodically - VMC verifies current eligibility for your specific NOC before filing.
+The following occupations represent current key roles on the ESDC Global Talent Stream in-demand list. The complete list is maintained by ESDC and updated periodically - Commonwealth Migration verifies current eligibility for your specific NOC before filing.
 
 | NOC Code |
 | Occupation Title |
@@ -257,11 +257,11 @@ The following occupations represent current key roles on the ESDC Global Talent 
 
 ### ESDC Updates the List Regularly
 
-The in-demand occupations list is maintained by Employment and Social Development Canada and changes from time to time - occupations are added or removed based on labour market conditions. VMC verifies the current list against your specific NOC before preparing any GTS application. Do not assume a position is eligible based on older information.
+The in-demand occupations list is maintained by Employment and Social Development Canada and changes from time to time - occupations are added or removed based on labour market conditions. Commonwealth Migration verifies the current list against your specific NOC before preparing any GTS application. Do not assume a position is eligible based on older information.
 
 ### Hire Tech Talent in 2 Weeks with GTS
 
-VMC prepares complete GTS applications - Category A, Category B, and Labour Market Benefits Plan - and supports the work permit through to approval. Book a free employer consultation to confirm your eligibility.
+Commonwealth Migration prepares complete GTS applications - Category A, Category B, and Labour Market Benefits Plan - and supports the work permit through to approval. Book a free employer consultation to confirm your eligibility.
 
 ## How GTS Achieves 2-Week Processing
 
@@ -271,7 +271,7 @@ GTS processing speed comes from ESDC and IRCC service standards - both agencies 
 
 #### Employer Preparation
 
-Employer contacts designated partner (Cat A) or confirms position on in-demand list (Cat B). Gathers job description, wage evidence, and corporate documents. VMC prepares LMBP.
+Employer contacts designated partner (Cat A) or confirms position on in-demand list (Cat B). Gathers job description, wage evidence, and corporate documents. Commonwealth Migration prepares LMBP.
 
 #### GTS LMIA Application Submitted to ESDC
 
@@ -338,7 +338,7 @@ Committing to recruitment of and support for underrepresented groups - Indigenou
 
 ### Annual Compliance Reporting
 
-ESDC requires annual reports on LMBP progress. VMC helps employers track and document their LMBP commitments throughout the year so the annual report is straightforward to complete.
+ESDC requires annual reports on LMBP progress. Commonwealth Migration helps employers track and document their LMBP commitments throughout the year so the annual report is straightforward to complete.
 
 ### LMBP Quality Matters
 
@@ -373,7 +373,7 @@ Contact a designated GTS partner organization. Describe your company and the rol
 
 #### Prepare Labour Market Benefits Plan
 
-Draft specific, measurable commitments to benefit the Canadian labour market. Include timelines, milestones, and accountability mechanisms. VMC helps align the LMBP with your company's realistic capacity.
+Draft specific, measurable commitments to benefit the Canadian labour market. Include timelines, milestones, and accountability mechanisms. Commonwealth Migration helps align the LMBP with your company's realistic capacity.
 
 #### Compile LMIA Application Documents
 
@@ -391,7 +391,7 @@ With the positive LMIA number, the worker applies for a work permit at IRCC (onl
 
 GTS workers gain Canadian work experience in skilled tech occupations. After 12 months of full-time skilled work in Canada (NOC TEER 0, 1, 2, or 3), they qualify for the Canadian Experience Class (CEC) stream in Express Entry - one of the highest-scoring Express Entry streams.
 
-Many GTS workers in software engineering and data science occupations score well in Express Entry category-based draws targeting STEM occupations. VMC advises GTS workers on their PR pathway from day one of their Canadian employment.
+Many GTS workers in software engineering and data science occupations score well in Express Entry category-based draws targeting STEM occupations. Commonwealth Migration advises GTS workers on their PR pathway from day one of their Canadian employment.
 
 ## Global Talent Stream FAQ
 
@@ -407,7 +407,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -415,28 +415,28 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/for-employers/global-talent-stream#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| For Employers | https://visamastercanada.com/for-employers |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| Standard LMIA Services | https://visamastercanada.com/for-employers/lmia |
-| (647) 395-3471 | tel:+16473953471 |
-| → LMIA-Exempt for Employers | https://visamastercanada.com/for-employers/lmia-exempt |
-| → Intra-Company Transfer | https://visamastercanada.com/for-employers/intra-company-transfer |
-| → Standard LMIA | https://visamastercanada.com/for-employers/lmia |
-| → Employer Compliance | https://visamastercanada.com/for-employers/employer-compliance |
-| Book Free Consultation → | https://visamastercanada.com/free-assessment |
-| Express Entry and PR pathways | https://visamastercanada.com/immigration/express-entry |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| LMIA-Exempt for Employers → | https://visamastercanada.com/for-employers/lmia-exempt |
-| Intra-Company Transfer → | https://visamastercanada.com/for-employers/intra-company-transfer |
-| Standard LMIA → | https://visamastercanada.com/for-employers/lmia |
-| Employer Compliance → | https://visamastercanada.com/for-employers/employer-compliance |
-| Express Entry → | https://visamastercanada.com/immigration/express-entry |
-| All Employer Services → | https://visamastercanada.com/for-employers |
-| Book Free Consultation → | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/for-employers/global-talent-stream#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| For Employers | https://commonwealthmigration.ca/for-employers |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Standard LMIA Services | https://commonwealthmigration.ca/for-employers/lmia |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → LMIA-Exempt for Employers | https://commonwealthmigration.ca/for-employers/lmia-exempt |
+| → Intra-Company Transfer | https://commonwealthmigration.ca/for-employers/intra-company-transfer |
+| → Standard LMIA | https://commonwealthmigration.ca/for-employers/lmia |
+| → Employer Compliance | https://commonwealthmigration.ca/for-employers/employer-compliance |
+| Book Free Consultation → | https://commonwealthmigration.ca/free-assessment |
+| Express Entry and PR pathways | https://commonwealthmigration.ca/immigration/express-entry |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| LMIA-Exempt for Employers → | https://commonwealthmigration.ca/for-employers/lmia-exempt |
+| Intra-Company Transfer → | https://commonwealthmigration.ca/for-employers/intra-company-transfer |
+| Standard LMIA → | https://commonwealthmigration.ca/for-employers/lmia |
+| Employer Compliance → | https://commonwealthmigration.ca/for-employers/employer-compliance |
+| Express Entry → | https://commonwealthmigration.ca/immigration/express-entry |
+| All Employer Services → | https://commonwealthmigration.ca/for-employers |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -449,17 +449,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/for-employers/global-talent-stream#service","name":"Global Talent Stream (GTS) LMIA Services Canada","description":"Fast-track LMIA for tech and innovation. Category A and B GTS applications, Labour Market Benefits Plan preparation, work permit support. ~2-week processing target. Licensed RCIC.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://visamastercanada.com/for-employers"},{"@type":"ListItem","position":3,"name":"Global Talent Stream","item":"https://visamastercanada.com/for-employers/global-talent-stream"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/for-employers/global-talent-stream#service","name":"Global Talent Stream (GTS) LMIA Services Canada","description":"Fast-track LMIA for tech and innovation. Category A and B GTS applications, Labour Market Benefits Plan preparation, work permit support. ~2-week processing target. Licensed RCIC.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://commonwealthmigration.ca/for-employers"},{"@type":"ListItem","position":3,"name":"Global Talent Stream","item":"https://commonwealthmigration.ca/for-employers/global-talent-stream"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://visamastercanada.com/for-employers"},{"@type":"ListItem","position":3,"name":"Global Talent Stream"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"For Employers","item":"https://commonwealthmigration.ca/for-employers"},{"@type":"ListItem","position":3,"name":"Global Talent Stream"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a referral from a designated partner to use the Global Talent Stream?","acceptedAnswer":{"@type":"Answer","text":"Only if you are applying under Category A. Category A requires a referral letter from a designated GTS partner organization - such as Invest in Canada, a provincial innovation agency, or an approved industry body like MaRS or CATA. If the position is on ESDC's in-demand occupations list, you can apply under Category B without any referral. VMC helps you determine which category applies and, if needed, advises on how to connect with designated partners."}},{"@type":"Question","name":"What is the minimum wage requirement for Global Talent Stream?","acceptedAnswer":{"@type":"Answer","text":"ESDC requires that GTS workers be paid at the prevailing wage for the occupation in the region. For most tech occupations in major Canadian cities, this typically works out to approximately $38.46/hour or higher (roughly $80,000+ annually). The exact prevailing wage floor varies by NOC code and province - VMC verifies the current wage floor for your specific position and location before application."}},{"@type":"Question","name":"Can a startup or small company use the Global Talent Stream?","acceptedAnswer":{"@type":"Answer","text":"Yes. GTS was specifically designed to help Canadian tech startups and scale-ups access talent quickly. Startups without an existing relationship with a designated partner may find Category A challenging, but Category B is available to any employer with a qualifying occupation on the in-demand list. The Labour Market Benefits Plan must still be submitted, but ESDC works with smaller companies on proportionate commitments."}},{"@type":"Question","name":"How long is the work permit issued after a positive GTS LMIA?","acceptedAnswer":{"@type":"Answer","text":"Work permits issued after a positive GTS LMIA are typically issued for the duration of the job offer stated in the LMIA, up to a maximum of 2 years for the initial permit. Extensions are possible. The LMIA itself is valid for 18 months from the date of issue - the worker must apply for the work permit within that window."}},{"@type":"Question","name":"Can GTS workers bring their family to Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes. Spouses and common-law partners of GTS workers in NOC TEER 0 or 1 occupations are eligible for an open work permit. Dependent children can study in Canada on study permits. VMC handles the work permit for the principal applicant and all accompanying family member applications together to minimize delays."}},{"@type":"Question","name":"What happens if ESDC does not meet the 2-week processing target?","acceptedAnswer":{"@type":"Answer","text":"The 2-week processing target is a service standard, not a legal guarantee. ESDC typically meets the target when the application is complete and correctly submitted. Incomplete applications, missing LMBP details, or errors in the job description can delay processing. VMC prepares complete, well-documented applications to maximize the chance of meeting the 2-week target. If ESDC requests additional information, VMC responds promptly."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a referral from a designated partner to use the Global Talent Stream?","acceptedAnswer":{"@type":"Answer","text":"Only if you are applying under Category A. Category A requires a referral letter from a designated GTS partner organization - such as Invest in Canada, a provincial innovation agency, or an approved industry body like MaRS or CATA. If the position is on ESDC's in-demand occupations list, you can apply under Category B without any referral. Commonwealth Migration helps you determine which category applies and, if needed, advises on how to connect with designated partners."}},{"@type":"Question","name":"What is the minimum wage requirement for Global Talent Stream?","acceptedAnswer":{"@type":"Answer","text":"ESDC requires that GTS workers be paid at the prevailing wage for the occupation in the region. For most tech occupations in major Canadian cities, this typically works out to approximately $38.46/hour or higher (roughly $80,000+ annually). The exact prevailing wage floor varies by NOC code and province - Commonwealth Migration verifies the current wage floor for your specific position and location before application."}},{"@type":"Question","name":"Can a startup or small company use the Global Talent Stream?","acceptedAnswer":{"@type":"Answer","text":"Yes. GTS was specifically designed to help Canadian tech startups and scale-ups access talent quickly. Startups without an existing relationship with a designated partner may find Category A challenging, but Category B is available to any employer with a qualifying occupation on the in-demand list. The Labour Market Benefits Plan must still be submitted, but ESDC works with smaller companies on proportionate commitments."}},{"@type":"Question","name":"How long is the work permit issued after a positive GTS LMIA?","acceptedAnswer":{"@type":"Answer","text":"Work permits issued after a positive GTS LMIA are typically issued for the duration of the job offer stated in the LMIA, up to a maximum of 2 years for the initial permit. Extensions are possible. The LMIA itself is valid for 18 months from the date of issue - the worker must apply for the work permit within that window."}},{"@type":"Question","name":"Can GTS workers bring their family to Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes. Spouses and common-law partners of GTS workers in NOC TEER 0 or 1 occupations are eligible for an open work permit. Dependent children can study in Canada on study permits. Commonwealth Migration handles the work permit for the principal applicant and all accompanying family member applications together to minimize delays."}},{"@type":"Question","name":"What happens if ESDC does not meet the 2-week processing target?","acceptedAnswer":{"@type":"Answer","text":"The 2-week processing target is a service standard, not a legal guarantee. ESDC typically meets the target when the application is complete and correctly submitted. Incomplete applications, missing LMBP details, or errors in the job description can delay processing. Commonwealth Migration prepares complete, well-documented applications to maximize the chance of meeting the 2-week target. If ESDC requests additional information, Commonwealth Migration responds promptly."}}]}
 ```

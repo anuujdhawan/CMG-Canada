@@ -1,6 +1,6 @@
 # Visitor Visa (TRV) Application - Document Checklist 2026
 
-> **Source URL:** https://visamastercanada.com/resources/document-checklist/visitor-visa
+> **Source URL:** https://commonwealthmigration.ca/resources/document-checklist/visitor-visa
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Visitor Visa (TRV) Application - Document Checklist 2026
 - **Meta description:** Complete document checklist for a Canadian visitor visa (TRV), with tips on proving ties to your home country, the most common refusal reason. Free guide.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/resources/document-checklist/visitor-visa
+- **Canonical URL:** https://commonwealthmigration.ca/resources/document-checklist/visitor-visa
 - **OG title:** Visitor Visa (TRV) Application - Document Checklist 2026
 - **OG description:** Complete document checklist for a Canadian visitor visa (TRV), with tips on proving ties to your home country, the most common refusal reason. Free guide.
 - **Robots:** index, follow
@@ -89,13 +89,13 @@ Strong proof of intent to leave Canada on a specific date
 
 ### My visitor visa was refused. What should I do?
 
-Read the refusal letter carefully - it states the officer's specific concerns. A new application must directly address each concern. VMC specializes in rebuilding refused visitor visa applications. Simply reapplying with the same documents will result in another refusal.
+Read the refusal letter carefully - it states the officer's specific concerns. A new application must directly address each concern. Commonwealth Migration specializes in rebuilding refused visitor visa applications. Simply reapplying with the same documents will result in another refusal.
 
 ### How long can I stay in Canada on a visitor visa?
 
 A visitor visa itself does not determine how long you can stay - the border officer decides at the port of entry, typically 6 months. Your actual authorized stay is stamped in your passport or on your visitor record.
 
-This checklist was prepared by licensed RCICs at VMC Immigration Services and is updated regularly. It is for informational purposes only. Always verify current requirements at ircc.canada.ca. Individual circumstances vary - consult a licensed RCIC for advice specific to your case.
+This checklist was prepared by licensed RCICs at Commonwealth Migration Canada and is updated regularly. It is for informational purposes only. Always verify current requirements at ircc.canada.ca. Individual circumstances vary - consult a licensed RCIC for advice specific to your case.
 
 ## Ready to start your Visitor Visa application?
 
@@ -109,15 +109,15 @@ Also see: All checklists · Processing times · Express Entry draws
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/resources/document-checklist/visitor-visa#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Learn more about Visitor Visa → | https://visamastercanada.com/immigration/visitor-visa |
-| View IRCC Processing Times → | https://visamastercanada.com/resources/processing-times |
-| 📅 Book Free Consultation | https://visamastercanada.com/book |
-| All checklists | https://visamastercanada.com/resources/document-checklist |
-| Processing times | https://visamastercanada.com/resources/processing-times |
-| Express Entry draws | https://visamastercanada.com/draw-results |
+| Skip to main content | https://commonwealthmigration.ca/resources/document-checklist/visitor-visa#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Learn more about Visitor Visa → | https://commonwealthmigration.ca/immigration/visitor-visa |
+| View IRCC Processing Times → | https://commonwealthmigration.ca/resources/processing-times |
+| 📅 Book Free Consultation | https://commonwealthmigration.ca/book |
+| All checklists | https://commonwealthmigration.ca/resources/document-checklist |
+| Processing times | https://commonwealthmigration.ca/resources/processing-times |
+| Express Entry draws | https://commonwealthmigration.ca/draw-results |
 ---
 
 ## Image Alt Texts
@@ -129,13 +129,13 @@ Also see: All checklists · Processing times · Express Entry draws
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"My visitor visa was refused. What should I do?","acceptedAnswer":{"@type":"Answer","text":"Read the refusal letter carefully - it states the officer's specific concerns. A new application must directly address each concern. VMC specializes in rebuilding refused visitor visa applications. Simply reapplying with the same documents will result in another refusal."}},{"@type":"Question","name":"How long can I stay in Canada on a visitor visa?","acceptedAnswer":{"@type":"Answer","text":"A visitor visa itself does not determine how long you can stay - the border officer decides at the port of entry, typically 6 months. Your actual authorized stay is stamped in your passport or on your visitor record."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"My visitor visa was refused. What should I do?","acceptedAnswer":{"@type":"Answer","text":"Read the refusal letter carefully - it states the officer's specific concerns. A new application must directly address each concern. Commonwealth Migration specializes in rebuilding refused visitor visa applications. Simply reapplying with the same documents will result in another refusal."}},{"@type":"Question","name":"How long can I stay in Canada on a visitor visa?","acceptedAnswer":{"@type":"Answer","text":"A visitor visa itself does not determine how long you can stay - the border officer decides at the port of entry, typically 6 months. Your actual authorized stay is stamped in your passport or on your visitor record."}}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Resources","item":"https://visamastercanada.com/resources"},{"@type":"ListItem","position":3,"name":"Document Checklists","item":"https://visamastercanada.com/resources/document-checklist"},{"@type":"ListItem","position":4,"name":"Visitor Visa","item":"https://visamastercanada.com/resources/document-checklist/visitor-visa"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Resources","item":"https://commonwealthmigration.ca/resources"},{"@type":"ListItem","position":3,"name":"Document Checklists","item":"https://commonwealthmigration.ca/resources/document-checklist"},{"@type":"ListItem","position":4,"name":"Visitor Visa","item":"https://commonwealthmigration.ca/resources/document-checklist/visitor-visa"}]}
 ```

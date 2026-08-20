@@ -1,7 +1,6 @@
 # Express Entry Draw Results 2026
 
 > **Source URL:** https://commonwealthmigration.ca/resources/express-entry-draw-results
-> **Original Source URL:** https://visamastercanada.com/draw-results
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 1
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,7 +1,6 @@
 # About Commonwealth Migration Canada
 
 > **Source URL:** https://commonwealthmigration.ca/about/about-commonwealth-migration
-> **Original Source URL:** https://visamastercanada.com/about-us
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

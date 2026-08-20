@@ -2,8 +2,7 @@
 
 import { site } from "@/config/site";
 
-const phoneDigits = site.phone.replace(/[^0-9]/g, "");
-const whatsappHref = process.env.NEXT_PUBLIC_WHATSAPP_URL || `https://wa.me/${phoneDigits}`;
+const whatsappHref = site.whatsappUrl;
 const whatsappColor = process.env.NEXT_PUBLIC_WHATSAPP_BUBBLE_COLOR || "var(--brand-primary)";
 
 /** Sitewide WhatsApp handoff bubble. The URL and brand color are env-configurable. */
@@ -13,8 +12,8 @@ export default function WhatsAppBubble() {
       href={whatsappHref}
       target="_blank"
       rel="noopener noreferrer"
-      aria-label="Chat with us on WhatsApp"
-      title="Chat with us on WhatsApp"
+      aria-label="Contact us online"
+      title="Contact us online"
       className="cmg-whatsapp-bubble"
       style={{ "--whatsapp-bubble-color": whatsappColor }}
     >
@@ -39,7 +38,7 @@ export default function WhatsAppBubble() {
           </g>
         </svg>
       </span>
-      <span className="sr-only">Chat with us on WhatsApp</span>
+      <span className="sr-only">Contact us online</span>
     </a>
   );
 }

@@ -1,7 +1,6 @@
 # Canada Immigration Information Disclaimer
 
 > **Source URL:** https://commonwealthmigration.ca/legal/canada-immigration-disclaimer
-> **Original Source URL:** https://visamastercanada.com/disclaimer
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.4
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,6 +1,6 @@
-# Refugee Claim Canada 2026 | PRRA, Protected Persons PR, IRB Specialist | VMC Immigration
+# Refugee Claim Canada 2026 | PRRA, Protected Persons PR, IRB Specialist | Commonwealth Migration
 
-> **Source URL:** https://visamastercanada.com/immigration/refugees
+> **Source URL:** https://commonwealthmigration.ca/immigration/refugees
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -9,11 +9,11 @@
 
 ## SEO Metadata
 
-- **Title tag:** Refugee Claim Canada 2026 | PRRA, Protected Persons PR, IRB Specialist | VMC Immigration
-- **Meta description:** Licensed RCIC and in-house IRB specialist assistance for in-Canada refugee claims, Pre-Removal Risk Assessment (PRRA), protected persons PR applications, refugee travel documents, and family reunification. Amanpreet Kaur, VMC's IRB Specialist, serves clients across Canada from Brampton, Ontario.
+- **Title tag:** Refugee Claim Canada 2026 | PRRA, Protected Persons PR, IRB Specialist | Commonwealth Migration
+- **Meta description:** Licensed RCIC and refugee case-planning assistance for in-Canada refugee claims, Pre-Removal Risk Assessment (PRRA), protected persons PR applications, refugee travel documents, and family reunification. the refugee case specialist, serves clients across Canada from Brampton, Ontario.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/refugees
-- **OG title:** Refugee Claims & Protected Persons Canada 2026 | VMC Immigration
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/refugees
+- **OG title:** Refugee Claims & Protected Persons Canada 2026 | Commonwealth Migration
 - **OG description:** In-house IRB specialist and licensed RCICs for refugee claims, PRRA, protected persons PR, and family reunification. Serving all of Canada from Brampton, Ontario.
 - **Robots:** index, follow
 
@@ -30,7 +30,7 @@
 - ### Blended Visa Office-Referred (BVOR)
 - ### Convention Refugees Abroad (Government Selection)
 - ### In-Canada Refugee Claimants
-- ## VMC's IRB Specialist: Amanpreet Kaur
+- ## Commonwealth Migration's refugee case specialist
 - ## Making a Refugee Claim Inside Canada
 - ### Where to Make a Claim
 - ### Status While Claim is Pending
@@ -42,7 +42,7 @@
 - ### Who Can Apply for PRRA
 - ### What PRRA Considers
 - ### PRRA Timelines
-- ### How VMC Helps with PRRA
+- ### How Commonwealth Migration Helps with PRRA
 - ## The Path from Protected Person to PR to Citizen
 - ### Positive IRB Decision
 - ### Apply for Permanent Residence
@@ -50,7 +50,7 @@
 - ### IRCC Review
 - ### Refugee Travel Document
 - ### One-Year Window Family Reunification
-- ## VMC's Role in Supporting Protected Persons
+- ## Commonwealth Migration's Role in Supporting Protected Persons
 - ### PR Application After Protection
 - ### Refugee Travel Documents
 - ### Family Reunification (One-Year Window)
@@ -68,7 +68,7 @@
 
 # Refugee Claims & Protected Persons in Canada: 2026 Guide
 
-Few decisions in life carry more weight than asking another country to protect you. Canada's refugee system is built on that idea — enshrined in the Immigration and Refugee Protection Act (IRPA) and the 1951 Refugee Convention, with a resettlement target above 40,000 people a year. For those already here, the journey from refugee claim to protected person status to permanent residence is long but navigable. VMC assists at every stage where a licensed RCIC is authorized to help — documentation, PRRA preparation, PR applications, refugee travel documents, and family reunification — with Amanpreet Kaur, our in-house IRB specialist, leading the work.
+Few decisions in life carry more weight than asking another country to protect you. Canada's refugee system is built on that idea — enshrined in the Immigration and Refugee Protection Act (IRPA) and the 1951 Refugee Convention, with a resettlement target above 40,000 people a year. For those already here, the journey from refugee claim to protected person status to permanent residence is long but navigable. Commonwealth Migration assists at every stage where a licensed RCIC is authorized to help — documentation, PRRA preparation, PR applications, refugee travel documents, and family reunification — with the refugee case specialist coordinating the work.
 
 Refugee system
 
@@ -88,7 +88,7 @@ IRB
 
 In-Canada hearings
 
-How VMC can help
+How Commonwealth Migration can help
 
 - ✓ In-Canada refugee claim support (documentation & evidence)
 - ✓ Pre-Removal Risk Assessment (PRRA) preparation
@@ -96,10 +96,10 @@ How VMC can help
 - ✓ Refugee Travel Document applications
 - ✓ One-Year Window family reunification
 - ✓ Humanitarian & Compassionate (H&C) applications
-- ★ Amanpreet Kaur, in-house IRB Specialist
+- ★ Refugee case specialist
 Protected person seeking PR?
 
-VMC prepares complete PR applications for Convention Refugees and Persons in Need of Protection.
+Commonwealth Migration prepares complete PR applications for Convention Refugees and Persons in Need of Protection.
 
 ---
 
@@ -109,9 +109,9 @@ VMC prepares complete PR applications for Convention Refugees and Persons in Nee
 
 Canada offers protection through multiple streams: resettlement from abroad and in-Canada refugee claims, all governed by the Immigration and Refugee Protection Act (IRPA) and the 1951 Refugee Convention.
 
-VMC's Full Refugee Immigration Support
+Commonwealth Migration's Full Refugee Immigration Support
 
-VMC's RCIC team assists with all refugee-related immigration matters, from documentation and evidence gathering for refugee claims, to PRRA submissions, to the complete PR application after a positive decision. Amanpreet Kaur is VMC's designated IRB Specialist and can assist with refugee claim representation. For complex hearing matters, VMC works in close referral partnership with licensed immigration lawyers.
+Commonwealth Migration's RCIC team assists with all refugee-related immigration matters, from documentation and evidence gathering for refugee claims, to PRRA submissions, to the complete PR application after a positive decision. A refugee-focused case specialist supports documentation and referral planning for refugee matters. Complex hearing work may require a licensed immigration lawyer.
 
 ### Two Entry Points
 
@@ -175,11 +175,11 @@ Persons already in Canada (arrived at a port of entry, inland, or irregularly) w
 - Work permit available while claim pending
 IN-HOUSE EXPERTISE
 
-## VMC's IRB Specialist: Amanpreet Kaur
+## Commonwealth Migration's refugee case specialist
 
-Amanpreet Kaur is VMC's designated refugee and IRB specialist. She works directly with clients on refugee claim documentation, PRRA submissions, and the full PR application process after protection is granted. Having an in-house IRB specialist means your file is handled by someone with deep, dedicated expertise in refugee protection law, not a generalist.
+A refugee-focused case specialist can help organize claim documentation, PRRA materials and post-protection application questions. Complex hearing work may require a licensed immigration lawyer.
 
-Amanpreet Kaur
+Client Experience Lead
 
 RCIC · IRB Specialist
 
@@ -207,11 +207,11 @@ Claimants arriving at land borders from the United States are generally subject 
 
 ### If Your Claim is Refused
 
-You may appeal to the Refugee Appeal Division (RAD) within 15 days. If the RAD appeal fails, you may apply for a Pre-Removal Risk Assessment (PRRA) or an H&C application. VMC advises on these post-refusal options.
+You may appeal to the Refugee Appeal Division (RAD) within 15 days. If the RAD appeal fails, you may apply for a Pre-Removal Risk Assessment (PRRA) or an H&C application. Commonwealth Migration advises on these post-refusal options.
 
 ### Pre-Removal Risk Assessment (PRRA)
 
-A PRRA assesses whether removal would expose you to risk of persecution, torture, or cruel treatment. Most people who had a claim decided are barred from PRRA for 12 months after that decision. VMC can prepare PRRA applications.
+A PRRA assesses whether removal would expose you to risk of persecution, torture, or cruel treatment. Most people who had a claim decided are barred from PRRA for 12 months after that decision. Commonwealth Migration can prepare PRRA applications.
 
 ## What Is a Pre-Removal Risk Assessment (PRRA)?
 
@@ -229,17 +229,17 @@ A PRRA officer reviews evidence of risk of persecution, torture, risk to life, o
 
 PRRA processing times vary significantly. While a PRRA application is being assessed, removal from Canada is generally stayed (paused). If the PRRA is approved, you receive protected person status and can apply for PR.
 
-### How VMC Helps with PRRA
+### How Commonwealth Migration Helps with PRRA
 
-VMC prepares PRRA applications including personal risk statements, country condition documentation, and supporting evidence packages. A well-prepared PRRA submission with current, relevant evidence is critical to a successful outcome.
+Commonwealth Migration prepares PRRA applications including personal risk statements, country condition documentation, and supporting evidence packages. A well-prepared PRRA submission with current, relevant evidence is critical to a successful outcome.
 
 PRRA Eligibility - 12-Month Bar
 
-If you had a refugee claim decided by the IRB (RPD or RAD), you generally cannot apply for PRRA for 12 months after that decision. There are exceptions for persons from certain designated countries. VMC can advise on your specific eligibility during a consultation.
+If you had a refugee claim decided by the IRB (RPD or RAD), you generally cannot apply for PRRA for 12 months after that decision. There are exceptions for persons from certain designated countries. Commonwealth Migration can advise on your specific eligibility during a consultation.
 
 ## The Path from Protected Person to PR to Citizen
 
-Once you receive refugee protection in Canada, the path to permanent residence and eventual citizenship is clear. VMC assists at every stage.
+Once you receive refugee protection in Canada, the path to permanent residence and eventual citizenship is clear. Commonwealth Migration assists at every stage.
 
 ### Positive IRB Decision
 
@@ -247,7 +247,7 @@ Receive written decision from the Refugee Protection Division (RPD) granting Con
 
 ### Apply for Permanent Residence
 
-Submit PR application to IRCC using protected person category. VMC prepares the complete application including schedule A, police certificates, and photographs.
+Submit PR application to IRCC using protected person category. Commonwealth Migration prepares the complete application including schedule A, police certificates, and photographs.
 
 ### Medical Exam
 
@@ -265,37 +265,37 @@ Apply for a Refugee Travel Document to travel internationally. Allows travel to 
 
 Apply to sponsor immediate family members under the One-Year Window (OYW) within 1 year of becoming a protected person or receiving PR. Covers spouses, common-law partners, and dependent children.
 
-## VMC's Role in Supporting Protected Persons
+## Commonwealth Migration's Role in Supporting Protected Persons
 
-VMC's licensed RCICs assist protected persons and refugees at the stages where RCIC assistance is authorized and most impactful.
+Commonwealth Migration's licensed RCICs assist protected persons and refugees at the stages where RCIC assistance is authorized and most impactful.
 
 ### PR Application After Protection
 
-VMC prepares the complete permanent residence application for Convention Refugees and Persons in Need of Protection, including forms, police certificates, medical coordination, and supporting documents.
+Commonwealth Migration prepares the complete permanent residence application for Convention Refugees and Persons in Need of Protection, including forms, police certificates, medical coordination, and supporting documents.
 
 ### Refugee Travel Documents
 
-Protected persons and PRs who cannot use their country of origin's passport can apply for a Refugee Travel Document. VMC prepares these applications.
+Protected persons and PRs who cannot use their country of origin's passport can apply for a Refugee Travel Document. Commonwealth Migration prepares these applications.
 
 ### Family Reunification (One-Year Window)
 
-VMC assists protected persons with One-Year Window applications to sponsor spouses and dependent children who were not included in the original claim.
+Commonwealth Migration assists protected persons with One-Year Window applications to sponsor spouses and dependent children who were not included in the original claim.
 
 ### H&C Applications
 
-For individuals whose refugee claim was refused but who have strong humanitarian grounds to remain in Canada, VMC prepares H&C applications under IRPA section 25.
+For individuals whose refugee claim was refused but who have strong humanitarian grounds to remain in Canada, Commonwealth Migration prepares H&C applications under IRPA section 25.
 
 ### PRRA Preparation
 
-VMC prepares Pre-Removal Risk Assessment submissions with country condition documentation, personal statements, and supporting evidence.
+Commonwealth Migration prepares Pre-Removal Risk Assessment submissions with country condition documentation, personal statements, and supporting evidence.
 
 ### IRB Hearing Representation
 
-VMC does not represent clients at IRB (RPD or RAD) hearings. This requires a lawyer or Ontario paralegal. VMC can refer you to a qualified immigration lawyer for this stage.
+Commonwealth Migration does not represent clients at IRB (RPD or RAD) hearings. This requires a lawyer or Ontario paralegal. Commonwealth Migration can refer you to a qualified immigration lawyer for this stage.
 
 ### Protected Person Ready to Apply for PR?
 
-VMC prepares complete, accurate permanent residence applications for Convention Refugees and Persons in Need of Protection, helping you move from protected status to PR as efficiently as possible.
+Commonwealth Migration prepares complete, accurate permanent residence applications for Convention Refugees and Persons in Need of Protection, helping you move from protected status to PR as efficiently as possible.
 
 ## Refugees & Protected Persons: Frequently Asked Questions
 
@@ -311,7 +311,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -319,23 +319,23 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/refugees#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Free Assessment | https://visamastercanada.com/free-assessment |
-| (647) 395-3471 | tel:+16473953471 |
-| Book consultation → | https://visamastercanada.com/book |
-| Book with Amanpreet | https://visamastercanada.com/book#amanpreet |
-| Book Consultation → | https://visamastercanada.com/book#amanpreet |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Humanitarian & Compassionate (H&C) | https://visamastercanada.com/immigration/humanitarian-compassionate |
-| Permanent Residence | https://visamastercanada.com/immigration/express-entry |
-| Family Sponsorship | https://visamastercanada.com/immigration/family-sponsorship |
-| Citizenship | https://visamastercanada.com/immigration/citizenship |
-| Work Permits | https://visamastercanada.com/immigration/work-permit |
+| Skip to main content | https://commonwealthmigration.ca/immigration/refugees#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Free Assessment | https://commonwealthmigration.ca/free-assessment |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Book consultation → | https://commonwealthmigration.ca/book |
+| Book a refugee case review | https://commonwealthmigration.ca/book#consultation |
+| Book Consultation → | https://commonwealthmigration.ca/book#consultation |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Humanitarian & Compassionate (H&C) | https://commonwealthmigration.ca/immigration/humanitarian-compassionate |
+| Permanent Residence | https://commonwealthmigration.ca/immigration/express-entry |
+| Family Sponsorship | https://commonwealthmigration.ca/immigration/family-sponsorship |
+| Citizenship | https://commonwealthmigration.ca/immigration/citizenship |
+| Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
 
 ---
 
@@ -348,17 +348,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/refugees#service","name":"Refugee and Protected Persons Immigration Consulting","description":"Licensed RCIC assistance for protected persons in Canada seeking permanent residence, family reunification, and Refugee Travel Documents.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"VMC Immigration Services","url":"https://visamastercanada.com","telephone":"+16473953471"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Refugees & Protected Persons","item":"https://visamastercanada.com/immigration/refugees"}]},{"@type":"Person","name":"Amanpreet Kaur","jobTitle":"RCIC - IRB Specialist","description":"Amanpreet Kaur is VMC's designated IRB Specialist handling refugee claims, PRRA, and protected persons PR applications.","worksFor":{"@type":"Organization","name":"VMC Immigration Services","url":"https://visamastercanada.com"},"url":"https://visamastercanada.com/book#amanpreet"}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/refugees#service","name":"Refugee and Protected Persons Immigration Consulting","description":"Licensed RCIC assistance for protected persons in Canada seeking permanent residence, family reunification, and Refugee Travel Documents.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Refugees & Protected Persons","item":"https://commonwealthmigration.ca/immigration/refugees"}]},{"@type":"Person","name":"Client Services Lead","jobTitle":"RCIC - IRB Specialist","description":"Client Services Lead is Commonwealth Migration's designated IRB Specialist handling refugee claims, PRRA, and protected persons PR applications.","worksFor":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"},"url":"https://commonwealthmigration.ca/book#consultation"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Refugees & Protected Persons"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Refugees & Protected Persons"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can a Regulated Canadian Immigration Consultant (RCIC) help with a refugee claim?","acceptedAnswer":{"@type":"Answer","text":"RCICs are authorized to assist with refugee protection matters, but they cannot represent clients at Immigration and Refugee Board (IRB) hearings. Representation at IRB hearings requires a lawyer or a registered paralegal in Ontario. VMC's RCICs can assist with documentation, H&C applications, PRRA submissions, and the permanent residence application after protection is granted. If you need IRB hearing representation, VMC can refer you to a qualified immigration lawyer."}},{"@type":"Question","name":"What is the difference between a Government-Assisted Refugee (GAR) and a Privately Sponsored Refugee (PSR)?","acceptedAnswer":{"@type":"Answer","text":"Government-Assisted Refugees (GARs) are selected by IRCC from UNHCR referrals and receive full government support for 12 months after arrival, managed through Resettlement Assistance Program (RAP) providers. Privately Sponsored Refugees (PSRs) are sponsored by private groups (often religious organizations, community groups, or individuals) who commit to supporting the refugee for one year. PSRs typically have shorter wait times from UNHCR referral to arrival than GARs in some years."}},{"@type":"Question","name":"How long does an in-Canada refugee claim take?","acceptedAnswer":{"@type":"Answer","text":"The Immigration and Refugee Board (IRB) targets hearings within 21 months of claim referral, but wait times have been significantly longer due to backlogs. After a positive hearing decision, applying for PR as a protected person typically takes 12-24 months additionally. The full journey from refugee claim to PR card can be 3-5 years in current conditions."}},{"@type":"Question","name":"What is a Pre-Removal Risk Assessment (PRRA)?","acceptedAnswer":{"@type":"Answer","text":"A PRRA is an assessment conducted when a person is facing removal from Canada and claims they would face persecution, torture, or cruel treatment in their home country. It is not a refugee claim. It is a safety assessment at the removal stage. Most people who have already had a refugee claim decided are not eligible to apply for PRRA for 12 months after their IRB decision. VMC can advise on PRRA eligibility and preparation."}},{"@type":"Question","name":"What happens after my refugee claim is approved?","acceptedAnswer":{"@type":"Answer","text":"After receiving a positive IRB decision (Convention Refugee or Person in Need of Protection status), you can apply for permanent residence. You will also be eligible for a Refugee Travel Document, which allows international travel. You can sponsor immediate family members once you have PR. VMC assists with the complete PR application after your protection status is confirmed."}},{"@type":"Question","name":"Can a refugee sponsor family members to come to Canada?","acceptedAnswer":{"@type":"Answer","text":"Once you have received permanent residence as a protected person, you can sponsor certain family members under the One-Year Window (OYW) provision, which has specific timelines from when you became a protected person or PR. Under this provision, spouses, common-law partners, and dependent children can be included. Long-term, as a PR, you can use regular family sponsorship programs. VMC assists with OYW family applications."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can a Regulated Canadian Immigration Consultant (RCIC) help with a refugee claim?","acceptedAnswer":{"@type":"Answer","text":"RCICs are authorized to assist with refugee protection matters, but they cannot represent clients at Immigration and Refugee Board (IRB) hearings. Representation at IRB hearings requires a lawyer or a registered paralegal in Ontario. Commonwealth Migration's RCICs can assist with documentation, H&C applications, PRRA submissions, and the permanent residence application after protection is granted. If you need IRB hearing representation, Commonwealth Migration can refer you to a qualified immigration lawyer."}},{"@type":"Question","name":"What is the difference between a Government-Assisted Refugee (GAR) and a Privately Sponsored Refugee (PSR)?","acceptedAnswer":{"@type":"Answer","text":"Government-Assisted Refugees (GARs) are selected by IRCC from UNHCR referrals and receive full government support for 12 months after arrival, managed through Resettlement Assistance Program (RAP) providers. Privately Sponsored Refugees (PSRs) are sponsored by private groups (often religious organizations, community groups, or individuals) who commit to supporting the refugee for one year. PSRs typically have shorter wait times from UNHCR referral to arrival than GARs in some years."}},{"@type":"Question","name":"How long does an in-Canada refugee claim take?","acceptedAnswer":{"@type":"Answer","text":"The Immigration and Refugee Board (IRB) targets hearings within 21 months of claim referral, but wait times have been significantly longer due to backlogs. After a positive hearing decision, applying for PR as a protected person typically takes 12-24 months additionally. The full journey from refugee claim to PR card can be 3-5 years in current conditions."}},{"@type":"Question","name":"What is a Pre-Removal Risk Assessment (PRRA)?","acceptedAnswer":{"@type":"Answer","text":"A PRRA is an assessment conducted when a person is facing removal from Canada and claims they would face persecution, torture, or cruel treatment in their home country. It is not a refugee claim. It is a safety assessment at the removal stage. Most people who have already had a refugee claim decided are not eligible to apply for PRRA for 12 months after their IRB decision. Commonwealth Migration can advise on PRRA eligibility and preparation."}},{"@type":"Question","name":"What happens after my refugee claim is approved?","acceptedAnswer":{"@type":"Answer","text":"After receiving a positive IRB decision (Convention Refugee or Person in Need of Protection status), you can apply for permanent residence. You will also be eligible for a Refugee Travel Document, which allows international travel. You can sponsor immediate family members once you have PR. Commonwealth Migration assists with the complete PR application after your protection status is confirmed."}},{"@type":"Question","name":"Can a refugee sponsor family members to come to Canada?","acceptedAnswer":{"@type":"Answer","text":"Once you have received permanent residence as a protected person, you can sponsor certain family members under the One-Year Window (OYW) provision, which has specific timelines from when you became a protected person or PR. Under this provision, spouses, common-law partners, and dependent children can be included. Long-term, as a PR, you can use regular family sponsorship programs. Commonwealth Migration assists with OYW family applications."}}]}
 ```

@@ -1,6 +1,6 @@
 # Open Work Permit Canada 2026 | Bridging OWP & BOWP | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/open-work-permit
+> **Source URL:** https://commonwealthmigration.ca/immigration/open-work-permit
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,9 +12,9 @@
 - **Title tag:** Open Work Permit Canada 2026 | Bridging OWP & BOWP | Licensed RCIC
 - **Meta description:** Open Work Permit Canada: Bridging OWP for PR applicants, refugee claimants, vulnerable workers, CUAET. Licensed RCIC guidance. Free assessment.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/open-work-permit
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/open-work-permit
 - **OG title:** Open Work Permit Canada 2026 | Licensed RCIC
-- **OG description:** Bridging OWP, refugee OWP, vulnerable worker OWP, CUAET. VMC licensed RCIC guidance.
+- **OG description:** Bridging OWP, refugee OWP, vulnerable worker OWP, CUAET. Commonwealth Migration licensed RCIC guidance.
 - **Robots:** index, follow
 
 ## Heading Outline
@@ -76,7 +76,7 @@
 
 # Open Work Permit Canada 2026 - Work for Any Employer
 
-The open work permit is the closest thing Canadian immigration has to a freedom pass: no employer named on it, no LMIA attached, no occupation locked in. Graduates, PR applicants waiting on a decision, refugee claimants, and abuse survivors all have their own streams. The challenge is knowing which one you qualify for — and the Bridging Open Work Permit, in particular, has strict timing rules that catch people off guard. VMC's licensed RCICs identify your stream and keep you working legally.
+The open work permit is the closest thing Canadian immigration has to a freedom pass: no employer named on it, no LMIA attached, no occupation locked in. Graduates, PR applicants waiting on a decision, refugee claimants, and abuse survivors all have their own streams. The challenge is knowing which one you qualify for — and the Bridging Open Work Permit, in particular, has strict timing rules that catch people off guard. Commonwealth Migration's licensed RCICs identify your stream and keep you working legally.
 
 OWP at a glance
 
@@ -94,7 +94,7 @@ Typical validity
 
 RCIC
 
-VMC support
+Commonwealth Migration support
 
 Related programs
 
@@ -104,7 +104,7 @@ Related programs
 - → Work Permit
 Not sure which OWP you qualify for?
 
-VMC assesses your situation and recommends the right stream.
+Commonwealth Migration assesses your situation and recommends the right stream.
 
 ---
 
@@ -221,7 +221,7 @@ In certain circumstances, persons who have applied on humanitarian and compassio
 - H&C application submitted with compelling circumstances
 - Or: removal order with active deferral in place
 - Must demonstrate financial need or hardship
-- Assessed on a case-by-case basis - VMC advises
+- Assessed on a case-by-case basis - Commonwealth Migration advises
 Note on PGWP and Spousal OWP: The Post-Graduation Work Permit (for Canadian graduates) and Spousal Open Work Permit (for spouses of workers and students) are the two most common OWP types and have their own dedicated pages with full eligibility details. PGWP → Spousal OWP →
 
 ## Bridging Open Work Permit (BOWP) - Complete Guide
@@ -266,11 +266,11 @@ The Bridging OWP is typically issued for 1 year or until a final decision is mad
 
 #### What If PR is Refused?
 
-If your permanent residence application is refused while you hold a BOWP, your BOWP remains valid until its expiry date. You must leave Canada before the BOWP expires or obtain another form of valid status. VMC can advise on options immediately after a PR refusal.
+If your permanent residence application is refused while you hold a BOWP, your BOWP remains valid until its expiry date. You must leave Canada before the BOWP expires or obtain another form of valid status. Commonwealth Migration can advise on options immediately after a PR refusal.
 
 ### PR Application Pending? Don't Let Your Work Permit Expire.
 
-VMC helps PR applicants identify BOWP eligibility, gather the right documents, and submit before any work authorization gap occurs.
+Commonwealth Migration helps PR applicants identify BOWP eligibility, gather the right documents, and submit before any work authorization gap occurs.
 
 ## How to Apply for an Open Work Permit
 
@@ -330,7 +330,7 @@ If your OWP has expired and your renewal is pending (implied status), you cannot
 
 ## Common Open Work Permit Mistakes
 
-These are the errors VMC sees most often - and each one can delay or jeopardize your ability to work legally in Canada.
+These are the errors Commonwealth Migration sees most often - and each one can delay or jeopardize your ability to work legally in Canada.
 
 ### Applying for BOWP Too Late
 
@@ -338,7 +338,7 @@ Many workers wait until their work permit has only weeks left before applying fo
 
 ### Wrong OWP Stream
 
-There are many OWP categories and each has strict eligibility. Applying under the wrong category leads to refusals. VMC assesses your situation and recommends the correct stream before you spend time and money on a wrong application.
+There are many OWP categories and each has strict eligibility. Applying under the wrong category leads to refusals. Commonwealth Migration assesses your situation and recommends the correct stream before you spend time and money on a wrong application.
 
 ### Not Understanding Which PR Streams Qualify for BOWP
 
@@ -354,7 +354,7 @@ If your OWP expires while your renewal is pending (implied status), you cannot l
 
 ### Vulnerable Workers Not Knowing They Qualify
 
-Many abused or exploited foreign workers do not know they can apply for an OWP outside of their employment situation. VMC advises vulnerable workers on their rights and helps them safely exit abusive situations.
+Many abused or exploited foreign workers do not know they can apply for an OWP outside of their employment situation. Commonwealth Migration advises vulnerable workers on their rights and helps them safely exit abusive situations.
 
 ## Open Work Permit - Frequently Asked Questions
 
@@ -370,13 +370,13 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Find Your Open Work Permit - Free Assessment
 
-VMC's licensed RCICs identify your OWP eligibility, prepare complete applications, and keep you working legally in Canada.
+Commonwealth Migration's licensed RCICs identify your OWP eligibility, prepare complete applications, and keep you working legally in Canada.
 
 ## Related Services
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -384,30 +384,30 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/open-work-permit#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Work Permit | https://visamastercanada.com/immigration/work-permit |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| View Related Programs | https://visamastercanada.com/immigration/work-permit |
-| (647) 395-3471 | tel:+16473953471 |
-| → PGWP | https://visamastercanada.com/immigration/pgwp |
-| → Spousal OWP | https://visamastercanada.com/immigration/spousal-work-permit |
-| → Express Entry | https://visamastercanada.com/immigration/express-entry |
-| → Work Permit | https://visamastercanada.com/immigration/work-permit |
-| See full details | https://visamastercanada.com/immigration/open-work-permit#bridging-owp |
-| PGWP → | https://visamastercanada.com/immigration/pgwp |
-| Spousal OWP → | https://visamastercanada.com/immigration/spousal-work-permit |
-| Call (647) 395-3471 | tel:+16473953471 |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| All Work Permits | https://visamastercanada.com/immigration/work-permit |
-| Express Entry → | https://visamastercanada.com/immigration/express-entry |
-| Work Permit → | https://visamastercanada.com/immigration/work-permit |
-| Study Permit → | https://visamastercanada.com/immigration/study-permit |
-| Refusals → | https://visamastercanada.com/refusals |
-| Book Free Consultation → | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/immigration/open-work-permit#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Work Permit | https://commonwealthmigration.ca/immigration/work-permit |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| View Related Programs | https://commonwealthmigration.ca/immigration/work-permit |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → PGWP | https://commonwealthmigration.ca/immigration/pgwp |
+| → Spousal OWP | https://commonwealthmigration.ca/immigration/spousal-work-permit |
+| → Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| → Work Permit | https://commonwealthmigration.ca/immigration/work-permit |
+| See full details | https://commonwealthmigration.ca/immigration/open-work-permit#bridging-owp |
+| PGWP → | https://commonwealthmigration.ca/immigration/pgwp |
+| Spousal OWP → | https://commonwealthmigration.ca/immigration/spousal-work-permit |
+| Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| All Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
+| Express Entry → | https://commonwealthmigration.ca/immigration/express-entry |
+| Work Permit → | https://commonwealthmigration.ca/immigration/work-permit |
+| Study Permit → | https://commonwealthmigration.ca/immigration/study-permit |
+| Refusals → | https://commonwealthmigration.ca/refusals |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -420,17 +420,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/open-work-permit#service","name":"Open Work Permit Canada","description":"Licensed RCIC guidance for all open work permit streams: Bridging OWP, refugee OWP, vulnerable worker OWP, CUAET, and more.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Licensed Regulated Canadian Immigration Consultants","url":"https://visamastercanada.com"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Open Work Permit","item":"https://visamastercanada.com/immigration/open-work-permit"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/open-work-permit#service","name":"Open Work Permit Canada","description":"Licensed RCIC guidance for all open work permit streams: Bridging OWP, refugee OWP, vulnerable worker OWP, CUAET, and more.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Licensed Regulated Canadian Immigration Consultants","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Open Work Permit","item":"https://commonwealthmigration.ca/immigration/open-work-permit"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://visamastercanada.com/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"Open Work Permit"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://commonwealthmigration.ca/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"Open Work Permit"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I change jobs on an open work permit?","acceptedAnswer":{"@type":"Answer","text":"Yes. An open work permit allows you to work for any Canadian employer in any occupation (with very limited exceptions such as adult entertainment or employers who have been found non-compliant with TFWP rules). You can switch jobs, change industries, or take on multiple employers - without needing a new work permit."}},{"@type":"Question","name":"Does an open work permit allow me to work in any province?","acceptedAnswer":{"@type":"Answer","text":"Generally yes. Most open work permits allow work in any Canadian province or territory. Some OWPs may have geographic restrictions noted on the permit itself - always check the conditions on your actual permit document."}},{"@type":"Question","name":"How long does it take to get an open work permit?","acceptedAnswer":{"@type":"Answer","text":"Processing times vary by type. Bridging OWPs (BOWP) currently process in approximately 2-5 months for inland applications. Refugee claimant OWPs can take 3-6 months. Vulnerable worker OWPs are prioritized and may be faster. Check the current IRCC processing times before applying as they change frequently."}},{"@type":"Question","name":"What is the difference between an OWP and a regular work permit?","acceptedAnswer":{"@type":"Answer","text":"A regular (closed/employer-specific) work permit ties you to one employer, one location, and often one specific occupation - usually requiring an LMIA or LMIA-exempt job offer. An open work permit has none of these restrictions: you can work for any employer, in any occupation, anywhere in Canada, without a job offer."}},{"@type":"Question","name":"My work permit expires in 2 months and I applied for PR - do I qualify for a Bridging OWP?","acceptedAnswer":{"@type":"Answer","text":"Possibly yes, but it depends on which PR stream you applied under. If your PR application is under Express Entry (CEC, FSW, FST), a PNP linked to Express Entry, or the Atlantic Immigration Program, you likely qualify. You should apply for the BOWP immediately - do not wait. Family sponsorship or H&C applications generally do not qualify for BOWP. VMC can confirm your eligibility quickly."}},{"@type":"Question","name":"Can I study on an open work permit?","acceptedAnswer":{"@type":"Answer","text":"An open work permit does not authorize you to study full-time at a Canadian educational institution unless your permit specifically notes study authorization. If you want to study while working, you may need a separate study permit (for programs over 6 months). Short courses (under 6 months) generally do not require a study permit."}},{"@type":"Question","name":"My employer is abusive - can I get an open work permit?","acceptedAnswer":{"@type":"Answer","text":"Yes. Canada has a special 'vulnerable worker' open work permit for foreign nationals in abusive or exploitative situations - whether employer abuse (unpaid wages, threats, unsafe conditions) or domestic abuse. You do not need a new job offer to apply. VMC treats these cases with urgency and complete confidentiality."}},{"@type":"Question","name":"Does an open work permit lead to permanent residence?","acceptedAnswer":{"@type":"Answer","text":"Not directly - but it is a crucial stepping stone. An OWP allows you to gain Canadian work experience, which then qualifies you for Express Entry (Canadian Experience Class), PNP streams, and other PR pathways. Many BOWP holders are already in the PR process and obtain PR while on their OWP."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I change jobs on an open work permit?","acceptedAnswer":{"@type":"Answer","text":"Yes. An open work permit allows you to work for any Canadian employer in any occupation (with very limited exceptions such as adult entertainment or employers who have been found non-compliant with TFWP rules). You can switch jobs, change industries, or take on multiple employers - without needing a new work permit."}},{"@type":"Question","name":"Does an open work permit allow me to work in any province?","acceptedAnswer":{"@type":"Answer","text":"Generally yes. Most open work permits allow work in any Canadian province or territory. Some OWPs may have geographic restrictions noted on the permit itself - always check the conditions on your actual permit document."}},{"@type":"Question","name":"How long does it take to get an open work permit?","acceptedAnswer":{"@type":"Answer","text":"Processing times vary by type. Bridging OWPs (BOWP) currently process in approximately 2-5 months for inland applications. Refugee claimant OWPs can take 3-6 months. Vulnerable worker OWPs are prioritized and may be faster. Check the current IRCC processing times before applying as they change frequently."}},{"@type":"Question","name":"What is the difference between an OWP and a regular work permit?","acceptedAnswer":{"@type":"Answer","text":"A regular (closed/employer-specific) work permit ties you to one employer, one location, and often one specific occupation - usually requiring an LMIA or LMIA-exempt job offer. An open work permit has none of these restrictions: you can work for any employer, in any occupation, anywhere in Canada, without a job offer."}},{"@type":"Question","name":"My work permit expires in 2 months and I applied for PR - do I qualify for a Bridging OWP?","acceptedAnswer":{"@type":"Answer","text":"Possibly yes, but it depends on which PR stream you applied under. If your PR application is under Express Entry (CEC, FSW, FST), a PNP linked to Express Entry, or the Atlantic Immigration Program, you likely qualify. You should apply for the BOWP immediately - do not wait. Family sponsorship or H&C applications generally do not qualify for BOWP. Commonwealth Migration can confirm your eligibility quickly."}},{"@type":"Question","name":"Can I study on an open work permit?","acceptedAnswer":{"@type":"Answer","text":"An open work permit does not authorize you to study full-time at a Canadian educational institution unless your permit specifically notes study authorization. If you want to study while working, you may need a separate study permit (for programs over 6 months). Short courses (under 6 months) generally do not require a study permit."}},{"@type":"Question","name":"My employer is abusive - can I get an open work permit?","acceptedAnswer":{"@type":"Answer","text":"Yes. Canada has a special 'vulnerable worker' open work permit for foreign nationals in abusive or exploitative situations - whether employer abuse (unpaid wages, threats, unsafe conditions) or domestic abuse. You do not need a new job offer to apply. Commonwealth Migration treats these cases with urgency and complete confidentiality."}},{"@type":"Question","name":"Does an open work permit lead to permanent residence?","acceptedAnswer":{"@type":"Answer","text":"Not directly - but it is a crucial stepping stone. An OWP allows you to gain Canadian work experience, which then qualifies you for Express Entry (Canadian Experience Class), PNP streams, and other PR pathways. Many BOWP holders are already in the PR process and obtain PR while on their OWP."}}]}
 ```

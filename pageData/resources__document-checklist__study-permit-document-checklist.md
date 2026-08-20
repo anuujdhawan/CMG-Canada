@@ -1,7 +1,6 @@
 # Study permit document checklist: organize evidence in the right order
 
 > **Source URL:** https://commonwealthmigration.ca/resources/document-checklist/study-permit-document-checklist
-> **Original Source URL:** https://visamastercanada.com/resources/document-checklist/study-permit
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

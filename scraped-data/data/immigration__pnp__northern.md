@@ -1,6 +1,6 @@
 # Northern Canada Immigration 2026 | Yukon, NWT & Nunavut PNP | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/pnp/northern
+> **Source URL:** https://commonwealthmigration.ca/immigration/pnp/northern
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,9 +12,9 @@
 - **Title tag:** Northern Canada Immigration 2026 | Yukon, NWT & Nunavut PNP | Licensed RCIC
 - **Meta description:** Northern Canada immigration 2026 - Yukon YNP, NWT Nominee Program and Nunavut federal pathways (CEC, RNIP, TFWP). Territory strategy by licensed RCIC.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/pnp/northern
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/pnp/northern
 - **OG title:** Northern Canada Immigration 2026 | Yukon · NWT · Nunavut | Licensed RCIC
-- **OG description:** Yukon YNP is Canada's most active territorial nominee program. NWT NTNP operates employer-driven nomination. Nunavut relies on federal routes - CEC, RNIP, TFWP. VMC maps the right program for each territory.
+- **OG description:** Yukon YNP is Canada's most active territorial nominee program. NWT NTNP operates employer-driven nomination. Nunavut relies on federal routes - CEC, RNIP, TFWP. Commonwealth Migration maps the right program for each territory.
 - **Robots:** index, follow
 
 ## Heading Outline
@@ -71,14 +71,14 @@
 - ### Choosing territorial PNP when federal Express Entry is the faster option
 - ### Not documenting employer's remote support and MEDEvac provisions
 - ### Ignoring GNWT federal hiring routes for NWT candidates
-- ## VMC's Northern Canada Immigration Expertise
+- ## Commonwealth Migration's Northern Canada Immigration Expertise
 - ### Territory-Specific Stream Identification
 - ### Housing and Settlement Pre-Screening
 - ### Federal Pathway Mapping for Nunavut
 - ### Employer Documentation for Remote Employers
 - ### RNIP Community Tracking
 - ### Remote Service Across All Three Territories
-- ## Northern Canada Immigration - VMC Maps the Right Program for Your Territory
+- ## Northern Canada Immigration - Commonwealth Migration Maps the Right Program for Your Territory
 - ## Related Immigration Services
 
 ---
@@ -116,7 +116,7 @@ Compare Programs
 - → Express Entry
 Northern employer?
 
-VMC confirms housing, program, and employer eligibility before filing.
+Commonwealth Migration confirms housing, program, and employer eligibility before filing.
 
 ---
 
@@ -126,7 +126,7 @@ VMC confirms housing, program, and employer eligibility before filing.
 
 Unlike provinces, each territory has a distinct immigration situation. Yukon operates the Yukon Nominee Program (YNP) — the most active territorial program, with multiple streams and regular processing. Northwest Territories operates the NWT Nominee Program (NTNP) — employer-driven, smaller in scale. Nunavut has no formal territorial nominee program and relies almost entirely on federal programs, employer-specific work permits, and federal pilots.
 
-Treating all three territories as equivalent is a common mistake. VMC applies territory-specific strategy — YNP employer sponsorship, NTNP employer-driven nomination, or federal pathway mapping for Nunavut — based on where your employer is located and what programs are currently active.
+Treating all three territories as equivalent is a common mistake. Commonwealth Migration applies territory-specific strategy — YNP employer sponsorship, NTNP employer-driven nomination, or federal pathway mapping for Nunavut — based on where your employer is located and what programs are currently active.
 
 ## Three Territories, Three Different Immigration Realities
 
@@ -230,7 +230,7 @@ The Government of the Northwest Territories (GNWT) is the territory's largest em
 
 ## Nunavut - Federal Pathways Only, No Formal PNP
 
-Nunavut is the honest exception in the Canadian immigration landscape. No territorial nominee program comparable to YNP or NTNP exists. Immigration to Nunavut relies on federal programs, employer work permits, and federal pilots. VMC provides an accurate assessment — not an inflated promise.
+Nunavut is the honest exception in the Canadian immigration landscape. No territorial nominee program comparable to YNP or NTNP exists. Immigration to Nunavut relies on federal programs, employer work permits, and federal pilots. Commonwealth Migration provides an accurate assessment — not an inflated promise.
 
 ### No Nunavut Nominee Program
 
@@ -258,7 +258,7 @@ Federal infrastructure investments in Nunavut generate construction and engineer
 
 ### Housing Crisis
 
-Iqaluit has one of the worst housing shortages in Canada — near-zero rental vacancy and long government housing waitlists. Employer-provided housing is not optional; it is often the only viable settlement option. VMC treats housing as a precondition.
+Iqaluit has one of the worst housing shortages in Canada — near-zero rental vacancy and long government housing waitlists. Employer-provided housing is not optional; it is often the only viable settlement option. Commonwealth Migration treats housing as a precondition.
 
 ## Federal Immigration Pathways Applicable to All Three Territories
 
@@ -270,7 +270,7 @@ Canadian Experience Class (CEC), Federal Skilled Worker Program (FSW), and Feder
 
 ### Rural and Northern Immigration Pilot (RNIP)
 
-RNIP designates specific rural and northern communities as eligible to recommend candidates for PR. If a Yukon, NWT, or Nunavut community participates, workers with a job offer from an employer there may apply through RNIP. Community recommendation from the local economic development body is required. VMC checks current RNIP participating communities against your employer location.
+RNIP designates specific rural and northern communities as eligible to recommend candidates for PR. If a Yukon, NWT, or Nunavut community participates, workers with a job offer from an employer there may apply through RNIP. Community recommendation from the local economic development body is required. Commonwealth Migration checks current RNIP participating communities against your employer location.
 
 ### Francophone Mobility
 
@@ -282,7 +282,7 @@ Temporary Foreign Worker Program (LMIA-based) and International Mobility Program
 
 ### Federal Healthcare Pathways
 
-IRCC has announced targeted healthcare worker pathways — some operate outside standard EE scores. Healthcare workers in all three territories should confirm whether any active federal pilots or targeted draws apply to their occupation. VMC monitors active IRCC immigration pilots.
+IRCC has announced targeted healthcare worker pathways — some operate outside standard EE scores. Healthcare workers in all three territories should confirm whether any active federal pilots or targeted draws apply to their occupation. Commonwealth Migration monitors active IRCC immigration pilots.
 
 ### Bridging Open Work Permit
 
@@ -290,11 +290,11 @@ Workers in Canada whose work permits are expiring while a PR application is pend
 
 ## Life in the North - Practical Settlement Context for Immigration Candidates
 
-Northern immigration applications that ignore settlement reality are refused or questioned during PR processing. VMC treats settlement planning as part of the immigration file — not separate from it.
+Northern immigration applications that ignore settlement reality are refused or questioned during PR processing. Commonwealth Migration treats settlement planning as part of the immigration file — not separate from it.
 
 ### Housing - Confirm Before Accepting Any Offer
 
-Housing is the most critical pre-immigration check in the North. Nunavut has near-zero rental vacancy in Iqaluit. NWT has tight Yellowknife rental markets. Yukon's Whitehorse has better availability but still higher vacancy than major southern cities. Employer-provided housing letters or confirmed lease agreements must be in place before submitting an immigration application. VMC requests housing confirmation as a non-negotiable first step for northern files.
+Housing is the most critical pre-immigration check in the North. Nunavut has near-zero rental vacancy in Iqaluit. NWT has tight Yellowknife rental markets. Yukon's Whitehorse has better availability but still higher vacancy than major southern cities. Employer-provided housing letters or confirmed lease agreements must be in place before submitting an immigration application. Commonwealth Migration requests housing confirmation as a non-negotiable first step for northern files.
 
 ### Cost of Living
 
@@ -318,7 +318,7 @@ Smaller northern communities have limited spousal employment options in professi
 
 ## Northern Canada Immigration - Territory-Specific Process Steps
 
-The process varies by territory. Yukon and NWT have territorial programs with defined submission steps. Nunavut requires a federal-route strategy. VMC tailors the process to the candidate's territory, employer, and profile.
+The process varies by territory. Yukon and NWT have territorial programs with defined submission steps. Nunavut requires a federal-route strategy. Commonwealth Migration tailors the process to the candidate's territory, employer, and profile.
 
 ### Yukon (YNP)
 
@@ -346,7 +346,7 @@ The process varies by territory. Yukon and NWT have territorial programs with de
 
 ## Northern Immigration Errors That End Applications or Cost Years of Delay
 
-Most northern immigration setbacks are predictable. These are the patterns VMC consistently sees in files that come to us after a refusal, a refused work permit, or a misaligned strategy.
+Most northern immigration setbacks are predictable. These are the patterns Commonwealth Migration consistently sees in files that come to us after a refusal, a refused work permit, or a misaligned strategy.
 
 ### Accepting northern job offer without confirming housing
 
@@ -354,7 +354,7 @@ Candidates who accept job offers and commit to an immigration process before con
 
 ### Not checking RNIP eligibility for smaller communities
 
-The Rural and Northern Immigration Pilot gives communities — including some northern ones — the ability to recommend candidates for PR who would not qualify through standard EE. Many candidates in northern communities have never been told about RNIP. VMC checks RNIP community participation as part of every northern assessment.
+The Rural and Northern Immigration Pilot gives communities — including some northern ones — the ability to recommend candidates for PR who would not qualify through standard EE. Many candidates in northern communities have never been told about RNIP. Commonwealth Migration checks RNIP community participation as part of every northern assessment.
 
 ### Treating Nunavut the same as Yukon or NWT
 
@@ -362,7 +362,7 @@ Nunavut has no nominee program. A candidate expecting to follow a YNP-like proce
 
 ### Choosing territorial PNP when federal Express Entry is the faster option
 
-Candidates with strong CRS scores who are eligible for federal EE draws sometimes apply for territorial nomination when they would receive a federal ITA without nomination. Territorial programs add steps and time for candidates who don't need them. VMC evaluates both routes before recommending one.
+Candidates with strong CRS scores who are eligible for federal EE draws sometimes apply for territorial nomination when they would receive a federal ITA without nomination. Territorial programs add steps and time for candidates who don't need them. Commonwealth Migration evaluates both routes before recommending one.
 
 ### Not documenting employer's remote support and MEDEvac provisions
 
@@ -372,42 +372,42 @@ Territorial immigration officers and IRCC expect northern employer job offers to
 
 Government of the NWT positions often have federal public service pathways that don't require NTNP nomination. Candidates targeting GNWT employment should understand whether their specific role routes through NTNP or a federal recruitment mechanism — the answer changes the entire process.
 
-## VMC's Northern Canada Immigration Expertise
+## Commonwealth Migration's Northern Canada Immigration Expertise
 
-VMC has territory-specific knowledge across Yukon, NWT, and Nunavut — including the federal routes that apply when territorial programs are unavailable or slower.
+Commonwealth Migration has territory-specific knowledge across Yukon, NWT, and Nunavut — including the federal routes that apply when territorial programs are unavailable or slower.
 
 ### Territory-Specific Stream Identification
 
-YNP and NTNP have different streams, employer requirements, and occupation priorities. VMC identifies the right program for each territory and employer combination — not a generic "northern PNP" approach that ignores the differences.
+YNP and NTNP have different streams, employer requirements, and occupation priorities. Commonwealth Migration identifies the right program for each territory and employer combination — not a generic "northern PNP" approach that ignores the differences.
 
 ### Housing and Settlement Pre-Screening
 
-Before advising any client to proceed with northern immigration, VMC confirms housing availability, employer housing provisions, and settlement planning. This is standard VMC practice for northern files — it prevents the most common single point of failure in northern applications.
+Before advising any client to proceed with northern immigration, Commonwealth Migration confirms housing availability, employer housing provisions, and settlement planning. This is standard Commonwealth Migration practice for northern files — it prevents the most common single point of failure in northern applications.
 
 ### Federal Pathway Mapping for Nunavut
 
-VMC builds federal PR strategies for Nunavut candidates using CEC, FSW, RNIP, TFWP-to-EE sequences, and targeted federal programs. No territorial program exists — VMC identifies the correct federal pathway for each Nunavut employer and occupation combination.
+Commonwealth Migration builds federal PR strategies for Nunavut candidates using CEC, FSW, RNIP, TFWP-to-EE sequences, and targeted federal programs. No territorial program exists — Commonwealth Migration identifies the correct federal pathway for each Nunavut employer and occupation combination.
 
 ### Employer Documentation for Remote Employers
 
-Northern employers need job offer letters and employer compliance packages that address northern settlement realities — MEDEvac, housing, transportation, retention. VMC builds employer documentation packages to territorial program standards.
+Northern employers need job offer letters and employer compliance packages that address northern settlement realities — MEDEvac, housing, transportation, retention. Commonwealth Migration builds employer documentation packages to territorial program standards.
 
 ### RNIP Community Tracking
 
-RNIP participating communities change. VMC tracks current northern RNIP communities and confirms eligibility against employer locations. Candidates who qualify for RNIP often have a faster PR route than standard EE — missing it is a costly oversight.
+RNIP participating communities change. Commonwealth Migration tracks current northern RNIP communities and confirms eligibility against employer locations. Candidates who qualify for RNIP often have a faster PR route than standard EE — missing it is a costly oversight.
 
 ### Remote Service Across All Three Territories
 
-VMC serves northern clients across Yukon, NWT, and Nunavut entirely remotely. Geography is not a barrier. Initial consultations, document collection, and ongoing file management are all conducted remotely with northern clients across all time zones.
+Commonwealth Migration serves northern clients across Yukon, NWT, and Nunavut entirely remotely. Geography is not a barrier. Initial consultations, document collection, and ongoing file management are all conducted remotely with northern clients across all time zones.
 
 - How does the Yukon Nominee Program (YNP) work?
 - What jobs qualify under Yukon's Skilled Worker stream?
 - How long does the YNP process take from employer offer to PR?
 Still have questions? Our licensed RCICs answer within 24 hours.
 
-## Northern Canada Immigration - VMC Maps the Right Program for Your Territory
+## Northern Canada Immigration - Commonwealth Migration Maps the Right Program for Your Territory
 
-Yukon Nominee Program, NWT Nominee Program, and federal pathways for Nunavut each require a different strategy. VMC identifies which program applies to your territory, employer, and occupation — and builds a submission that accounts for housing, settlement, and northern employer documentation requirements. For official program rules, reference the [Yukon immigration website](https://yukon.ca/en/immigrate-yukon), [NWT immigration](https://www.immigratenwt.ca/), and [IRCC's northern pilot info](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html).
+Yukon Nominee Program, NWT Nominee Program, and federal pathways for Nunavut each require a different strategy. Commonwealth Migration identifies which program applies to your territory, employer, and occupation — and builds a submission that accounts for housing, settlement, and northern employer documentation requirements. For official program rules, reference the [Yukon immigration website](https://yukon.ca/en/immigrate-yukon), [NWT immigration](https://www.immigratenwt.ca/), and [IRCC's northern pilot info](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html).
 
 Serving northern Canada immigration clients in Whitehorse · Yellowknife · Iqaluit · and across all three territories - remotely
 
@@ -419,29 +419,29 @@ Serving northern Canada immigration clients in Whitehorse · Yellowknife · Iqal
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/pnp/northern#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| PNP | https://visamastercanada.com/immigration/pnp |
-| Book Northern Assessment → | https://visamastercanada.com/free-assessment |
-| Check My Eligibility | https://visamastercanada.com/tools |
-| (647) 395-3471 | tel:+16473953471 |
-| → Alberta AAIP | https://visamastercanada.com/immigration/pnp/alberta |
-| → Saskatchewan SINP | https://visamastercanada.com/immigration/pnp/saskatchewan |
-| → Express Entry | https://visamastercanada.com/immigration/express-entry |
-| Free assessment → | https://visamastercanada.com/free-assessment |
-| Get Territory-Specific Immigration Advice → | https://visamastercanada.com/free-assessment |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Book Free Northern Canada Assessment → | https://visamastercanada.com/free-assessment |
-| View All PNP Programs | https://visamastercanada.com/immigration/pnp |
-| PNP Hub → All provincial programs | https://visamastercanada.com/immigration/pnp |
-| Alberta AAIP → Strong western PNP | https://visamastercanada.com/immigration/pnp/alberta |
-| Saskatchewan SINP → Active western province | https://visamastercanada.com/immigration/pnp/saskatchewan |
-| Express Entry → Federal skilled worker | https://visamastercanada.com/immigration/express-entry |
-| Work Permit → Bridge to PR | https://visamastercanada.com/immigration/work-permit |
-| Newfoundland NLPNP → Atlantic Canada | https://visamastercanada.com/immigration/pnp/newfoundland |
+| Skip to main content | https://commonwealthmigration.ca/immigration/pnp/northern#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| PNP | https://commonwealthmigration.ca/immigration/pnp |
+| Book Northern Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Check My Eligibility | https://commonwealthmigration.ca/tools |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Alberta AAIP | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| → Saskatchewan SINP | https://commonwealthmigration.ca/immigration/pnp/saskatchewan |
+| → Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| Free assessment → | https://commonwealthmigration.ca/free-assessment |
+| Get Territory-Specific Immigration Advice → | https://commonwealthmigration.ca/free-assessment |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Book Free Northern Canada Assessment → | https://commonwealthmigration.ca/free-assessment |
+| View All PNP Programs | https://commonwealthmigration.ca/immigration/pnp |
+| PNP Hub → All provincial programs | https://commonwealthmigration.ca/immigration/pnp |
+| Alberta AAIP → Strong western PNP | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| Saskatchewan SINP → Active western province | https://commonwealthmigration.ca/immigration/pnp/saskatchewan |
+| Express Entry → Federal skilled worker | https://commonwealthmigration.ca/immigration/express-entry |
+| Work Permit → Bridge to PR | https://commonwealthmigration.ca/immigration/work-permit |
+| Newfoundland NLPNP → Atlantic Canada | https://commonwealthmigration.ca/immigration/pnp/newfoundland |
 
 ---
 
@@ -454,13 +454,13 @@ Serving northern Canada immigration clients in Whitehorse · Yellowknife · Iqal
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visamastercanada.com/immigration/pnp/northern#webpage","url":"https://visamastercanada.com/immigration/pnp/northern","name":"Northern Canada Territorial Immigration 2026","description":"Northern Canada immigration 2026 - Yukon YNP, NWT Nominee Program and Nunavut federal pathways (CEC, RNIP, TFWP). Territory strategy by licensed RCIC."},{"@type":"Service","name":"VMC Northern Territories Immigration Support","serviceType":"Immigration Consulting","provider":{"@type":"LocalBusiness","name":"Licensed Regulated Canadian Immigration Consultants","address":"83 Kennedy Rd S Unit 16, Brampton, Ontario","telephone":"+16473953471"},"areaServed":[{"@type":"AdministrativeArea","name":"Yukon"},{"@type":"AdministrativeArea","name":"Northwest Territories"},{"@type":"AdministrativeArea","name":"Nunavut"}],"description":"Licensed RCIC guidance for northern Canada immigration - Yukon Nominee Program (YNP: Skilled Worker, Critical Impact, Express Entry, Business), NWT Nominee Program (NTNP: Employer-Driven, Business), and federal pathways for Nunavut (CEC, RNIP, TFWP, IMP). Housing and settlement pre-screening included."},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://visamastercanada.com/immigration/pnp"},{"@type":"ListItem","position":4,"name":"Northern Canada","item":"https://visamastercanada.com/immigration/pnp/northern"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://commonwealthmigration.ca/immigration/pnp/northern#webpage","url":"https://commonwealthmigration.ca/immigration/pnp/northern","name":"Northern Canada Territorial Immigration 2026","description":"Northern Canada immigration 2026 - Yukon YNP, NWT Nominee Program and Nunavut federal pathways (CEC, RNIP, TFWP). Territory strategy by licensed RCIC."},{"@type":"Service","name":"Commonwealth Migration Northern Territories Immigration Support","serviceType":"Immigration Consulting","provider":{"@type":"LocalBusiness","name":"Licensed Regulated Canadian Immigration Consultants","address":"Canada-wide service by appointment, Brampton, Ontario"},"areaServed":[{"@type":"AdministrativeArea","name":"Yukon"},{"@type":"AdministrativeArea","name":"Northwest Territories"},{"@type":"AdministrativeArea","name":"Nunavut"}],"description":"Licensed RCIC guidance for northern Canada immigration - Yukon Nominee Program (YNP: Skilled Worker, Critical Impact, Express Entry, Business), NWT Nominee Program (NTNP: Employer-Driven, Business), and federal pathways for Nunavut (CEC, RNIP, TFWP, IMP). Housing and settlement pre-screening included."},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://commonwealthmigration.ca/immigration/pnp"},{"@type":"ListItem","position":4,"name":"Northern Canada","item":"https://commonwealthmigration.ca/immigration/pnp/northern"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://visamastercanada.com/immigration/pnp"},{"@type":"ListItem","position":4,"name":"Northern Canada"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://commonwealthmigration.ca/immigration/pnp"},{"@type":"ListItem","position":4,"name":"Northern Canada"}]}
 ```

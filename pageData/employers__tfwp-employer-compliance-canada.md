@@ -1,7 +1,6 @@
 # TFWP employer compliance Canada: build the file before the worker starts
 
 > **Source URL:** https://commonwealthmigration.ca/employers/tfwp-employer-compliance-canada
-> **Original Source URL:** https://visamastercanada.com/for-employers/employer-compliance
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,7 +1,6 @@
 # Express Entry document checklist: organize evidence in the right order
 
 > **Source URL:** https://commonwealthmigration.ca/resources/document-checklist/express-entry-document-checklist
-> **Original Source URL:** https://visamastercanada.com/resources/document-checklist/express-entry
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

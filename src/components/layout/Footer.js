@@ -75,9 +75,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 items-start gap-x-6 gap-y-6 sm:grid-cols-2 md:grid-cols-[minmax(0,2fr)_repeat(5,minmax(0,1fr))]">
           {/* Column 1: Brand */}
           <div className="col-span-2 md:col-span-1">
-            <div className="inline-flex items-center gap-3 rounded-xl border border-line bg-white px-3 py-2">
+            <div className="inline-flex items-center gap-3 rounded-xl border border-white/10 bg-[#05070b] px-3 py-2">
               <Image
-                src={site.logos.large}
+                src={site.logos.footer}
                 alt={site.name}
                 width={1912}
                 height={1140}
@@ -113,7 +113,7 @@ export default function Footer() {
               </p>
               <p className="flex items-center gap-2">
                 <Mail className="h-4 w-4 shrink-0 text-primary" />
-                <a href={`mailto:${site.email}`} className="hover:text-primary transition-colors">
+                <a href={site.emailHref} className="hover:text-primary transition-colors">
                   {site.email}
                 </a>
               </p>

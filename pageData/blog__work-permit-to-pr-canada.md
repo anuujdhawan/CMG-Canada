@@ -1,7 +1,6 @@
 # Work permit to PR: research the decision before the form
 
 > **Source URL:** https://commonwealthmigration.ca/blog/work-permit-to-pr-canada
-> **Original Source URL:** https://visamastercanada.com/blog/work-permit-to-canadian-pr-pathways
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,7 +1,6 @@
 # Immigrate to Canada from India: start with the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigrate-to-canada/from-india
-> **Original Source URL:** https://visamastercanada.com/immigrate/india
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

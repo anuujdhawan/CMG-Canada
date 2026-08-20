@@ -1,6 +1,6 @@
-# Free Canadian Immigration Assessment - Express Entry CRS & PNP | VMC
+# Free Canadian Immigration Assessment - Express Entry CRS & PNP | Commonwealth Migration
 
-> **Source URL:** https://visamastercanada.com/assessment
+> **Source URL:** https://commonwealthmigration.ca/assessment
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Unique English content (processed)
@@ -9,11 +9,11 @@
 
 ## SEO Metadata
 
-- **Title tag:** Free Canadian Immigration Assessment - Express Entry CRS & PNP | VMC
+- **Title tag:** Free Canadian Immigration Assessment - Express Entry CRS & PNP | Commonwealth Migration
 - **Meta description:** Get your live Express Entry CRS score and an instant, honest read on your eligibility for Canadian PR - federal programs, category-based draws, and provincial options. Free, no obligation. CICC-regulated RCICs.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/assessment
-- **OG title:** Free Canadian Immigration Assessment | VMC
+- **Canonical URL:** https://commonwealthmigration.ca/assessment
+- **OG title:** Free Canadian Immigration Assessment | Commonwealth Migration
 - **OG description:** Live CRS score plus an instant read on Express Entry, category draws, and PNP options - the same logic a licensed RCIC uses. Free and no obligation.
 - **Robots:** index, follow
 
@@ -47,7 +47,7 @@ Most applicants don't actually know where they stand until they've paid and file
 - **Where you'd be invited** — your estimate checked against every recent Express Entry draw minimums.
 - **Your fastest path forward** — a ranked, point-by-point improvement plan, from language retakes to PNP nominations worth 600 points.
 
-The result is a starting conversation, not a final answer. Bring it to a free consultation with our licensed RCICs — Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh — and we'll turn the numbers into a concrete filing strategy.
+The result is a starting conversation, not a final answer. Bring it to a free consultation with our licensed RCICs — Case strategy team, Client Experience Lead, or Licensed RCIC — and we'll turn the numbers into a concrete filing strategy.
 
 ---
 
@@ -55,9 +55,9 @@ The result is a starting conversation, not a final answer. Bring it to a free co
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/assessment#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/assessment#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -70,5 +70,5 @@ The result is a starting conversation, not a final answer. Bring it to a free co
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```

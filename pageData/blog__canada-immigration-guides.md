@@ -1,7 +1,6 @@
 # Blog: clearer information for your next step
 
 > **Source URL:** https://commonwealthmigration.ca/blog/canada-immigration-guides
-> **Original Source URL:** https://visamastercanada.com/blog
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed
@@ -12,7 +11,7 @@
 - **Meta description:** Read a practical blog guide, then verify the current official Canada immigration requirements before acting. See official rules before applying.
 - **Meta keywords:** (none)
 - **Canonical URL:** https://commonwealthmigration.ca/blog/canada-immigration-guides
-- **OG title:** Blog | Commonwealth Migration Canada
+- **OG title:** Blog | Commonwealth Migration
 - **OG description:** Read a practical blog guide, then verify the current official Canada immigration requirements before acting. See official rules before applying.
 - **Robots:** index, follow
 

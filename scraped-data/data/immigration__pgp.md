@@ -1,6 +1,6 @@
 # Parents & Grandparents Sponsorship Canada 2026 | PGP | RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/pgp
+> **Source URL:** https://commonwealthmigration.ca/immigration/pgp
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Parents & Grandparents Sponsorship Canada 2026 | PGP | RCIC
 - **Meta description:** Sponsor your parents or grandparents for Canadian PR. PGP lottery, Super Visa alternative, income requirements. Licensed RCIC consultants. Free consultation.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/pgp
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/pgp
 - **OG title:** Parents & Grandparents Program (PGP) 2026 | Licensed RCIC
 - **OG description:** Sponsor your parents or grandparents for Canadian PR. PGP lottery, Super Visa alternative, income requirements. Licensed RCIC consultants. Free consultation.
 - **Robots:** index, follow
@@ -145,23 +145,23 @@ Speak with a licensed RCIC. No obligation - we guide you through your options.
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/pgp#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Book Consultation → | https://visamastercanada.com/book |
-| Free Assessment | https://visamastercanada.com/contact-us |
-| 📞 (647) 395-3471 | tel:+16473953471 |
-| Not invited this year? Super Visa lets parents visit up to 5 years per entry. Free assessment → | https://visamastercanada.com/contact-us |
-| Super Visa for parents Apply anytime · 5 years per entry → | https://visamastercanada.com/immigration/super-visa |
+| Skip to main content | https://commonwealthmigration.ca/immigration/pgp#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Book Consultation → | https://commonwealthmigration.ca/book |
+| Free Assessment | https://commonwealthmigration.ca/contact-us |
+| 📞 contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Not invited this year? Super Visa lets parents visit up to 5 years per entry. Free assessment → | https://commonwealthmigration.ca/contact-us |
+| Super Visa for parents Apply anytime · 5 years per entry → | https://commonwealthmigration.ca/immigration/super-visa |
 | IRCC - Sponsor your parents and grandparents (PGP) | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents.html |
 | IRCC - Income required to sponsor parents and grandparents | https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1445&top=14 |
-| Super Visa | https://visamastercanada.com/immigration/super-visa |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Book a Consultation | https://visamastercanada.com/book |
-| Family Sponsorship | https://visamastercanada.com/immigration/family-sponsorship |
-| Spousal Sponsorship | https://visamastercanada.com/immigration/spousal-sponsorship |
-| Contact | https://visamastercanada.com/contact-us |
-| 📞 Call (647) 395-3471 | tel:+16473953471 |
+| Super Visa | https://commonwealthmigration.ca/immigration/super-visa |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Book a Consultation | https://commonwealthmigration.ca/book |
+| Family Sponsorship | https://commonwealthmigration.ca/immigration/family-sponsorship |
+| Spousal Sponsorship | https://commonwealthmigration.ca/immigration/spousal-sponsorship |
+| Contact | https://commonwealthmigration.ca/contact-us |
+| 📞 Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
 
 ---
 
@@ -174,11 +174,11 @@ Speak with a licensed RCIC. No obligation - we guide you through your options.
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com/"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Family Sponsorship","item":"https://visamastercanada.com/immigration/family-sponsorship"},{"@type":"ListItem","position":4,"name":"Parents & Grandparents"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca/"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Family Sponsorship","item":"https://commonwealthmigration.ca/immigration/family-sponsorship"},{"@type":"ListItem","position":4,"name":"Parents & Grandparents"}]}
 ```
 
 ```json

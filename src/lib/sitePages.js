@@ -2,9 +2,9 @@
  * Page registry — maps every rewritten `.md` file in `pageData/` to a
  * keyword-focused route on this site.
  *
- * The generator writes one SEO-friendly route slug per page. `route-map.json`
- * keeps the old scraped paths available for permanent redirects and legacy
- * metadata lookups without using them as canonical URLs.
+ * `route-map.json` records one SEO-friendly route slug per page and keeps the
+ * previous paths available for permanent redirects without making them
+ * canonical URLs.
  *
  * This single module powers the catch-all route, sitemap and internal-linking
  * index grids.
@@ -12,10 +12,10 @@
 
 import fs from "fs";
 import path from "path";
-import { parseScrapedFile } from "./scraped";
+import { parsePageDataFile } from "./scraped";
 
-const DATA_DIR = path.join(process.cwd(), "pageData");
-const ROUTE_MAP_FILE = path.join(DATA_DIR, "route-map.json");
+const PAGE_DATA_DIR = path.join(process.cwd(), "pageData");
+const ROUTE_MAP_FILE = path.join(PAGE_DATA_DIR, "route-map.json");
 const ROUTE_MAP = fs.existsSync(ROUTE_MAP_FILE)
   ? JSON.parse(fs.readFileSync(ROUTE_MAP_FILE, "utf8"))
   : [];
@@ -35,7 +35,7 @@ export function isPageFile(file) {
 }
 
 export function listPageFiles() {
-  return fs.readdirSync(DATA_DIR).filter(isPageFile).sort();
+  return fs.readdirSync(PAGE_DATA_DIR).filter(isPageFile).sort();
 }
 
 /** `express-entry-immigration-canada.md` → `/express-entry-immigration-canada` */
@@ -71,16 +71,16 @@ export function pathForLegacyPath(pathname) {
 export function getPage(pathname) {
   const requestedPath = String(pathname || "/").replace(/\/$/, "") || "/";
   const directFile = pathToFilename(requestedPath);
-  const file = fs.existsSync(path.join(DATA_DIR, directFile))
+  const file = fs.existsSync(path.join(PAGE_DATA_DIR, directFile))
     ? directFile
     : LEGACY_PATH_TO_FILE.get(requestedPath);
   if (!file) return null;
-  const full = path.join(DATA_DIR, file);
+  const full = path.join(PAGE_DATA_DIR, file);
   if (!fs.existsSync(full)) return null;
   const route = ROUTE_BY_FILE.get(file);
   return {
     path: route?.path || (requestedPath.startsWith("/") ? requestedPath : `/${requestedPath}`),
-    ...parseScrapedFile(fs.readFileSync(full, "utf8"), file),
+    ...parsePageDataFile(fs.readFileSync(full, "utf8"), file),
   };
 }
 
@@ -88,7 +88,7 @@ export function getPage(pathname) {
 export function getAllPages() {
   return listPageFiles().map((file) => ({
     path: filenameToPath(file),
-    ...parseScrapedFile(fs.readFileSync(path.join(DATA_DIR, file), "utf8"), file),
+    ...parsePageDataFile(fs.readFileSync(path.join(PAGE_DATA_DIR, file), "utf8"), file),
   }));
 }
 

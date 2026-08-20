@@ -1,6 +1,6 @@
 # OINP Express Entry Streams - Ended June 2026 | Ontario Workforce Priority | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/pnp/oinp-express-entry
+> **Source URL:** https://commonwealthmigration.ca/immigration/pnp/oinp-express-entry
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** OINP Express Entry Streams - Ended June 2026 | Ontario Workforce Priority | Licensed RCIC
 - **Meta description:** OINP's Express Entry-aligned streams (HCP, French-Speaking, Skilled Trades) ended June 26, 2026. Learn about the new Ontario Workforce Priority stream and get assessment-ready for when the EOI portal reopens.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/pnp/oinp-express-entry
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/pnp/oinp-express-entry
 - **OG title:** OINP Express Entry Streams - Ended June 26, 2026 | Ontario Workforce Priority
 - **OG description:** OINP's Express Entry-aligned streams (HCP, French-Speaking, Skilled Trades) ended June 26, 2026. Learn about the new Ontario Workforce Priority stream and get assessment-ready for when the EOI portal reopens.
 - **Robots:** index, follow
@@ -166,16 +166,16 @@ The former OINP Express Entry streams ended June 26, 2026. Our licensed immigrat
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/pnp/oinp-express-entry#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Learn about the Ontario Workforce Priority stream -> | https://visamastercanada.com/immigration/pnp/ontario |
-| Book assessment to get ready -> | https://visamastercanada.com/book |
-| Ontario OINP 2026 - Workforce Priority Stream -> | https://visamastercanada.com/immigration/pnp/ontario |
-| Express Entry Overview → | https://visamastercanada.com/immigration/express-entry |
-| Latest Express Entry Draws → | https://visamastercanada.com/draw-results |
-| IRCC Processing Times → | https://visamastercanada.com/resources/processing-times |
-| 📅 Book Free Assessment | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/immigration/pnp/oinp-express-entry#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Learn about the Ontario Workforce Priority stream -> | https://commonwealthmigration.ca/immigration/pnp/ontario |
+| Book assessment to get ready -> | https://commonwealthmigration.ca/book |
+| Ontario OINP 2026 - Workforce Priority Stream -> | https://commonwealthmigration.ca/immigration/pnp/ontario |
+| Express Entry Overview → | https://commonwealthmigration.ca/immigration/express-entry |
+| Latest Express Entry Draws → | https://commonwealthmigration.ca/draw-results |
+| IRCC Processing Times → | https://commonwealthmigration.ca/resources/processing-times |
+| 📅 Book Free Assessment | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -188,7 +188,7 @@ The former OINP Express Entry streams ended June 26, 2026. Our licensed immigrat
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
@@ -196,5 +196,5 @@ The former OINP Express Entry streams ended June 26, 2026. Our licensed immigrat
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://visamastercanada.com/immigration/pnp"},{"@type":"ListItem","position":4,"name":"OINP Express Entry","item":"https://visamastercanada.com/immigration/pnp/oinp-express-entry"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"PNP","item":"https://commonwealthmigration.ca/immigration/pnp"},{"@type":"ListItem","position":4,"name":"OINP Express Entry","item":"https://commonwealthmigration.ca/immigration/pnp/oinp-express-entry"}]}
 ```

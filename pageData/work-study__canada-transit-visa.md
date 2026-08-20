@@ -1,7 +1,6 @@
 # Canada transit visa: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/work-study/canada-transit-visa
-> **Original Source URL:** https://visamastercanada.com/immigration/transit-visa
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

@@ -1,7 +1,6 @@
 # PNP employer support Canada: build the file before the worker starts
 
 > **Source URL:** https://commonwealthmigration.ca/employers/pnp-employer-support-canada
-> **Original Source URL:** https://visamastercanada.com/for-employers/pnp-employer-support
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

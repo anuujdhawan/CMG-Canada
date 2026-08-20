@@ -1,6 +1,6 @@
 # Spousal Open Work Permit Canada 2026 | TEER 0/1 & Master's Rule | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/spousal-work-permit
+> **Source URL:** https://commonwealthmigration.ca/immigration/spousal-work-permit
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Spousal Open Work Permit Canada 2026 | TEER 0/1 & Master's Rule | Licensed RCIC
 - **Meta description:** Open work permit for a sponsored spouse in Canada. TEER 0/1 rules and student eligibility explained by a Licensed RCIC. Free eligibility check available.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/spousal-work-permit
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/spousal-work-permit
 - **OG title:** Spousal Open Work Permit Canada 2026 | Licensed RCIC
 - **OG description:** Open Work Permit for Sponsored Spouse 2026 - TEER 0/1 worker or master's/PhD student rule confirmed by licensed RCIC. Application support for eligible Canadian families.
 - **Robots:** index, follow
@@ -74,7 +74,7 @@
 
 # Open Work Permit for Sponsored Spouse - Work While Your Partner is Here
 
-A family that can both work is a family that can settle. The Spousal Open Work Permit exists to make that possible — but the rules changed dramatically in 2024, and many families who used to qualify no longer do. Today, spouses of TEER 0/1 workers and master's or PhD students at public universities are the main qualifying categories. VMC confirms your eligibility under the current rules before you invest in an application, and prepares the complete package with the relationship evidence IRCC demands.
+A family that can both work is a family that can settle. The Spousal Open Work Permit exists to make that possible — but the rules changed dramatically in 2024, and many families who used to qualify no longer do. Today, spouses of TEER 0/1 workers and master's or PhD students at public universities are the main qualifying categories. Commonwealth Migration confirms your eligibility under the current rules before you invest in an application, and prepares the complete package with the relationship evidence IRCC demands.
 
 Spousal OWP snapshot
 
@@ -90,7 +90,7 @@ Any
 
 Employer (if approved)
 
-VMC
+Commonwealth Migration
 
 Eligibility check
 
@@ -102,7 +102,7 @@ Related programs
 - → Express Entry
 Does your partner qualify you for an OWP?
 
-VMC confirms your eligibility under the 2024 rules before you apply.
+Commonwealth Migration confirms your eligibility under the 2024 rules before you apply.
 
 ---
 
@@ -134,7 +134,7 @@ Work experience gained on a Spousal OWP counts toward Canadian Experience Class 
 
 ### Genuine Relationship Requirement
 
-IRCC carefully examines spousal applications for genuineness. A comprehensive evidence package is essential - marriage certificates alone are not sufficient. VMC builds strong relationship evidence files.
+IRCC carefully examines spousal applications for genuineness. A comprehensive evidence package is essential - marriage certificates alone are not sufficient. Commonwealth Migration builds strong relationship evidence files.
 
 ## Who Still Qualifies for a Spousal OWP?
 
@@ -173,7 +173,7 @@ As of 2024, spousal OWPs for spouses of international students are now restricte
 - Program must be at a public post-secondary institution
 - Bachelor's degree students' spouses: NO LONGER ELIGIBLE
 - College students' spouses: NO LONGER ELIGIBLE
-Note: Professional degrees that may qualify include medicine, dentistry, law, and similar programs at public universities. Confirm current eligibility with VMC.
+Note: Professional degrees that may qualify include medicine, dentistry, law, and similar programs at public universities. Confirm current eligibility with Commonwealth Migration.
 
 ### Spouses under Special Measures (CUAET / Ukraine)
 
@@ -195,7 +195,7 @@ Where the principal applicant has been recognized as a Convention refugee or pro
 - Principal has active refugee claim (after 180-day waiting period) OR
 - Principal has received positive refugee/protected person decision
 - Spouse is in Canada or applying to enter with principal
-- Assessed on a case-by-case basis - VMC advises
+- Assessed on a case-by-case basis - Commonwealth Migration advises
 
 ## What Changed: Old Rules vs. Current Rules
 
@@ -235,11 +235,11 @@ Prior to 2023-2024, spouses of almost any international student or temporary wor
 
 #### If the Relationship Ends
 
-A Spousal OWP is tied to the principal applicant's status. If you separate or divorce while holding a Spousal OWP, your OWP remains valid until its expiry date. However, you cannot renew it as a spousal OWP once the relationship ends. You would need to find another immigration pathway - work permit through an employer, your own PR application based on Canadian experience, or other status. VMC advises on options confidentially.
+A Spousal OWP is tied to the principal applicant's status. If you separate or divorce while holding a Spousal OWP, your OWP remains valid until its expiry date. However, you cannot renew it as a spousal OWP once the relationship ends. You would need to find another immigration pathway - work permit through an employer, your own PR application based on Canadian experience, or other status. Commonwealth Migration advises on options confidentially.
 
 ### Not Sure Your Partner Qualifies You for an OWP?
 
-VMC confirms your eligibility under the 2024 rules - including TEER level verification and program qualification check - before you spend time and money on an application that may not succeed.
+Commonwealth Migration confirms your eligibility under the 2024 rules - including TEER level verification and program qualification check - before you spend time and money on an application that may not succeed.
 
 ## How to Apply for a Spousal Open Work Permit
 
@@ -302,7 +302,7 @@ A comprehensive document package is the difference between approval and refusal.
 
 #### NOC TEER Verification Is Critical
 
-For the worker stream, you must document that the principal applicant is actually working in a TEER 0 or TEER 1 occupation. This requires an employer letter describing job duties in enough detail to confirm TEER level, pay stubs, and the NOC code matching the position. VMC verifies the NOC match before submitting.
+For the worker stream, you must document that the principal applicant is actually working in a TEER 0 or TEER 1 occupation. This requires an employer letter describing job duties in enough detail to confirm TEER level, pay stubs, and the NOC code matching the position. Commonwealth Migration verifies the NOC match before submitting.
 
 ## How Long Does a Spousal OWP Last?
 
@@ -318,7 +318,7 @@ When the principal applicant renews their work or study permit, apply to renew y
 
 ### Status Change Affects OWP
 
-If the principal applicant changes status (e.g., from student to worker, or receives PR), this affects your Spousal OWP. When the principal becomes a PR, your Spousal OWP stream may change. VMC advises families at every transition point.
+If the principal applicant changes status (e.g., from student to worker, or receives PR), this affects your Spousal OWP. When the principal becomes a PR, your Spousal OWP stream may change. Commonwealth Migration advises families at every transition point.
 
 ## Spousal OWP and Permanent Residence
 
@@ -334,7 +334,7 @@ In Express Entry, both the principal applicant and their spouse are included in 
 
 #### Spousal OWP → Spousal Sponsorship PR
 
-If the principal applicant becomes a Canadian permanent resident or citizen, they can sponsor you for PR through the spousal sponsorship program. This is a separate, relationship-based PR stream that does not require Canadian work experience or Express Entry eligibility. VMC handles both pathways and recommends the fastest route for each family's situation.
+If the principal applicant becomes a Canadian permanent resident or citizen, they can sponsor you for PR through the spousal sponsorship program. This is a separate, relationship-based PR stream that does not require Canadian work experience or Express Entry eligibility. Commonwealth Migration handles both pathways and recommends the fastest route for each family's situation.
 
 ### Common Spousal OWP Mistakes
 
@@ -344,7 +344,7 @@ The 2024 policy change is the single biggest source of rejected spousal OWP appl
 
 #### Misidentifying Principal's NOC as TEER 0/1
 
-Many applicants incorrectly assess their occupation as TEER 0 or 1 when it is actually TEER 2, 3, or lower. IRCC verifies the NOC code - submitting with an incorrect TEER claim leads to refusal. VMC confirms your NOC TEER level before applying.
+Many applicants incorrectly assess their occupation as TEER 0 or 1 when it is actually TEER 2, 3, or lower. IRCC verifies the NOC code - submitting with an incorrect TEER claim leads to refusal. Commonwealth Migration confirms your NOC TEER level before applying.
 
 #### Insufficient Relationship Evidence
 
@@ -371,7 +371,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Check Your Spousal OWP Eligibility - Free Assessment
 
-VMC's licensed RCICs verify eligibility under current rules, prepare the complete application, and keep families working together in Canada.
+Commonwealth Migration's licensed RCICs verify eligibility under current rules, prepare the complete application, and keep families working together in Canada.
 
 Serving families in Brampton · Toronto · Mississauga · Ontario and across Canada - plus applicants worldwide.
 
@@ -379,7 +379,7 @@ Serving families in Brampton · Toronto · Mississauga · Ontario and across Can
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -387,32 +387,32 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/spousal-work-permit#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Work Permit | https://visamastercanada.com/immigration/work-permit |
-| Book Free Assessment → | https://visamastercanada.com/book |
-| View Related Programs | https://visamastercanada.com/immigration/open-work-permit |
-| (647) 395-3471 | tel:+16473953471 |
-| → Open Work Permit | https://visamastercanada.com/immigration/open-work-permit |
-| → PGWP | https://visamastercanada.com/immigration/pgwp |
-| → Spousal Sponsorship | https://visamastercanada.com/immigration/spousal-sponsorship |
-| → Express Entry | https://visamastercanada.com/immigration/express-entry |
-| Call (647) 395-3471 | tel:+16473953471 |
-| Express Entry (CEC) details | https://visamastercanada.com/immigration/express-entry |
-| CRS score factors | https://visamastercanada.com/immigration/express-entry |
-| Spousal Sponsorship for PR | https://visamastercanada.com/immigration/spousal-sponsorship |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| All Open Work Permits | https://visamastercanada.com/immigration/open-work-permit |
-| Open Work Permit → | https://visamastercanada.com/immigration/open-work-permit |
-| PGWP → | https://visamastercanada.com/immigration/pgwp |
-| Express Entry → | https://visamastercanada.com/immigration/express-entry |
-| Spousal Sponsorship → | https://visamastercanada.com/immigration/spousal-sponsorship |
-| Work Permit → | https://visamastercanada.com/immigration/work-permit |
-| Refusals → | https://visamastercanada.com/refusals |
-| Book Free Consultation → | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/immigration/spousal-work-permit#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Work Permit | https://commonwealthmigration.ca/immigration/work-permit |
+| Book Free Assessment → | https://commonwealthmigration.ca/book |
+| View Related Programs | https://commonwealthmigration.ca/immigration/open-work-permit |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Open Work Permit | https://commonwealthmigration.ca/immigration/open-work-permit |
+| → PGWP | https://commonwealthmigration.ca/immigration/pgwp |
+| → Spousal Sponsorship | https://commonwealthmigration.ca/immigration/spousal-sponsorship |
+| → Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Express Entry (CEC) details | https://commonwealthmigration.ca/immigration/express-entry |
+| CRS score factors | https://commonwealthmigration.ca/immigration/express-entry |
+| Spousal Sponsorship for PR | https://commonwealthmigration.ca/immigration/spousal-sponsorship |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| All Open Work Permits | https://commonwealthmigration.ca/immigration/open-work-permit |
+| Open Work Permit → | https://commonwealthmigration.ca/immigration/open-work-permit |
+| PGWP → | https://commonwealthmigration.ca/immigration/pgwp |
+| Express Entry → | https://commonwealthmigration.ca/immigration/express-entry |
+| Spousal Sponsorship → | https://commonwealthmigration.ca/immigration/spousal-sponsorship |
+| Work Permit → | https://commonwealthmigration.ca/immigration/work-permit |
+| Refusals → | https://commonwealthmigration.ca/refusals |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -425,17 +425,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/spousal-work-permit#service","name":"Spousal Open Work Permit Canada","description":"Licensed RCIC guidance for Spousal Open Work Permit eligibility under 2024-2026 rules - TEER 0/1 workers, master's/PhD students, PR applicants.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Licensed Regulated Canadian Immigration Consultants","url":"https://visamastercanada.com"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Spousal Open Work Permit","item":"https://visamastercanada.com/immigration/spousal-work-permit"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/spousal-work-permit#service","name":"Spousal Open Work Permit Canada","description":"Licensed RCIC guidance for Spousal Open Work Permit eligibility under 2024-2026 rules - TEER 0/1 workers, master's/PhD students, PR applicants.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Licensed Regulated Canadian Immigration Consultants","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Spousal Open Work Permit","item":"https://commonwealthmigration.ca/immigration/spousal-work-permit"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://visamastercanada.com/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"Spousal Open Work Permit"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://commonwealthmigration.ca/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"Spousal Open Work Permit"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"My husband is on a PGWP - can I get a Spousal OWP?","acceptedAnswer":{"@type":"Answer","text":"It depends on what occupation your husband works in. PGWP itself does not automatically entitle you to a Spousal OWP - what matters is his NOC TEER level. If he is working in a TEER 0 or TEER 1 occupation (senior management, professional roles requiring university education), you likely qualify. If he is in TEER 2, 3, or lower, you generally do not qualify under the post-2024 rules. VMC can confirm based on his specific job duties and NOC."}},{"@type":"Question","name":"My wife is in a college diploma program in Canada - can she get me a spousal OWP?","acceptedAnswer":{"@type":"Answer","text":"No, as of 2024. Canada restricted spousal OWPs for spouses of international students to only those enrolled in master's or doctoral programs at public universities. Spouses of college diploma students no longer qualify for an OWP through this stream. This is a significant change from prior policy."}},{"@type":"Question","name":"We just got married in India - what documents do I need for the Spousal OWP?","acceptedAnswer":{"@type":"Answer","text":"You will need: your official marriage certificate (registered with the appropriate Indian authority and translated into English by a certified translator if in a regional language), wedding photographs, evidence of your ongoing relationship (communication records, travel history showing visits, letters from family), your passport, and documents showing your principal spouse's qualifying status in Canada. VMC can review your specific documents and advise on strengthening your application."}},{"@type":"Question","name":"My Spousal OWP expires before my husband's work permit - can I extend it?","acceptedAnswer":{"@type":"Answer","text":"Yes. If your husband's work permit is still valid and he remains in a qualifying occupation, you can apply to extend your Spousal OWP. Apply well before your current OWP expires. Processing typically takes 3-5 months, so apply at least 4-6 months before expiry. Submit the extension application simultaneously with or just after your husband's work permit renewal for smoother processing."}},{"@type":"Question","name":"Can I use my Canadian work experience from a Spousal OWP for Express Entry?","acceptedAnswer":{"@type":"Answer","text":"Yes. Canadian work experience gained on a Spousal OWP (any open work permit) counts toward Express Entry eligibility, just like any other work permit. If you accumulate 12 months of full-time (or equivalent) work experience in a TEER 0, 1, 2, or 3 occupation, you may be eligible for Canadian Experience Class (CEC). This is an important pathway - working on Spousal OWP can build your own independent PR eligibility."}},{"@type":"Question","name":"What TEER 0 and TEER 1 NOC codes qualify the principal applicant?","acceptedAnswer":{"@type":"Answer","text":"TEER 0 includes senior managers, executives, and directors across all industries (NOCs starting with 0). TEER 1 includes professionals requiring a university degree: engineers (all disciplines), accountants, nurses, physicians, pharmacists, lawyers, IT professionals (software developers, analysts), architects, dentists, and many more. TEER 2 and below (skilled tradespeople, technicians, administrative roles) do not qualify the spouse for an OWP. VMC confirms your specific NOC and TEER."}},{"@type":"Question","name":"My spouse has an active refugee claim - can I work in Canada?","acceptedAnswer":{"@type":"Answer","text":"If your spouse has filed a refugee claim in Canada and it is accepted for processing, you as an accompanying family member may be eligible for an open work permit, particularly after the 180-day waiting period has elapsed from the claim date. Refugee claim situations are complex and fact-specific. VMC assesses each family's situation individually and advises on the fastest path to legal work authorization."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"My husband is on a PGWP - can I get a Spousal OWP?","acceptedAnswer":{"@type":"Answer","text":"It depends on what occupation your husband works in. PGWP itself does not automatically entitle you to a Spousal OWP - what matters is his NOC TEER level. If he is working in a TEER 0 or TEER 1 occupation (senior management, professional roles requiring university education), you likely qualify. If he is in TEER 2, 3, or lower, you generally do not qualify under the post-2024 rules. Commonwealth Migration can confirm based on his specific job duties and NOC."}},{"@type":"Question","name":"My wife is in a college diploma program in Canada - can she get me a spousal OWP?","acceptedAnswer":{"@type":"Answer","text":"No, as of 2024. Canada restricted spousal OWPs for spouses of international students to only those enrolled in master's or doctoral programs at public universities. Spouses of college diploma students no longer qualify for an OWP through this stream. This is a significant change from prior policy."}},{"@type":"Question","name":"We just got married in India - what documents do I need for the Spousal OWP?","acceptedAnswer":{"@type":"Answer","text":"You will need: your official marriage certificate (registered with the appropriate Indian authority and translated into English by a certified translator if in a regional language), wedding photographs, evidence of your ongoing relationship (communication records, travel history showing visits, letters from family), your passport, and documents showing your principal spouse's qualifying status in Canada. Commonwealth Migration can review your specific documents and advise on strengthening your application."}},{"@type":"Question","name":"My Spousal OWP expires before my husband's work permit - can I extend it?","acceptedAnswer":{"@type":"Answer","text":"Yes. If your husband's work permit is still valid and he remains in a qualifying occupation, you can apply to extend your Spousal OWP. Apply well before your current OWP expires. Processing typically takes 3-5 months, so apply at least 4-6 months before expiry. Submit the extension application simultaneously with or just after your husband's work permit renewal for smoother processing."}},{"@type":"Question","name":"Can I use my Canadian work experience from a Spousal OWP for Express Entry?","acceptedAnswer":{"@type":"Answer","text":"Yes. Canadian work experience gained on a Spousal OWP (any open work permit) counts toward Express Entry eligibility, just like any other work permit. If you accumulate 12 months of full-time (or equivalent) work experience in a TEER 0, 1, 2, or 3 occupation, you may be eligible for Canadian Experience Class (CEC). This is an important pathway - working on Spousal OWP can build your own independent PR eligibility."}},{"@type":"Question","name":"What TEER 0 and TEER 1 NOC codes qualify the principal applicant?","acceptedAnswer":{"@type":"Answer","text":"TEER 0 includes senior managers, executives, and directors across all industries (NOCs starting with 0). TEER 1 includes professionals requiring a university degree: engineers (all disciplines), accountants, nurses, physicians, pharmacists, lawyers, IT professionals (software developers, analysts), architects, dentists, and many more. TEER 2 and below (skilled tradespeople, technicians, administrative roles) do not qualify the spouse for an OWP. Commonwealth Migration confirms your specific NOC and TEER."}},{"@type":"Question","name":"My spouse has an active refugee claim - can I work in Canada?","acceptedAnswer":{"@type":"Answer","text":"If your spouse has filed a refugee claim in Canada and it is accepted for processing, you as an accompanying family member may be eligible for an open work permit, particularly after the 180-day waiting period has elapsed from the claim date. Refugee claim situations are complex and fact-specific. Commonwealth Migration assesses each family's situation individually and advises on the fastest path to legal work authorization."}}]}
 ```

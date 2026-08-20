@@ -1,6 +1,6 @@
 # Post-Graduation Work Permit (PGWP) 2026 | Field of Study Rules | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/pgwp
+> **Source URL:** https://commonwealthmigration.ca/immigration/pgwp
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -10,11 +10,11 @@
 ## SEO Metadata
 
 - **Title tag:** Post-Graduation Work Permit (PGWP) 2026 | Field of Study Rules | Licensed RCIC
-- **Meta description:** PGWP 2026: eligibility, field of study requirements (2024 changes), duration rules, Express Entry pathway. VMC licensed RCIC guidance. Free assessment.
+- **Meta description:** PGWP 2026: eligibility, field of study requirements (2024 changes), duration rules, Express Entry pathway. Commonwealth Migration licensed RCIC guidance. Free assessment.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/pgwp
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/pgwp
 - **OG title:** PGWP Canada 2026 | Post-Graduation Work Permit | Licensed RCIC
-- **OG description:** PGWP 2026 field of study rules, duration, Express Entry pathway. VMC licensed RCIC. Free assessment.
+- **OG description:** PGWP 2026 field of study rules, duration, Express Entry pathway. Commonwealth Migration licensed RCIC. Free assessment.
 - **Robots:** index, follow
 
 ## Heading Outline
@@ -62,7 +62,7 @@
 - #### Apply for PR
 - #### NOC TEER Requirements for CEC
 - #### PNP Streams for PGWP Graduates
-- ## Common PGWP Mistakes That VMC Prevents
+- ## Common PGWP Mistakes That Commonwealth Migration Prevents
 - ### Applying After the 180-Day Window
 - ### Studying at an Ineligible DLI
 - ### Ignoring the 2024 Field of Study Requirement
@@ -80,7 +80,7 @@
 
 # Post-Graduation Work Permit (PGWP) Canada 2026
 
-Graduated from a Canadian DLI? Your PGWP gives you up to 3 years of open work authorization and a direct pathway to permanent residence through Express Entry or PNP. VMC confirms your field of study eligibility, prepares the complete application, and plans your PGWP-to-PR journey.
+Graduated from a Canadian DLI? Your PGWP gives you up to 3 years of open work authorization and a direct pathway to permanent residence through Express Entry or PNP. Commonwealth Migration confirms your field of study eligibility, prepares the complete application, and plans your PGWP-to-PR journey.
 
 PGWP at a glance
 
@@ -108,7 +108,7 @@ Related programs
 - → Study Permit
 Unsure if your program qualifies?
 
-VMC confirms PGWP eligibility before you apply - saving time and money.
+Commonwealth Migration confirms PGWP eligibility before you apply - saving time and money.
 
 ---
 
@@ -186,7 +186,7 @@ These institution types do not lead to PGWP eligibility regardless of DLI status
 - Distance-only international delivery programs
 - Non-DLI private institutions
 - Most aviation/flight schools (check case-by-case)
-Always verify on IRCC's website: The PGWP-eligible DLI list is updated regularly. Before enrolling in any program you intend to use for PGWP, search the current DLI list at Canada.ca. VMC advises on DLI and program eligibility before you commit to enrollment.
+Always verify on IRCC's website: The PGWP-eligible DLI list is updated regularly. Before enrolling in any program you intend to use for PGWP, search the current DLI list at Canada.ca. Commonwealth Migration advises on DLI and program eligibility before you commit to enrollment.
 
 ## Field of Study Requirement - Critical Since 2024
 
@@ -217,11 +217,11 @@ These fields may not qualify for PGWP if your program is at bachelor's or colleg
 - Humanities and social sciences (shorter programs - check eligibility)
 - Liberal arts programs under 2 years
 - Programs not in designated fields at non-master's/PhD level
-Note: The eligibility of specific programs is nuanced and IRCC policy continues to evolve. VMC strongly advises confirming your specific program's PGWP eligibility before committing to a course of study.
+Note: The eligibility of specific programs is nuanced and IRCC policy continues to evolve. Commonwealth Migration strongly advises confirming your specific program's PGWP eligibility before committing to a course of study.
 
 ### Not Sure Your Program Qualifies for PGWP?
 
-VMC confirms DLI eligibility, field of study requirements, and program length rules before you apply - saving you from a refusal.
+Commonwealth Migration confirms DLI eligibility, field of study requirements, and program length rules before you apply - saving you from a refusal.
 
 ## How Long is Your PGWP?
 
@@ -265,7 +265,7 @@ Get your official letter of completion, transcript showing final marks, or gradu
 
 #### Check Study Permit Status
 
-You must have held a valid study permit when you graduated (or for online programs, when you received final marks). If your study permit expired recently, you may still apply within a grace period - VMC can confirm.
+You must have held a valid study permit when you graduated (or for online programs, when you received final marks). If your study permit expired recently, you may still apply within a grace period - Commonwealth Migration can confirm.
 
 #### Confirm DLI and Field Eligibility
 
@@ -340,9 +340,9 @@ Many provinces have dedicated international graduate streams that target PGWP ho
 
 PGWP vs. Getting a Regular Work Permit After Graduation: PGWP is far superior to pursuing an LMIA-based work permit immediately after graduation. PGWP requires no employer participation, no advertising, and no LMIA cost - you can start working immediately for any employer. LMIA work permits take 3-6+ months and require employer sponsorship. PGWP is the fastest, most flexible route to Canadian work experience.
 
-## Common PGWP Mistakes That VMC Prevents
+## Common PGWP Mistakes That Commonwealth Migration Prevents
 
-These are the errors VMC sees most often in PGWP applications - each one can cost you your PGWP permanently or set back your PR by years.
+These are the errors Commonwealth Migration sees most often in PGWP applications - each one can cost you your PGWP permanently or set back your PR by years.
 
 ### Applying After the 180-Day Window
 
@@ -384,13 +384,13 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Your PGWP and Plan Your Path to PR
 
-VMC's licensed RCICs confirm your eligibility, prepare a complete application, and build your PGWP-to-PR roadmap from day one.
+Commonwealth Migration's licensed RCICs confirm your eligibility, prepare a complete application, and build your PGWP-to-PR roadmap from day one.
 
 ## Related Services
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -398,32 +398,32 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/pgwp#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Work Permit | https://visamastercanada.com/immigration/work-permit |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| View Related Programs | https://visamastercanada.com/immigration/work-permit |
-| (647) 395-3471 | tel:+16473953471 |
-| → Express Entry (CEC) | https://visamastercanada.com/immigration/express-entry |
-| → Open Work Permit | https://visamastercanada.com/immigration/open-work-permit |
-| → Spousal OWP | https://visamastercanada.com/immigration/spousal-work-permit |
-| → Study Permit | https://visamastercanada.com/immigration/study-permit |
-| Call (647) 395-3471 | tel:+16473953471 |
-| Express Entry details | https://visamastercanada.com/immigration/express-entry |
-| Bridging OWP guide | https://visamastercanada.com/immigration/open-work-permit#bridging-owp |
-| PNP streams for graduates | https://visamastercanada.com/immigration/pnp |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Express Entry (CEC) | https://visamastercanada.com/immigration/express-entry |
-| Open Work Permit → | https://visamastercanada.com/immigration/open-work-permit |
-| Spousal OWP → | https://visamastercanada.com/immigration/spousal-work-permit |
-| Express Entry → | https://visamastercanada.com/immigration/express-entry |
-| Study Permit → | https://visamastercanada.com/immigration/study-permit |
-| PNP → | https://visamastercanada.com/immigration/pnp |
-| Refusals → | https://visamastercanada.com/refusals |
-| Book Free Consultation → | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/immigration/pgwp#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Work Permit | https://commonwealthmigration.ca/immigration/work-permit |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| View Related Programs | https://commonwealthmigration.ca/immigration/work-permit |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Express Entry (CEC) | https://commonwealthmigration.ca/immigration/express-entry |
+| → Open Work Permit | https://commonwealthmigration.ca/immigration/open-work-permit |
+| → Spousal OWP | https://commonwealthmigration.ca/immigration/spousal-work-permit |
+| → Study Permit | https://commonwealthmigration.ca/immigration/study-permit |
+| Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Express Entry details | https://commonwealthmigration.ca/immigration/express-entry |
+| Bridging OWP guide | https://commonwealthmigration.ca/immigration/open-work-permit#bridging-owp |
+| PNP streams for graduates | https://commonwealthmigration.ca/immigration/pnp |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Express Entry (CEC) | https://commonwealthmigration.ca/immigration/express-entry |
+| Open Work Permit → | https://commonwealthmigration.ca/immigration/open-work-permit |
+| Spousal OWP → | https://commonwealthmigration.ca/immigration/spousal-work-permit |
+| Express Entry → | https://commonwealthmigration.ca/immigration/express-entry |
+| Study Permit → | https://commonwealthmigration.ca/immigration/study-permit |
+| PNP → | https://commonwealthmigration.ca/immigration/pnp |
+| Refusals → | https://commonwealthmigration.ca/refusals |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -436,17 +436,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/pgwp#service","name":"Post-Graduation Work Permit (PGWP) Canada","description":"Licensed RCIC guidance for PGWP eligibility, field of study requirements, application, and Express Entry pathway to PR.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Licensed Regulated Canadian Immigration Consultants","url":"https://visamastercanada.com"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"PGWP","item":"https://visamastercanada.com/immigration/pgwp"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/pgwp#service","name":"Post-Graduation Work Permit (PGWP) Canada","description":"Licensed RCIC guidance for PGWP eligibility, field of study requirements, application, and Express Entry pathway to PR.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Licensed Regulated Canadian Immigration Consultants","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"PGWP","item":"https://commonwealthmigration.ca/immigration/pgwp"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://visamastercanada.com/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"PGWP"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Work Permit","item":"https://commonwealthmigration.ca/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"PGWP"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"I studied at a private college - do I qualify for PGWP?","acceptedAnswer":{"@type":"Answer","text":"It depends. Many private colleges are not PGWP-eligible. Even if your school is a Designated Learning Institution (DLI), it must specifically be on the PGWP-eligible DLI list. After 2024 policy changes, many previously eligible private DLIs were restricted. Check the current IRCC PGWP-eligible DLI list at Canada.ca. VMC can confirm your specific institution's status."}},{"@type":"Question","name":"My program was only 8 months - how long is my PGWP?","acceptedAnswer":{"@type":"Answer","text":"For programs of 8 months to less than 2 years, your PGWP length equals your program length. So an 8-month program = 8-month PGWP, a 1-year diploma = 1-year PGWP. To get a 3-year PGWP, you need a program of 2 years or more, or two eligible programs combined with a total of 2+ years."}},{"@type":"Question","name":"Can I apply for PGWP if my study permit already expired?","acceptedAnswer":{"@type":"Answer","text":"Yes, in certain circumstances. You can apply for PGWP after your study permit expires IF you are still within 180 days of your graduation confirmation AND within 90 days of your study permit's expiry. If both conditions are met, you may apply. If your study permit expired more than 90 days ago, you may no longer be eligible - contact VMC immediately to assess your options."}},{"@type":"Question","name":"I took a 1-year diploma then a 2-year degree - how is my PGWP calculated?","acceptedAnswer":{"@type":"Answer","text":"If both programs were at PGWP-eligible DLIs, both meet field of study requirements, and they were completed within 2 years of each other, you may qualify for a PGWP based on the combined length. In this case (1 year + 2 years = 3 years total), you could qualify for a 3-year PGWP. The specific combination rules have nuances - VMC confirms your specific calculation."}},{"@type":"Question","name":"What happens after my PGWP expires and I haven't got PR?","acceptedAnswer":{"@type":"Answer","text":"If your PGWP expires before your PR application is decided, you can apply for a Bridging Open Work Permit (BOWP) - but only if you have already submitted a PR application under an eligible economic stream. If you have not yet applied for PR and your PGWP is nearing expiry, you may need an employer-specific work permit (closed work permit) with LMIA, or you may need to leave Canada. VMC strongly advises starting the PR process well before PGWP expiry."}},{"@type":"Question","name":"Does my field of study affect PGWP eligibility?","acceptedAnswer":{"@type":"Answer","text":"Yes - since November 2024. If you are in a master's or doctoral program, you are generally exempt from field of study requirements and eligible regardless of subject. For bachelor's degrees and college diplomas, your program must be in an eligible field: STEM, healthcare, agriculture, trades, transport, or education. Business, humanities, and social sciences at non-master's level may face restrictions."}},{"@type":"Question","name":"Can I travel while waiting for my PGWP?","acceptedAnswer":{"@type":"Answer","text":"This requires careful planning. If your study permit is still valid, you can travel but ensure you have re-entry documents (TRV if required, or eTA). If your study permit expired and your PGWP is pending (implied status), do NOT travel outside Canada - leaving ends your implied status. If you must travel, ensure you have a valid TRV before departure and discuss with VMC beforehand."}},{"@type":"Question","name":"Does working part-time on PGWP count toward CEC Express Entry?","acceptedAnswer":{"@type":"Answer","text":"No. For Canadian Experience Class (CEC) Express Entry, you need at least 12 months of full-time (or equivalent) skilled work experience in Canada in a TEER 0, 1, 2, or 3 occupation. Part-time work counts on a pro-rated basis: 2 months of half-time work = 1 month equivalent. You need 12 full-time equivalent months total."}},{"@type":"Question","name":"My partner is abroad - can they come to Canada while I'm on PGWP?","acceptedAnswer":{"@type":"Answer","text":"Possibly. If you are working in a TEER 0 or TEER 1 occupation, your spouse may qualify for a Spousal Open Work Permit. As of 2024 policy changes, PGWP holders in TEER 2 or lower occupations may not qualify to bring a spouse on an OWP. See our Spousal OWP page for current eligibility. VMC can assess based on your specific NOC."}},{"@type":"Question","name":"What if I can't find a job in my field of study after graduation?","acceptedAnswer":{"@type":"Answer","text":"Your PGWP allows you to work in ANY occupation - you are not restricted to your field of study. However, for Express Entry (CEC), you need 12 months in a TEER 0/1/2/3 occupation, which is about the skill level, not the specific field. You can work in any sector as long as the NOC TEER level qualifies. VMC helps graduates understand which jobs qualify for CEC and build a PR plan from any starting point."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"I studied at a private college - do I qualify for PGWP?","acceptedAnswer":{"@type":"Answer","text":"It depends. Many private colleges are not PGWP-eligible. Even if your school is a Designated Learning Institution (DLI), it must specifically be on the PGWP-eligible DLI list. After 2024 policy changes, many previously eligible private DLIs were restricted. Check the current IRCC PGWP-eligible DLI list at Canada.ca. Commonwealth Migration can confirm your specific institution's status."}},{"@type":"Question","name":"My program was only 8 months - how long is my PGWP?","acceptedAnswer":{"@type":"Answer","text":"For programs of 8 months to less than 2 years, your PGWP length equals your program length. So an 8-month program = 8-month PGWP, a 1-year diploma = 1-year PGWP. To get a 3-year PGWP, you need a program of 2 years or more, or two eligible programs combined with a total of 2+ years."}},{"@type":"Question","name":"Can I apply for PGWP if my study permit already expired?","acceptedAnswer":{"@type":"Answer","text":"Yes, in certain circumstances. You can apply for PGWP after your study permit expires IF you are still within 180 days of your graduation confirmation AND within 90 days of your study permit's expiry. If both conditions are met, you may apply. If your study permit expired more than 90 days ago, you may no longer be eligible - contact Commonwealth Migration immediately to assess your options."}},{"@type":"Question","name":"I took a 1-year diploma then a 2-year degree - how is my PGWP calculated?","acceptedAnswer":{"@type":"Answer","text":"If both programs were at PGWP-eligible DLIs, both meet field of study requirements, and they were completed within 2 years of each other, you may qualify for a PGWP based on the combined length. In this case (1 year + 2 years = 3 years total), you could qualify for a 3-year PGWP. The specific combination rules have nuances - Commonwealth Migration confirms your specific calculation."}},{"@type":"Question","name":"What happens after my PGWP expires and I haven't got PR?","acceptedAnswer":{"@type":"Answer","text":"If your PGWP expires before your PR application is decided, you can apply for a Bridging Open Work Permit (BOWP) - but only if you have already submitted a PR application under an eligible economic stream. If you have not yet applied for PR and your PGWP is nearing expiry, you may need an employer-specific work permit (closed work permit) with LMIA, or you may need to leave Canada. Commonwealth Migration strongly advises starting the PR process well before PGWP expiry."}},{"@type":"Question","name":"Does my field of study affect PGWP eligibility?","acceptedAnswer":{"@type":"Answer","text":"Yes - since November 2024. If you are in a master's or doctoral program, you are generally exempt from field of study requirements and eligible regardless of subject. For bachelor's degrees and college diplomas, your program must be in an eligible field: STEM, healthcare, agriculture, trades, transport, or education. Business, humanities, and social sciences at non-master's level may face restrictions."}},{"@type":"Question","name":"Can I travel while waiting for my PGWP?","acceptedAnswer":{"@type":"Answer","text":"This requires careful planning. If your study permit is still valid, you can travel but ensure you have re-entry documents (TRV if required, or eTA). If your study permit expired and your PGWP is pending (implied status), do NOT travel outside Canada - leaving ends your implied status. If you must travel, ensure you have a valid TRV before departure and discuss with Commonwealth Migration beforehand."}},{"@type":"Question","name":"Does working part-time on PGWP count toward CEC Express Entry?","acceptedAnswer":{"@type":"Answer","text":"No. For Canadian Experience Class (CEC) Express Entry, you need at least 12 months of full-time (or equivalent) skilled work experience in Canada in a TEER 0, 1, 2, or 3 occupation. Part-time work counts on a pro-rated basis: 2 months of half-time work = 1 month equivalent. You need 12 full-time equivalent months total."}},{"@type":"Question","name":"My partner is abroad - can they come to Canada while I'm on PGWP?","acceptedAnswer":{"@type":"Answer","text":"Possibly. If you are working in a TEER 0 or TEER 1 occupation, your spouse may qualify for a Spousal Open Work Permit. As of 2024 policy changes, PGWP holders in TEER 2 or lower occupations may not qualify to bring a spouse on an OWP. See our Spousal OWP page for current eligibility. Commonwealth Migration can assess based on your specific NOC."}},{"@type":"Question","name":"What if I can't find a job in my field of study after graduation?","acceptedAnswer":{"@type":"Answer","text":"Your PGWP allows you to work in ANY occupation - you are not restricted to your field of study. However, for Express Entry (CEC), you need 12 months in a TEER 0/1/2/3 occupation, which is about the skill level, not the specific field. You can work in any sector as long as the NOC TEER level qualifies. Commonwealth Migration helps graduates understand which jobs qualify for CEC and build a PR plan from any starting point."}}]}
 ```

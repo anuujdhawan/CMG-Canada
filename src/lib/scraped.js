@@ -87,7 +87,7 @@ function parseJsonLd(text) {
   return out;
 }
 
-export function parseScrapedFile(raw, filename = "") {
+export function parsePageDataFile(raw, filename = "") {
   const sections = splitSections(raw);
   const h1 = raw.match(/^# (.+)$/m)?.[1]?.trim() || "";
   const meta = {

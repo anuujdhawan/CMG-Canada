@@ -22,7 +22,7 @@ export default function FloatingCTA() {
           <>
             <motion.a
               key="email"
-              href={`mailto:${site.email}`}
+              href={site.emailHref}
               initial={shouldReduce ? false : { opacity: 0, scale: 0.6, y: 8 }}
               animate={{ opacity: 1, scale: 1, y: 0 }}
               exit={{ opacity: 0, scale: 0.6, y: 8 }}

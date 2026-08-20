@@ -1,7 +1,6 @@
 # Canada Immigration Special Measures
 
 > **Source URL:** https://commonwealthmigration.ca/special-measures/canada-immigration-special-measures
-> **Original Source URL:** https://visamastercanada.com/special-measures
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

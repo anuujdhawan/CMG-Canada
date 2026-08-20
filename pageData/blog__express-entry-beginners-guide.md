@@ -1,7 +1,6 @@
 # Express Entry for beginners: research the decision before the form
 
 > **Source URL:** https://commonwealthmigration.ca/blog/express-entry-beginners-guide
-> **Original Source URL:** https://visamastercanada.com/blog/express-entry-beginners-guide-2026
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

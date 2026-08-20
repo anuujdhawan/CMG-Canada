@@ -1,7 +1,6 @@
 # Temporary resident to PR Canada: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/temporary-resident-to-permanent-resident-canada
-> **Original Source URL:** https://visamastercanada.com/immigration/tr-to-pr
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

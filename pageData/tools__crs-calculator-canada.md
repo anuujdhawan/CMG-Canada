@@ -1,7 +1,6 @@
 # Free CRS calculator Canada: make the next question easier to answer
 
 > **Source URL:** https://commonwealthmigration.ca/tools/crs-calculator-canada
-> **Original Source URL:** https://visamastercanada.com/tools/crs-calculator
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

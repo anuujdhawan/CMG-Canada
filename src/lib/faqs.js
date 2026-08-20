@@ -117,7 +117,7 @@ function fallbackFaqItems(page) {
 
 const EXCLUDED_PATHS = new Set(["/privacy", "/terms", "/disclaimer", "/pay"]);
 
-/** Return page-specific FAQ content sourced from the scraped page data. */
+/** Return page-specific FAQ content sourced from the pageData Markdown contract. */
 export function getPageFaqs(page, limit = 8) {
   if (!page || EXCLUDED_PATHS.has(page.path)) return [];
 

@@ -1,7 +1,6 @@
 # Immigrate to Canada from Qatar: start with the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigrate-to-canada/from-qatar
-> **Original Source URL:** https://visamastercanada.com/immigrate/qatar
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

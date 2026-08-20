@@ -1,7 +1,6 @@
 # Free FSW 67-point calculator: make the next question easier to answer
 
 > **Source URL:** https://commonwealthmigration.ca/tools/fsw-67-point-calculator-canada
-> **Original Source URL:** https://visamastercanada.com/tools/fsw-67-point-calculator
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

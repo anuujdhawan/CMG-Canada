@@ -1,6 +1,6 @@
 # Immigrate to Canada by Country 2026 | Country-Specific Guides
 
-> **Source URL:** https://visamastercanada.com/immigrate
+> **Source URL:** https://commonwealthmigration.ca/immigrate
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,8 +12,8 @@
 - **Title tag:** Immigrate to Canada by Country 2026 | Country-Specific Guides
 - **Meta description:** Immigrate to Canada from India, Philippines, Nigeria, UAE, Bangladesh, Nepal, Sri Lanka and more. Country-specific RCIC guidance tailored to your background.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigrate
-- **OG title:** Immigrate to Canada by Country 2026 | VMC Immigration
+- **Canonical URL:** https://commonwealthmigration.ca/immigrate
+- **OG title:** Immigrate to Canada by Country 2026 | Commonwealth Migration
 - **OG description:** Immigrate to Canada from India, Philippines, Nigeria, UAE, Bangladesh, Nepal, Sri Lanka and more. Country-specific RCIC guidance tailored to your background.
 - **Robots:** index, follow
 
@@ -122,7 +122,7 @@ Browse by program type: Express Entry, Provincial Nominee Programs, Family Spons
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh. Every consultant is regulated by the College of Immigration and Citizenship Consultants (CICC), so you can be sure the advice you receive is authorized, accountable, and current.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team. Every consultant is regulated by the College of Immigration and Citizenship Consultants (CICC), so you can be sure the advice you receive is authorized, accountable, and current.
 
 ---
 
@@ -130,26 +130,26 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigrate#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Free Assessment | https://visamastercanada.com/free-assessment |
-| (647) 395-3471 | tel:+16473953471 |
-| Book free call → | https://visamastercanada.com/book |
-| 🇮🇳 Immigrate from India Express Entry, PNP streams, H-1B to Canada pathway, WES credential assessment, IELTS tips for Indian applicants. Express Entry OINP H-1B Pathway View guide | https://visamastercanada.com/immigrate/india |
-| 🇵🇰 Immigrate from Pakistan Skilled worker pathways, family sponsorship, study-to-PR routes, and Super Visa options for Pakistani families. Skilled Worker Family Sponsorship Super Visa View guide | https://visamastercanada.com/immigrate/pakistan |
-| 🇵🇭 Immigrate from Philippines TFW-to-PR pathways, caregiver programs, MPNP and AAIP streams popular with Filipino workers in Canada. TFW to PR MPNP Caregiver View guide | https://visamastercanada.com/immigrate/philippines |
-| 🇳🇬 Immigrate from Nigeria Express Entry for Nigerian professionals, refusal strategies, family sponsorship, and PNP options. Express Entry Refusals PNP View guide | https://visamastercanada.com/immigrate/nigeria |
-| 🇦🇪 Immigrate from UAE Immigration pathways for UAE residents and expats, including skilled worker, business, and family routes to Canada. Skilled Worker Business Immigration Family View guide | https://visamastercanada.com/immigrate/uae |
-| 🇸🇦 Immigrate from Saudi Arabia Canadian PR options for Saudi Arabia residents, Express Entry, PNP, and investor pathways. Express Entry Investor PNP View guide | https://visamastercanada.com/immigrate/saudi-arabia |
-| 🇧🇩 Immigrate from Bangladesh Skilled worker and family sponsorship pathways for Bangladeshi applicants seeking Canadian permanent residence. Skilled Worker Family Sponsorship Study Permit View guide | https://visamastercanada.com/immigrate/bangladesh |
-| 🇳🇵 Immigrate from Nepal Study-to-PR pipeline, PGWP pathways, and Express Entry options for Nepalese students and workers in Canada. Study Permit PGWP Express Entry View guide | https://visamastercanada.com/immigrate/nepal |
-| 🇱🇰 Immigrate from Sri Lanka Immigration options for Sri Lankan professionals including Express Entry, PNP streams, and family reunification. Express Entry PNP Family View guide | https://visamastercanada.com/immigrate/sri-lanka |
-| 🇻🇳 Immigrate from Vietnam Canadian immigration pathways for Vietnamese applicants: skilled worker, student, and provincial nominee programs. Skilled Worker PNP Study Permit View guide | https://visamastercanada.com/immigrate/vietnam |
-| 🇶🇦 Immigrate from Qatar PR and immigration options for Qatar-based professionals and families looking to move to Canada. Skilled Worker Business Family View guide | https://visamastercanada.com/immigrate/qatar |
-| Browse all programs | https://visamastercanada.com/immigration |
+| Skip to main content | https://commonwealthmigration.ca/immigrate#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Free Assessment | https://commonwealthmigration.ca/free-assessment |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Book free call → | https://commonwealthmigration.ca/book |
+| 🇮🇳 Immigrate from India Express Entry, PNP streams, H-1B to Canada pathway, WES credential assessment, IELTS tips for Indian applicants. Express Entry OINP H-1B Pathway View guide | https://commonwealthmigration.ca/immigrate/india |
+| 🇵🇰 Immigrate from Pakistan Skilled worker pathways, family sponsorship, study-to-PR routes, and Super Visa options for Pakistani families. Skilled Worker Family Sponsorship Super Visa View guide | https://commonwealthmigration.ca/immigrate/pakistan |
+| 🇵🇭 Immigrate from Philippines TFW-to-PR pathways, caregiver programs, MPNP and AAIP streams popular with Filipino workers in Canada. TFW to PR MPNP Caregiver View guide | https://commonwealthmigration.ca/immigrate/philippines |
+| 🇳🇬 Immigrate from Nigeria Express Entry for Nigerian professionals, refusal strategies, family sponsorship, and PNP options. Express Entry Refusals PNP View guide | https://commonwealthmigration.ca/immigrate/nigeria |
+| 🇦🇪 Immigrate from UAE Immigration pathways for UAE residents and expats, including skilled worker, business, and family routes to Canada. Skilled Worker Business Immigration Family View guide | https://commonwealthmigration.ca/immigrate/uae |
+| 🇸🇦 Immigrate from Saudi Arabia Canadian PR options for Saudi Arabia residents, Express Entry, PNP, and investor pathways. Express Entry Investor PNP View guide | https://commonwealthmigration.ca/immigrate/saudi-arabia |
+| 🇧🇩 Immigrate from Bangladesh Skilled worker and family sponsorship pathways for Bangladeshi applicants seeking Canadian permanent residence. Skilled Worker Family Sponsorship Study Permit View guide | https://commonwealthmigration.ca/immigrate/bangladesh |
+| 🇳🇵 Immigrate from Nepal Study-to-PR pipeline, PGWP pathways, and Express Entry options for Nepalese students and workers in Canada. Study Permit PGWP Express Entry View guide | https://commonwealthmigration.ca/immigrate/nepal |
+| 🇱🇰 Immigrate from Sri Lanka Immigration options for Sri Lankan professionals including Express Entry, PNP streams, and family reunification. Express Entry PNP Family View guide | https://commonwealthmigration.ca/immigrate/sri-lanka |
+| 🇻🇳 Immigrate from Vietnam Canadian immigration pathways for Vietnamese applicants: skilled worker, student, and provincial nominee programs. Skilled Worker PNP Study Permit View guide | https://commonwealthmigration.ca/immigrate/vietnam |
+| 🇶🇦 Immigrate from Qatar PR and immigration options for Qatar-based professionals and families looking to move to Canada. Skilled Worker Business Family View guide | https://commonwealthmigration.ca/immigrate/qatar |
+| Browse all programs | https://commonwealthmigration.ca/immigration |
 
 ---
 
@@ -162,9 +162,9 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigrate to Canada"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigrate to Canada"}]}
 ```

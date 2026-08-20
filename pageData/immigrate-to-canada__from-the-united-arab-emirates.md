@@ -1,7 +1,6 @@
 # Immigrate to Canada from the United Arab Emirates: start with the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigrate-to-canada/from-the-united-arab-emirates
-> **Original Source URL:** https://visamastercanada.com/immigrate/uae
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

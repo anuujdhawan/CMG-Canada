@@ -1,7 +1,6 @@
 # Hamilton immigration consultant for a Canada-wide immigration plan
 
 > **Source URL:** https://commonwealthmigration.ca/immigration-consultant/hamilton-immigration-consultant
-> **Original Source URL:** https://visamastercanada.com/immigration-consultant/hamilton
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

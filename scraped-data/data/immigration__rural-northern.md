@@ -1,6 +1,6 @@
 # Rural Community Immigration Pilot (RCIP) 2026 | Formerly RNIP | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/rural-northern
+> **Source URL:** https://commonwealthmigration.ca/immigration/rural-northern
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,9 +12,9 @@
 - **Title tag:** Rural Community Immigration Pilot (RCIP) 2026 | Formerly RNIP | Licensed RCIC
 - **Meta description:** Rural Community Immigration Pilot (RCIP), formerly RNIP, offers Canadian PR via job offers in participating rural communities. Licensed RCIC guidance.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/rural-northern
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/rural-northern
 - **OG title:** Rural Community Immigration Pilot (RCIP) 2026 | Licensed RCIC
-- **OG description:** Permanent residence through rural Canadian communities. Job offer + community recommendation. VMC guides your RCIP application.
+- **OG description:** Permanent residence through rural Canadian communities. Job offer + community recommendation. Commonwealth Migration guides your RCIP application.
 - **Robots:** index, follow
 
 ## Heading Outline
@@ -84,7 +84,7 @@ Related programs
 - → TR to PR Overview
 Working or seeking work in rural Canada?
 
-VMC identifies participating communities matching your occupation and builds your RCIP application.
+Commonwealth Migration identifies participating communities matching your occupation and builds your RCIP application.
 
 ---
 
@@ -166,7 +166,7 @@ Truro, Nova Scotia
 
 Agriculture, manufacturing, healthcare
 
-Full community list: IRCC publishes the complete and current list of RCIP participating communities at Canada.ca. VMC monitors community availability and occupational caps to advise which communities are actively recruiting in your field.
+Full community list: IRCC publishes the complete and current list of RCIP participating communities at Canada.ca. Commonwealth Migration monitors community availability and occupational caps to advise which communities are actively recruiting in your field.
 
 ## Who Qualifies for RCIP
 
@@ -213,7 +213,7 @@ You must genuinely intend to live and work in the recommending community. Commun
 
 ## Step-by-Step: How to Apply Under RCIP
 
-The RCIP process involves both community-level and federal-level steps. VMC coordinates both stages.
+The RCIP process involves both community-level and federal-level steps. Commonwealth Migration coordinates both stages.
 
 ### Find a Job in a Participating Community
 
@@ -233,7 +233,7 @@ The community issues a formal recommendation letter. This is a prerequisite for 
 
 ### Prepare and Submit PR Application to IRCC
 
-VMC prepares your complete IRCC PR application: police certificates, medicals, ECA (if needed), language results, employment records, and supporting documents. Submit within the time limit.
+Commonwealth Migration prepares your complete IRCC PR application: police certificates, medicals, ECA (if needed), language results, employment records, and supporting documents. Submit within the time limit.
 
 ### IRCC Processing and PR Confirmation
 
@@ -241,7 +241,7 @@ IRCC reviews your application. Typical processing: 12-18 months. Upon approval, 
 
 ### Ready to Apply for Rural Community PR?
 
-VMC identifies the RCIP communities actively recruiting in your occupation, connects you with the right employer contacts, and prepares your complete PR application from job offer to COPR.
+Commonwealth Migration identifies the RCIP communities actively recruiting in your occupation, connects you with the right employer contacts, and prepares your complete PR application from job offer to COPR.
 
 ## Benefits of Settling in Rural Canada
 
@@ -277,7 +277,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -285,26 +285,26 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/rural-northern#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Free Assessment | https://visamastercanada.com/free-assessment |
-| (647) 395-3471 | tel:+16473953471 |
-| → Atlantic Immigration (AIP) | https://visamastercanada.com/immigration/pnp |
-| → Provincial Nominee (PNP) | https://visamastercanada.com/immigration/pnp |
-| → Express Entry | https://visamastercanada.com/immigration/express-entry |
-| → TR to PR Overview | https://visamastercanada.com/immigration/tr-to-pr |
-| Book consultation → | https://visamastercanada.com/book |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Atlantic Immigration Program | https://visamastercanada.com/immigration/pnp |
-| Provincial Nominee (PNP) | https://visamastercanada.com/immigration/pnp |
-| Express Entry | https://visamastercanada.com/immigration/express-entry |
-| TR to PR Pathways | https://visamastercanada.com/immigration/tr-to-pr |
-| Agri-Food Pilot | https://visamastercanada.com/immigration/agri-food |
-| Work Permits & LMIA | https://visamastercanada.com/immigration/lmia |
+| Skip to main content | https://commonwealthmigration.ca/immigration/rural-northern#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Free Assessment | https://commonwealthmigration.ca/free-assessment |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Atlantic Immigration (AIP) | https://commonwealthmigration.ca/immigration/pnp |
+| → Provincial Nominee (PNP) | https://commonwealthmigration.ca/immigration/pnp |
+| → Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| → TR to PR Overview | https://commonwealthmigration.ca/immigration/tr-to-pr |
+| Book consultation → | https://commonwealthmigration.ca/book |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Atlantic Immigration Program | https://commonwealthmigration.ca/immigration/pnp |
+| Provincial Nominee (PNP) | https://commonwealthmigration.ca/immigration/pnp |
+| Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| TR to PR Pathways | https://commonwealthmigration.ca/immigration/tr-to-pr |
+| Agri-Food Pilot | https://commonwealthmigration.ca/immigration/agri-food |
+| Work Permits & LMIA | https://commonwealthmigration.ca/immigration/lmia |
 
 ---
 
@@ -317,17 +317,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/rural-northern#service","name":"Rural Community Immigration Pilot (RCIP) Consulting","description":"Licensed RCIC guidance for Canada's Rural Community Immigration Pilot (formerly RNIP) - community-based PR for skilled workers in rural Canada.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"VMC Immigration Services","url":"https://visamastercanada.com","telephone":"+16473953471"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Rural Community Immigration Pilot","item":"https://visamastercanada.com/immigration/rural-northern"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/rural-northern#service","name":"Rural Community Immigration Pilot (RCIP) Consulting","description":"Licensed RCIC guidance for Canada's Rural Community Immigration Pilot (formerly RNIP) - community-based PR for skilled workers in rural Canada.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Rural Community Immigration Pilot","item":"https://commonwealthmigration.ca/immigration/rural-northern"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Rural Community Pilot (RCIP)"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Rural Community Pilot (RCIP)"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the difference between RCIP and the old RNIP?","acceptedAnswer":{"@type":"Answer","text":"The Rural and Northern Immigration Pilot (RNIP) transitioned to the Rural Community Immigration Pilot (RCIP) in 2024. The core structure is similar: communities recommend candidates for PR based on local employer job offers. RCIP expanded the number of participating communities and refined the eligibility criteria. If you were part of the RNIP process, contact VMC to confirm your status under the current RCIP framework."}},{"@type":"Question","name":"How do I find a job in an RCIP-participating community?","acceptedAnswer":{"@type":"Answer","text":"Each participating community has its own job portal and designated economic development organization managing the program. You can search the IRCC list of participating communities, visit community websites, and apply directly to employers. Job banks such as Job Bank Canada (jobbank.gc.ca) allow filtering by location. VMC can advise on which communities have the strongest job markets in your occupation."}},{"@type":"Question","name":"Do I need a community recommendation before or after the job offer?","acceptedAnswer":{"@type":"Answer","text":"You need a valid job offer first, then you apply to the community's designated organization for a community recommendation. The community assesses whether you meet eligibility criteria and whether you genuinely intend to live and work in that community. The recommendation is required before you can submit your PR application to IRCC."}},{"@type":"Question","name":"What language level is required for RCIP?","acceptedAnswer":{"@type":"Answer","text":"The minimum language requirement depends on the NOC TEER level of your job offer: TEER 0 and 1 require CLB 6; TEER 2 and 3 require CLB 4; TEER 4 and 5 require CLB 4. Higher CLB scores strengthen your application. IELTS General Training, CELPIP, TEF Canada, and TCF Canada are accepted."}},{"@type":"Question","name":"Can I stay in the community after receiving PR?","acceptedAnswer":{"@type":"Answer","text":"Yes - and you are expected to. One of the key eligibility criteria is your genuine intention to reside in the community. While there is no legal obligation to remain permanently after receiving PR (you have full PR rights to live anywhere in Canada), the spirit of the program is to support rural communities. If IRCC determines your intention was not genuine at the time of application, it could be considered misrepresentation."}},{"@type":"Question","name":"What happens if I cannot find a job in a participating community?","acceptedAnswer":{"@type":"Answer","text":"RCIP requires a specific job offer from an employer in a participating community - you cannot apply without one. If you are having difficulty finding a qualifying job offer, VMC can advise on other pathways: Atlantic Immigration Program, applicable PNP streams, or Express Entry. Some rural community employers are actively recruiting internationally for RCIP-eligible positions."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the difference between RCIP and the old RNIP?","acceptedAnswer":{"@type":"Answer","text":"The Rural and Northern Immigration Pilot (RNIP) transitioned to the Rural Community Immigration Pilot (RCIP) in 2024. The core structure is similar: communities recommend candidates for PR based on local employer job offers. RCIP expanded the number of participating communities and refined the eligibility criteria. If you were part of the RNIP process, contact Commonwealth Migration to confirm your status under the current RCIP framework."}},{"@type":"Question","name":"How do I find a job in an RCIP-participating community?","acceptedAnswer":{"@type":"Answer","text":"Each participating community has its own job portal and designated economic development organization managing the program. You can search the IRCC list of participating communities, visit community websites, and apply directly to employers. Job banks such as Job Bank Canada (jobbank.gc.ca) allow filtering by location. Commonwealth Migration can advise on which communities have the strongest job markets in your occupation."}},{"@type":"Question","name":"Do I need a community recommendation before or after the job offer?","acceptedAnswer":{"@type":"Answer","text":"You need a valid job offer first, then you apply to the community's designated organization for a community recommendation. The community assesses whether you meet eligibility criteria and whether you genuinely intend to live and work in that community. The recommendation is required before you can submit your PR application to IRCC."}},{"@type":"Question","name":"What language level is required for RCIP?","acceptedAnswer":{"@type":"Answer","text":"The minimum language requirement depends on the NOC TEER level of your job offer: TEER 0 and 1 require CLB 6; TEER 2 and 3 require CLB 4; TEER 4 and 5 require CLB 4. Higher CLB scores strengthen your application. IELTS General Training, CELPIP, TEF Canada, and TCF Canada are accepted."}},{"@type":"Question","name":"Can I stay in the community after receiving PR?","acceptedAnswer":{"@type":"Answer","text":"Yes - and you are expected to. One of the key eligibility criteria is your genuine intention to reside in the community. While there is no legal obligation to remain permanently after receiving PR (you have full PR rights to live anywhere in Canada), the spirit of the program is to support rural communities. If IRCC determines your intention was not genuine at the time of application, it could be considered misrepresentation."}},{"@type":"Question","name":"What happens if I cannot find a job in a participating community?","acceptedAnswer":{"@type":"Answer","text":"RCIP requires a specific job offer from an employer in a participating community - you cannot apply without one. If you are having difficulty finding a qualifying job offer, Commonwealth Migration can advise on other pathways: Atlantic Immigration Program, applicable PNP streams, or Express Entry. Some rural community employers are actively recruiting internationally for RCIP-eligible positions."}}]}
 ```

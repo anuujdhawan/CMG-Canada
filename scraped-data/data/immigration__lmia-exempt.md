@@ -1,6 +1,6 @@
 # LMIA-Exempt Work Permits Canada 2026 | CUSMA TN, ICT, IEC | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/lmia-exempt
+> **Source URL:** https://commonwealthmigration.ca/immigration/lmia-exempt
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** LMIA-Exempt Work Permits Canada 2026 | CUSMA TN, ICT, IEC | Licensed RCIC
 - **Meta description:** Work in Canada without an LMIA. CUSMA/TN, CETA, intra-company transfers, IEC, Global Talent Stream and more - all explained. Licensed RCIC. Free assessment.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/lmia-exempt
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/lmia-exempt
 - **OG title:** LMIA-Exempt Work Permits Canada 2026 | CUSMA, ICT, IEC | Licensed RCIC
 - **OG description:** No LMIA needed for trade agreements, ICT, IEC and more. Faster, cheaper, no Job Bank advertising. Licensed RCIC guidance.
 - **Robots:** index, follow
@@ -59,7 +59,7 @@
 - ### What the Employer Portal Requires
 - ### Exceptions to the Portal Requirement
 - ### Compliance Obligations
-- ### VMC Employer Portal Support
+- ### Commonwealth Migration Employer Portal Support
 - ## How to Apply for an LMIA-Exempt Work Permit
 - #### Confirm Eligibility
 - #### Employer Submits Portal Offer
@@ -79,7 +79,7 @@
 
 # LMIA-Exempt Work Permits Canada 2026
 
-Most people assume every work permit in Canada starts with an LMIA — a Labour Market Impact Assessment proving no Canadian could fill the job. That assumption is wrong, and it costs people time and money. Trade agreements like CUSMA and CETA, intra-company transfers, IEC working holidays, and other International Mobility Program streams let you work in Canada faster, without the $1,000 ESDC fee and without weeks of Job Bank advertising. VMC's licensed RCICs confirm which stream applies to your nationality and occupation, then prepare your application.
+Most people assume every work permit in Canada starts with an LMIA — a Labour Market Impact Assessment proving no Canadian could fill the job. That assumption is wrong, and it costs people time and money. Trade agreements like CUSMA and CETA, intra-company transfers, IEC working holidays, and other International Mobility Program streams let you work in Canada faster, without the $1,000 ESDC fee and without weeks of Job Bank advertising. Commonwealth Migration's licensed RCICs confirm which stream applies to your nationality and occupation, then prepare your application.
 
 Quick links
 
@@ -91,7 +91,7 @@ Quick links
 - → LMIA (when required)
 Not sure which stream fits?
 
-VMC checks all IMP streams and finds the fastest route for your situation.
+Commonwealth Migration checks all IMP streams and finds the fastest route for your situation.
 
 ---
 
@@ -203,7 +203,7 @@ Covers nationals of Japan, Australia, Mexico, Chile, Vietnam, Singapore, New Zea
 
 The General Agreement on Trade in Services (GATS) and various bilateral agreements also create LMIA-exempt pathways for service providers, investors, and intra-company transferees from member/partner countries not covered by the major agreements.
 
-Professional vs. Intra-Company distinction: Under CUSMA, CETA, and CPTPP, "professionals" work for a Canadian employer in a qualifying occupation. "Intra-company transferees" move within the same corporate group. The documentary requirements and permit codes differ - VMC confirms which applies to your situation.
+Professional vs. Intra-Company distinction: Under CUSMA, CETA, and CPTPP, "professionals" work for a Canadian employer in a qualifying occupation. "Intra-company transferees" move within the same corporate group. The documentary requirements and permit codes differ - Commonwealth Migration confirms which applies to your situation.
 
 ## Significant Benefit to Canada
 
@@ -274,7 +274,7 @@ Situations where an LMIA cannot be obtained due to urgent circumstances - equipm
 
 ### Not Sure Which LMIA-Exempt Stream Applies to You?
 
-VMC's licensed RCICs identify the fastest qualifying route for your nationality, occupation, and employer - before you apply.
+Commonwealth Migration's licensed RCICs identify the fastest qualifying route for your nationality, occupation, and employer - before you apply.
 
 ## Facilitative and Canadian Interest Exemptions
 
@@ -324,9 +324,9 @@ Submitting to the Employer Portal creates binding compliance obligations. IRCC c
 - Employer must keep employment records for 6 years
 - IRCC inspections can result in bans from the IMP for non-compliant employers
 
-### VMC Employer Portal Support
+### Commonwealth Migration Employer Portal Support
 
-VMC prepares Employer Portal submissions for IMP categories, ensures job offers are correctly structured for the exemption code claimed, and advises employers on compliance obligations.
+Commonwealth Migration prepares Employer Portal submissions for IMP categories, ensures job offers are correctly structured for the exemption code claimed, and advises employers on compliance obligations.
 
 ## How to Apply for an LMIA-Exempt Work Permit
 
@@ -334,7 +334,7 @@ The process varies by category. Here is the general flow for R204 (trade agreeme
 
 #### Confirm Eligibility
 
-Verify your nationality, occupation, and employer relationship qualify for the specific LMIA-exempt stream. VMC reviews your situation and identifies the strongest available pathway.
+Verify your nationality, occupation, and employer relationship qualify for the specific LMIA-exempt stream. Commonwealth Migration reviews your situation and identifies the strongest available pathway.
 
 #### Employer Submits Portal Offer
 
@@ -413,7 +413,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -421,33 +421,33 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/lmia-exempt#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Work Permits | https://visamastercanada.com/immigration/work-permit |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| Check Eligibility | https://visamastercanada.com/tools |
-| (647) 395-3471 | tel:+16473953471 |
-| → CUSMA/TN Work Permits | https://visamastercanada.com/immigration/lmia-exempt#international-agreements |
-| → Intra-Company Transfer | https://visamastercanada.com/for-employers/intra-company-transfer |
-| → IEC Working Holiday | https://visamastercanada.com/immigration/iec |
-| → Global Talent Stream | https://visamastercanada.com/for-employers/global-talent-stream |
-| → Work Permit Hub | https://visamastercanada.com/immigration/work-permit |
-| → LMIA (when required) | https://visamastercanada.com/immigration/lmia |
-| Full ICT details for employers | https://visamastercanada.com/for-employers/intra-company-transfer |
-| Full GTS details for employers | https://visamastercanada.com/for-employers/global-talent-stream |
-| Call (647) 395-3471 | tel:+16473953471 |
-| Employer LMIA-Exempt Services | https://visamastercanada.com/for-employers/lmia-exempt |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Work Permit Hub → | https://visamastercanada.com/immigration/work-permit |
-| LMIA (When Required) → | https://visamastercanada.com/immigration/lmia |
-| Intra-Company Transfer → | https://visamastercanada.com/for-employers/intra-company-transfer |
-| Global Talent Stream → | https://visamastercanada.com/for-employers/global-talent-stream |
-| Express Entry → | https://visamastercanada.com/immigration/express-entry |
-| Employer Services → | https://visamastercanada.com/for-employers |
-| Book Free Consultation → | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/immigration/lmia-exempt#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Check Eligibility | https://commonwealthmigration.ca/tools |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → CUSMA/TN Work Permits | https://commonwealthmigration.ca/immigration/lmia-exempt#international-agreements |
+| → Intra-Company Transfer | https://commonwealthmigration.ca/for-employers/intra-company-transfer |
+| → IEC Working Holiday | https://commonwealthmigration.ca/immigration/iec |
+| → Global Talent Stream | https://commonwealthmigration.ca/for-employers/global-talent-stream |
+| → Work Permit Hub | https://commonwealthmigration.ca/immigration/work-permit |
+| → LMIA (when required) | https://commonwealthmigration.ca/immigration/lmia |
+| Full ICT details for employers | https://commonwealthmigration.ca/for-employers/intra-company-transfer |
+| Full GTS details for employers | https://commonwealthmigration.ca/for-employers/global-talent-stream |
+| Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Employer LMIA-Exempt Services | https://commonwealthmigration.ca/for-employers/lmia-exempt |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Work Permit Hub → | https://commonwealthmigration.ca/immigration/work-permit |
+| LMIA (When Required) → | https://commonwealthmigration.ca/immigration/lmia |
+| Intra-Company Transfer → | https://commonwealthmigration.ca/for-employers/intra-company-transfer |
+| Global Talent Stream → | https://commonwealthmigration.ca/for-employers/global-talent-stream |
+| Express Entry → | https://commonwealthmigration.ca/immigration/express-entry |
+| Employer Services → | https://commonwealthmigration.ca/for-employers |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -460,17 +460,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/lmia-exempt#service","name":"LMIA-Exempt Work Permit Services Canada","description":"Licensed RCIC guidance for LMIA-exempt work permits including CUSMA/TN, CETA, CPTPP, intra-company transfers, IEC, and all International Mobility Program streams.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Work Permits","item":"https://visamastercanada.com/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"LMIA-Exempt","item":"https://visamastercanada.com/immigration/lmia-exempt"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/lmia-exempt#service","name":"LMIA-Exempt Work Permit Services Canada","description":"Licensed RCIC guidance for LMIA-exempt work permits including CUSMA/TN, CETA, CPTPP, intra-company transfers, IEC, and all International Mobility Program streams.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Work Permits","item":"https://commonwealthmigration.ca/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"LMIA-Exempt","item":"https://commonwealthmigration.ca/immigration/lmia-exempt"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Work Permits","item":"https://visamastercanada.com/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"LMIA-Exempt"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Work Permits","item":"https://commonwealthmigration.ca/immigration/work-permit"},{"@type":"ListItem","position":4,"name":"LMIA-Exempt"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does my employer have to pay the $230 compliance fee for an LMIA-exempt work permit?","acceptedAnswer":{"@type":"Answer","text":"Yes, for most LMIA-exempt categories under the International Mobility Program, your employer must submit an Offer of Employment through the IRCC Employer Portal and pay the $230 employer compliance fee before you can apply for a work permit. The main exception is IEC (International Experience Canada) - under IEC, there is no employer portal submission or compliance fee required."}},{"@type":"Question","name":"Can TN (CUSMA) holders apply for permanent residence in Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes. TN holders who accumulate 12 months of skilled work experience in Canada in an eligible NOC category can qualify for the Canadian Experience Class (CEC) under Express Entry. Some TN occupations also align with Federal Skilled Worker (FSW) draws. However, TN status itself does not give CRS points - to receive arranged employment CRS points, the offer must be supported by an LMIA or come from specific LMIA-exempt categories (R205(a) for intra-company transferees)."}},{"@type":"Question","name":"What happens if my CUSMA TN application is refused at the port of entry?","acceptedAnswer":{"@type":"Answer","text":"If a US citizen's TN is refused at the border, you can generally try again at a different port of entry with stronger documentation, or apply through a US pre-clearance facility. The officer must give reasons for refusal. VMC can review the refusal reasons, strengthen your application package, and advise on the best approach for reapplying - including whether an IRCC-based application might be more appropriate for your situation."}},{"@type":"Question","name":"Which LMIA-exempt categories give CRS points under Express Entry?","acceptedAnswer":{"@type":"Answer","text":"Only arranged employment supported by an LMIA or a valid job offer under IRPA R205(a) (intra-company transferees or Global Talent Stream) qualifies for the 50- or 200-point CRS arranged employment boost. Trade agreement workers under R204 (CUSMA, CETA) and IEC workers under R205(b) generally do not generate arranged employment CRS points on their own - though the Canadian work experience they gain can boost CRS over time through the CEC stream."}},{"@type":"Question","name":"How long is an LMIA-exempt work permit?","acceptedAnswer":{"@type":"Answer","text":"Duration varies by category. CUSMA TN work permits are typically issued for up to 3 years and are renewable. Intra-company transferees (executives/senior managers) get up to 3 years initially, specialized knowledge workers up to 1 year. IEC Working Holiday Permits are issued for 1 or 2 years. CETA work permits vary. VMC reviews your specific category and recommends the right application approach to maximize permit length."}},{"@type":"Question","name":"Do I need a work permit if I am LMIA-exempt?","acceptedAnswer":{"@type":"Answer","text":"LMIA-exempt means you don't need a Labour Market Impact Assessment - but in most cases you still need a work permit. The only exceptions are true business visitors (R186) who are performing permitted activities without entering the labour market. Everyone else working in Canada needs a work permit even if it's LMIA-exempt."}},{"@type":"Question","name":"What are the most common LMIA-exempt codes on a work permit?","acceptedAnswer":{"@type":"Answer","text":"Common codes include: C11 (significant social, cultural or economic benefit), C12 (intra-company transferee), T11 (CUSMA professional), T13 (CUSMA intra-company), A11 (academic), R11 (reciprocal employment / IEC Working Holiday), B31 (CETA). Your work permit's 'Remarks' or 'Conditions' section will show the specific exemption code that determines what work you can do and where."}},{"@type":"Question","name":"Can I switch from a closed LMIA-exempt work permit to an open work permit?","acceptedAnswer":{"@type":"Answer","text":"It depends on your circumstances. If you are the spouse of a skilled worker or international student, you may qualify for an open work permit. IEC participants already receive open work permits. If you leave your LMIA-exempt employer, your closed work permit becomes void - you'd need to apply for a new permit with a new employer's offer. VMC can assess your specific situation and explore open permit pathways."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does my employer have to pay the $230 compliance fee for an LMIA-exempt work permit?","acceptedAnswer":{"@type":"Answer","text":"Yes, for most LMIA-exempt categories under the International Mobility Program, your employer must submit an Offer of Employment through the IRCC Employer Portal and pay the $230 employer compliance fee before you can apply for a work permit. The main exception is IEC (International Experience Canada) - under IEC, there is no employer portal submission or compliance fee required."}},{"@type":"Question","name":"Can TN (CUSMA) holders apply for permanent residence in Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes. TN holders who accumulate 12 months of skilled work experience in Canada in an eligible NOC category can qualify for the Canadian Experience Class (CEC) under Express Entry. Some TN occupations also align with Federal Skilled Worker (FSW) draws. However, TN status itself does not give CRS points - to receive arranged employment CRS points, the offer must be supported by an LMIA or come from specific LMIA-exempt categories (R205(a) for intra-company transferees)."}},{"@type":"Question","name":"What happens if my CUSMA TN application is refused at the port of entry?","acceptedAnswer":{"@type":"Answer","text":"If a US citizen's TN is refused at the border, you can generally try again at a different port of entry with stronger documentation, or apply through a US pre-clearance facility. The officer must give reasons for refusal. Commonwealth Migration can review the refusal reasons, strengthen your application package, and advise on the best approach for reapplying - including whether an IRCC-based application might be more appropriate for your situation."}},{"@type":"Question","name":"Which LMIA-exempt categories give CRS points under Express Entry?","acceptedAnswer":{"@type":"Answer","text":"Only arranged employment supported by an LMIA or a valid job offer under IRPA R205(a) (intra-company transferees or Global Talent Stream) qualifies for the 50- or 200-point CRS arranged employment boost. Trade agreement workers under R204 (CUSMA, CETA) and IEC workers under R205(b) generally do not generate arranged employment CRS points on their own - though the Canadian work experience they gain can boost CRS over time through the CEC stream."}},{"@type":"Question","name":"How long is an LMIA-exempt work permit?","acceptedAnswer":{"@type":"Answer","text":"Duration varies by category. CUSMA TN work permits are typically issued for up to 3 years and are renewable. Intra-company transferees (executives/senior managers) get up to 3 years initially, specialized knowledge workers up to 1 year. IEC Working Holiday Permits are issued for 1 or 2 years. CETA work permits vary. Commonwealth Migration reviews your specific category and recommends the right application approach to maximize permit length."}},{"@type":"Question","name":"Do I need a work permit if I am LMIA-exempt?","acceptedAnswer":{"@type":"Answer","text":"LMIA-exempt means you don't need a Labour Market Impact Assessment - but in most cases you still need a work permit. The only exceptions are true business visitors (R186) who are performing permitted activities without entering the labour market. Everyone else working in Canada needs a work permit even if it's LMIA-exempt."}},{"@type":"Question","name":"What are the most common LMIA-exempt codes on a work permit?","acceptedAnswer":{"@type":"Answer","text":"Common codes include: C11 (significant social, cultural or economic benefit), C12 (intra-company transferee), T11 (CUSMA professional), T13 (CUSMA intra-company), A11 (academic), R11 (reciprocal employment / IEC Working Holiday), B31 (CETA). Your work permit's 'Remarks' or 'Conditions' section will show the specific exemption code that determines what work you can do and where."}},{"@type":"Question","name":"Can I switch from a closed LMIA-exempt work permit to an open work permit?","acceptedAnswer":{"@type":"Answer","text":"It depends on your circumstances. If you are the spouse of a skilled worker or international student, you may qualify for an open work permit. IEC participants already receive open work permits. If you leave your LMIA-exempt employer, your closed work permit becomes void - you'd need to apply for a new permit with a new employer's offer. Commonwealth Migration can assess your specific situation and explore open permit pathways."}}]}
 ```

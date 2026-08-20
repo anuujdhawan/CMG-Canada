@@ -1,13 +1,13 @@
-# Visa Master Canada — Unique English SEO Content (processed)
+# Commonwealth Migration Canada — Unique English SEO Content (processed)
 
 This folder contains **fresh, unique English content** for every page of
-https://visamastercanada.com — **138 pages, one `.md` file per page** (137
+https://commonwealthmigration.ca — **138 pages, one `.md` file per page** (137
 sitemap pages + index), each marked with a `✅ Unique English content
 (processed)` status banner.
 
 ## What this folder is
 
-The raw scrape in `../visamastercanada/` preserves the site's wording verbatim.
+The raw scrape in `../commonwealthmigration/` preserves the site's wording verbatim.
 This folder is different: every page has been **rewritten from scratch in
 English** — same SEO targets, same keyword research, but **unique phrasing and
 structure**, so the content is original rather than a copy.

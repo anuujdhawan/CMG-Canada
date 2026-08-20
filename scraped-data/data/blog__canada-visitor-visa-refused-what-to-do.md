@@ -1,6 +1,6 @@
 # Canada Visitor Visa Refused 2026: What to Do Next
 
-> **Source URL:** https://visamastercanada.com/blog/canada-visitor-visa-refused-what-to-do
+> **Source URL:** https://commonwealthmigration.ca/blog/canada-visitor-visa-refused-what-to-do
 > **Last modified:** 2026-01-22T00:00:00.000Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Canada Visitor Visa Refused 2026: What to Do Next
 - **Meta description:** Canadian visitor visa refused by IRCC? Learn the real reasons and exact changes needed for a successful reapplication. Expert advice from a licensed RCIC.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/blog/canada-visitor-visa-refused-what-to-do
+- **Canonical URL:** https://commonwealthmigration.ca/blog/canada-visitor-visa-refused-what-to-do
 - **OG title:** Canada Visitor Visa Refused 2026: What to Do Next
 - **OG description:** Canadian visitor visa refused by IRCC? Learn the real reasons and exact changes needed for a successful reapplication. Expert advice from a licensed RCIC.
 - **Robots:** index, follow
@@ -97,15 +97,15 @@ Important Note on GCMS Notes
 
 You can request the officer's GCMS (Global Case Management System) notes through an Access to Information and Privacy (ATIP) request. These notes contain the officer's actual reasoning - more detailed than the refusal letter. This can be very valuable for understanding why you were refused and tailoring your reapplication. The process takes 30-60 days and is free.
 
-VMC Approach to Refusals
+Commonwealth Migration Approach to Refusals
 
 We specialize in rebuilding refused visitor visa applications. Our approach: review the refusal letter and GCMS notes (if available), identify the exact gaps, and rebuild the application with targeted documents that directly address each concern. We have strong success rates with second applications when the root causes are properly addressed.
 
-Sanjay Singh Kumar
+Case strategy team
 
-Licensed RCIC · VMC Immigration Services
+Licensed RCIC · Commonwealth Migration Canada
 
-Sanjay Singh Kumar is a Regulated Canadian Immigration Consultant (RCIC) licensed by the College of Immigration and Citizenship Consultants (CICC). He has guided thousands of clients through Express Entry, PNP, work permits, and family sponsorships.
+The licensed Canadian immigration team follows CICC rules and provides educational guidance across Express Entry, PNP, work permits and family sponsorship.
 
 ## Related Articles
 
@@ -148,18 +148,18 @@ This article is for general information only and does not constitute legal or im
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/blog/canada-visitor-visa-refused-what-to-do#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Express Entry Express Entry Canada: Complete Beginner's Guide 2025-2026 Read → | https://visamastercanada.com/blog/express-entry-beginners-guide-2026 |
-| Express Entry CRS Score Explained: How Points Are Calculated & How to Boost Yours in 2026 Read → | https://visamastercanada.com/blog/express-entry-crs-score-explained |
-| Express Entry Express Entry Category-Based Selection 2026: How It Works & Who Benefits Read → | https://visamastercanada.com/blog/express-entry-category-based-selection-2026 |
-| 📅 Book Free Consultation | https://visamastercanada.com/book |
-| → Express Entry overview | https://visamastercanada.com/immigration/express-entry |
-| → Latest draw results | https://visamastercanada.com/draw-results |
-| → Processing times | https://visamastercanada.com/resources/processing-times |
-| → Document checklists | https://visamastercanada.com/resources/document-checklist |
-| → Free CRS calculator | https://visamastercanada.com/tools/crs-calculator |
+| Skip to main content | https://commonwealthmigration.ca/blog/canada-visitor-visa-refused-what-to-do#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Express Entry Express Entry Canada: Complete Beginner's Guide 2025-2026 Read → | https://commonwealthmigration.ca/blog/express-entry-beginners-guide-2026 |
+| Express Entry CRS Score Explained: How Points Are Calculated & How to Boost Yours in 2026 Read → | https://commonwealthmigration.ca/blog/express-entry-crs-score-explained |
+| Express Entry Express Entry Category-Based Selection 2026: How It Works & Who Benefits Read → | https://commonwealthmigration.ca/blog/express-entry-category-based-selection-2026 |
+| 📅 Book Free Consultation | https://commonwealthmigration.ca/book |
+| → Express Entry overview | https://commonwealthmigration.ca/immigration/express-entry |
+| → Latest draw results | https://commonwealthmigration.ca/draw-results |
+| → Processing times | https://commonwealthmigration.ca/resources/processing-times |
+| → Document checklists | https://commonwealthmigration.ca/resources/document-checklist |
+| → Free CRS calculator | https://commonwealthmigration.ca/tools/crs-calculator |
 
 ---
 
@@ -172,13 +172,13 @@ This article is for general information only and does not constitute legal or im
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"Article","headline":"Canadian Visitor Visa Refused? Here's Exactly What to Do Next","description":"Canadian visitor visa refused by IRCC? Learn the real reasons and exact changes needed for a successful reapplication. Expert advice from a licensed RCIC.","datePublished":"2026-01-22","author":{"@type":"Person","name":"Sanjay Singh Kumar"},"publisher":{"@type":"Organization","name":"VMC Immigration Services","url":"https://visamastercanada.com"},"url":"https://visamastercanada.com/blog/canada-visitor-visa-refused-what-to-do"}
+{"@context":"https://schema.org","@type":"Article","headline":"Canadian Visitor Visa Refused? Here's Exactly What to Do Next","description":"Canadian visitor visa refused by IRCC? Learn the real reasons and exact changes needed for a successful reapplication. Expert advice from a licensed RCIC.","datePublished":"2026-01-22","author":{"@type":"Person","name":"Lead RCIC"},"publisher":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"},"url":"https://commonwealthmigration.ca/blog/canada-visitor-visa-refused-what-to-do"}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visamastercanada.com/blog"},{"@type":"ListItem","position":3,"name":"Canadian Visitor Visa Refused? Here's Exactly What to Do Next","item":"https://visamastercanada.com/blog/canada-visitor-visa-refused-what-to-do"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://commonwealthmigration.ca/blog"},{"@type":"ListItem","position":3,"name":"Canadian Visitor Visa Refused? Here's Exactly What to Do Next","item":"https://commonwealthmigration.ca/blog/canada-visitor-visa-refused-what-to-do"}]}
 ```

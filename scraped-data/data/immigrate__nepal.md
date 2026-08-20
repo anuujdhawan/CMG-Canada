@@ -1,6 +1,6 @@
 # Immigrate to Canada from Nepal | Study, Work & PR Guide | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigrate/nepal
+> **Source URL:** https://commonwealthmigration.ca/immigrate/nepal
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -10,11 +10,11 @@
 ## SEO Metadata
 
 - **Title tag:** Immigrate to Canada from Nepal | Study, Work & PR Guide | Licensed RCIC
-- **Meta description:** Nepal to Canada: VMC guides Nepali students and professionals through Study → PGWP → CEC and Express Entry to Canadian PR. Licensed RCIC. Free assessment.
+- **Meta description:** Nepal to Canada: Commonwealth Migration guides Nepali students and professionals through Study → PGWP → CEC and Express Entry to Canadian PR. Licensed RCIC. Free assessment.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigrate/nepal
+- **Canonical URL:** https://commonwealthmigration.ca/immigrate/nepal
 - **OG title:** Immigrate to Canada from Nepal | Study, Work & PR Guide | Licensed RCIC Consultants
-- **OG description:** Nepali students and professionals: VMC guides you through Study → PGWP → CEC, Express Entry FSW, and PNP pathways to Canadian permanent residence.
+- **OG description:** Nepali students and professionals: Commonwealth Migration guides you through Study → PGWP → CEC, Express Entry FSW, and PNP pathways to Canadian permanent residence.
 - **Robots:** index, follow
 
 ## Heading Outline
@@ -37,7 +37,7 @@
 - ### Receive Your Post-Graduate Work Permit (PGWP)
 - ### Accumulate 1 Year of Canadian Skilled Work Experience
 - ### Apply for CEC through Express Entry
-- ### Thinking about Canada? Start with a free VMC assessment.
+- ### Thinking about Canada? Start with a free Commonwealth Migration assessment.
 - ## Common Challenges for Nepali Applicants
 - ### IELTS Band Gaps
 - ### Study Permit Refusals
@@ -46,7 +46,7 @@
 - ### NOC Code Accuracy on PGWP
 - ### Fraudulent Consultants
 - ## How Nepali Applicants Apply for Canadian PR
-- ### Free VMC Assessment
+- ### Free Commonwealth Migration Assessment
 - ### Language Testing
 - ### Educational Credential Assessment (if required)
 - ### Express Entry Profile / PNP Application
@@ -61,7 +61,7 @@
 
 # Immigrate to Canada from Nepal
 
-Nepal is one of Canada's fastest-growing immigrant source countries. Nepali students, healthcare workers, and IT professionals are building permanent lives in Toronto, Winnipeg, Calgary, and Vancouver. VMC guides you from study permit or overseas to Canadian PR.
+Nepal is one of Canada's fastest-growing immigrant source countries. Nepali students, healthcare workers, and IT professionals are building permanent lives in Toronto, Winnipeg, Calgary, and Vancouver. Commonwealth Migration guides you from study permit or overseas to Canadian PR.
 
 Nepal → Canada
 
@@ -79,7 +79,7 @@ Fastest-growing Nepali city in Canada
 
 Free Nepal Profile Check
 
-Already in Canada on a study or work permit? VMC checks your CEC eligibility and Express Entry CRS now.
+Already in Canada on a study or work permit? Commonwealth Migration checks your CEC eligibility and Express Entry CRS now.
 
 ---
 
@@ -115,7 +115,7 @@ Nepali cultural organizations, temples, and community associations operate in ev
 
 ## Top Pathways for Nepali Applicants
 
-VMC recommends the right stream based on whether you're already in Canada or applying from Kathmandu.
+Commonwealth Migration recommends the right stream based on whether you're already in Canada or applying from Kathmandu.
 
 ### Study → PGWP → Canadian Experience Class (CEC)
 
@@ -176,28 +176,28 @@ This pathway takes 3-5 years but produces some of the strongest CEC Express Entr
 - Full-time (minimum 30 hrs/week) in a TEER 0-3 NOC occupation
 - Part-time counts if it totals 1 year equivalent within 3 years
 - Document every job: ROE, T4 slips, pay stubs, employer reference letter
-- VMC advises on NOC code accuracy before submitting CEC profile
+- Commonwealth Migration advises on NOC code accuracy before submitting CEC profile
 
 ### Apply for CEC through Express Entry
 
 - Create Express Entry profile; CEC profiles receive 40-80 more CRS points than FSW-only profiles
 - Most CEC profiles receive ITAs within 3-6 months of entering the pool
 - Nepal PCC required + all other countries of residence
-- VMC prepares complete application package within the 60-day ITA window
+- Commonwealth Migration prepares complete application package within the 60-day ITA window
 
-### Thinking about Canada? Start with a free VMC assessment.
+### Thinking about Canada? Start with a free Commonwealth Migration assessment.
 
-VMC reviews your education, occupation, language scores, and family situation to map the fastest pathway.
+Commonwealth Migration reviews your education, occupation, language scores, and family situation to map the fastest pathway.
 
 ## Common Challenges for Nepali Applicants
 
 ### IELTS Band Gaps
 
-Speaking and Writing scores below CLB 7 are the most common barrier for Nepali applicants. A single band below the cut-off disqualifies an entire application. VMC recommends targeted coaching before booking IELTS.
+Speaking and Writing scores below CLB 7 are the most common barrier for Nepali applicants. A single band below the cut-off disqualifies an entire application. Commonwealth Migration recommends targeted coaching before booking IELTS.
 
 ### Study Permit Refusals
 
-Nepali study permit applications face refusals due to 'ties to home country' concerns. VMC assists with study permit applications — proper financial documentation and genuine student intent evidence are critical.
+Nepali study permit applications face refusals due to 'ties to home country' concerns. Commonwealth Migration assists with study permit applications — proper financial documentation and genuine student intent evidence are critical.
 
 ### Nepal PCC Logistics
 
@@ -205,21 +205,21 @@ Nepal PCC from the District Police Office can be obtained in 2-5 days in person.
 
 ### Nursing Credential Assessment
 
-NCLEX is required for RN licensure in most Canadian provinces. The Internationally Educated Nurse (IEN) process — from CGFNS assessment to provincial nursing exam to full registration — takes 12-24 months. VMC advises on timing relative to your immigration application.
+NCLEX is required for RN licensure in most Canadian provinces. The Internationally Educated Nurse (IEN) process — from CGFNS assessment to provincial nursing exam to full registration — takes 12-24 months. Commonwealth Migration advises on timing relative to your immigration application.
 
 ### NOC Code Accuracy on PGWP
 
-Working in an occupation that doesn't match your PGWP job and target NOC code is a common CEC error. VMC reviews your job duties to ensure TEER level alignment before submitting your Express Entry profile.
+Working in an occupation that doesn't match your PGWP job and target NOC code is a common CEC error. Commonwealth Migration reviews your job duties to ensure TEER level alignment before submitting your Express Entry profile.
 
 ### Fraudulent Consultants
 
-Nepali immigrants are unfortunately targeted by fraudulent immigration consultants and 'ghost consultants' who are not CICC-regulated. Always verify your consultant's CICC license at [college-ic.ca](https://college-ic.ca/). VMC is fully CICC-regulated.
+Nepali immigrants are unfortunately targeted by fraudulent immigration consultants and 'ghost consultants' who are not CICC-regulated. Always verify your consultant's CICC license at [college-ic.ca](https://college-ic.ca/). Commonwealth Migration is fully CICC-regulated.
 
 ## How Nepali Applicants Apply for Canadian PR
 
-### Free VMC Assessment
+### Free Commonwealth Migration Assessment
 
-VMC reviews whether you're in Canada or applying from Nepal, and identifies whether CEC, FSW, PNP, or caregiver pathways best fit your profile.
+Commonwealth Migration reviews whether you're in Canada or applying from Nepal, and identifies whether CEC, FSW, PNP, or caregiver pathways best fit your profile.
 
 ### Language Testing
 
@@ -231,15 +231,15 @@ For FSW profiles, WES assesses your Nepali degree. For CEC applicants (already w
 
 ### Express Entry Profile / PNP Application
 
-VMC creates your Express Entry profile with accurate NOC codes and CRS optimization, or submits your PNP Expression of Interest if a provincial nomination is the target.
+Commonwealth Migration creates your Express Entry profile with accurate NOC codes and CRS optimization, or submits your PNP Expression of Interest if a provincial nomination is the target.
 
 ### ITA & Full Application Package
 
-Upon ITA, VMC prepares your complete PR application: Nepal PCC, IELTS scores, employment reference letters, ECA, IRCC forms — all within the 60-day window.
+Upon ITA, Commonwealth Migration prepares your complete PR application: Nepal PCC, IELTS scores, employment reference letters, ECA, IRCC forms — all within the 60-day window.
 
 ### PR Approval & Landing
 
-After IRCC approval, receive your COPR and land in Canada. VMC provides post-landing settlement guidance and community referrals in your destination city. For official program details, see [IRCC's study permit page](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html) and [Express Entry overview](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html).
+After IRCC approval, receive your COPR and land in Canada. Commonwealth Migration provides post-landing settlement guidance and community referrals in your destination city. For official program details, see [IRCC's study permit page](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html) and [Express Entry overview](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html).
 
 ## Frequently Asked Questions - Nepal to Canada
 
@@ -252,7 +252,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists — Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -260,18 +260,18 @@ Ready to build your Canada plan? Speak with our licensed specialists — Sanjay 
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigrate/nepal#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigrate | https://visamastercanada.com/immigrate |
-| Nepal | https://visamastercanada.com/immigrate/nepal |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Free CRS Assessment | https://visamastercanada.com/free-assessment |
-| (647) 395-3471 | tel:+16473953471 |
-| Start Assessment → | https://visamastercanada.com/free-assessment |
-| Get Your Free Nepal Profile Assessment | https://visamastercanada.com/free-assessment |
-| Book Free Consultation | https://visamastercanada.com/contact |
+| Skip to main content | https://commonwealthmigration.ca/immigrate/nepal#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigrate | https://commonwealthmigration.ca/immigrate |
+| Nepal | https://commonwealthmigration.ca/immigrate/nepal |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Free CRS Assessment | https://commonwealthmigration.ca/free-assessment |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Start Assessment → | https://commonwealthmigration.ca/free-assessment |
+| Get Your Free Nepal Profile Assessment | https://commonwealthmigration.ca/free-assessment |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
 
 ---
 
@@ -284,17 +284,17 @@ Ready to build your Canada plan? Speak with our licensed specialists — Sanjay 
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigrate/nepal#service","name":"Nepal to Canada Immigration Services","description":"VMC helps Nepali students and professionals immigrate to Canada through Study → PGWP → CEC, Express Entry FSW, PNP, and healthcare pathways.","provider":{"@type":"ProfessionalService","name":"Visa Master Canada","url":"https://visamastercanada.com","telephone":"+16473953471","address":{"@type":"PostalAddress","addressLocality":"Toronto","addressRegion":"ON","addressCountry":"CA"}},"serviceType":"Canadian Immigration Consulting","areaServed":{"@type":"Country","name":"Nepal"},"url":"https://visamastercanada.com/immigrate/nepal"},{"@type":"BreadcrumbList","@id":"https://visamastercanada.com/immigrate/nepal#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigrate","item":"https://visamastercanada.com/immigrate"},{"@type":"ListItem","position":3,"name":"Nepal","item":"https://visamastercanada.com/immigrate/nepal"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigrate/nepal#service","name":"Nepal to Canada Immigration Services","description":"Commonwealth Migration helps Nepali students and professionals immigrate to Canada through Study → PGWP → CEC, Express Entry FSW, PNP, and healthcare pathways.","provider":{"@type":"ProfessionalService","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca","address":{"@type":"PostalAddress","addressLocality":"Toronto","addressRegion":"ON","addressCountry":"CA"}},"serviceType":"Canadian Immigration Consulting","areaServed":{"@type":"Country","name":"Nepal"},"url":"https://commonwealthmigration.ca/immigrate/nepal"},{"@type":"BreadcrumbList","@id":"https://commonwealthmigration.ca/immigrate/nepal#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigrate","item":"https://commonwealthmigration.ca/immigrate"},{"@type":"ListItem","position":3,"name":"Nepal","item":"https://commonwealthmigration.ca/immigrate/nepal"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Home","item":"https://visamastercanada.com/"},{"@type":"ListItem","position":3,"name":"Immigrate","item":"https://visamastercanada.com/immigrate"},{"@type":"ListItem","position":4,"name":"Nepal","item":"https://visamastercanada.com/immigrate/nepal"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Home","item":"https://commonwealthmigration.ca/"},{"@type":"ListItem","position":3,"name":"Immigrate","item":"https://commonwealthmigration.ca/immigrate"},{"@type":"ListItem","position":4,"name":"Nepal","item":"https://commonwealthmigration.ca/immigrate/nepal"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Study → PGWP → CEC the best pathway for Nepali applicants?","acceptedAnswer":{"@type":"Answer","text":"For many Nepali applicants, yes. The Study → Post-Graduate Work Permit (PGWP) → Canadian Experience Class (CEC) route is extremely popular because Canadian work experience earns significantly more CRS points than foreign experience. One year of Canadian skilled work experience can add 40-80 CRS points, making CEC-based profiles highly competitive. The typical path: enroll in a 2-year Canadian college or university program → receive a 2-year PGWP → work in a TEER 0-3 job → apply CEC within 1-2 years."}},{"@type":"Question","name":"Can Nepali nurses get PR in Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes - nursing is one of the most sought-after occupations in Canada. Nepali nurses (NOC 31301 - Registered Nurses, or NOC 33102 - Licensed Practical Nurses) can apply through Express Entry FSW, the Home Care Worker Caregiver Pilot, AIP (Atlantic Immigration Program), or provincial PNP healthcare streams. However, nursing credentials from Nepal require assessment and licensing by the provincial nursing regulatory body (e.g., CNO in Ontario, BCCNM in BC). This process can take 12-18 months - VMC advises starting early."}},{"@type":"Question","name":"My IELTS score is below CLB 7 - what should I do?","acceptedAnswer":{"@type":"Answer","text":"CLB 7 (approximately IELTS 6.0 in all four bands) is the minimum for FSW Express Entry eligibility. For CEC, CLB 7 (TEER 2-3) or CLB 9 (TEER 0-1) is required. If you're below these thresholds, VMC recommends focused IELTS preparation, particularly for Speaking and Writing bands where Nepali test-takers often score lower. Retaking IELTS after targeted coaching is a better investment than proceeding with a low-scoring profile. Some PNP streams and AIP have slightly different language requirements."}},{"@type":"Question","name":"Are there PNP streams suitable for Nepali applicants?","acceptedAnswer":{"@type":"Answer","text":"Yes. Several provinces actively recruit Nepali workers and students. Manitoba PNP's Skilled Workers Overseas stream and Skilled Workers in Manitoba stream are accessible to Nepali professionals. Saskatchewan SINP has Express Entry and Occupation In-Demand streams. BC PNP Tech stream targets IT and software professionals. Winnipeg, in particular, has a growing Nepali community and Manitoba Health has recruited Nepali nurses directly. Rural PNP streams (RCIP) also welcome Nepali applicants willing to settle outside major cities."}},{"@type":"Question","name":"What police clearance certificate do I need from Nepal?","acceptedAnswer":{"@type":"Answer","text":"Nepal requires a Police Clearance Certificate from the Nepal Police (Metropolitan Police Range or District Police Office). The certificate is issued from the District Police Office in the applicant's home district or from the Metropolitan Police Crime Division in Kathmandu. Processing takes 2-5 business days in person. For applicants already in Canada on a study or work permit, Nepal PCCs can sometimes be obtained through the Embassy of Nepal in Ottawa or a consulate."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Study → PGWP → CEC the best pathway for Nepali applicants?","acceptedAnswer":{"@type":"Answer","text":"For many Nepali applicants, yes. The Study → Post-Graduate Work Permit (PGWP) → Canadian Experience Class (CEC) route is extremely popular because Canadian work experience earns significantly more CRS points than foreign experience. One year of Canadian skilled work experience can add 40-80 CRS points, making CEC-based profiles highly competitive. The typical path: enroll in a 2-year Canadian college or university program → receive a 2-year PGWP → work in a TEER 0-3 job → apply CEC within 1-2 years."}},{"@type":"Question","name":"Can Nepali nurses get PR in Canada?","acceptedAnswer":{"@type":"Answer","text":"Yes - nursing is one of the most sought-after occupations in Canada. Nepali nurses (NOC 31301 - Registered Nurses, or NOC 33102 - Licensed Practical Nurses) can apply through Express Entry FSW, the Home Care Worker Caregiver Pilot, AIP (Atlantic Immigration Program), or provincial PNP healthcare streams. However, nursing credentials from Nepal require assessment and licensing by the provincial nursing regulatory body (e.g., CNO in Ontario, BCCNM in BC). This process can take 12-18 months - Commonwealth Migration advises starting early."}},{"@type":"Question","name":"My IELTS score is below CLB 7 - what should I do?","acceptedAnswer":{"@type":"Answer","text":"CLB 7 (approximately IELTS 6.0 in all four bands) is the minimum for FSW Express Entry eligibility. For CEC, CLB 7 (TEER 2-3) or CLB 9 (TEER 0-1) is required. If you're below these thresholds, Commonwealth Migration recommends focused IELTS preparation, particularly for Speaking and Writing bands where Nepali test-takers often score lower. Retaking IELTS after targeted coaching is a better investment than proceeding with a low-scoring profile. Some PNP streams and AIP have slightly different language requirements."}},{"@type":"Question","name":"Are there PNP streams suitable for Nepali applicants?","acceptedAnswer":{"@type":"Answer","text":"Yes. Several provinces actively recruit Nepali workers and students. Manitoba PNP's Skilled Workers Overseas stream and Skilled Workers in Manitoba stream are accessible to Nepali professionals. Saskatchewan SINP has Express Entry and Occupation In-Demand streams. BC PNP Tech stream targets IT and software professionals. Winnipeg, in particular, has a growing Nepali community and Manitoba Health has recruited Nepali nurses directly. Rural PNP streams (RCIP) also welcome Nepali applicants willing to settle outside major cities."}},{"@type":"Question","name":"What police clearance certificate do I need from Nepal?","acceptedAnswer":{"@type":"Answer","text":"Nepal requires a Police Clearance Certificate from the Nepal Police (Metropolitan Police Range or District Police Office). The certificate is issued from the District Police Office in the applicant's home district or from the Metropolitan Police Crime Division in Kathmandu. Processing takes 2-5 business days in person. For applicants already in Canada on a study or work permit, Nepal PCCs can sometimes be obtained through the Embassy of Nepal in Ottawa or a consulate."}}]}
 ```

@@ -1,6 +1,6 @@
 # Express Entry Category-Based Draws 2026: Who Qualifies & CRS Cutoffs
 
-> **Source URL:** https://visamastercanada.com/blog/express-entry-category-based-selection-2026
+> **Source URL:** https://commonwealthmigration.ca/blog/express-entry-category-based-selection-2026
 > **Last modified:** 2026-03-05T00:00:00.000Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Express Entry Category-Based Draws 2026: Who Qualifies & CRS Cutoffs
 - **Meta description:** How Express Entry category-based selection works in 2026. Which categories are targeted, what CRS cutoffs look like, and how to know if you qualify.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/blog/express-entry-category-based-selection-2026
+- **Canonical URL:** https://commonwealthmigration.ca/blog/express-entry-category-based-selection-2026
 - **OG title:** Express Entry Category-Based Draws 2026: Who Qualifies & CRS Cutoffs
 - **OG description:** How Express Entry category-based selection works in 2026. Which categories are targeted, what CRS cutoffs look like, and how to know if you qualify.
 - **Robots:** index, follow
@@ -73,15 +73,15 @@ The STEM category covers a wide range of technology, engineering, and science oc
 
 Canada has a special interest in attracting French-speaking immigrants outside Quebec (to strengthen Francophone communities in other provinces). To qualify, you need a strong TEF or TCF score equivalent to CLB 7 or higher in French. Importantly, this category often has among the lowest CRS cutoffs - sometimes 30-50 points below all-program draws. If you speak French and work in a skilled occupation, this may be your fastest route. IRCC's [category-based selection page](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/category-based-selection.html) lists the current categories and qualifying criteria.
 
-VMC Recommendation
+Commonwealth Migration Recommendation
 
 Check whether your primary occupation's NOC code falls in a targeted category. If it does, and your CRS is in the 430-480 range, category-based draws may be your best pathway. Our RCICs can review your profile and identify which categories you qualify for.
 
-Sanjay Singh Kumar
+Case strategy team
 
-Licensed RCIC · VMC Immigration Services
+Licensed RCIC · Commonwealth Migration Canada
 
-Sanjay Singh Kumar is a Regulated Canadian Immigration Consultant (RCIC) licensed by the College of Immigration and Citizenship Consultants (CICC). He has guided thousands of clients through Express Entry, PNP, work permits, and family sponsorships.
+The licensed Canadian immigration team follows CICC rules and provides educational guidance across Express Entry, PNP, work permits and family sponsorship.
 
 ## Related Articles
 
@@ -124,18 +124,18 @@ This article is for general information only and does not constitute legal or im
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/blog/express-entry-category-based-selection-2026#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Express Entry Express Entry Canada: Complete Beginner's Guide 2025-2026 Read → | https://visamastercanada.com/blog/express-entry-beginners-guide-2026 |
-| Express Entry CRS Score Explained: How Points Are Calculated & How to Boost Yours in 2026 Read → | https://visamastercanada.com/blog/express-entry-crs-score-explained |
-| Work Permits Canada Work Permit Types 2025-2026: Which One Do You Need? Read → | https://visamastercanada.com/blog/canada-work-permit-types-guide-2026 |
-| 📅 Book Free Consultation | https://visamastercanada.com/book |
-| → Express Entry overview | https://visamastercanada.com/immigration/express-entry |
-| → Latest draw results | https://visamastercanada.com/draw-results |
-| → Processing times | https://visamastercanada.com/resources/processing-times |
-| → Document checklists | https://visamastercanada.com/resources/document-checklist |
-| → Free CRS calculator | https://visamastercanada.com/tools/crs-calculator |
+| Skip to main content | https://commonwealthmigration.ca/blog/express-entry-category-based-selection-2026#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Express Entry Express Entry Canada: Complete Beginner's Guide 2025-2026 Read → | https://commonwealthmigration.ca/blog/express-entry-beginners-guide-2026 |
+| Express Entry CRS Score Explained: How Points Are Calculated & How to Boost Yours in 2026 Read → | https://commonwealthmigration.ca/blog/express-entry-crs-score-explained |
+| Work Permits Canada Work Permit Types 2025-2026: Which One Do You Need? Read → | https://commonwealthmigration.ca/blog/canada-work-permit-types-guide-2026 |
+| 📅 Book Free Consultation | https://commonwealthmigration.ca/book |
+| → Express Entry overview | https://commonwealthmigration.ca/immigration/express-entry |
+| → Latest draw results | https://commonwealthmigration.ca/draw-results |
+| → Processing times | https://commonwealthmigration.ca/resources/processing-times |
+| → Document checklists | https://commonwealthmigration.ca/resources/document-checklist |
+| → Free CRS calculator | https://commonwealthmigration.ca/tools/crs-calculator |
 
 ---
 
@@ -148,13 +148,13 @@ This article is for general information only and does not constitute legal or im
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"Article","headline":"Express Entry Category-Based Selection 2026: How It Works & Who Benefits","description":"How Express Entry category-based selection works in 2026. Which categories are targeted, what CRS cutoffs look like, and how to know if you qualify.","datePublished":"2026-03-05","author":{"@type":"Person","name":"Sanjay Singh Kumar"},"publisher":{"@type":"Organization","name":"VMC Immigration Services","url":"https://visamastercanada.com"},"url":"https://visamastercanada.com/blog/express-entry-category-based-selection-2026"}
+{"@context":"https://schema.org","@type":"Article","headline":"Express Entry Category-Based Selection 2026: How It Works & Who Benefits","description":"How Express Entry category-based selection works in 2026. Which categories are targeted, what CRS cutoffs look like, and how to know if you qualify.","datePublished":"2026-03-05","author":{"@type":"Person","name":"Lead RCIC"},"publisher":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"},"url":"https://commonwealthmigration.ca/blog/express-entry-category-based-selection-2026"}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visamastercanada.com/blog"},{"@type":"ListItem","position":3,"name":"Express Entry Category-Based Selection 2026: How It Works & Who Benefits","item":"https://visamastercanada.com/blog/express-entry-category-based-selection-2026"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://commonwealthmigration.ca/blog"},{"@type":"ListItem","position":3,"name":"Express Entry Category-Based Selection 2026: How It Works & Who Benefits","item":"https://commonwealthmigration.ca/blog/express-entry-category-based-selection-2026"}]}
 ```

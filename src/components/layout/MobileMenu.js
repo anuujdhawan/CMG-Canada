@@ -69,13 +69,13 @@ export default function MobileMenu({ onClose }) {
         animate={{ x: 0 }}
         exit={{ x: "100%" }}
         transition={{ duration: 0.28, ease: EASE_OUT }}
-        className="absolute right-0 top-0 flex h-full w-[85vw] sm:w-[320px] flex-col bg-white shadow-dropdown"
+        className="cmg-mobile-menu absolute right-0 top-0 flex h-full w-[85vw] sm:w-[320px] flex-col bg-[#05070b] shadow-dropdown"
       >
         {/* Header */}
-        <div className="px-5 py-4 border-b border-line flex items-center justify-between">
+        <div className="px-5 py-4 border-b border-white/10 flex items-center justify-between">
           <div className="flex items-center">
             <Image
-              src={site.logos.large}
+              src={site.logos.white}
               alt={site.name}
               width={1912}
               height={1140}
@@ -84,7 +84,7 @@ export default function MobileMenu({ onClose }) {
           </div>
           <button
             onClick={onClose}
-            className="p-2.5 rounded-lg text-muted hover:bg-surface transition-colors"
+            className="p-2.5 rounded-lg text-white hover:bg-white/10 transition-colors"
             aria-label="Close menu"
           >
             <X className="h-5 w-5" />
@@ -188,7 +188,7 @@ export default function MobileMenu({ onClose }) {
         {/* Bottom CTA */}
         <div className="p-4 border-t border-line bg-accent-soft/40 space-y-2.5">
           <a
-            href={`mailto:${navigation.utility.email}`}
+            href={site.emailHref}
             className="flex items-center justify-center gap-2 w-full py-3 rounded-full border-2 border-primary/20 text-primary text-sm font-semibold hover:bg-primary hover:text-white hover:border-primary transition-all"
           >
             <Mail className="h-4 w-4" />

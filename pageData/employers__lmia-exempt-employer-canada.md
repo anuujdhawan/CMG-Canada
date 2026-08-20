@@ -1,7 +1,6 @@
 # LMIA-exempt employer Canada: build the file before the worker starts
 
 > **Source URL:** https://commonwealthmigration.ca/employers/lmia-exempt-employer-canada
-> **Original Source URL:** https://visamastercanada.com/for-employers/lmia-exempt
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

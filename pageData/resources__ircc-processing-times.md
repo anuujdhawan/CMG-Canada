@@ -1,7 +1,6 @@
 # IRCC processing times: organize evidence in the right order
 
 > **Source URL:** https://commonwealthmigration.ca/resources/ircc-processing-times
-> **Original Source URL:** https://visamastercanada.com/resources/processing-times
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

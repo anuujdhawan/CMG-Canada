@@ -1,6 +1,6 @@
 # Agri-Food Pilot Canada 2026 | Agricultural Worker PR Pathway | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/agri-food
+> **Source URL:** https://commonwealthmigration.ca/immigration/agri-food
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,9 +12,9 @@
 - **Title tag:** Agri-Food Pilot Canada 2026 | Agricultural Worker PR Pathway | Licensed RCIC
 - **Meta description:** Canada Agri-Food Pilot: PR pathway for meat processing, mushroom, greenhouse and livestock workers. NOC codes, eligibility. Licensed RCIC. Free assessment.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/agri-food
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/agri-food
 - **OG title:** Canada Agri-Food Pilot 2026 | Agricultural PR Pathway | Licensed RCIC
-- **OG description:** PR pathway for agri-food sector workers in Canada. Meat processing, greenhouse, and livestock. VMC guides your application.
+- **OG description:** PR pathway for agri-food sector workers in Canada. Meat processing, greenhouse, and livestock. Commonwealth Migration guides your application.
 - **Robots:** index, follow
 
 ## Heading Outline
@@ -56,7 +56,7 @@
 
 # Canada Agri-Food Pilot - PR for Agricultural Workers
 
-The Agri-Food Pilot was built for the people who keep Canada's food chain moving — the butchers, greenhouse hands, and livestock workers whose labour rarely makes headlines but holds the industry together. It offered a realistic permanent residence route for workers in meat processing, mushroom farming, greenhouse and nursery work, and livestock operations. The pilot is currently paused, but that is not the end of the road: VMC assesses the pathways that are open today and keeps a close watch on IRCC for any reopening.
+The Agri-Food Pilot was built for the people who keep Canada's food chain moving — the butchers, greenhouse hands, and livestock workers whose labour rarely makes headlines but holds the industry together. It offered a realistic permanent residence route for workers in meat processing, mushroom farming, greenhouse and nursery work, and livestock operations. The pilot is currently paused, but that is not the end of the road: Commonwealth Migration assesses the pathways that are open today and keeps a close watch on IRCC for any reopening.
 
 Agri-Food Pilot
 
@@ -84,7 +84,7 @@ Current alternatives
 - → Express Entry
 Agricultural worker seeking PR?
 
-VMC identifies your best current pathway while monitoring for any Agri-Food Pilot reopening.
+Commonwealth Migration identifies your best current pathway while monitoring for any Agri-Food Pilot reopening.
 
 ---
 
@@ -96,7 +96,7 @@ The Agri-Food Pilot was launched by IRCC to answer a real problem: Canada's non-
 
 Program Status: Currently Paused (2025-2026)
 
-As of 2025-2026, IRCC has not opened new intakes for the Agri-Food Pilot. Applications submitted before the pause are still being processed. VMC is monitoring IRCC announcements for any program reopening or replacement program. In the meantime, several alternative pathways are available for agricultural workers - see the Alternatives section below.
+As of 2025-2026, IRCC has not opened new intakes for the Agri-Food Pilot. Applications submitted before the pause are still being processed. Commonwealth Migration is monitoring IRCC announcements for any program reopening or replacement program. In the meantime, several alternative pathways are available for agricultural workers - see the Alternatives section below.
 
 ### Who It Was For
 
@@ -181,7 +181,7 @@ When the pilot is accepting applications, submit the full IRCC application inclu
 
 ### IRCC Processing
 
-IRCC reviews application. If additional documents are needed, a procedural fairness letter is issued. VMC responds professionally to any IRCC requests.
+IRCC reviews application. If additional documents are needed, a procedural fairness letter is issued. Commonwealth Migration responds professionally to any IRCC requests.
 
 ### PR Confirmation
 
@@ -199,13 +199,13 @@ Language test (IELTS/CELPIP)
 
 Application preparation
 
-4-8 weeks with VMC
+4-8 weeks with Commonwealth Migration
 
 IRCC processing (when open)
 
 12-24 months typically
 
-Important note: Since the Agri-Food Pilot is currently paused, the above timeline applies if/when the program reopens. VMC recommends beginning alternative pathway applications now rather than waiting for a potential reopening.
+Important note: Since the Agri-Food Pilot is currently paused, the above timeline applies if/when the program reopens. Commonwealth Migration recommends beginning alternative pathway applications now rather than waiting for a potential reopening.
 
 ## PR Pathways Available Now for Agricultural Workers
 
@@ -229,7 +229,7 @@ For workers in certain agricultural trades that fall under NOC TEER 2 or 3, the 
 
 ### Agricultural Worker Seeking Canadian PR?
 
-VMC assesses your current work permit, occupation, and province to identify the best available PR pathway - whether the Agri-Food Pilot reopens or through RCIP, AIP, or PNP streams available today.
+Commonwealth Migration assesses your current work permit, occupation, and province to identify the best available PR pathway - whether the Agri-Food Pilot reopens or through RCIP, AIP, or PNP streams available today.
 
 ## Agri-Food Pilot - Frequently Asked Questions
 
@@ -245,7 +245,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -253,29 +253,29 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/agri-food#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Free Assessment | https://visamastercanada.com/free-assessment |
-| (647) 395-3471 | tel:+16473953471 |
-| → Rural Community Pilot (RCIP) | https://visamastercanada.com/immigration/rural-northern |
-| → Atlantic Immigration (AIP) | https://visamastercanada.com/immigration/pnp |
-| → Provincial Nominee (PNP) | https://visamastercanada.com/immigration/pnp |
-| → Express Entry | https://visamastercanada.com/immigration/express-entry |
-| Book assessment → | https://visamastercanada.com/book |
-| Learn more | https://visamastercanada.com/immigration/rural-northern |
-| Learn more | https://visamastercanada.com/immigration/pnp |
-| Learn more | https://visamastercanada.com/immigration/express-entry |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Rural Community Immigration Pilot | https://visamastercanada.com/immigration/rural-northern |
-| Atlantic Immigration Program | https://visamastercanada.com/immigration/pnp |
-| Provincial Nominee (PNP) | https://visamastercanada.com/immigration/pnp |
-| Express Entry | https://visamastercanada.com/immigration/express-entry |
-| Work Permits & LMIA | https://visamastercanada.com/immigration/lmia |
-| TR to PR Pathways | https://visamastercanada.com/immigration/tr-to-pr |
+| Skip to main content | https://commonwealthmigration.ca/immigration/agri-food#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Free Assessment | https://commonwealthmigration.ca/free-assessment |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Rural Community Pilot (RCIP) | https://commonwealthmigration.ca/immigration/rural-northern |
+| → Atlantic Immigration (AIP) | https://commonwealthmigration.ca/immigration/pnp |
+| → Provincial Nominee (PNP) | https://commonwealthmigration.ca/immigration/pnp |
+| → Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| Book assessment → | https://commonwealthmigration.ca/book |
+| Learn more | https://commonwealthmigration.ca/immigration/rural-northern |
+| Learn more | https://commonwealthmigration.ca/immigration/pnp |
+| Learn more | https://commonwealthmigration.ca/immigration/express-entry |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Rural Community Immigration Pilot | https://commonwealthmigration.ca/immigration/rural-northern |
+| Atlantic Immigration Program | https://commonwealthmigration.ca/immigration/pnp |
+| Provincial Nominee (PNP) | https://commonwealthmigration.ca/immigration/pnp |
+| Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| Work Permits & LMIA | https://commonwealthmigration.ca/immigration/lmia |
+| TR to PR Pathways | https://commonwealthmigration.ca/immigration/tr-to-pr |
 
 ---
 
@@ -288,17 +288,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/agri-food#service","name":"Agri-Food Pilot and Agricultural Worker PR Consulting","description":"Licensed RCIC guidance for Canada's Agri-Food Pilot and alternative PR pathways for agricultural and food processing workers.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"VMC Immigration Services","url":"https://visamastercanada.com","telephone":"+16473953471"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Agri-Food Pilot","item":"https://visamastercanada.com/immigration/agri-food"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/agri-food#service","name":"Agri-Food Pilot and Agricultural Worker PR Consulting","description":"Licensed RCIC guidance for Canada's Agri-Food Pilot and alternative PR pathways for agricultural and food processing workers.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Agri-Food Pilot","item":"https://commonwealthmigration.ca/immigration/agri-food"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"Agri-Food Pilot"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"Agri-Food Pilot"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the Agri-Food Pilot and is it still open?","acceptedAnswer":{"@type":"Answer","text":"The Agri-Food Pilot was a permanent residence pathway for workers in specific agricultural food production occupations in Canada. As of 2025-2026, the pilot has been paused and IRCC has not opened new intakes. Workers who applied before the pause may still be in the processing queue. VMC recommends exploring current alternative pathways such as the Rural Community Immigration Pilot, Atlantic Immigration Program, or applicable PNP streams for agricultural workers."}},{"@type":"Question","name":"What occupations were eligible for the Agri-Food Pilot?","acceptedAnswer":{"@type":"Answer","text":"Eligible occupations included: Meat processing workers (NOC 94141), Harvesting workers (NOC 84120, 85100), Greenhouse, nursery and floriculture workers (NOC 84121), Livestock workers (NOC 84120), and workers in certain food and beverage processing roles. The key requirement was that the work must be non-seasonal and full-time."}},{"@type":"Question","name":"Which provinces participated in the Agri-Food Pilot?","acceptedAnswer":{"@type":"Answer","text":"The pilot covered workers employed by eligible employers in: Manitoba, Saskatchewan, Alberta, British Columbia, Prince Edward Island, New Brunswick, Nova Scotia, and Newfoundland and Labrador. Ontario and Quebec were not included in the provincial scope of the program."}},{"@type":"Question","name":"What were the language requirements for the Agri-Food Pilot?","acceptedAnswer":{"@type":"Answer","text":"The language requirement was CLB 4 in English or French - a relatively accessible benchmark compared to most other PR programs. Candidates needed IELTS General Training, CELPIP, or a French test recognized by IRCC."}},{"@type":"Question","name":"What are the best current alternatives for agri-food workers seeking PR?","acceptedAnswer":{"@type":"Answer","text":"Current alternatives include: (1) Rural Community Immigration Pilot (RCIP) - for workers employed in participating rural communities, including agricultural regions; (2) Atlantic Immigration Program (AIP) - for workers in Atlantic Canada's farming and food processing sector; (3) Provincial Nominee Programs - Manitoba, Saskatchewan, and Alberta have streams specifically for in-demand workers in food production; (4) Express Entry Federal Skilled Trades if your occupation qualifies. VMC assesses which current pathway is most viable for your specific occupation and location."}},{"@type":"Question","name":"If the pilot reopens, what documents would I need?","acceptedAnswer":{"@type":"Answer","text":"Based on the previous pilot structure, required documents would include: valid work permit, minimum 1 year of non-seasonal full-time work experience in an eligible occupation, language test results (CLB 4+), educational credential assessment (ECA) if required, police certificates, and an employer letter confirming employment details. VMC maintains updated guidance as IRCC announces any reopening."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the Agri-Food Pilot and is it still open?","acceptedAnswer":{"@type":"Answer","text":"The Agri-Food Pilot was a permanent residence pathway for workers in specific agricultural food production occupations in Canada. As of 2025-2026, the pilot has been paused and IRCC has not opened new intakes. Workers who applied before the pause may still be in the processing queue. Commonwealth Migration recommends exploring current alternative pathways such as the Rural Community Immigration Pilot, Atlantic Immigration Program, or applicable PNP streams for agricultural workers."}},{"@type":"Question","name":"What occupations were eligible for the Agri-Food Pilot?","acceptedAnswer":{"@type":"Answer","text":"Eligible occupations included: Meat processing workers (NOC 94141), Harvesting workers (NOC 84120, 85100), Greenhouse, nursery and floriculture workers (NOC 84121), Livestock workers (NOC 84120), and workers in certain food and beverage processing roles. The key requirement was that the work must be non-seasonal and full-time."}},{"@type":"Question","name":"Which provinces participated in the Agri-Food Pilot?","acceptedAnswer":{"@type":"Answer","text":"The pilot covered workers employed by eligible employers in: Manitoba, Saskatchewan, Alberta, British Columbia, Prince Edward Island, New Brunswick, Nova Scotia, and Newfoundland and Labrador. Ontario and Quebec were not included in the provincial scope of the program."}},{"@type":"Question","name":"What were the language requirements for the Agri-Food Pilot?","acceptedAnswer":{"@type":"Answer","text":"The language requirement was CLB 4 in English or French - a relatively accessible benchmark compared to most other PR programs. Candidates needed IELTS General Training, CELPIP, or a French test recognized by IRCC."}},{"@type":"Question","name":"What are the best current alternatives for agri-food workers seeking PR?","acceptedAnswer":{"@type":"Answer","text":"Current alternatives include: (1) Rural Community Immigration Pilot (RCIP) - for workers employed in participating rural communities, including agricultural regions; (2) Atlantic Immigration Program (AIP) - for workers in Atlantic Canada's farming and food processing sector; (3) Provincial Nominee Programs - Manitoba, Saskatchewan, and Alberta have streams specifically for in-demand workers in food production; (4) Express Entry Federal Skilled Trades if your occupation qualifies. Commonwealth Migration assesses which current pathway is most viable for your specific occupation and location."}},{"@type":"Question","name":"If the pilot reopens, what documents would I need?","acceptedAnswer":{"@type":"Answer","text":"Based on the previous pilot structure, required documents would include: valid work permit, minimum 1 year of non-seasonal full-time work experience in an eligible occupation, language test results (CLB 4+), educational credential assessment (ECA) if required, police certificates, and an employer letter confirming employment details. Commonwealth Migration maintains updated guidance as IRCC announces any reopening."}}]}
 ```

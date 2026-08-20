@@ -1,7 +1,6 @@
 # LMIA refusal Canada: build the file before the worker starts
 
 > **Source URL:** https://commonwealthmigration.ca/employers/lmia-refusal-canada
-> **Original Source URL:** https://visamastercanada.com/for-employers/lmia-refusal
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

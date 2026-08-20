@@ -1,7 +1,6 @@
 # Ontario Express Entry PNP: check the current stream status
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/provincial-nominee-program/ontario-express-entry-pnp
-> **Original Source URL:** https://visamastercanada.com/immigration/pnp/oinp-express-entry
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

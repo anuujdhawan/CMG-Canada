@@ -1,6 +1,6 @@
 # Gaza & West Bank Canada Immigration 2026 | Special Measures | RCIC
 
-> **Source URL:** https://visamastercanada.com/special-measures/gaza
+> **Source URL:** https://commonwealthmigration.ca/special-measures/gaza
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** Gaza & West Bank Canada Immigration 2026 | Special Measures | RCIC
 - **Meta description:** Canada special measures for Gaza and West Bank. Family reunification, temporary residence. Licensed RCIC consultants. Free consultation.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/special-measures/gaza
+- **Canonical URL:** https://commonwealthmigration.ca/special-measures/gaza
 - **OG title:** Canada Special Measures for Gaza & West Bank 2026 | Licensed RCIC
 - **OG description:** Special measures for Gaza and West Bank. Licensed RCIC consultants. Free consultation.
 - **Robots:** index, follow
@@ -36,7 +36,7 @@
 
 ---- GAZA · HUMANITARIAN · TEMPORARY MEASURES
 
-VMC provides confidential, compassionate support to residents of Gaza and the West Bank seeking to reunite with family in Canada or secure temporary protection under IRCC's humanitarian measures. Our licensed RCICs handle your application with urgency and care.
+Commonwealth Migration provides confidential, compassionate support to residents of Gaza and the West Bank seeking to reunite with family in Canada or secure temporary protection under IRCC's humanitarian measures. Our licensed RCICs handle your application with urgency and care.
 
 Gaza Measures - Key Points
 
@@ -98,23 +98,23 @@ Speak with a licensed RCIC. No obligation - we guide you through your options.
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/special-measures/gaza#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Special Measures | https://visamastercanada.com/special-measures |
-| Get Urgent Help → | https://visamastercanada.com/contact-us |
-| (647) 395-3471 | tel:+16473953471 |
-| → Special Measures | https://visamastercanada.com/special-measures |
-| → Family Sponsorship | https://visamastercanada.com/immigration/family-sponsorship |
-| → Contact | https://visamastercanada.com/contact-us |
-| Book Now → | https://visamastercanada.com/contact-us |
-| Book Free Consultation | https://visamastercanada.com/contact |
-| Book a Consultation | https://visamastercanada.com/book |
-| 📞 (647) 395-3471 | tel:+16473953471 |
-| Family Sponsorship | https://visamastercanada.com/immigration/family-sponsorship |
-| Contact | https://visamastercanada.com/contact-us |
-| 📞 Call (647) 395-3471 | tel:+16473953471 |
+| Skip to main content | https://commonwealthmigration.ca/special-measures/gaza#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Special Measures | https://commonwealthmigration.ca/special-measures |
+| Get Urgent Help → | https://commonwealthmigration.ca/contact-us |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Special Measures | https://commonwealthmigration.ca/special-measures |
+| → Family Sponsorship | https://commonwealthmigration.ca/immigration/family-sponsorship |
+| → Contact | https://commonwealthmigration.ca/contact-us |
+| Book Now → | https://commonwealthmigration.ca/contact-us |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
+| Book a Consultation | https://commonwealthmigration.ca/book |
+| 📞 contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Family Sponsorship | https://commonwealthmigration.ca/immigration/family-sponsorship |
+| Contact | https://commonwealthmigration.ca/contact-us |
+| 📞 Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
 
 ---
 
@@ -127,11 +127,11 @@ Speak with a licensed RCIC. No obligation - we guide you through your options.
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Home","item":"https://visamastercanada.com/"},{"@type":"ListItem","position":3,"name":"Special Measures","item":"https://visamastercanada.com/special-measures"},{"@type":"ListItem","position":4,"name":"Gaza & West Bank"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Home","item":"https://commonwealthmigration.ca/"},{"@type":"ListItem","position":3,"name":"Special Measures","item":"https://commonwealthmigration.ca/special-measures"},{"@type":"ListItem","position":4,"name":"Gaza & West Bank"}]}
 ```
 
 ```json

@@ -1,7 +1,6 @@
 # Canada business immigration: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/canada-business-immigration
-> **Original Source URL:** https://visamastercanada.com/immigration/business-visa
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

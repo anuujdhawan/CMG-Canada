@@ -1,7 +1,6 @@
 # Canada visitor visa refused: research the decision before the form
 
 > **Source URL:** https://commonwealthmigration.ca/blog/canada-visitor-visa-refused
-> **Original Source URL:** https://visamastercanada.com/blog/canada-visitor-visa-refused-what-to-do
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

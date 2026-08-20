@@ -57,7 +57,7 @@ export default function LoginPage() {
             </div>
             <p className="mt-6 text-center text-sm text-muted">
               Client? Email{" "}
-              <a href={`mailto:${site.email}`} className="font-semibold text-secondary underline underline-offset-2 hover:text-primary">
+              <a href={site.emailHref} className="font-semibold text-secondary underline underline-offset-2 hover:text-primary">
                 {site.email}
               </a>{" "}
               to get portal access.

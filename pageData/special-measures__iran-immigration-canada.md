@@ -1,7 +1,6 @@
 # Iran immigration measures: check the permit date before acting
 
 > **Source URL:** https://commonwealthmigration.ca/special-measures/iran-immigration-canada
-> **Original Source URL:** https://visamastercanada.com/special-measures/iran
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

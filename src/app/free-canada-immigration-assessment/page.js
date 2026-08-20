@@ -1,8 +1,8 @@
 import { buildMetadata } from "@/lib/seo";
 import { getPage } from "@/lib/sitePages";
 import { rebrand } from "@/components/templates/ContentPage";
-import ToolShell from "@/components/templates/ToolShell";
 import AssessmentForm from "@/components/forms/AssessmentForm";
+import ReferenceServicePage from "@/components/home/ReferenceServicePage";
 
 const pagePath = "/assessment/free-canada-immigration-assessment";
 const page = getPage(pagePath);
@@ -14,14 +14,5 @@ export const metadata = buildMetadata({
 });
 
 export default function FreeCanadaImmigrationAssessmentPage() {
-  return (
-    <ToolShell
-      eyebrow="Free assessment"
-      title="Free Canada Immigration Assessment"
-      lead="Tell us about your profile and goals. A consultant reviews your situation and replies with a clear, honest next-step assessment."
-      pagePath={pagePath}
-    >
-      <AssessmentForm />
-    </ToolShell>
-  );
+  return <ReferenceServicePage page={page}><AssessmentForm /></ReferenceServicePage>;
 }

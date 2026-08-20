@@ -1,7 +1,6 @@
 # Canada work permit: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/work-study/canada-work-permit
-> **Original Source URL:** https://visamastercanada.com/immigration/work-permit
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

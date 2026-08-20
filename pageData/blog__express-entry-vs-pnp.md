@@ -1,7 +1,6 @@
 # Express Entry or PNP: research the decision before the form
 
 > **Source URL:** https://commonwealthmigration.ca/blog/express-entry-vs-pnp
-> **Original Source URL:** https://visamastercanada.com/blog/express-entry-vs-pnp-which-is-right-for-you
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

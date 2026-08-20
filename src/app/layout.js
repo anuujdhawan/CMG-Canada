@@ -1,8 +1,7 @@
-import { Libre_Baskerville, Plus_Jakarta_Sans } from "next/font/google";
 import "react-chatbot-kit/build/main.css";
 import "@/styles/globals.css";
 import { site } from "@/config/site";
-import { theme, themeCssVars } from "@/config/theme";
+import { fonts, theme, themeCssVars, templateThemeCssVars } from "@/config/theme";
 import { buildMetadata } from "@/lib/seo";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
@@ -11,21 +10,6 @@ import StickyMobileCTA from "@/components/layout/StickyMobileCTA";
 import ConsultationModal from "@/components/layout/ConsultationModal";
 import GuidedChatbot from "@/components/chatbot/GuidedChatbot";
 import WhatsAppBubble from "@/components/layout/WhatsAppBubble";
-
-const jakarta = Plus_Jakarta_Sans({
-  subsets: ["latin"],
-  variable: "--font-jakarta",
-  display: "swap",
-  weight: ["400", "500", "600", "700", "800"],
-});
-
-const baskerville = Libre_Baskerville({
-  subsets: ["latin"],
-  variable: "--font-baskerville",
-  display: "swap",
-  weight: ["400", "700"],
-  style: ["normal", "italic"],
-});
 
 export const metadata = {
   title: {
@@ -59,8 +43,8 @@ const organizationJsonLd = {
   alternateName: [site.tradingName, site.shortName].filter(Boolean),
   description: site.description,
   url: site.url,
-  email: site.email,
-  telephone: site.phone,
+  ...(site.email.includes("@") ? { email: site.email } : {}),
+  ...(site.phone.match(/\d{7,}/) ? { telephone: site.phone } : {}),
   priceRange: "$$",
   currenciesAccepted: "CAD",
   areaServed: { "@type": "Country", name: site.address.country },
@@ -84,7 +68,18 @@ const websiteJsonLd = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" data-scroll-behavior="smooth" style={themeCssVars} className={`${jakarta.variable} ${baskerville.variable} h-full antialiased`}>
+    <html
+      lang="en"
+      data-theme="dark"
+      data-scroll-behavior="smooth"
+      style={{ ...themeCssVars, ...templateThemeCssVars }}
+      className="h-full antialiased"
+    >
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="stylesheet" href={fonts.importUrl} />
+      </head>
       <body className="flex min-h-full flex-col">
         <script
           type="application/ld+json"

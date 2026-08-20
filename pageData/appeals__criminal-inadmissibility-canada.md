@@ -1,7 +1,6 @@
 # Criminal inadmissibility to Canada: choose the remedy before travel
 
 > **Source URL:** https://commonwealthmigration.ca/appeals/criminal-inadmissibility-canada
-> **Original Source URL:** https://visamastercanada.com/appeals/criminal-inadmissibility
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

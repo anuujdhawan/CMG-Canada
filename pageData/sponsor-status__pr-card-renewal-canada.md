@@ -1,7 +1,6 @@
 # PR card renewal Canada: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/sponsor-status/pr-card-renewal-canada
-> **Original Source URL:** https://visamastercanada.com/immigration/pr-card
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

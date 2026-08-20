@@ -1,6 +1,6 @@
 # International Experience Canada (IEC) 2026 | Working Holiday | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/iec
+> **Source URL:** https://commonwealthmigration.ca/immigration/iec
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** International Experience Canada (IEC) 2026 | Working Holiday | Licensed RCIC
 - **Meta description:** Apply for IEC Canada: Working Holiday, Young Professionals, International Co-op. 36+ eligible countries, pool system explained, and IEC-to-PR pathway. RCIC.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/iec
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/iec
 - **OG title:** International Experience Canada (IEC) 2026 | Working Holiday | Licensed RCIC
 - **OG description:** IEC Working Holiday, Young Professionals, and International Co-op - eligible countries, pool system, and IEC to PR pathway explained by licensed RCICs.
 - **Robots:** index, follow
@@ -33,7 +33,7 @@
 - #### 3. Receive and Accept Your ITA
 - #### 4. Submit Full Application
 - ### Annual quotas and timing
-- ### Pool tips from VMC
+- ### Pool tips from Commonwealth Migration
 - ## Full IEC Application Process
 - #### Confirm Eligibility
 - #### Create Your IEC Profile
@@ -104,7 +104,7 @@ Related programs
 - → PGWP
 Ready for IEC?
 
-VMC confirms your eligibility and guides the full process.
+Commonwealth Migration confirms your eligibility and guides the full process.
 
 ---
 
@@ -269,7 +269,7 @@ Canada has IEC bilateral agreements with 36+ countries. Age limits and available
 | 18-35 |
 | Lower |
 | WH YP |
-WH = Working Holiday, YP = Young Professionals, Co-op = International Co-op. Age limits and quotas are approximate and change annually. Always verify with IRCC or contact VMC for the current year's figures.
+WH = Working Holiday, YP = Young Professionals, Co-op = International Co-op. Age limits and quotas are approximate and change annually. Always verify with IRCC or contact Commonwealth Migration for the current year's figures.
 
 ## IEC Pool System - From Profile to Invitation
 
@@ -295,7 +295,7 @@ After accepting, you have approximately 20 days to submit the complete applicati
 
 Each country has an annual quota - the maximum number of IEC work permits issued per category per year. When the quota is full, draws stop for the season. Popular countries like France and the UK may fill their quotas within weeks of the season opening. Apply as early as possible.
 
-### Pool tips from VMC
+### Pool tips from Commonwealth Migration
 
 - Create your profile as soon as the season opens (typically January)
 - Keep your email monitored - ITA notifications can come without warning
@@ -393,15 +393,15 @@ After submitting your PR application and completing background/medical checks, y
 
 ### Provincial Nominee Programs (PNP)
 
-In addition to the federal CEC pathway, IEC graduates can also apply through provincial nominee programs. Several provinces have streams specifically designed for workers with Canadian experience - including Ontario, British Columbia, and Alberta. VMC advises on both federal and provincial pathways simultaneously.
+In addition to the federal CEC pathway, IEC graduates can also apply through provincial nominee programs. Several provinces have streams specifically designed for workers with Canadian experience - including Ontario, British Columbia, and Alberta. Commonwealth Migration advises on both federal and provincial pathways simultaneously.
 
 ### Ready to Start Your IEC Journey?
 
-VMC's licensed RCICs confirm your country eligibility, optimize your pool profile, and map your IEC-to-PR strategy from day one.
+Commonwealth Migration's licensed RCICs confirm your country eligibility, optimize your pool profile, and map your IEC-to-PR strategy from day one.
 
 ## Common IEC Mistakes and How to Avoid Them
 
-Small errors in the IEC process can cost you an entire season or result in a refusal. VMC prevents these common pitfalls.
+Small errors in the IEC process can cost you an entire season or result in a refusal. Commonwealth Migration prevents these common pitfalls.
 
 ### Applying too late in the season
 
@@ -429,11 +429,11 @@ Many IEC participants wait too long to start their Express Entry profile. The IE
 
 ### What if your country isn't on the IEC list?
 
-If your country doesn't have an IEC agreement with Canada, you are not out of options. VMC can assess which alternative work permit pathway is best for you:
+If your country doesn't have an IEC agreement with Canada, you are not out of options. Commonwealth Migration can assess which alternative work permit pathway is best for you:
 
 #### LMIA Work Permit
 
-A Canadian employer obtains a Labour Market Impact Assessment (LMIA) and offers you a job. VMC assists employers with the LMIA process.
+A Canadian employer obtains a Labour Market Impact Assessment (LMIA) and offers you a job. Commonwealth Migration assists employers with the LMIA process.
 
 #### CUSMA / USMCA (TN Permit)
 
@@ -449,7 +449,7 @@ If you have a university degree and work experience in a skilled NOC, you may qu
 
 ### Ready to Work and Travel in Canada?
 
-VMC's licensed RCICs confirm your IEC eligibility, optimize your pool profile, and build your IEC-to-PR strategy from day one.
+Commonwealth Migration's licensed RCICs confirm your IEC eligibility, optimize your pool profile, and build your IEC-to-PR strategy from day one.
 
 ## IEC Frequently Asked Questions
 
@@ -466,7 +466,7 @@ Still have questions? Our licensed RCICs answer within 24 hours.
 
 ## Get Expert Advice From a Licensed RCIC
 
-Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Singh Kumar, Amanpreet Kaur, or Kanwar Jagraj Singh.
+Ready to build your Canada plan? Speak with the licensed Canadian immigration team.
 
 ---
 
@@ -474,22 +474,22 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/iec#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Book Free Assessment → | https://visamastercanada.com/free-assessment |
-| View All Programs | https://visamastercanada.com/immigration |
-| (647) 395-3471 | tel:+16473953471 |
-| → Work Permits | https://visamastercanada.com/immigration/work-permit |
-| → Express Entry | https://visamastercanada.com/immigration/express-entry |
-| → Visitor Visa | https://visamastercanada.com/immigration/visitor-visa |
-| → Study Permit | https://visamastercanada.com/immigration/study-permit |
-| → PGWP | https://visamastercanada.com/immigration/pgwp |
-| Explore PNP options → | https://visamastercanada.com/immigration/pnp |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Book Free Consultation | https://visamastercanada.com/contact |
+| Skip to main content | https://commonwealthmigration.ca/immigration/iec#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Book Free Assessment → | https://commonwealthmigration.ca/free-assessment |
+| View All Programs | https://commonwealthmigration.ca/immigration |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Work Permits | https://commonwealthmigration.ca/immigration/work-permit |
+| → Express Entry | https://commonwealthmigration.ca/immigration/express-entry |
+| → Visitor Visa | https://commonwealthmigration.ca/immigration/visitor-visa |
+| → Study Permit | https://commonwealthmigration.ca/immigration/study-permit |
+| → PGWP | https://commonwealthmigration.ca/immigration/pgwp |
+| Explore PNP options → | https://commonwealthmigration.ca/immigration/pnp |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Book Free Consultation | https://commonwealthmigration.ca/contact |
 
 ---
 
@@ -502,17 +502,17 @@ Ready to build your Canada plan? Speak with our licensed specialists - Sanjay Si
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/iec#service","name":"International Experience Canada (IEC) Services","description":"Licensed RCIC guidance for IEC Working Holiday, Young Professionals, and International Co-op - from pool registration to the IEC-to-PR pathway.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Visa Master Canada","url":"https://visamastercanada.com"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"IEC","item":"https://visamastercanada.com/immigration/iec"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/iec#service","name":"International Experience Canada (IEC) Services","description":"Licensed RCIC guidance for IEC Working Holiday, Young Professionals, and International Co-op - from pool registration to the IEC-to-PR pathway.","areaServed":"Canada","serviceType":"Immigration Consulting","provider":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"IEC","item":"https://commonwealthmigration.ca/immigration/iec"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"IEC"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"IEC"}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is International Experience Canada (IEC)?","acceptedAnswer":{"@type":"Answer","text":"IEC is a program that allows youth from 36+ partner countries to work and travel in Canada for up to 1-2 years. There are three categories: Working Holiday (open work permit - work for any employer), Young Professionals (employer-specific permit with job offer), and International Co-op (students doing a mandatory work placement). Eligibility depends on your country of citizenship and age."}},{"@type":"Question","name":"Which IEC category is right for me?","acceptedAnswer":{"@type":"Answer","text":"If you want flexibility to work anywhere in Canada without a job offer, choose Working Holiday (most popular). If you already have a Canadian job offer in your professional field, consider Young Professionals. If you are a post-secondary student doing a required internship or placement, International Co-op is the right category. VMC helps you determine eligibility for each category."}},{"@type":"Question","name":"How does the IEC pool system work?","acceptedAnswer":{"@type":"Answer","text":"You create an online IEC profile and enter the pool. IRCC periodically draws from the pool and sends Invitations to Apply (ITAs) to eligible candidates. You typically have 10 days to accept the ITA and then a limited window (usually 20 days) to submit your full application. Not everyone in the pool receives an ITA - it depends on demand and annual quotas per country."}},{"@type":"Question","name":"Can IEC lead to permanent residence (PR)?","acceptedAnswer":{"@type":"Answer","text":"Yes - this is one of IEC's biggest advantages. After working in Canada for 12 months on your IEC work permit, you may accumulate enough qualifying Canadian work experience to apply for Express Entry's Canadian Experience Class (CEC). Many IEC participants use this IEC→CEC→PR pipeline to become permanent residents. VMC maps out your PR strategy from day one."}},{"@type":"Question","name":"My country isn't on the IEC list - what are my options?","acceptedAnswer":{"@type":"Answer","text":"If your country doesn't have an IEC agreement with Canada, you can still work in Canada through an LMIA-based work permit (employer arranges a Labour Market Impact Assessment), an LMIA-exempt work permit (if your job falls under CUSMA/USMCA, CETA, or an international agreement), or through Express Entry if you qualify. VMC assesses alternatives for non-IEC nationals."}},{"@type":"Question","name":"Do I need health insurance for IEC?","acceptedAnswer":{"@type":"Answer","text":"Yes. Most IEC categories require you to have private health insurance for the full duration of your authorized stay in Canada. Provincial health plans (OHIP, MSP, etc.) have waiting periods for newcomers, so having private insurance from day one is essential. You must provide proof of coverage in your application."}},{"@type":"Question","name":"What if my IEC application was refused?","acceptedAnswer":{"@type":"Answer","text":"IEC refusals can occur due to criminal inadmissibility, medical inadmissibility, misrepresentation, or failing to meet requirements. Some refusals can be addressed by reapplying with additional documentation; others may require a different work permit pathway. Contact VMC promptly - the window to respond or reapply may be limited."}},{"@type":"Question","name":"Can I extend my IEC work permit?","acceptedAnswer":{"@type":"Answer","text":"Generally, IEC work permits are not renewable within the IEC program itself. However, once your work permit expires, you may be eligible to apply for a different category of work permit (such as an employer-specific work permit under LMIA or an LMIA-exempt category) if you have a job offer. Many IEC graduates transition directly into Express Entry PR applications."}},{"@type":"Question","name":"How competitive is the IEC pool for popular countries?","acceptedAnswer":{"@type":"Answer","text":"Competition varies significantly by country. Countries with large quotas (such as Australia, Ireland, and New Zealand) tend to be less competitive. Countries with smaller quotas relative to demand (such as France, UK, and Germany) can be more competitive, with candidates sometimes waiting through multiple pool rounds before receiving an ITA. Applying early in the season increases your chances."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is International Experience Canada (IEC)?","acceptedAnswer":{"@type":"Answer","text":"IEC is a program that allows youth from 36+ partner countries to work and travel in Canada for up to 1-2 years. There are three categories: Working Holiday (open work permit - work for any employer), Young Professionals (employer-specific permit with job offer), and International Co-op (students doing a mandatory work placement). Eligibility depends on your country of citizenship and age."}},{"@type":"Question","name":"Which IEC category is right for me?","acceptedAnswer":{"@type":"Answer","text":"If you want flexibility to work anywhere in Canada without a job offer, choose Working Holiday (most popular). If you already have a Canadian job offer in your professional field, consider Young Professionals. If you are a post-secondary student doing a required internship or placement, International Co-op is the right category. Commonwealth Migration helps you determine eligibility for each category."}},{"@type":"Question","name":"How does the IEC pool system work?","acceptedAnswer":{"@type":"Answer","text":"You create an online IEC profile and enter the pool. IRCC periodically draws from the pool and sends Invitations to Apply (ITAs) to eligible candidates. You typically have 10 days to accept the ITA and then a limited window (usually 20 days) to submit your full application. Not everyone in the pool receives an ITA - it depends on demand and annual quotas per country."}},{"@type":"Question","name":"Can IEC lead to permanent residence (PR)?","acceptedAnswer":{"@type":"Answer","text":"Yes - this is one of IEC's biggest advantages. After working in Canada for 12 months on your IEC work permit, you may accumulate enough qualifying Canadian work experience to apply for Express Entry's Canadian Experience Class (CEC). Many IEC participants use this IEC→CEC→PR pipeline to become permanent residents. Commonwealth Migration maps out your PR strategy from day one."}},{"@type":"Question","name":"My country isn't on the IEC list - what are my options?","acceptedAnswer":{"@type":"Answer","text":"If your country doesn't have an IEC agreement with Canada, you can still work in Canada through an LMIA-based work permit (employer arranges a Labour Market Impact Assessment), an LMIA-exempt work permit (if your job falls under CUSMA/USMCA, CETA, or an international agreement), or through Express Entry if you qualify. Commonwealth Migration assesses alternatives for non-IEC nationals."}},{"@type":"Question","name":"Do I need health insurance for IEC?","acceptedAnswer":{"@type":"Answer","text":"Yes. Most IEC categories require you to have private health insurance for the full duration of your authorized stay in Canada. Provincial health plans (OHIP, MSP, etc.) have waiting periods for newcomers, so having private insurance from day one is essential. You must provide proof of coverage in your application."}},{"@type":"Question","name":"What if my IEC application was refused?","acceptedAnswer":{"@type":"Answer","text":"IEC refusals can occur due to criminal inadmissibility, medical inadmissibility, misrepresentation, or failing to meet requirements. Some refusals can be addressed by reapplying with additional documentation; others may require a different work permit pathway. Contact Commonwealth Migration promptly - the window to respond or reapply may be limited."}},{"@type":"Question","name":"Can I extend my IEC work permit?","acceptedAnswer":{"@type":"Answer","text":"Generally, IEC work permits are not renewable within the IEC program itself. However, once your work permit expires, you may be eligible to apply for a different category of work permit (such as an employer-specific work permit under LMIA or an LMIA-exempt category) if you have a job offer. Many IEC graduates transition directly into Express Entry PR applications."}},{"@type":"Question","name":"How competitive is the IEC pool for popular countries?","acceptedAnswer":{"@type":"Answer","text":"Competition varies significantly by country. Countries with large quotas (such as Australia, Ireland, and New Zealand) tend to be less competitive. Countries with smaller quotas relative to demand (such as France, UK, and Germany) can be more competitive, with candidates sometimes waiting through multiple pool rounds before receiving an ITA. Applying early in the season increases your chances."}}]}
 ```

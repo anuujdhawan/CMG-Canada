@@ -1,7 +1,6 @@
 # Immigration Consultant Canada
 
 > **Source URL:** https://commonwealthmigration.ca/immigration-consultant/canada-immigration-consultant
-> **Original Source URL:** https://visamastercanada.com/immigration-consultant
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

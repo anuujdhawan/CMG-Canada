@@ -1,7 +1,6 @@
 # LMIA-exempt work permits Canada: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/work-study/lmia-exempt-work-permit-canada
-> **Original Source URL:** https://visamastercanada.com/immigration/lmia-exempt
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

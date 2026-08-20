@@ -1,6 +1,6 @@
 # Canada eTA 2026 | Electronic Travel Authorization | Licensed RCIC
 
-> **Source URL:** https://visamastercanada.com/immigration/eta
+> **Source URL:** https://commonwealthmigration.ca/immigration/eta
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -10,9 +10,9 @@
 ## SEO Metadata
 
 - **Title tag:** Canada eTA 2026 | Electronic Travel Authorization | Licensed RCIC
-- **Meta description:** Apply for a Canadian eTA for visa-exempt country citizens travelling by air. Usually approved in minutes. VMC guidance available for complex or refused cases.
+- **Meta description:** Apply for a Canadian eTA for visa-exempt country citizens travelling by air. Usually approved in minutes. Commonwealth Migration guidance available for complex or refused cases.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/immigration/eta
+- **Canonical URL:** https://commonwealthmigration.ca/immigration/eta
 - **OG title:** Canada eTA 2026 | Licensed RCIC
 - **OG description:** Electronic Travel Authorization - fast approvals and RCIC help for complex cases.
 - **Robots:** index, follow
@@ -161,7 +161,7 @@ Most eTAs are instant - but these situations require more careful preparation.
 
 ### Previous Refusals or Violations
 
-If you were previously refused a Canadian visa, had a removal order, or overstayed in any country, your eTA may be flagged for review or refused. VMC advises on disclosure and preparation.
+If you were previously refused a Canadian visa, had a removal order, or overstayed in any country, your eTA may be flagged for review or refused. Commonwealth Migration advises on disclosure and preparation.
 
 ### Criminal Record
 
@@ -223,7 +223,7 @@ If your application is placed under review, you have a prior refusal, criminal r
 
 ### eTA Refused - We Builds Your Path
 
-An eTA refusal triggers inadmissibility review. VMC advises on Criminal Rehabilitation, TRP, or full TRV application as the appropriate next step.
+An eTA refusal triggers inadmissibility review. Commonwealth Migration advises on Criminal Rehabilitation, TRP, or full TRV application as the appropriate next step.
 
 ## Frequently Asked Questions
 
@@ -239,28 +239,28 @@ Most eTAs are straightforward - but if yours is complicated, Our team's licensed
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/immigration/eta#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Immigration | https://visamastercanada.com/immigration |
-| Book Free Consultation → | https://visamastercanada.com/book |
-| Check My Eligibility | https://visamastercanada.com/tools |
-| (647) 395-3471 | tel:+16473953471 |
-| → Visitor visa (TRV) | https://visamastercanada.com/immigration/visitor-visa |
-| → Super Visa | https://visamastercanada.com/immigration/super-visa |
-| → Refusals | https://visamastercanada.com/refusals |
-| Book consultation → | https://visamastercanada.com/book |
-| Visitor Visa application → | https://visamastercanada.com/immigration/visitor-visa |
-| Book an Assessment → | https://visamastercanada.com/book |
-| Call (647) 395-3471 | tel:+16473953471 |
-| Use Free Tools | https://visamastercanada.com/tools |
-| Visitor Visa (TRV) → | https://visamastercanada.com/immigration/visitor-visa |
-| Super Visa → | https://visamastercanada.com/immigration/super-visa |
-| Visitor Record → | https://visamastercanada.com/immigration/visitor-record |
-| Criminal Inadmissibility → | https://visamastercanada.com/appeals/criminal-inadmissibility |
-| TRP → | https://visamastercanada.com/appeals/trp |
-| Family Sponsorship → | https://visamastercanada.com/immigration/family-sponsorship |
+| Skip to main content | https://commonwealthmigration.ca/immigration/eta#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Immigration | https://commonwealthmigration.ca/immigration |
+| Book Free Consultation → | https://commonwealthmigration.ca/book |
+| Check My Eligibility | https://commonwealthmigration.ca/tools |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → Visitor visa (TRV) | https://commonwealthmigration.ca/immigration/visitor-visa |
+| → Super Visa | https://commonwealthmigration.ca/immigration/super-visa |
+| → Refusals | https://commonwealthmigration.ca/refusals |
+| Book consultation → | https://commonwealthmigration.ca/book |
+| Visitor Visa application → | https://commonwealthmigration.ca/immigration/visitor-visa |
+| Book an Assessment → | https://commonwealthmigration.ca/book |
+| Call contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| Use Free Tools | https://commonwealthmigration.ca/tools |
+| Visitor Visa (TRV) → | https://commonwealthmigration.ca/immigration/visitor-visa |
+| Super Visa → | https://commonwealthmigration.ca/immigration/super-visa |
+| Visitor Record → | https://commonwealthmigration.ca/immigration/visitor-record |
+| Criminal Inadmissibility → | https://commonwealthmigration.ca/appeals/criminal-inadmissibility |
+| TRP → | https://commonwealthmigration.ca/appeals/trp |
+| Family Sponsorship → | https://commonwealthmigration.ca/immigration/family-sponsorship |
 
 ---
 
@@ -273,13 +273,13 @@ Most eTAs are straightforward - but if yours is complicated, Our team's licensed
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visamastercanada.com/immigration/eta#service","name":"Canada eTA Guidance","description":"Licensed RCIC guidance for Electronic Travel Authorization (eTA) applications, complex reviews, refusals, and alternative pathways including TRV.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Who needs an eTA to fly to Canada?","acceptedAnswer":{"@type":"Answer","text":"Citizens of visa-exempt countries (e.g. United Kingdom, France, Germany, Australia, Japan, South Korea) need an eTA to fly to Canada. U.S. citizens do not need an eTA. Citizens of other countries typically need a visitor visa (TRV) instead."}},{"@type":"Question","name":"How do I apply for an eTA?","acceptedAnswer":{"@type":"Answer","text":"You apply online on the IRCC website. You need a valid passport, email, and a credit card to pay the small fee. The process usually takes minutes, and most applicants are approved quickly."}},{"@type":"Question","name":"How long is an eTA valid?","acceptedAnswer":{"@type":"Answer","text":"An eTA is valid for up to 5 years or until your passport expires, whichever comes first. You can make multiple trips to Canada during that time (each stay is typically up to 6 months)."}},{"@type":"Question","name":"What if my eTA was rejected?","acceptedAnswer":{"@type":"Answer","text":"Common reasons include passport issues, previous immigration violations, or criminal history. We can review your situation and advise whether to reapply or if you need a visitor visa or other pathway."}},{"@type":"Question","name":"I have a new passport - do I need a new eTA?","acceptedAnswer":{"@type":"Answer","text":"Yes. An eTA is linked to your passport. If you get a new passport, you must apply for a new eTA before flying to Canada."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"eTA","item":"https://visamastercanada.com/immigration/eta"}]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://commonwealthmigration.ca/immigration/eta#service","name":"Canada eTA Guidance","description":"Licensed RCIC guidance for Electronic Travel Authorization (eTA) applications, complex reviews, refusals, and alternative pathways including TRV.","areaServed":"Canada","serviceType":"Immigration Consulting"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Who needs an eTA to fly to Canada?","acceptedAnswer":{"@type":"Answer","text":"Citizens of visa-exempt countries (e.g. United Kingdom, France, Germany, Australia, Japan, South Korea) need an eTA to fly to Canada. U.S. citizens do not need an eTA. Citizens of other countries typically need a visitor visa (TRV) instead."}},{"@type":"Question","name":"How do I apply for an eTA?","acceptedAnswer":{"@type":"Answer","text":"You apply online on the IRCC website. You need a valid passport, email, and a credit card to pay the small fee. The process usually takes minutes, and most applicants are approved quickly."}},{"@type":"Question","name":"How long is an eTA valid?","acceptedAnswer":{"@type":"Answer","text":"An eTA is valid for up to 5 years or until your passport expires, whichever comes first. You can make multiple trips to Canada during that time (each stay is typically up to 6 months)."}},{"@type":"Question","name":"What if my eTA was rejected?","acceptedAnswer":{"@type":"Answer","text":"Common reasons include passport issues, previous immigration violations, or criminal history. We can review your situation and advise whether to reapply or if you need a visitor visa or other pathway."}},{"@type":"Question","name":"I have a new passport - do I need a new eTA?","acceptedAnswer":{"@type":"Answer","text":"Yes. An eTA is linked to your passport. If you get a new passport, you must apply for a new eTA before flying to Canada."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"eTA","item":"https://commonwealthmigration.ca/immigration/eta"}]}]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://visamastercanada.com/immigration"},{"@type":"ListItem","position":3,"name":"eTA"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Immigration","item":"https://commonwealthmigration.ca/immigration"},{"@type":"ListItem","position":3,"name":"eTA"}]}
 ```

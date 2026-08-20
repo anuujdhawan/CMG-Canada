@@ -1,7 +1,6 @@
 # Book a Canada Immigration Consultation
 
 > **Source URL:** https://commonwealthmigration.ca/contact/book-immigration-consultation-canada
-> **Original Source URL:** https://visamastercanada.com/book
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

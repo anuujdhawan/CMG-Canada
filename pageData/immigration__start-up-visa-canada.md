@@ -1,7 +1,6 @@
 # Start-Up Visa Canada: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/immigration/start-up-visa-canada
-> **Original Source URL:** https://visamastercanada.com/immigration/startup-visa
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

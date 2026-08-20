@@ -19,7 +19,9 @@ const publicEnv = {
   NEXT_PUBLIC_SITE_DESCRIPTION: process.env.NEXT_PUBLIC_SITE_DESCRIPTION,
   NEXT_PUBLIC_SITE_URL: process.env.NEXT_PUBLIC_SITE_URL,
   NEXT_PUBLIC_SUPPORT_EMAIL: process.env.NEXT_PUBLIC_SUPPORT_EMAIL,
+  NEXT_PUBLIC_SUPPORT_EMAIL_HREF: process.env.NEXT_PUBLIC_SUPPORT_EMAIL_HREF,
   NEXT_PUBLIC_PHONE: process.env.NEXT_PUBLIC_PHONE,
+  NEXT_PUBLIC_PHONE_HREF: process.env.NEXT_PUBLIC_PHONE_HREF,
   NEXT_PUBLIC_ADDRESS_LINE1: process.env.NEXT_PUBLIC_ADDRESS_LINE1,
   NEXT_PUBLIC_ADDRESS_CITY: process.env.NEXT_PUBLIC_ADDRESS_CITY,
   NEXT_PUBLIC_ADDRESS_POSTAL: process.env.NEXT_PUBLIC_ADDRESS_POSTAL,
@@ -30,12 +32,14 @@ const publicEnv = {
   NEXT_PUBLIC_RCIC_REGULATOR: process.env.NEXT_PUBLIC_RCIC_REGULATOR,
   NEXT_PUBLIC_LOGO_LARGE: process.env.NEXT_PUBLIC_LOGO_LARGE,
   NEXT_PUBLIC_LOGO_WHITE: process.env.NEXT_PUBLIC_LOGO_WHITE,
+  NEXT_PUBLIC_LOGO_FOOTER: process.env.NEXT_PUBLIC_LOGO_FOOTER,
   NEXT_PUBLIC_LOGO_FAVICON: process.env.NEXT_PUBLIC_LOGO_FAVICON,
   NEXT_PUBLIC_OG_IMAGE: process.env.NEXT_PUBLIC_OG_IMAGE,
   NEXT_PUBLIC_FACEBOOK_URL: process.env.NEXT_PUBLIC_FACEBOOK_URL,
   NEXT_PUBLIC_INSTAGRAM_URL: process.env.NEXT_PUBLIC_INSTAGRAM_URL,
   NEXT_PUBLIC_LINKEDIN_URL: process.env.NEXT_PUBLIC_LINKEDIN_URL,
   NEXT_PUBLIC_YOUTUBE_URL: process.env.NEXT_PUBLIC_YOUTUBE_URL,
+  NEXT_PUBLIC_WHATSAPP_URL: process.env.NEXT_PUBLIC_WHATSAPP_URL,
   NEXT_PUBLIC_DEFAULT_TITLE: process.env.NEXT_PUBLIC_DEFAULT_TITLE,
   NEXT_PUBLIC_DEFAULT_DESCRIPTION: process.env.NEXT_PUBLIC_DEFAULT_DESCRIPTION,
   NEXT_PUBLIC_META_KEYWORDS: process.env.NEXT_PUBLIC_META_KEYWORDS,
@@ -75,14 +79,16 @@ export const site = {
 
   // ---- Contact ----------------------------------------------------------
   url: env("NEXT_PUBLIC_SITE_URL", "https://commonwealthmigration.ca"), // canonical/sitemap target
-  email: env("NEXT_PUBLIC_SUPPORT_EMAIL", "info@commonwealthmigration.ca"),
-  phone: env("NEXT_PUBLIC_PHONE", "+1 (647) 395-3471"),
-  phoneHref: `tel:${env("NEXT_PUBLIC_PHONE", "+1 (647) 395-3471").replace(/[^+\d]/g, "")}`,
+  email: env("NEXT_PUBLIC_SUPPORT_EMAIL", "Contact via website"),
+  emailHref: env("NEXT_PUBLIC_SUPPORT_EMAIL_HREF", "/contact/contact-immigration-consultant-brampton"),
+  phone: env("NEXT_PUBLIC_PHONE", "Contact via website"),
+  phoneHref: env("NEXT_PUBLIC_PHONE_HREF", "/contact/contact-immigration-consultant-brampton"),
+  whatsappUrl: env("NEXT_PUBLIC_WHATSAPP_URL", "/contact/contact-immigration-consultant-brampton"),
 
   address: {
-    line1: env("NEXT_PUBLIC_ADDRESS_LINE1", "83 Kennedy Rd S, Unit 16"),
-    city: env("NEXT_PUBLIC_ADDRESS_CITY", "Brampton, ON"),
-    postal: env("NEXT_PUBLIC_ADDRESS_POSTAL", "L6W 3P3"),
+    line1: env("NEXT_PUBLIC_ADDRESS_LINE1", "Canada-wide service by appointment"),
+    city: env("NEXT_PUBLIC_ADDRESS_CITY", "Canada"),
+    postal: env("NEXT_PUBLIC_ADDRESS_POSTAL", ""),
     country: env("NEXT_PUBLIC_ADDRESS_COUNTRY", "Canada"),
   },
   hours: env(
@@ -92,14 +98,15 @@ export const site = {
   timezone: env("NEXT_PUBLIC_TIMEZONE", "Eastern Time (ET)"),
 
   rcic: {
-    number: env("NEXT_PUBLIC_RCIC_NUMBER", "R705959"),
+    number: env("NEXT_PUBLIC_RCIC_NUMBER", "CICC-regulated practice"),
     regulator: env("NEXT_PUBLIC_RCIC_REGULATOR", "College of Immigration and Citizenship Consultants (CICC)"),
   },
 
   // ---- Assets ---------------------------------------------------------
   logos: {
-    large: env("NEXT_PUBLIC_LOGO_LARGE", "/images/logo-large.png"), // full wordmark (light background)
-    white: env("NEXT_PUBLIC_LOGO_WHITE", "/images/logo-white.png"), // full wordmark (dark background)
+    large: env("NEXT_PUBLIC_LOGO_LARGE", "/images/logo-large.png"), // blue/red wordmark for light surfaces
+    white: env("NEXT_PUBLIC_LOGO_WHITE", "/images/CMG-LOGO.webp"), // white/red template wordmark for dark surfaces
+    footer: env("NEXT_PUBLIC_LOGO_FOOTER", "/images/cmg-logo-red.png"), // red/blue wordmark used in the footer in both themes
     favicon: env("NEXT_PUBLIC_LOGO_FAVICON", "/images/icon.png"),
     og: env("NEXT_PUBLIC_OG_IMAGE", "/images/og-default.png"),
   },

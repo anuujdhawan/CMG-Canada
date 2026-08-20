@@ -1,7 +1,6 @@
 # Family sponsorship Canada: a clearer plan for the evidence
 
 > **Source URL:** https://commonwealthmigration.ca/sponsor-status/family-sponsorship-canada
-> **Original Source URL:** https://visamastercanada.com/immigration/family-sponsorship
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

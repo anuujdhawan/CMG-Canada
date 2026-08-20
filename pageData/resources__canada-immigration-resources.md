@@ -1,7 +1,6 @@
 # Canada immigration resources: organize evidence in the right order
 
 > **Source URL:** https://commonwealthmigration.ca/resources/canada-immigration-resources
-> **Original Source URL:** https://visamastercanada.com/resources
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.7
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

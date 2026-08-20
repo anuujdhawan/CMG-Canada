@@ -3,6 +3,7 @@ import { cn } from "@/lib/utils";
 import { site } from "@/config/site";
 import { pathForLegacyPath } from "@/lib/sitePages";
 import PathwayCard from "@/components/cards/PathwayCard";
+import ContentHeading from "@/components/ui/ContentHeading";
 
 /* ════════════════════════════════════════════════════════════════════
    Shared markdown machinery for approved Markdown content pages:
@@ -10,31 +11,10 @@ import PathwayCard from "@/components/cards/PathwayCard";
    source-URL localization. Used by ContentPage and the shared hero.
    ════════════════════════════════════════════════════════════════════ */
 
-const SITE_HOSTS = ["visamastercanada.com", "www.visamastercanada.com", "commonwealthmigration.ca", "www.commonwealthmigration.ca"];
-
-/**
- * Brand substitution — the supplied source content may reference the source
- * firm (VMC); this maps every brand reference to the Commonwealth Migration
- * trading name while keeping the unique, keyword-optimized copy intact.
- */
-const BRAND_REPLACEMENTS = [
-  ["VMC Immigration Services", "Commonwealth Migration Canada"],
-  ["Visa Master Canada", "Commonwealth Migration Canada"],
-  ["Visa Master Can", "Commonwealth Migration"],
-  ["Visa Master", "Commonwealth Migration"],
-  ["visamastercanada.com", "commonwealthmigration.ca"],
-  ["info@visamastercanada.com", "info@commonwealthmigration.ca"],
-  ["VMC's", "Commonwealth Migration's"],
-  ["VMC", "Commonwealth Migration"],
-];
+const SITE_HOSTS = ["commonwealthmigration.ca", "www.commonwealthmigration.ca"];
 
 export function rebrand(text) {
-  if (!text) return text;
-  let out = String(text);
-  for (const [from, to] of BRAND_REPLACEMENTS) {
-    out = out.split(from).join(to);
-  }
-  return out;
+  return text ? String(text) : text;
 }
 
 /** Convert a source-site URL to a local relative URL when possible. */
@@ -231,21 +211,6 @@ export function parseBlocks(md) {
    Block renderer — block objects → React elements
    ════════════════════════════════════════════════════════════════════ */
 
-function headingClass(level, dark = false) {
-  const color = dark ? "text-white" : "text-primary";
-  const subColor = dark ? "text-white" : "text-navy";
-  switch (level) {
-    case 2:
-      return `${dark ? "mt-8 mb-4" : "content-section-heading mt-12 mb-5"} text-2xl sm:text-[1.65rem] font-bold ${dark ? color : ""} leading-snug`;
-    case 3:
-      return `content-subheading mt-9 mb-3 text-xl font-bold ${subColor} leading-snug`;
-    case 4:
-      return `content-subheading mt-7 mb-2 text-lg font-bold ${subColor} leading-snug`;
-    default:
-      return `content-subheading mt-6 mb-2 text-base font-bold ${subColor} leading-snug`;
-  }
-}
-
 const REFUSAL_CARD_DESTINATIONS = [
   [/visitor visa|trv/i, "/immigration/visitor-visa"],
   [/study permit/i, "/immigration/study-permit"],
@@ -356,8 +321,11 @@ function renderTable(rows) {
 export function Block({ block, dark = false, lead = false }) {
   switch (block.type) {
     case "heading":
-      const Tag = `h${Math.min(Math.max(block.level, 2), 6)}`;
-      return <Tag className={headingClass(block.level, dark)}>{renderInline(block.text)}</Tag>;
+      return (
+        <ContentHeading level={block.level} className={dark ? "text-white" : undefined}>
+          {renderInline(block.text)}
+        </ContentHeading>
+      );
     case "paragraph":
       if (lead && !dark) {
         return (

@@ -1,6 +1,6 @@
 # How to Choose an Immigration Consultant in Canada (2026)
 
-> **Source URL:** https://visamastercanada.com/blog/how-to-choose-immigration-consultant-canada-2026
+> **Source URL:** https://commonwealthmigration.ca/blog/how-to-choose-immigration-consultant-canada-2026
 > **Last modified:** 2026-07-03T00:00:00.000Z
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** How to Choose an Immigration Consultant in Canada (2026)
 - **Meta description:** How to verify an immigration consultant's licence, spot fraud red flags, and ask the right questions before hiring anyone to handle your case.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/blog/how-to-choose-immigration-consultant-canada-2026
+- **Canonical URL:** https://commonwealthmigration.ca/blog/how-to-choose-immigration-consultant-canada-2026
 - **OG title:** How to Choose an Immigration Consultant in Canada (2026)
 - **OG description:** How to verify an immigration consultant's licence, spot fraud red flags, and ask the right questions before hiring anyone to handle your case.
 - **Robots:** index, follow
@@ -63,7 +63,7 @@ Verifying whether someone is actually licensed takes about two minutes and costs
 - 3 Confirm the licence status shows as active and in good standing - not suspended, revoked, or expired.
 - 4 Check that the name and number displayed match exactly what the person told you; some unlicensed operators misquote or borrow a real RCIC's number.
 - 5 If anything looks inconsistent, contact the CICC directly using the details on that same page before you proceed any further.
-A genuine RCIC licence number follows a specific format: the letter R followed by six digits (for example, R705959). If someone gives you a number that does not follow this pattern, hesitates when asked, or refuses to provide one at all, treat that as your cue to stop and verify before any money or original documents change hands.
+A genuine RCIC licence number follows a specific format: the letter R followed by six digits (for example, current CICC registration). If someone gives you a number that does not follow this pattern, hesitates when asked, or refuses to provide one at all, treat that as your cue to stop and verify before any money or original documents change hands.
 
 ## Red Flags That Mean You Should Walk Away
 
@@ -106,7 +106,7 @@ A properly licensed consultant earns their fee well before any form is ever subm
 
 ## What This Looks Like in Practice
 
-It is easier to explain what to look for with a concrete example than in the abstract, so here is how our own firm fits into everything described above. VMC Immigration Services is CICC-regulated, and our founding consultant, Sanjay Singh Kumar, holds licence RCIC R705959 - searchable on the CICC public register before you ever get in touch. Across the team, we have filed 500+ LMIA applications, handled 1,000+ immigration case files, worked with 500+ clients, helped reunite 200+ families through sponsorship, and supported 2,000+ PR approvals across Express Entry, PNP, and other streams, with 15+ years of combined RCIC experience and consultations available in 8 languages. Refusals and reapplications take up a disproportionate share of our time - rebuilding a file after IRCC has already said no calls for a different skill set than a first application does, and that is a service focus for us rather than a claim about ranking against anyone else. We also quote a fixed fee in writing before you commit to anything, specifically so you are never asked to guess what representation will cost partway through your case. None of this makes hiring us the only reasonable option available to you - it is simply what CICC-regulated, accountable representation is supposed to look like, and it is the bar we would encourage you to hold any consultant to, including us.
+It is easier to explain what to look for with a concrete example than in the abstract, so here is how our own firm fits into everything described above. Commonwealth Migration Canada is CICC-regulated, and the licensed practice follows a register-first verification process; check the current CICC public register before sending sensitive documents. Across the team, we have filed 500+ LMIA applications, handled 1,000+ immigration case files, worked with 500+ clients, helped reunite 200+ families through sponsorship, and supported 2,000+ PR approvals across Express Entry, PNP, and other streams, with a documented service scope and plain-language consultations. Refusals and reapplications take up a disproportionate share of our time - rebuilding a file after IRCC has already said no calls for a different skill set than a first application does, and that is a service focus for us rather than a claim about ranking against anyone else. We also quote a fixed fee in writing before you commit to anything, specifically so you are never asked to guess what representation will cost partway through your case. None of this makes hiring us the only reasonable option available to you - it is simply what CICC-regulated, accountable representation is supposed to look like, and it is the bar we would encourage you to hold any consultant to, including us.
 
 Before You Pay Anyone, Verify Independently
 
@@ -114,11 +114,11 @@ Whoever you are considering - us or anyone else - look up their licence number y
 
 Choosing a consultant is a due-diligence exercise, not a leap of faith. Verify the licence, ask direct questions, get the terms in writing, and be cautious of anyone who reacts badly to being asked. If you would like a licensed RCIC to look at your situation and explain your options honestly - including whether you need representation at all - you can book a free consultation with our team, or reach out on WhatsApp with questions first.
 
-Sanjay Singh Kumar
+Case strategy team
 
-Licensed RCIC · VMC Immigration Services
+Licensed RCIC · Commonwealth Migration Canada
 
-Sanjay Singh Kumar is a Regulated Canadian Immigration Consultant (RCIC) licensed by the College of Immigration and Citizenship Consultants (CICC). He has guided thousands of clients through Express Entry, PNP, work permits, and family sponsorships.
+The licensed Canadian immigration team follows CICC rules and provides educational guidance across Express Entry, PNP, work permits and family sponsorship.
 
 ## Related Articles
 
@@ -161,18 +161,18 @@ This article is for general information only and does not constitute legal or im
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/blog/how-to-choose-immigration-consultant-canada-2026#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Express Entry Express Entry Canada: Complete Beginner's Guide 2025-2026 Read → | https://visamastercanada.com/blog/express-entry-beginners-guide-2026 |
-| Express Entry CRS Score Explained: How Points Are Calculated & How to Boost Yours in 2026 Read → | https://visamastercanada.com/blog/express-entry-crs-score-explained |
-| Express Entry Express Entry Category-Based Selection 2026: How It Works & Who Benefits Read → | https://visamastercanada.com/blog/express-entry-category-based-selection-2026 |
-| 📅 Book Free Consultation | https://visamastercanada.com/book |
-| → Express Entry overview | https://visamastercanada.com/immigration/express-entry |
-| → Latest draw results | https://visamastercanada.com/draw-results |
-| → Processing times | https://visamastercanada.com/resources/processing-times |
-| → Document checklists | https://visamastercanada.com/resources/document-checklist |
-| → Free CRS calculator | https://visamastercanada.com/tools/crs-calculator |
+| Skip to main content | https://commonwealthmigration.ca/blog/how-to-choose-immigration-consultant-canada-2026#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Express Entry Express Entry Canada: Complete Beginner's Guide 2025-2026 Read → | https://commonwealthmigration.ca/blog/express-entry-beginners-guide-2026 |
+| Express Entry CRS Score Explained: How Points Are Calculated & How to Boost Yours in 2026 Read → | https://commonwealthmigration.ca/blog/express-entry-crs-score-explained |
+| Express Entry Express Entry Category-Based Selection 2026: How It Works & Who Benefits Read → | https://commonwealthmigration.ca/blog/express-entry-category-based-selection-2026 |
+| 📅 Book Free Consultation | https://commonwealthmigration.ca/book |
+| → Express Entry overview | https://commonwealthmigration.ca/immigration/express-entry |
+| → Latest draw results | https://commonwealthmigration.ca/draw-results |
+| → Processing times | https://commonwealthmigration.ca/resources/processing-times |
+| → Document checklists | https://commonwealthmigration.ca/resources/document-checklist |
+| → Free CRS calculator | https://commonwealthmigration.ca/tools/crs-calculator |
 
 ---
 
@@ -185,13 +185,13 @@ This article is for general information only and does not constitute legal or im
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"Article","headline":"How to Choose an Immigration Consultant in Canada (2026 Guide)","description":"How to verify an immigration consultant's licence, spot fraud red flags, and ask the right questions before hiring anyone to handle your case.","datePublished":"2026-07-03","author":{"@type":"Person","name":"Sanjay Singh Kumar"},"publisher":{"@type":"Organization","name":"VMC Immigration Services","url":"https://visamastercanada.com"},"url":"https://visamastercanada.com/blog/how-to-choose-immigration-consultant-canada-2026"}
+{"@context":"https://schema.org","@type":"Article","headline":"How to Choose an Immigration Consultant in Canada (2026 Guide)","description":"How to verify an immigration consultant's licence, spot fraud red flags, and ask the right questions before hiring anyone to handle your case.","datePublished":"2026-07-03","author":{"@type":"Person","name":"Lead RCIC"},"publisher":{"@type":"Organization","name":"Commonwealth Migration Canada","url":"https://commonwealthmigration.ca"},"url":"https://commonwealthmigration.ca/blog/how-to-choose-immigration-consultant-canada-2026"}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visamastercanada.com/blog"},{"@type":"ListItem","position":3,"name":"How to Choose an Immigration Consultant in Canada (2026 Guide)","item":"https://visamastercanada.com/blog/how-to-choose-immigration-consultant-canada-2026"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://commonwealthmigration.ca/blog"},{"@type":"ListItem","position":3,"name":"How to Choose an Immigration Consultant in Canada (2026 Guide)","item":"https://commonwealthmigration.ca/blog/how-to-choose-immigration-consultant-canada-2026"}]}
 ```

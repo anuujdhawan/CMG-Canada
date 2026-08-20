@@ -1,7 +1,6 @@
 # Canada Immigration Services for Individuals
 
 > **Source URL:** https://commonwealthmigration.ca/immigration-services/canada-immigration-services-for-individuals
-> **Original Source URL:** https://visamastercanada.com/for-individuals
 > **Last modified:** 2026-08-19
 > **Sitemap priority:** 0.8
 > **Status:** ✅ Fresh English rewrite | SEO/GEO/AEO reviewed

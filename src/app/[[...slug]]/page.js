@@ -60,7 +60,7 @@ export default async function ContentRoute({ params }) {
   return (
     <>
       <ContentPage page={page} />
-      <PageIndexGrid pathname={pathname} />
+      {pathname !== "/" && <PageIndexGrid pathname={pathname} />}
     </>
   );
 }

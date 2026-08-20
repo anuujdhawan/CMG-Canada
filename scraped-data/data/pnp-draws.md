@@ -1,6 +1,6 @@
 # PNP Draw Results 2026 | Provincial Nominee Program Draws
 
-> **Source URL:** https://visamastercanada.com/pnp-draws
+> **Source URL:** https://commonwealthmigration.ca/pnp-draws
 > **Last modified:** 2026-08-13T16:43:55.760Z
 > **Sitemap priority:** 0.9
 > **Status:** ✅ Unique English content (processed)
@@ -12,7 +12,7 @@
 - **Title tag:** PNP Draw Results 2026 | Provincial Nominee Program Draws
 - **Meta description:** Provincial Nominee Program 2026 draw history: BC PNP, OINP, AAIP, SINP, MPNP cutoffs, invitation counts, and stream breakdowns. Updated within 24 hours.
 - **Meta keywords:** (none)
-- **Canonical URL:** https://visamastercanada.com/pnp-draws
+- **Canonical URL:** https://commonwealthmigration.ca/pnp-draws
 - **OG title:** PNP Draw Results 2026 | Provincial Nominee Program Draws
 - **OG description:** Provincial Nominee Program 2026 draw history: BC PNP, OINP, AAIP, SINP, MPNP cutoffs, invitation counts, and stream breakdowns. Updated within 24 hours.
 - **Robots:** index, follow
@@ -186,7 +186,7 @@ PNP nomination = +600 CRS points in the federal Express Entry pool. Getting nomi
 
 Our licensed RCICs assess your eligibility across all 10 provinces simultaneously - finding your best pathway to a provincial nomination and Canadian PR.
 
-CICC-Regulated · Licensed RCIC R705959 · 200+ Families Reunited
+CICC-Regulated · Licensed current CICC registration · 200+ Families Reunited
 
 ---
 
@@ -194,26 +194,26 @@ CICC-Regulated · Licensed RCIC R705959 · 200+ Families Reunited
 
 | Anchor text | URL |
 | --- | --- |
-| Skip to main content | https://visamastercanada.com/pnp-draws#main-content |
-| Make Payment | https://visamastercanada.com/pay |
-| Book Book Consultation | https://visamastercanada.com/book |
-| Home | https://visamastercanada.com/ |
-| Check PNP Eligibility → | https://visamastercanada.com/immigration/pnp |
-| Free RCIC Assessment | https://visamastercanada.com/book |
-| (647) 395-3471 | tel:+16473953471 |
-| → BC PNP Guide | https://visamastercanada.com/immigration/pnp/british-columbia |
-| → OINP Ontario | https://visamastercanada.com/immigration/pnp/ontario |
-| → AAIP Alberta | https://visamastercanada.com/immigration/pnp/alberta |
-| → SINP Saskatchewan | https://visamastercanada.com/immigration/pnp/saskatchewan |
-| → MPNP Manitoba | https://visamastercanada.com/immigration/pnp/manitoba |
-| Calculate My CRS Score (for federal + PNP pathways) → | https://visamastercanada.com/tools/crs-calculator |
-| BC PNP → SIRS draws weekly | https://visamastercanada.com/immigration/pnp/british-columbia |
-| OINP → Ontario nominees | https://visamastercanada.com/immigration/pnp/ontario |
-| AAIP → Alberta EOI system | https://visamastercanada.com/immigration/pnp/alberta |
-| SINP → Window-based intake | https://visamastercanada.com/immigration/pnp/saskatchewan |
-| MPNP → Bi-weekly draws | https://visamastercanada.com/immigration/pnp/manitoba |
-| View Express Entry federal draw results → | https://visamastercanada.com/draw-results |
-| Book Free PNP Assessment → | https://visamastercanada.com/book |
+| Skip to main content | https://commonwealthmigration.ca/pnp-draws#main-content |
+| Make Payment | https://commonwealthmigration.ca/pay |
+| Book Book Consultation | https://commonwealthmigration.ca/book |
+| Home | https://commonwealthmigration.ca/ |
+| Check PNP Eligibility → | https://commonwealthmigration.ca/immigration/pnp |
+| Free RCIC Assessment | https://commonwealthmigration.ca/book |
+| contact form | https://commonwealthmigration.ca/contact/contact-immigration-consultant-brampton |
+| → BC PNP Guide | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| → OINP Ontario | https://commonwealthmigration.ca/immigration/pnp/ontario |
+| → AAIP Alberta | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| → SINP Saskatchewan | https://commonwealthmigration.ca/immigration/pnp/saskatchewan |
+| → MPNP Manitoba | https://commonwealthmigration.ca/immigration/pnp/manitoba |
+| Calculate My CRS Score (for federal + PNP pathways) → | https://commonwealthmigration.ca/tools/crs-calculator |
+| BC PNP → SIRS draws weekly | https://commonwealthmigration.ca/immigration/pnp/british-columbia |
+| OINP → Ontario nominees | https://commonwealthmigration.ca/immigration/pnp/ontario |
+| AAIP → Alberta EOI system | https://commonwealthmigration.ca/immigration/pnp/alberta |
+| SINP → Window-based intake | https://commonwealthmigration.ca/immigration/pnp/saskatchewan |
+| MPNP → Bi-weekly draws | https://commonwealthmigration.ca/immigration/pnp/manitoba |
+| View Express Entry federal draw results → | https://commonwealthmigration.ca/draw-results |
+| Book Free PNP Assessment → | https://commonwealthmigration.ca/book |
 
 ---
 
@@ -226,9 +226,9 @@ CICC-Regulated · Licensed RCIC R705959 · 200+ Families Reunited
 ## Structured Data (JSON-LD)
 
 ```json
-{"@context":"https://schema.org","@type":"ProfessionalService","name":"VMC Immigration Services","alternateName":["Visa Master Canada","Visa Master Can","VMC"],"legalName":"VMC Immigration Services","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Sanjay Singh Kumar","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","identifier":"RCIC R705959","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://visamastercanada.com","logo":{"@type":"ImageObject","url":"https://visamastercanada.com/logos/vmc-logo.svg"},"image":"https://visamastercanada.com/opengraph-image","telephone":"+16473953471","email":"info@visamastercanada.com","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","streetAddress":"83 Kennedy Rd S Unit 16","addressLocality":"Brampton","addressRegion":"ON","postalCode":"L6W 3P3","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":43.6956,"longitude":-79.7596},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"hasMap":"https://maps.google.com/?q=83+Kennedy+Rd+S,+Brampton,+ON","sameAs":["https://facebook.com/VisaMasterCan","https://linkedin.com/company/visamastercan","https://instagram.com/visamastercanada"],"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
+{"@context":"https://schema.org","@type":"ProfessionalService","name":"Commonwealth Migration Canada","alternateName":["Commonwealth Migration Canada","Commonwealth Migration","Commonwealth Migration"],"legalName":"Commonwealth Migration Canada","description":"CICC-regulated immigration consulting firm. Licensed RCICs specializing in Express Entry, all PNP streams, LMIA, work permits, study permits, spousal sponsorship, refusals, and citizenship. Serving all of Canada from our Brampton, Ontario office.","founder":{"@type":"Person","name":"Lead RCIC","jobTitle":"Regulated Canadian Immigration Consultant (RCIC)","memberOf":{"@type":"Organization","name":"College of Immigration and Citizenship Consultants (CICC)"}},"url":"https://commonwealthmigration.ca","logo":{"@type":"ImageObject","url":"https://commonwealthmigration.ca/logos/Commonwealth Migration-logo.svg"},"image":"https://commonwealthmigration.ca/opengraph-image","priceRange":"$$","currenciesAccepted":"CAD","paymentAccepted":"Credit Card, Debit Card, Bank Transfer","address":{"@type":"PostalAddress","addressLocality":"Brampton","addressRegion":"ON","addressCountry":"CA"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"10:00","closes":"16:00"}],"areaServed":{"@type":"Country","name":"Canada"},"serviceType":["Express Entry Immigration Consulting","Provincial Nominee Program (PNP) Consulting","Work Permit Application","Study Permit Application","Spousal Sponsorship","LMIA Processing","Visa Refusal Appeals","Citizenship Application","Super Visa Application"]}
 ```
 
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visamastercanada.com"},{"@type":"ListItem","position":2,"name":"PNP Draw Results"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://commonwealthmigration.ca"},{"@type":"ListItem","position":2,"name":"PNP Draw Results"}]}
 ```
