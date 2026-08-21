@@ -24,6 +24,7 @@ const publicEnv = {
   NEXT_PUBLIC_PHONE_HREF: process.env.NEXT_PUBLIC_PHONE_HREF,
   NEXT_PUBLIC_ADDRESS_LINE1: process.env.NEXT_PUBLIC_ADDRESS_LINE1,
   NEXT_PUBLIC_ADDRESS_CITY: process.env.NEXT_PUBLIC_ADDRESS_CITY,
+  NEXT_PUBLIC_ADDRESS_REGION: process.env.NEXT_PUBLIC_ADDRESS_REGION,
   NEXT_PUBLIC_ADDRESS_POSTAL: process.env.NEXT_PUBLIC_ADDRESS_POSTAL,
   NEXT_PUBLIC_ADDRESS_COUNTRY: process.env.NEXT_PUBLIC_ADDRESS_COUNTRY,
   NEXT_PUBLIC_HOURS: process.env.NEXT_PUBLIC_HOURS,
@@ -79,9 +80,23 @@ export const site = {
   // ---- Contact ----------------------------------------------------------
   url: env("NEXT_PUBLIC_SITE_URL", "https://commonwealthmigration.ca"), // canonical/sitemap target
   email: env("NEXT_PUBLIC_SUPPORT_EMAIL", "Contact via website"),
-  emailHref: env("NEXT_PUBLIC_SUPPORT_EMAIL_HREF", "/contact/contact-immigration-consultant-brampton"),
+  // When a real inbox is configured, default to a mailto: link; otherwise keep the contact page.
+  emailHref: env("NEXT_PUBLIC_SUPPORT_EMAIL_HREF", "") ||
+    (env("NEXT_PUBLIC_SUPPORT_EMAIL", "").includes("@")
+      ? `mailto:${env("NEXT_PUBLIC_SUPPORT_EMAIL")}`
+      : "/contact/contact-immigration-consultant-brampton"),
   phone: env("NEXT_PUBLIC_PHONE", "Contact via website"),
-  phoneHref: env("NEXT_PUBLIC_PHONE_HREF", "/contact/contact-immigration-consultant-brampton"),
+  // When a real phone number is configured, default to a tel: link; otherwise keep the contact page.
+  phoneHref: (() => {
+    const override = env("NEXT_PUBLIC_PHONE_HREF", "");
+    if (override) return override;
+    const raw = env("NEXT_PUBLIC_PHONE", "");
+    const digits = raw.replace(/[^\d]/g, "");
+    // tel: links want the full international number, e.g. tel:+16476170750
+    return digits.length >= 7
+      ? `tel:${raw.trim().startsWith("+") ? "+" : ""}${digits}`
+      : "/contact/contact-immigration-consultant-brampton";
+  })(),
   whatsappUrl: (() => {
     const raw = env("NEXT_PUBLIC_WHATSAPP_URL", "").trim();
     if (!raw) return "";
@@ -97,8 +112,19 @@ export const site = {
   address: {
     line1: env("NEXT_PUBLIC_ADDRESS_LINE1", "Canada-wide service by appointment"),
     city: env("NEXT_PUBLIC_ADDRESS_CITY", "Canada"),
+    region: env("NEXT_PUBLIC_ADDRESS_REGION", ""),
     postal: env("NEXT_PUBLIC_ADDRESS_POSTAL", ""),
     country: env("NEXT_PUBLIC_ADDRESS_COUNTRY", "Canada"),
+    // Full one-line address, e.g. "615 - 2250 Bovaird Drive E, Brampton, Sandringham-wellington, Canada"
+    full: [
+      env("NEXT_PUBLIC_ADDRESS_LINE1", ""),
+      env("NEXT_PUBLIC_ADDRESS_CITY", ""),
+      env("NEXT_PUBLIC_ADDRESS_REGION", ""),
+      env("NEXT_PUBLIC_ADDRESS_POSTAL", ""),
+      env("NEXT_PUBLIC_ADDRESS_COUNTRY", ""),
+    ]
+      .filter(Boolean)
+      .join(", "),
   },
   hours: env(
     "NEXT_PUBLIC_HOURS",

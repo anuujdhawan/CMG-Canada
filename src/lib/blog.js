@@ -118,6 +118,50 @@ const BLOG_IMAGE_BY_FILE = {
   },
 };
 
+const BLOG_IMAGE_BY_CATEGORY = {
+  "express-entry": {
+    src: "/images/pages/documents.webp",
+    alt: "Organized immigration documents prepared for an Express Entry review",
+  },
+  "work-permits": {
+    src: "/images/pages/workers.webp",
+    alt: "Workers reviewing a Canadian employment and immigration plan",
+  },
+  "study-permits": {
+    src: "/images/pages/students-study.webp",
+    alt: "International students planning their studies and future in Canada",
+  },
+  "family-sponsorship": {
+    src: "/images/pages/family.webp",
+    alt: "Family planning a Canadian sponsorship pathway together",
+  },
+  "provincial-nominee-programs": {
+    src: "/images/pages/canada-flag.webp",
+    alt: "Canadian flag representing a provincial immigration pathway",
+  },
+  "employer-immigration": {
+    src: "/images/pages/business-team.webp",
+    alt: "Business team reviewing an employer immigration plan",
+  },
+  "visitor-visas": {
+    src: "/images/pages/travel-passport.webp",
+    alt: "Passport and travel documents prepared for a Canadian visit",
+  },
+  refusals: {
+    src: "/images/pages/meeting-whiteboard.webp",
+    alt: "Team reviewing an immigration refusal and the next steps",
+  },
+  "immigration-guides": {
+    src: "/images/pages/office-meeting.webp",
+    alt: "Immigration consultation meeting about a Canadian pathway",
+  },
+};
+
+const DEFAULT_BLOG_IMAGE = {
+  src: "/images/pages/documents.webp",
+  alt: "Canadian immigration documents prepared for review",
+};
+
 function readableTitle(title) {
   return title
     .replace(/:\s*research the decision before the form.*$/i, "")
@@ -130,6 +174,10 @@ function categoryForPath(pathname) {
   return CATEGORY_BY_SLUG[slug] || BLOG_CATEGORIES[BLOG_CATEGORIES.length - 1];
 }
 
+function imageForPost(page, category) {
+  return BLOG_IMAGE_BY_FILE[page.file] || BLOG_IMAGE_BY_CATEGORY[category.slug] || DEFAULT_BLOG_IMAGE;
+}
+
 export function getBlogPosts() {
   return getAllPages()
     .filter((page) => page.path.startsWith("/blog/"))
@@ -139,10 +187,7 @@ export function getBlogPosts() {
         ...page,
         title: readableTitle(page.h1 || page.seo.title),
         category,
-        image: BLOG_IMAGE_BY_FILE[page.file] || {
-          src: "/images/pages/documents.webp",
-          alt: "Canadian immigration documents prepared for review",
-        },
+        image: imageForPost(page, category),
       };
     })
     .sort((a, b) => {
@@ -161,4 +206,3 @@ export function getBlogGroups() {
     }))
     .filter((group) => group.posts.length > 0);
 }
-

@@ -174,7 +174,7 @@ const rawNavigation = {
       },
     },
     {
-      label: "Work, Study & Visit",
+      label: "Work & Study",
       shortLabel: "Work & Study",
       href: "/work-study",
       columns: workStudyColumns,
@@ -186,7 +186,7 @@ const rawNavigation = {
       },
     },
     {
-      label: "Sponsor & Status",
+      label: "Sponsorship",
       shortLabel: "Sponsorship",
       href: "/immigration/family-sponsorship",
       columns: sponsorColumns,
@@ -198,8 +198,8 @@ const rawNavigation = {
       },
     },
     {
-      label: "Refusals & Appeals",
-      shortLabel: "Refusals",
+      label: "Appeals",
+      shortLabel: "Appeals",
       href: "/refusals",
       standalone: true,
       columns: refusalColumns,
@@ -211,7 +211,7 @@ const rawNavigation = {
       },
     },
     {
-      label: "For Employers",
+      label: "Employers",
       shortLabel: "Employers",
       href: "/for-employers",
       columns: employerColumns,
@@ -223,7 +223,7 @@ const rawNavigation = {
       },
     },
     {
-      label: "Tools & Resources",
+      label: "Tools",
       shortLabel: "Tools",
       href: "/tools",
       columns: toolsResourcesColumns,
@@ -235,7 +235,7 @@ const rawNavigation = {
       },
     },
     {
-      label: "Company",
+      label: "About",
       href: "/about-us",
       columns: companyColumns,
       featured: {
@@ -249,14 +249,12 @@ const rawNavigation = {
 
   main: [
     { label: "Immigrate", href: "/immigration", description: "Permanent-residence pathways for skilled workers and entrepreneurs.", children: immigrateLinks },
-    { label: "Work, Study & Visit", href: "/work-study", description: "Temporary status for work, study and visiting Canada.", children: workStudyLinks },
-    { label: "Sponsor & Status", href: "/immigration/family-sponsorship", description: "Family reunification and status maintenance.", children: sponsorLinks },
-    { label: "Refusals & Appeals", href: "/refusals", description: "Time-critical help after a refusal or procedural fairness letter.", urgent: true, children: refusalLinks },
-    { label: "For Employers", href: "/for-employers", description: "Hire and retain global talent compliantly.", children: employerLinks },
+    { label: "Work & Study", href: "/work-study", description: "Temporary status for work, study and visiting Canada.", children: workStudyLinks },
+    { label: "Sponsorship", href: "/immigration/family-sponsorship", description: "Family reunification and status maintenance.", children: sponsorLinks },
+    { label: "Appeals", href: "/refusals", description: "Time-critical help after a refusal or procedural fairness letter.", urgent: true, children: refusalLinks },
+    { label: "Employers", href: "/for-employers", description: "Hire and retain global talent compliantly.", children: employerLinks },
     { label: "Tools", href: "/tools", description: "Free self-service immigration tools.", children: toolsLinks },
-    { label: "Resources", href: "/resources", description: "Guides, blog posts and live immigration updates.", children: resourcesLinks },
     { label: "About", href: "/about-us", description: "Who we are and how we work.", children: aboutLinks },
-    { label: "Contact", href: "/contact-us", description: "Speak with a consultant or manage your case.", children: contactLinks },
   ],
 
   footer: [
@@ -285,9 +283,9 @@ const rawNavigation = {
       { label: "Our Office", href: "/contact-us" },
     ] },
     { title: "Contact", links: [
-      { label: "Book Consultation", href: "/book" },
-      { label: "Email Us", href: site.emailHref },
-      { label: "Make Payment", href: site.ctas.payment.href },
+      { label: "Book consultation", href: site.ctas.primary.href },
+      { label: site.email, href: site.emailHref },
+      { label: site.phone, href: site.phoneHref },
     ] },
   ],
 };

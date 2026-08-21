@@ -1,12 +1,26 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import Image from "next/image";
+import Link from "next/link";
+import { ArrowUpRight } from "lucide-react";
 import BlogCard from "./BlogCard";
 
 export default function BlogCategoryTabs({ groups }) {
   const [activeSlug, setActiveSlug] = useState(groups[0]?.slug || "");
+  const [isVertical, setIsVertical] = useState(false);
   const tabRefs = useRef([]);
   const activeGroup = groups.find((group) => group.slug === activeSlug) || groups[0];
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia("(min-width: 1024px)");
+    const updateOrientation = () => setIsVertical(mediaQuery.matches);
+
+    updateOrientation();
+    mediaQuery.addEventListener("change", updateOrientation);
+
+    return () => mediaQuery.removeEventListener("change", updateOrientation);
+  }, []);
 
   function selectCategory(slug, shouldFocus = false) {
     setActiveSlug(slug);
@@ -36,7 +50,12 @@ export default function BlogCategoryTabs({ groups }) {
 
   return (
     <div className="reference-blog-tabs-shell">
-      <div className="reference-blog-tabs" role="tablist" aria-label="Blog categories">
+      <div
+        className="reference-blog-tabs"
+        role="tablist"
+        aria-label="Blog categories"
+        aria-orientation={isVertical ? "vertical" : "horizontal"}
+      >
         {groups.map((group, index) => {
           const isActive = group.slug === activeGroup.slug;
           const tabId = `blog-tab-${group.slug}`;
@@ -78,6 +97,26 @@ export default function BlogCategoryTabs({ groups }) {
           </div>
           <p>{activeGroup.description}</p>
         </div>
+        {activeGroup.posts[0] && (
+          <Link
+            href={activeGroup.posts[0].path}
+            className="reference-blog-group__banner"
+            aria-label={`Open ${activeGroup.posts[0].title}`}
+          >
+            <Image
+              src={activeGroup.posts[0].image.src}
+              alt={activeGroup.posts[0].image.alt}
+              fill
+              sizes="(max-width: 1023px) 100vw, 72vw"
+              priority={false}
+            />
+            <span className="reference-blog-group__banner-overlay" aria-hidden="true" />
+            <span className="reference-blog-group__banner-label">
+              <span>Open: {activeGroup.posts[0].title}</span>
+              <ArrowUpRight width={16} height={16} aria-hidden="true" />
+            </span>
+          </Link>
+        )}
         <div className="reference-blog-grid">
           {activeGroup.posts.map((post, index) => <BlogCard key={post.path} post={post} index={index} />)}
         </div>

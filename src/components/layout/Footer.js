@@ -109,12 +109,18 @@ export default function Footer() {
 
             {/* Contact */}
             <div className="site-footer__contact">
-              <a href={`https://maps.google.com/?q=${encodeURIComponent(site.address.line1 + " " + site.address.city)}`} target="_blank" rel="noopener noreferrer" className="site-footer__contact-row">
+              <a
+                href={`https://maps.google.com/?q=${encodeURIComponent(site.address.full)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="site-footer__contact-row"
+              >
                 <span className="site-footer__contact-icon">
                   <MapPin size={13} />
                 </span>
-                <span>
-                  {site.address.line1}, {site.address.city} {site.address.postal}
+                <span className="site-footer__contact-address">
+                  <span>{site.address.line1}</span>
+                  {[site.address.city, site.address.region, site.address.country].filter(Boolean).join(", ")}
                 </span>
               </a>
               <a href={site.phoneHref} className="site-footer__contact-row">

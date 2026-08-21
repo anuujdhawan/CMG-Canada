@@ -82,7 +82,7 @@ export default function ReferenceFooter() {
                 <Phone size={12} aria-hidden /> {site.phone}
               </a>
               <span className="reference-footer__contact-link reference-footer__contact-link--muted">
-                <MapPin size={12} aria-hidden /> {site.address.line1} · {site.address.city}
+                <MapPin size={12} aria-hidden /> {site.address.full}
               </span>
             </div>
 

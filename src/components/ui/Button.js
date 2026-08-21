@@ -14,7 +14,7 @@ const variants = {
     "border border-primary/25 bg-[var(--cmg-light-surface)] text-primary hover:border-primary/50 hover:bg-accent-soft",
   ghost: "text-primary hover:bg-primary/5",
   light:
-    "bg-[var(--cmg-light-surface)] text-primary hover:bg-surface-alt shadow-sm",
+    "bg-[var(--cmg-light-surface)] !text-primary hover:bg-surface-alt shadow-sm",
   lightOutline:
     "border border-[var(--cmg-light-surface)]/30 bg-[var(--cmg-light-surface)]/5 text-[var(--cmg-light-surface)] hover:bg-[var(--cmg-light-surface)]/15",
 };
