@@ -1424,51 +1424,6 @@
     will-change: opacity, transform;
   }
 
-  /* ── Maple leaves (hero animation) ──────────────────────────── */
-  @keyframes leaf-fall {
-    0% {
-      transform: translate3d(0, -6vh, 0);
-    }
-    100% {
-      transform: translate3d(0, 118vh, 0);
-    }
-  }
-  @keyframes leaf-sway {
-    0%,
-    100% {
-      transform: translateX(-22px) rotate(-16deg);
-    }
-    50% {
-      transform: translateX(22px) rotate(16deg);
-    }
-  }
-  @keyframes leaf-spin {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-  .leaf-fall {
-    animation-name: leaf-fall;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    will-change: transform;
-  }
-  .leaf-sway {
-    animation-name: leaf-sway;
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
-    will-change: transform;
-  }
-  .leaf-spin {
-    animation-name: leaf-spin;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    will-change: transform;
-    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.15));
-  }
 }
 
 /* ── Guided pathway chatbot — theme-aware (light/dark) ──────────────── */
@@ -2434,20 +2389,6 @@ html[data-theme="light"] .cmg-chatbot-lead-success svg { color: #15803d; }
   background: rgba(255, 255, 255, 0.13);
 }
 
-/* Place the decorative leaf in the open visual gap between the two hero
-   columns. It remains behind the content layers, so it reads as a watermark
-   rather than covering the headline or credibility card. */
-.homepage-hero .homepage-big-maple-leaf {
-  z-index: 5 !important;
-  left: 47% !important;
-  right: auto !important;
-  bottom: 9rem !important;
-}
-
-.homepage-hero .homepage-big-maple-leaf svg {
-  width: clamp(10rem, 15vw, 12.5rem);
-}
-
 /* ── Site Footer — premium, .env-driven, dark + light ─────────────── */
 .site-footer {
   position: relative;
@@ -2512,17 +2453,6 @@ html[data-theme="light"] .cmg-chatbot-lead-success svg { color: #15803d; }
 .site-footer > .max-w-7xl {
   position: relative;
   z-index: 1;
-}
-
-.site-footer .footer-big-maple-leaf {
-  z-index: 0 !important;
-  right: 1.5rem !important;
-  bottom: 18rem !important;
-  opacity: 0.38;
-}
-
-.site-footer .footer-big-maple-leaf svg {
-  width: clamp(12rem, 18vw, 16rem);
 }
 
 /* Main grid */
@@ -3009,10 +2939,6 @@ html[data-theme="dark"] .site-footer__grid-pattern {
     linear-gradient(90deg, rgba(255,255,255,0.06) 1px, transparent 1px);
 }
 
-html[data-theme="dark"] .site-footer .footer-big-maple-leaf {
-  opacity: 0.14;
-}
-
 html[data-theme="dark"] .site-footer__logo {
   border-color: rgba(255,255,255,0.12);
   background: var(--brand-logo-bg);
@@ -3200,14 +3126,6 @@ html[data-theme="light"] .site-footer {
   .site-footer__brand-actions {
     flex-direction: column;
     align-items: flex-start;
-  }
-}
-
-@media (max-width: 1023px) {
-  .homepage-hero .homepage-big-maple-leaf {
-    z-index: 1 !important;
-    right: -1rem !important;
-    bottom: 0.5rem !important;
   }
 }
 
@@ -3689,10 +3607,6 @@ html[data-theme="light"] .site-footer {
   .cmg-template-blog .reference-blog-card__body { padding: 20px 18px 18px; }
   .cmg-template-blog .reference-blog-card__body h3 { font-size: 30px; }
   .cmg-template-blog .reference-blog-card__meta { align-items: flex-start; flex-direction: column; gap: 6px; }
-}
-
-.homepage-hero .leaf-fall {
-  z-index: 1;
 }
 
 .homepage-hero__aside {
@@ -4693,16 +4607,6 @@ html[data-theme="light"] .site-footer {
     linear-gradient(90deg, color-mix(in srgb, var(--brand-primary) 5%, transparent) 1px, transparent 1px);
   background-size: 64px 64px;
   mask-image: linear-gradient(120deg, black, transparent 70%);
-}
-
-.site-theme .site-page-hero .homepage-big-maple-leaf {
-  right: 7% !important;
-  bottom: 3rem !important;
-  z-index: 1 !important;
-}
-
-.site-theme .site-page-hero .homepage-big-maple-leaf svg {
-  width: clamp(10rem, 15vw, 13rem);
 }
 
 .site-theme .dark-red-pathway:not(.dark-red-pathway--dark) {
