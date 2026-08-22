@@ -142,27 +142,21 @@ const contactColumns = [
   },
 ];
 
-const toolsResourcesColumns = [toolsColumns[0], resourcesColumns[0]];
+// Tools dropdown intentionally folds in the Resources column so both the
+// desktop mega-menu and the mobile accordion (derived from it below) expose
+// every tool/resource link — nothing dropped on either side.
+const toolsResourcesColumns = [...toolsColumns, resourcesColumns[0]];
 const companyColumns = [aboutColumns[0], contactColumns[0]];
 
-const immigrateLinks = immigrateColumns.flatMap((column) => column.items);
-const workStudyLinks = workStudyColumns.flatMap((column) => column.items);
-const sponsorLinks = sponsorColumns.flatMap((column) => column.items);
-const refusalLinks = refusalColumns.flatMap((column) => column.items);
-const employerLinks = employerColumns.flatMap((column) => column.items);
-const toolsLinks = toolsColumns.flatMap((column) => column.items);
-const resourcesLinks = resourcesColumns.flatMap((column) => column.items);
-const aboutLinks = aboutColumns.flatMap((column) => column.items);
-const contactLinks = contactColumns.flatMap((column) => column.items);
-
-const rawNavigation = {
-  utility: {},
-
-  header: [
+// The desktop mega-menu ("header") is the single source of truth for which
+// links live under each top-level item. The mobile accordion ("main") is
+// derived from it below so the two navs can never drift out of sync again.
+const headerNavItems = [
     { label: "Home", href: "/" },
     {
       label: "Immigrate",
       href: "/immigration",
+      description: "Permanent-residence pathways for skilled workers and entrepreneurs.",
       columns: immigrateColumns,
       featured: {
         label: "Most Popular",
@@ -175,6 +169,7 @@ const rawNavigation = {
       label: "Work & Study",
       shortLabel: "Work & Study",
       href: "/work-study",
+      description: "Temporary status for work, study and visiting Canada.",
       columns: workStudyColumns,
       featured: {
         label: "Career Pathway",
@@ -187,6 +182,7 @@ const rawNavigation = {
       label: "Sponsorship",
       shortLabel: "Sponsorship",
       href: "/immigration/family-sponsorship",
+      description: "Family reunification and status maintenance.",
       columns: sponsorColumns,
       featured: {
         label: "Most Common",
@@ -200,6 +196,7 @@ const rawNavigation = {
       shortLabel: "Appeals",
       href: "/refusals",
       standalone: true,
+      description: "Time-critical help after a refusal or procedural fairness letter.",
       columns: refusalColumns,
       featured: {
         label: "Time-Critical",
@@ -212,6 +209,7 @@ const rawNavigation = {
       label: "Employers",
       shortLabel: "Employers",
       href: "/for-employers",
+      description: "Hire and retain global talent compliantly.",
       columns: employerColumns,
       featured: {
         label: "HGT Division",
@@ -224,6 +222,7 @@ const rawNavigation = {
       label: "Tools",
       shortLabel: "Tools",
       href: "/tools",
+      description: "Free self-service immigration tools & resources.",
       columns: toolsResourcesColumns,
       featured: {
         label: "Free Tool",
@@ -235,6 +234,7 @@ const rawNavigation = {
     {
       label: "About",
       href: "/about-us",
+      description: "Who we are and how we work.",
       columns: companyColumns,
       featured: {
         label: "Free First Step",
@@ -243,17 +243,28 @@ const rawNavigation = {
         href: "/book",
       },
     },
-  ],
+];
 
-  main: [
-    { label: "Immigrate", href: "/immigration", description: "Permanent-residence pathways for skilled workers and entrepreneurs.", children: immigrateLinks },
-    { label: "Work & Study", href: "/work-study", description: "Temporary status for work, study and visiting Canada.", children: workStudyLinks },
-    { label: "Sponsorship", href: "/immigration/family-sponsorship", description: "Family reunification and status maintenance.", children: sponsorLinks },
-    { label: "Appeals", href: "/refusals", description: "Time-critical help after a refusal or procedural fairness letter.", urgent: true, children: refusalLinks },
-    { label: "Employers", href: "/for-employers", description: "Hire and retain global talent compliantly.", children: employerLinks },
-    { label: "Tools", href: "/tools", description: "Free self-service immigration tools.", children: toolsLinks },
-    { label: "About", href: "/about-us", description: "Who we are and how we work.", children: aboutLinks },
-  ],
+// Mobile accordion items: same label/href/description as the desktop entry,
+// with `children` flattened straight out of that entry's own `columns` (or
+// omitted for the plain "Home" link) — whatever appears in the desktop
+// dropdown is exactly what appears in the mobile dropdown.
+const mainNavItems = headerNavItems
+  .filter((item) => !!item.columns?.length)
+  .map((item) => ({
+    label: item.label,
+    href: item.href,
+    description: item.description,
+    urgent: !!item.standalone,
+    children: item.columns.flatMap((column) => column.items),
+  }));
+
+const rawNavigation = {
+  utility: {},
+
+  header: headerNavItems,
+
+  main: mainNavItems,
 
   footer: [
     { title: "Immigrate", links: [

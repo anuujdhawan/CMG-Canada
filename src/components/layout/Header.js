@@ -234,7 +234,7 @@ export default function Header() {
                 {navigation.header.map((item) => {
                   const open = openMenu === item.label;
                   const active = isActiveNavItem(pathname, item);
-                  if (item.columns?.length && !item.standalone) {
+                  if (item.columns?.length) {
                     return (
                       <div
                         key={item.label}
@@ -245,13 +245,21 @@ export default function Header() {
                           ref={(el) => {
                             triggerRefs.current[item.label] = el;
                           }}
-                          className={cn(dropdownBtnClass, (open || active) && "text-primary bg-primary/10", active && "nav-tab-active-light")}
+                          className={cn(
+                            dropdownBtnClass,
+                            (open || active) && "text-primary bg-primary/10",
+                            active && "nav-tab-active-light",
+                            item.standalone && "text-accent-dark font-bold"
+                          )}
                           aria-haspopup="true"
                           aria-expanded={open}
                           aria-controls={`${slugify(item.label)}-dropdown-panel`}
                           onClick={() => setOpenMenu(open ? null : item.label)}
                           onKeyDown={(e) => handleKeyDown(e, item.label)}
                         >
+                          {item.standalone && (
+                            <span aria-hidden className="h-1.5 w-1.5 rounded-full bg-accent animate-pulse" />
+                          )}
                           <NavLabel item={item} />
                           <ChevronDown
                             className={cn("h-3.5 w-3.5 transition-transform duration-200", open && "rotate-180")}
@@ -262,18 +270,7 @@ export default function Header() {
                     );
                   }
                   return (
-                    <Link
-                      key={item.label}
-                      href={item.href}
-                      className={cn(
-                        navLinkClass,
-                        item.standalone && "inline-flex items-center gap-1.5 text-accent-dark font-bold",
-                        item.standalone && active && "nav-tab-active-light"
-                      )}
-                    >
-                      {item.standalone && (
-                        <span aria-hidden className="h-1.5 w-1.5 rounded-full bg-accent animate-pulse" />
-                      )}
+                    <Link key={item.label} href={item.href} className={navLinkClass}>
                       <NavLabel item={item} />
                     </Link>
                   );
