@@ -220,7 +220,7 @@ export default function Header() {
         <div className="px-3 pt-3 sm:px-4">
           <div
             className={cn(
-              "site-header__nav-shell relative mx-auto max-w-[1400px] backdrop-blur-md rounded-2xl border px-4 transition-shadow duration-300",
+              "site-header__nav-shell relative mx-auto max-w-350 backdrop-blur-md rounded-2xl border px-4 transition-shadow duration-300",
               scrolled
                 ? "shadow-[0_8px_32px_color-mix(in_srgb,var(--brand-navy)_12%,transparent),0_2px_8px_color-mix(in_srgb,var(--brand-navy)_6%,transparent)]"
                 : "shadow-[0_4px_24px_color-mix(in_srgb,var(--brand-navy)_8%,transparent),0_1px_4px_color-mix(in_srgb,var(--brand-navy)_4%,transparent)]"

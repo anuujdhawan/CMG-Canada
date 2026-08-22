@@ -54,7 +54,7 @@ export default function MobileMenu({ onClose }) {
   };
 
   return (
-    <div className="fixed inset-0 z-[260] lg:hidden" role="dialog" aria-modal="true" aria-label="Mobile menu">
+    <div className="fixed inset-0 z-260 lg:hidden" role="dialog" aria-modal="true" aria-label="Mobile menu">
       {/* Backdrop */}
       <button
         type="button"
@@ -153,7 +153,7 @@ export default function MobileMenu({ onClose }) {
                     >
                       {item.children.map((child) => (
                         <Link
-                          key={child.href}
+                          key={child.href + child.label}
                           href={child.href}
                           onClick={onClose}
                           className="block px-3 py-2.5 rounded-xl text-sm text-muted font-medium hover:text-primary hover:bg-accent-soft transition-all"

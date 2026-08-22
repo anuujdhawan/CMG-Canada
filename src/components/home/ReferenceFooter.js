@@ -97,7 +97,7 @@ export default function ReferenceFooter() {
                     if (!Icon) return null;
                     return (
                       <a key={key} href={site.social[key]} target="_blank" rel="noopener noreferrer" aria-label={`${site.name} on ${key}`} className="reference-footer__social-link">
-                        <Icon className="h-[14px] w-[14px]" />
+                        <Icon className="h-3.5 w-3.5" />
                       </a>
                     );
                   })}
