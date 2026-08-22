@@ -6869,7 +6869,7 @@ body:has(.cmg-template-home) .site-header__nav-shell [id$="-dropdown-panel"] .bg
    component styles cannot change the reference page's type scale or geometry. */
 .cmg-template-home .eyebrow {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 12px;
   margin: 0 0 18px;
   color: var(--primary);
@@ -6881,6 +6881,7 @@ body:has(.cmg-template-home) .site-header__nav-shell [id$="-dropdown-panel"] .bg
 .cmg-template-home .eyebrow::before {
   width: 38px;
   height: 2px;
+  margin-top: 6px;
   flex: none;
   background: currentColor;
   content: "";
@@ -9220,6 +9221,19 @@ body:has(.cmg-template-home) .site-header__nav-shell .site-header__desktop-nav {
     min-height: 36px;
   }
 
+  /* A sitewide rule forces every <button> to a 44px touch target on
+     coarse-pointer devices. The theme toggle is a <button>, so on phones
+     and tablets it grows past this 36px-tall strip and its rounded border
+     pokes out past the strip's bottom edge. Give the strip (and its inner
+     Tailwind h-9 row) room to actually fit a 44px button instead of
+     shrinking the tap target back down. */
+  body:has(.cmg-template-home) .site-header__utility-strip,
+  body:has(.cmg-template-home) .site-header__utility-strip > div {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+  }
+
   body:has(.cmg-template-home) .site-header__nav-shell {
     min-height: 64px;
   }
@@ -10063,6 +10077,62 @@ h1,h2,h3,h4,h5,h6,p,li,span,a,button,label,div { overflow-wrap: break-word; }
   }
 }
 
+/* The hero eyebrow's decorative dash is flex-aligned to the text; on narrow
+   screens the long "Licensed Canadian immigration guidance" phrase wraps to
+   two lines, and the wide letter-spacing that looks sharp on one line just
+   makes wrapping worse on small screens. Tighten it so it wraps less. */
+@media (max-width: 480px) {
+  .cmg-template-home .eyebrow {
+    letter-spacing: 0.09em;
+  }
+}
+
+/* Forcefully strip any border/outline/shadow tracing the hero headline block
+   on tablet and mobile. Every rule touching .hero-copy, .eyebrow, h1 and
+   .lead in this stylesheet (and the compiled CSS actually served to the
+   browser) was checked and none draws a visible border here — this override
+   exists purely as a guaranteed kill-switch regardless of the true source. */
+@media (max-width: 1120px) {
+  .cmg-template-home .hero-layout,
+  .cmg-template-home .hero-visual,
+  .cmg-template-home .hero-copy,
+  .cmg-template-home .hero-copy .eyebrow,
+  .cmg-template-home .hero-copy h1,
+  .cmg-template-home .hero-copy .lead,
+  .cmg-template-home .hero-copy > .hero-actions,
+  .cmg-template-home .hero-copy > .hero-trust {
+    border: 0 !important;
+    outline: 0 !important;
+    box-shadow: none !important;
+  }
+
+  .cmg-template-home .hero-layout::before,
+  .cmg-template-home .hero-layout::after,
+  .cmg-template-home .hero-visual::before,
+  .cmg-template-home .hero-visual::after,
+  .cmg-template-home .hero-copy::before,
+  .cmg-template-home .hero-copy::after,
+  .cmg-template-home .hero-copy h1::before,
+  .cmg-template-home .hero-copy h1::after {
+    content: none !important;
+    display: none !important;
+  }
+}
+
+/* The proof panel's masked glass edge reads as a large white outline when
+   the hero stacks on tablet and mobile. Keep the panel surface and its
+   content, but remove that decorative edge at the responsive breakpoint. */
+@media (max-width: 880px) {
+  .cmg-template-home .hero-visual .visual-card {
+    border-color: transparent !important;
+    box-shadow: 0 18px 44px rgba(5, 4, 12, 0.28) !important;
+  }
+
+  .cmg-template-home .hero-visual .visual-card::before {
+    display: none !important;
+  }
+}
+
 /* Same treatment for the homepage's "next step" trust chips, which sit
    directly under the hero actions and were stretching to match. */
 @media (max-width: 620px) {
@@ -10078,4 +10148,3 @@ h1,h2,h3,h4,h5,h6,p,li,span,a,button,label,div { overflow-wrap: break-word; }
     width: auto;
   }
 }
-
