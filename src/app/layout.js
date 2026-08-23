@@ -8,6 +8,7 @@ import Footer from "@/components/layout/Footer";
 import ScrollProgressBar from "@/components/layout/ScrollProgressBar";
 import StickyMobileCTA from "@/components/layout/StickyMobileCTA";
 import WhatsAppBubble from "@/components/layout/WhatsAppBubble";
+import CallBubble from "@/components/layout/CallBubble";
 import ConsultationModal from "@/components/layout/ConsultationModal";
 import GuidedChatbot from "@/components/chatbot/GuidedChatbot";
 
@@ -128,6 +129,7 @@ export default function RootLayout({ children }) {
         <Footer />
         <StickyMobileCTA />
         <WhatsAppBubble />
+        <CallBubble />
         <ConsultationModal />
         <GuidedChatbot />
       </body>

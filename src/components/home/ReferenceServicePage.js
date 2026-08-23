@@ -1,10 +1,11 @@
 import Link from "next/link";
 import { ArrowRight, ArrowUpRight, Calculator, FileCheck2, Plus, ShieldCheck, Target } from "lucide-react";
+import { cn } from "@/lib/utils";
 import { currentPagePath } from "@/config/pageRoutes";
 import { site } from "@/config/site";
 import { HERO_SLIDES } from "@/lib/heroSlides";
 import { getPageFaqs } from "@/lib/faqs";
-import { Block, parseBlocks, rebrand } from "@/components/templates/MarkdownBlocks";
+import { Block, parseBlocks, rebrand, renderInline } from "@/components/templates/MarkdownBlocks";
 import HeroCarousel from "./HeroCarousel";
 import HeroProofCard from "./HeroProofCard";
 import ServiceImageGallery from "./ServiceImageGallery";
@@ -82,7 +83,45 @@ function ServiceFaqSection({ page }) {
   );
 }
 
-export default function ReferenceServicePage({ page, children }) {
+function LegalPage({ page }) {
+  const heroBlocks = parseBlocks(page.hero || "");
+  const contentBlocks = parseBlocks(page.content || "");
+  const lead = heroBlocks.find((block) => block.type === "paragraph");
+  const badges = heroBlocks.find((block) => block.type === "list")?.items || [];
+  const body = page.path === "/legal/canada-immigration-disclaimer"
+    ? [
+        ...(lead ? [lead] : []),
+        ...contentBlocks.filter((block, index) => !(index === 0 && block.type === "paragraph" && /Commonwealth Migration Group Inc\./.test(block.text))),
+      ]
+    : contentBlocks;
+
+  return (
+    <div className="cmg-template-home cmg-template-legal" data-concept="nocturne">
+      <TemplateMotion />
+      <section className="legal-hero" aria-labelledby="legal-page-title">
+        <div className="legal-shell">
+          <p className="eyebrow">Commonwealth Migration Group Inc.</p>
+          <h1 id="legal-page-title">{rebrand(page.h1)}</h1>
+          {lead && page.path !== "/legal/canada-immigration-disclaimer" && <p className="legal-hero__lead">{renderInline(lead.text)}</p>}
+          <div className="legal-hero__meta">
+            {badges.map((badge) => <span key={badge}>{renderInline(badge)}</span>)}
+          </div>
+        </div>
+      </section>
+      <section className="legal-reading section">
+        <div className="legal-shell legal-reading__shell">
+          <article className="legal-reading__content">
+            {body.map((block, index) => <Block key={`legal-${index}`} block={block} />)}
+          </article>
+        </div>
+      </section>
+    </div>
+  );
+}
+
+export default function ReferenceServicePage({ page, children, interactivePosition = "bottom", interactiveHeading }) {
+  if (page.path.startsWith("/legal/")) return <LegalPage page={page} />;
+
   const blocks = parseBlocks(page.content || "");
   const isToolPage = page.path.startsWith("/tools/") || page.path === "/assessment/free-canada-immigration-assessment";
   const lead = getLead(page, blocks);
@@ -93,6 +132,19 @@ export default function ReferenceServicePage({ page, children }) {
   const contentImages = getServiceContentImages(page);
   const firstImageSection = sections.length > 1 ? 1 : 0;
   const secondImageSection = sections.length > 3 ? 3 : Math.min(2, Math.max(sections.length - 1, 0));
+
+  const interactiveSection = children && (
+    <section className={cn("section alt service-interactive-section", interactivePosition === "top" && "service-interactive-section--top")}>
+      <div className="section-inner service-interactive-shell">
+        <ServiceSectionHeading
+          eyebrow={interactiveHeading?.eyebrow ?? "Your next step"}
+          title={interactiveHeading?.title ?? "Turn the overview into a focused review"}
+          lead={interactiveHeading?.lead ?? "Complete the guided form below and bring the result into a consultation when your situation needs tailored strategy."}
+        />
+        {children}
+      </div>
+    </section>
+  );
 
   return (
     <div className="cmg-template-home cmg-template-service" data-concept="nocturne">
@@ -126,6 +178,8 @@ export default function ReferenceServicePage({ page, children }) {
         </div>
       </section>
 
+      {interactivePosition === "top" && interactiveSection}
+
       <ServiceImageGallery page={page} />
 
       <section className="section alt">
@@ -154,7 +208,7 @@ export default function ReferenceServicePage({ page, children }) {
         </div>
       </section>
 
-      {children && <section className="section alt service-interactive-section"><div className="section-inner service-interactive-shell"><ServiceSectionHeading eyebrow="Your next step" title="Turn the overview into a focused review" lead="Complete the guided form below and bring the result into a consultation when your situation needs tailored strategy." />{children}</div></section>}
+      {interactivePosition === "bottom" && interactiveSection}
 
       {isToolPage && <ServiceFaqSection page={page} />}
 
