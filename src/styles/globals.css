@@ -7629,6 +7629,26 @@ a.mini-badge {
   filter: drop-shadow(0 1px 8px color-mix(in srgb, var(--template-primary) 36%, transparent));
 }
 
+.cmg-template-home .visual-card__footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px 12px;
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid color-mix(in srgb, var(--template-on-primary) 15%, transparent);
+  color: color-mix(in srgb, var(--template-on-primary) 66%, transparent);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.cmg-template-home .visual-card__footer strong {
+  color: color-mix(in srgb, var(--template-on-primary) 86%, transparent);
+  font-weight: 700;
+  text-align: right;
+}
+
 @media (max-width: 620px) {
   .cmg-template-home .hero-visual {
     min-height: 620px;
@@ -9903,6 +9923,14 @@ html[data-theme="light"] .cmg-template-home .visual-handles svg {
   color: var(--cmg-light-primary);
 }
 
+html[data-theme="light"] .cmg-template-home .visual-card__footer {
+  color: var(--cmg-light-muted);
+}
+
+html[data-theme="light"] .cmg-template-home .visual-card__footer strong {
+  color: var(--cmg-light-ink);
+}
+
 /* Compact hero proof panel: preserve hierarchy while reducing its footprint. */
 .cmg-template-home .hero-visual .visual-card {
   padding: 22px 24px 20px;
@@ -10132,12 +10160,66 @@ h1,h2,h3,h4,h5,h6,p,li,span,a,button,label,div { overflow-wrap: break-word; }
   }
 }
 
-/* Trim the file-type checklist to the four most representative items on very
-    narrow screens — keeps the card compact instead of growing tall with every
-    line item, matching the "cut short rather than overflow" brief. */
+/* All six "what we handle" items must stay visible on every screen size —
+   tighten type scale and spacing on very narrow phones instead of trimming
+   the list, so the card gets shorter without losing content. */
 @media (max-width: 480px) {
-  .cmg-template-home .hero-visual .visual-handles li:nth-child(n + 5) {
-    display: none;
+  .cmg-template-home .hero-visual .visual-card {
+    padding: 17px 17px 16px;
+  }
+
+  .cmg-template-home .hero-visual .visual-card h2 {
+    margin-top: 10px;
+    font-size: 19px;
+  }
+
+  .cmg-template-home .hero-visual .visual-card > p {
+    margin-top: 5px;
+    font-size: 12px;
+    line-height: 1.4;
+  }
+
+  .cmg-template-home .hero-visual .visual-record {
+    margin-top: 8px;
+  }
+
+  .cmg-template-home .hero-visual .visual-record__row {
+    min-height: 34px;
+    gap: 8px;
+  }
+
+  .cmg-template-home .hero-visual .visual-record__row > span {
+    font-size: 11px;
+  }
+
+  .cmg-template-home .hero-visual .visual-record__row strong {
+    font-size: 16px;
+  }
+
+  .cmg-template-home .hero-visual .visual-card__section-label {
+    margin: 10px 0 6px;
+    font-size: 10.5px;
+  }
+
+  .cmg-template-home .hero-visual .visual-handles {
+    gap: 4px;
+  }
+
+  .cmg-template-home .hero-visual .visual-handles li {
+    gap: 6px;
+    font-size: 11px;
+    line-height: 1.25;
+  }
+
+  .cmg-template-home .hero-visual .visual-handles svg {
+    width: 13px;
+    height: 13px;
+  }
+
+  .cmg-template-home .hero-visual .visual-card__footer {
+    margin-top: 10px;
+    padding-top: 8px;
+    font-size: 10.5px;
   }
 }
 
