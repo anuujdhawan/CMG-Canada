@@ -24,8 +24,8 @@ export const metadata = {
     keywords: site.meta.keywords,
   }),
   icons: {
-    icon: "/images/icon.png",
-    shortcut: "/images/icon.png",
+    icon: "/images/favicon.webp",
+    shortcut: "/images/favicon.webp",
     apple: "/images/apple-icon.png",
   },
 };

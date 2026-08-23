@@ -1,7 +1,7 @@
 # Refund Policy
 
 > **Source URL:** https://commonwealthmigration.ca/legal/refund-policy
-> **Last modified:** 2026-08-22
+> **Last modified:** 2026-08-23
 > **Sitemap priority:** 0.4
 > **Status:** Published legal policy content supplied by Commonwealth Migration Group Inc.
 
@@ -32,7 +32,7 @@ This Refund Policy applies to all professional services provided by Commonwealth
 
 - Commonwealth Migration Group Inc.
 - Ontario Corporation No. 1001703121
-- Last updated: August 22, 2026
+- Last updated: August 23, 2026
 
 ## Page Content
 

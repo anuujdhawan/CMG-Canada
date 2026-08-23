@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ExternalLink, GraduationCap, MapPin, Phone, Mail, ArrowUpRight, ShieldCheck, Sparkles } from "lucide-react";
+import { ExternalLink, GraduationCap, MapPin, Phone, Mail, ArrowUpRight, ShieldCheck, Sparkles, CreditCard } from "lucide-react";
 import { socialIcons } from "@/components/ui/SocialIcons";
 import { navigation } from "@/config/navigation";
 import { site } from "@/config/site";
@@ -10,6 +10,13 @@ const SOCIAL_ITEMS = [
   { key: "facebook", label: `${site.name} on Facebook` },
   { key: "instagram", label: `${site.name} on Instagram` },
   { key: "youtube", label: `${site.name} on YouTube` },
+];
+
+const PAYMENT_LOGOS = [
+  { key: "visa", label: "Visa", src: "/images/payments/visa.webp", width: 223, height: 140 },
+  { key: "mastercard", label: "Mastercard", src: "/images/payments/mastercard.webp", width: 223, height: 140 },
+  { key: "apple-pay", label: "Apple Pay", src: "/images/payments/apple-pay.webp", width: 140, height: 140 },
+  { key: "google-pay", label: "Google Pay", src: "/images/payments/google-pay.webp", width: 140, height: 140 },
 ];
 
 const REGULATORY_BODIES = [
@@ -130,7 +137,7 @@ export default function Footer() {
                     </span>
                     <span>
                       <strong>{site.name} ({site.shortName})</strong>
-                      <small>Main Company · Canada</small>
+                      <small>Parent Company · Canada</small>
                     </span>
                   </span>
                   <span className="site-footer__office-address">
@@ -191,10 +198,28 @@ export default function Footer() {
                   })}
                 </div>
               )}
-              <Link href={site.ctas.assessment.href} className="site-footer__cta">
-                <Sparkles size={14} aria-hidden />
-                Free Assessment
-              </Link>
+              <div className="site-footer__cta-row">
+                <Link href={site.ctas.assessment.href} className="site-footer__cta">
+                  <Sparkles size={14} aria-hidden />
+                  Free Assessment
+                </Link>
+                <div className="site-footer__pay-group">
+                  <Link href={site.ctas.payment.href} className="site-footer__cta">
+                    <CreditCard size={14} aria-hidden />
+                    Pay Online
+                  </Link>
+                  <div className="site-footer__pay-trust">
+                    <p className="site-footer__pay-trust-label">Powered by Stripe</p>
+                    <div className="site-footer__pay-logos">
+                      {PAYMENT_LOGOS.map((logo) => (
+                        <span key={logo.key} className="site-footer__pay-logo">
+                          <Image src={logo.src} alt={logo.label} width={logo.width} height={logo.height} />
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
 
             <p className="site-footer__hours">

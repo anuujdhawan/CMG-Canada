@@ -158,7 +158,7 @@ export const site = {
     large: env("NEXT_PUBLIC_LOGO_LARGE", "/images/logo-large.png"), // blue/red wordmark for light surfaces
     white: env("NEXT_PUBLIC_LOGO_WHITE", "/images/CMG-LOGO.webp"), // white/red template wordmark for dark surfaces
     footer: env("NEXT_PUBLIC_LOGO_FOOTER", "/images/cmg-logo-red-black.webp"), // red-black wordmark used in the footer in both themes
-    favicon: env("NEXT_PUBLIC_LOGO_FAVICON", "/images/icon.png"),
+    favicon: env("NEXT_PUBLIC_LOGO_FAVICON", "/images/favicon.webp"),
     og: env("NEXT_PUBLIC_OG_IMAGE", "/images/og-default.png"),
   },
 

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, ArrowUpRight, Calculator, FileCheck2, Plus, ShieldCheck, Target } from "lucide-react";
+import { ArrowRight, ArrowUpRight, Calculator, Clock, FileCheck2, Plus, ShieldCheck, Target } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { currentPagePath } from "@/config/pageRoutes";
 import { site } from "@/config/site";
@@ -83,14 +83,22 @@ function ServiceFaqSection({ page }) {
   );
 }
 
+function legalBadgeIcon(badge) {
+  if (/ontario corporation/i.test(badge)) return FileCheck2;
+  if (/last updated/i.test(badge)) return Clock;
+  return ShieldCheck;
+}
+
 function LegalPage({ page }) {
   const heroBlocks = parseBlocks(page.hero || "");
   const contentBlocks = parseBlocks(page.content || "");
-  const lead = heroBlocks.find((block) => block.type === "paragraph");
+  const heroLead = heroBlocks.find((block) => block.type === "paragraph");
   const badges = heroBlocks.find((block) => block.type === "list")?.items || [];
+  const lead = getLead(page, contentBlocks);
+  const title = rebrand(page.h1);
   const body = page.path === "/legal/canada-immigration-disclaimer"
     ? [
-        ...(lead ? [lead] : []),
+        ...(heroLead ? [heroLead] : []),
         ...contentBlocks.filter((block, index) => !(index === 0 && block.type === "paragraph" && /Commonwealth Migration Group Inc\./.test(block.text))),
       ]
     : contentBlocks;
@@ -98,13 +106,35 @@ function LegalPage({ page }) {
   return (
     <div className="cmg-template-home cmg-template-legal" data-concept="nocturne">
       <TemplateMotion />
-      <section className="legal-hero" aria-labelledby="legal-page-title">
-        <div className="legal-shell">
-          <p className="eyebrow">Commonwealth Migration Group Inc.</p>
-          <h1 id="legal-page-title">{rebrand(page.h1)}</h1>
-          {lead && page.path !== "/legal/canada-immigration-disclaimer" && <p className="legal-hero__lead">{renderInline(lead.text)}</p>}
-          <div className="legal-hero__meta">
-            {badges.map((badge) => <span key={badge}>{renderInline(badge)}</span>)}
+      <section className="hero legal-page-hero" aria-labelledby="legal-hero-title">
+        <div className="ambient a" aria-hidden="true" />
+        <div className="ambient b" aria-hidden="true" />
+        <HeroCarousel slides={HERO_SLIDES} showControls={false} className="hero-background-carousel" />
+        <div className="hero-layout">
+          <div className="hero-copy reveal in">
+            <p className="eyebrow">Commonwealth Migration Group Inc.</p>
+            <h1 id="legal-hero-title">{title}</h1>
+            <p className="lead">{lead}</p>
+            <div className="hero-actions">
+              <TemplateLink path={site.ctas.primary.href} className="btn btn-primary">Book a Consultation <ArrowRight width={18} height={18} aria-hidden="true" /></TemplateLink>
+              <TemplateLink path={site.ctas.tools.href} className="btn btn-secondary">Explore free tools <ArrowUpRight width={18} height={18} aria-hidden="true" /></TemplateLink>
+            </div>
+            {badges.length > 0 && (
+              <div className="hero-trust" aria-label="Policy details">
+                {badges.map((badge) => {
+                  const Icon = legalBadgeIcon(badge);
+                  return (
+                    <span className="trust-chip" key={badge}>
+                      <Icon width={16} height={16} aria-hidden="true" />
+                      {renderInline(badge)}
+                    </span>
+                  );
+                })}
+              </div>
+            )}
+          </div>
+          <div className="hero-visual reveal in">
+            <HeroProofCard ariaLabel="Track record and files we handle" />
           </div>
         </div>
       </section>

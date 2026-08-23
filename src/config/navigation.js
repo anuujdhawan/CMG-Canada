@@ -293,7 +293,6 @@ const rawNavigation = {
     ] },
     { title: "Contact", links: [
       { label: "Book consultation", href: site.ctas.primary.href },
-      { label: "Pay Online", href: site.ctas.payment.href },
       { label: site.email, href: site.emailHref },
       { label: site.phone, href: site.phoneHref },
     ] },
