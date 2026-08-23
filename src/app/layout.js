@@ -1,5 +1,6 @@
 import "react-chatbot-kit/build/main.css";
 import "@/styles/globals.css";
+import { Manrope } from "next/font/google";
 import { site } from "@/config/site";
 import { theme, themeCssVars, templateThemeCssVars } from "@/config/theme";
 import { buildMetadata } from "@/lib/seo";
@@ -11,6 +12,16 @@ import WhatsAppBubble from "@/components/layout/WhatsAppBubble";
 import CallBubble from "@/components/layout/CallBubble";
 import ConsultationModal from "@/components/layout/ConsultationModal";
 import GuidedChatbot from "@/components/chatbot/GuidedChatbot";
+
+// Self-hosted via next/font so the page never blocks on a Google Fonts
+// network round-trip (the cause of the blank hero on first Vercel visits —
+// the old <link> to fonts.googleapis.com was render-blocking).
+const manrope = Manrope({
+  subsets: ["latin"],
+  weight: "variable",
+  display: "swap",
+  fallback: ["system-ui", "sans-serif"],
+});
 
 export const metadata = {
   title: {
@@ -94,22 +105,12 @@ export default function RootLayout({ children }) {
     >
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        {/* Single site-wide font — applied once on <body> below and inherited
-            by every component. Change the family here + in globals.css only. */}
-        {/* eslint-disable-next-line @next/next/no-page-custom-font -- root layout wraps every route */}
-        <link
-          rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
-        />
       </head>
       {/* THE single site-wide font application point. Every component on the
-          site inherits this — never add per-component font-family rules. */}
-      <body
-        className="flex min-h-full flex-col"
-        style={{ fontFamily: "Manrope, system-ui, sans-serif" }}
-      >
+          site inherits this — never add per-component font-family rules.
+          Self-hosted via next/font (manrope.className) so there is no
+          render-blocking request to fonts.googleapis.com. */}
+      <body className={`${manrope.className} flex min-h-full flex-col`}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
