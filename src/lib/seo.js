@@ -43,7 +43,7 @@ export function buildMetadata({
       description: resolvedDescription,
       url: url || undefined,
       ...(imageUrl && {
-        images: [{ url: imageUrl, width: 1200, height: 630, alt: site.name }],
+        images: [{ url: imageUrl, width: 1280, height: 1280, alt: site.name }],
       }),
     },
     twitter: {

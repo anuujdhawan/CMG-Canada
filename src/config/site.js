@@ -185,7 +185,7 @@ export const site = {
       "CICC-regulated RCICs in Brampton & GTA, Canada-wide. Express Entry, PNP, LMIA, work & study permits, family sponsorship, and refusals. Free assessment."
     ),
     keywords: env("NEXT_PUBLIC_META_KEYWORDS", "Canadian immigration, Express Entry, immigration consultants, study permit, work permit, PNP, LMIA, licensed RCIC").split(",").map((k) => k.trim()),
-    ogImage: env("NEXT_PUBLIC_OG_IMAGE", "/images/og-default.png"),
+    ogImage: env("NEXT_PUBLIC_OG_IMAGE", "/images/favicon_LG.webp"),
     locale: "en_CA",
   },
 
